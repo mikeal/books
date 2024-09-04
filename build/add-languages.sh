@@ -46,6 +46,26 @@ is_excluded_markdown_syntax() {
     fi
 }
 
+# Check if a line is a Markdown header
+is_markdown_header() {
+    local line="$1"
+    if [[ "$line" =~ ^#+\  ]]; then
+        echo "1"
+    else
+        echo "0"
+    fi
+}
+
+# Check if a line is part of a Markdown table
+is_markdown_table() {
+    local line="$1"
+    if [[ "$line" =~ ^\| ]] || [[ "$line" =~ \| ]]; then
+        echo "1"
+    else
+        echo "0"
+    fi
+}
+
 # Set flag to determine if we are in a code block
 in_code_block=0
 
@@ -59,7 +79,7 @@ while IFS= read -r line || [ -n "$line" ]; do
             in_code_block=0
         fi
         echo "$line"
-    elif [ "$in_code_block" -eq 1 ] || [ "$(is_metadata_line "$line")" -eq 1 ]; then
+    elif [ "$in_code_block" -eq 1 ] || [ "$(is_metadata_line "$line")" -eq 1 ] || [ "$(is_markdown_header "$line")" -eq 1 ] || [ "$(is_markdown_table "$line")" -eq 1 ]; then
         echo "$line"
     else
         # Check if the line contains any non-whitespace characters

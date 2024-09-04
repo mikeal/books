@@ -1,10 +1,10 @@
 #!/usr/bin/env zsh
 
 # Set metadata variables
-AUTHORS="Mikeal Rogers, Xuanzang, Buddha Shakyamuni"
-TITLE="Xuanzang's Dependent Origination"
-TAGS="Buddhism, Mind, Mind-Only, Dharma, Meditation, Dependent Origination, Agama, Sutra"
-COVER_IMAGE="dependent-origination/cover.jpg"
+AUTHORS="Mikeal Rogers, Many Others"
+TITLE="Practicing"
+TAGS="Buddhism, Mind, Mind-Only, Dharma, Agama, Sutra"
+COVER_IMAGE="practicing/cover.jpg"
 PUBDATE=$(date +%Y-%m-%d)
 PUBLISHER="Free Dharma"
 LANGUAGE="en,zh"
@@ -22,8 +22,25 @@ concat_files() {
     echo "language: \"$LANGUAGE\""
     echo "schema:accessibilitySummary: \"$ACCESSIBILITY_SUMMARY\""
     echo "---"
-    echo ""
-    cat ../sutras/T0124.md
+
+
+    # Iterating through ../sutras and ../original directories recursively for markdown files
+    for dir in "../sutras" "../original"; do
+        echo "# Contents from $(basename $dir)/"
+        echo ""
+        echo ""
+        find "$dir" -type f -name "*.md" | while read -r file; do
+            # Print the filename as a heading
+            echo "## $(basename "$file")"
+            echo ""
+            echo ""
+            # Print the contents of the markdown file
+            cat "$file"
+            echo ""
+            echo "" # Adding a line break after each file's content
+        done
+    done
+
     echo ""
     echo "# Build Information"
     echo "\nThis ebook and its build process are open source and [available on GitHub](https://github.com/mikeal/books)."
