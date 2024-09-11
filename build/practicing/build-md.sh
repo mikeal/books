@@ -25,13 +25,16 @@ concat_files() {
 
 
     # Iterating through ../sutras and ../original directories recursively for markdown files
-    for dir in "../sutras" "../original"; do
+    for dir in "../free-dharma" "../LUSB"; do
         echo "# Contents from $(basename $dir)/"
         echo ""
         echo ""
-        find "$dir" -type f -name "*.md" | while read -r file; do
-            # Print the filename as a heading
-            echo "## $(basename "$file")"
+        # Find and sort the files
+        find "$dir" -type f -name "*.md" | sort | while read -r file; do
+            # Get the relative directory path and file name
+            relative_path="${file#$dir/}"
+            # Print the relative path as a heading
+            echo "## $relative_path"
             echo ""
             echo ""
             # Print the contents of the markdown file
@@ -40,6 +43,7 @@ concat_files() {
             echo "" # Adding a line break after each file's content
         done
     done
+
 
     echo ""
     echo "# Build Information"

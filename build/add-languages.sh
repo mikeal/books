@@ -1,26 +1,56 @@
 #!/bin/bash
 
-# Function to determine if a line contains Chinese characters
-contains_chinese_chars() {
+# Default to using Perl for detection
+use_gawk=0
+
+# Parse command-line arguments
+while [[ "$#" -gt 0 ]]; do
+    case $1 in
+        --use-gawk) use_gawk=1 ;;
+        *) echo "Unknown parameter passed: $1"; exit 1 ;;
+    esac
+    shift
+done
+
+# Function to determine if a line contains Chinese characters using Perl
+contains_chinese_chars_perl() {
     local line="$1"
-    # Use Perl to detect Chinese characters
     perl -Mutf8 -CSD -ne 'exit(1) unless /\p{Han}/' <<< "$line"
     echo $?
 }
 
-# Function to determine if a line contains Devanagari characters
-contains_devanagari_chars() {
+# Function to determine if a line contains Devanagari characters using Perl
+contains_devanagari_chars_perl() {
     local line="$1"
-    # Use Perl to detect Devanagari characters
     perl -Mutf8 -CSD -ne 'exit(1) unless /\p{Devanagari}/' <<< "$line"
     echo $?
 }
 
-# Function to determine if a line is predominantly English
-contains_english_chars() {
+# Function to determine if a line is predominantly English using Perl
+contains_english_chars_perl() {
     local line="$1"
-    # Use Perl to detect Latin characters
     perl -Mutf8 -CSD -ne 'exit(1) unless /\p{Latin}/' <<< "$line"
+    echo $?
+}
+
+# Function to determine if a line contains Chinese characters using gawk
+contains_chinese_chars_gawk() {
+    local line="$1"
+    echo "$line" | gawk --re-interval 'BEGIN { found=1 } { if ($0 ~ /[\u4E00-\u9FFF]/) found=0 } END { exit found }'
+    echo $?
+}
+
+# Function to determine if a line contains Devanagari characters using gawk
+contains_devanagari_chars_gawk() {
+    local line="$1"
+    echo "$line" | gawk --re-interval 'BEGIN { found=1 } { if ($0 ~ /[\u0900-\u097F]/) found=0 } END { exit found }'
+    echo $?
+}
+
+# Function to determine if a line is predominantly English using gawk
+contains_english_chars_gawk() {
+    local line="$1"
+    echo "$line" | gawk --re-interval 'BEGIN { found=1 } { if ($0 ~ /[a-zA-Z]/) found=0 } END { exit found }'
     echo $?
 }
 
@@ -86,15 +116,28 @@ while IFS= read -r line || [ -n "$line" ]; do
         if [[ "$line" =~ [^[:space:]] ]]; then
             # Remove trailing whitespace
             line_trimmed=$(echo "$line" | sed 's/[[:space:]]*$//')
-            if [ "$(contains_chinese_chars "$line_trimmed")" -eq 0 ]; then
-                echo "[$line_trimmed]{lang=zh-Hant}"
-            elif [ "$(contains_devanagari_chars "$line_trimmed")" -eq 0 ]; then
-                echo "[$line_trimmed]{lang=hi}"
-            elif [ "$(contains_english_chars "$line_trimmed")" -eq 0 ]; then
-                echo "[$line_trimmed]{lang=en}"
+            if [ "$use_gawk" -eq 1 ]; then
+                if [ "$(contains_chinese_chars_gawk "$line_trimmed")" -eq 0 ]; then
+                    echo "[$line_trimmed]{lang=zh-Hant}"
+                elif [ "$(contains_devanagari_chars_gawk "$line_trimmed")" -eq 0 ]; then
+                    echo "[$line_trimmed]{lang=hi}"
+                elif [ "$(contains_english_chars_gawk "$line_trimmed")" -eq 0 ]; then
+                    echo "[$line_trimmed]{lang=en}"
+                else
+                    # Default case; do nothing if no confident prediction
+                    echo "$line_trimmed"
+                fi
             else
-                # Default case; do nothing if no confident prediction
-                echo "$line_trimmed"
+                if [ "$(contains_chinese_chars_perl "$line_trimmed")" -eq 0 ]; then
+                    echo "[$line_trimmed]{lang=zh-Hant}"
+                elif [ "$(contains_devanagari_chars_perl "$line_trimmed")" -eq 0 ]; then
+                    echo "[$line_trimmed]{lang=hi}"
+                elif [ "$(contains_english_chars_perl "$line_trimmed")" -eq 0 ]; then
+                    echo "[$line_trimmed]{lang=en}"
+                else
+                    # Default case; do nothing if no confident prediction
+                    echo "$line_trimmed"
+                fi
             fi
         else
             # Preserve empty lines and lines with only whitespace

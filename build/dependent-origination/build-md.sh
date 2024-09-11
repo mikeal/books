@@ -23,7 +23,7 @@ concat_files() {
     echo "schema:accessibilitySummary: \"$ACCESSIBILITY_SUMMARY\""
     echo "---"
     echo ""
-    cat ../sutras/T0124.md
+    cat ../free-dharma/sutras/T0124.md
     echo ""
     echo "# Build Information"
     echo "\nThis ebook and its build process are open source and [available on GitHub](https://github.com/mikeal/books)."
