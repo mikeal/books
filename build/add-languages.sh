@@ -1,16 +1,24 @@
 #!/bin/bash
 
-# Default to using Perl for detection
+# Initialize detection method flags
 use_gawk=0
+use_perl=0
 
 # Parse command-line arguments
 while [[ "$#" -gt 0 ]]; do
     case $1 in
         --use-gawk) use_gawk=1 ;;
+        --use-perl) use_perl=1 ;;
         *) echo "Unknown parameter passed: $1"; exit 1 ;;
     esac
     shift
 done
+
+# Ensure that exactly one detection method is specified
+if [[ "$use_gawk" -eq 1 && "$use_perl" -eq 1 ]] || [[ "$use_gawk" -eq 0 && "$use_perl" -eq 0 ]]; then
+    echo "Error: You must specify exactly one detection method: --use-gawk or --use-perl"
+    exit 1
+fi
 
 # Function to determine if a line contains Chinese characters using Perl
 contains_chinese_chars_perl() {
@@ -118,22 +126,22 @@ while IFS= read -r line || [ -n "$line" ]; do
             line_trimmed=$(echo "$line" | sed 's/[[:space:]]*$//')
             if [ "$use_gawk" -eq 1 ]; then
                 if [ "$(contains_chinese_chars_gawk "$line_trimmed")" -eq 0 ]; then
-                    echo "[$line_trimmed]{lang=zh-Hant}"
+                    echo "[$line_trimmed]{lang=zh-TW}"
                 elif [ "$(contains_devanagari_chars_gawk "$line_trimmed")" -eq 0 ]; then
-                    echo "[$line_trimmed]{lang=hi}"
+                    echo "[$line_trimmed]{lang=hi-IN}"
                 elif [ "$(contains_english_chars_gawk "$line_trimmed")" -eq 0 ]; then
-                    echo "[$line_trimmed]{lang=en}"
+                    echo "[$line_trimmed]{lang=en-US}"
                 else
                     # Default case; do nothing if no confident prediction
                     echo "$line_trimmed"
                 fi
             else
                 if [ "$(contains_chinese_chars_perl "$line_trimmed")" -eq 0 ]; then
-                    echo "[$line_trimmed]{lang=zh-Hant}"
+                    echo "[$line_trimmed]{lang=zh-TW}"
                 elif [ "$(contains_devanagari_chars_perl "$line_trimmed")" -eq 0 ]; then
-                    echo "[$line_trimmed]{lang=hi}"
+                    echo "[$line_trimmed]{lang=hi-IN}"
                 elif [ "$(contains_english_chars_perl "$line_trimmed")" -eq 0 ]; then
-                    echo "[$line_trimmed]{lang=en}"
+                    echo "[$line_trimmed]{lang=en-US}"
                 else
                     # Default case; do nothing if no confident prediction
                     echo "$line_trimmed"

@@ -171,16 +171,20 @@ body {
 }
 
 /* Specific language range for Traditional Chinese */
-body:lang(zh-Hant) {
+body:lang(zh-TW) {
     font-family: 'Noto Sans TC', 'Noto Sans','Noto Sans Devanagari', sans-serif;
 }
 
 /* Specific language range for English */
-body:lang(en) {
+body:lang(en-US) {
     font-family: 'Noto Sans', 'Noto Sans TC','Noto Sans Devanagari', sans-serif;
 }
 
 /* Specific language range for Hindi and other languages using Devanagari script */
-body:lang(hi) {
+body:lang(hi-IN) {
     font-family: 'Noto Sans Devanagari', 'Noto Sans', 'Noto Sans TC', sans-serif;
+}
+
+p span[lang="zh-TW"] + p span[lang="en-US"] {
+    page-break-inside: avoid;
 }

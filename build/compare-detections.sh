@@ -14,7 +14,7 @@ trap cleanup EXIT
 input=$(cat)
 
 # Pipe the input to ./add-languages.sh with default settings
-echo "$input" | ./add-languages.sh > "$output_default"
+echo "$input" | ./add-languages.sh  --use-perl> "$output_default"
 
 # Pipe the input to ./add-languages.sh with --use-awk flag
 echo "$input" | ./add-languages.sh --use-gawk > "$output_awk"

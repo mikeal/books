@@ -7,7 +7,7 @@ TAGS="Buddhism, Mind, Mind-Only, Dharma, Meditation, Dependent Origination, Agam
 COVER_IMAGE="dependent-origination/cover.jpg"
 PUBDATE=$(date +%Y-%m-%d)
 PUBLISHER="Free Dharma"
-LANGUAGE="en,zh"
+LANGUAGE="en"
 ACCESSIBILITY_SUMMARY="This document is designed with accessibility features, structured headings, clear language, and compatibility with screen readers and other assistive technologies. Proper language tags are used to ensure appropriate language identification and Noto Sans fonts are included for all languages."
 
 # Function to concatenate all files
