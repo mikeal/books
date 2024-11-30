@@ -1,0 +1,2751 @@
+inly, please provide the lines you would like translated
+
+
+大正新脩大藏經 第 22 冊 No. 1425 摩訶僧祇律
+Taisho Tripitaka, Volume 22, No. 1425 Mahasanghika Vinaya
+
+
+
+
+# 版本记录：发布日期：2024-08，最后更新：2024-07-12
+
+# Version History: Release Date: 2024-08, Last Updated: 2024-07-12
+
+
+
+
+【编辑说明】本数据库由 财团法人佛教电子佛典基金会（CBETA）依「大正新修大藏经」所编辑
+
+[Editorial Note] This database is edited by the Chinese Buddhist Electronic Text Association (CBETA) based on the "Taisho Tripitaka".
+
+
+
+
+蕭鎮國大德提供
+
+Provided by Venerable Xiao Zhengu
+
+伽耶山基金會提供
+
+Provided by the Gaya Mountain Foundation
+
+北美某大德提供
+
+Provided by a certain Venerable in North America
+
+釋本禪法師提供新式標點
+
+New style punctuation provided by Master Shiben Zen
+
+
+
+
+其他事項
+Other Matters
+
+本資料庫可自由免費流通
+This database is freely available for distribution.
+
+詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
+For details, please refer to the "Buddhist Electronic Text Foundation Database Copyright Declaration."
+
+
+
+就像日出划破夜空
+
+Just like the sunrise breaking through the night sky
+
+你的笑容照亮了我的世界
+
+Your smile lights up my world
+
+无论何时身处何地
+
+No matter when or where
+
+都愿意与你并肩而行
+
+I am willing to walk alongside you
+
+你的梦想让我心动
+
+Your dreams make my heart beat faster
+
+因为你，我看到了希望
+
+Because of you, I see hope
+
+
+
+
+第1425号［参见第1426号，第1427号］
+No. 1425 [cf. Nos. 1426, 1427]
+
+
+
+
+摩訶僧祇律卷第一
+
+The Great Mahasanghika Vinaya, Volume One
+
+初比丘僧戒法學
+
+Initial Bhikkhu Sangha Precept Study
+
+
+
+
+東晉天竺三藏佛陀跋陀羅共法顯譯
+Translated by Buddhist Bhikkhu Buddhabhadra and Faxian from Tianzhu during the Eastern Jin dynasty
+
+
+
+
+第一若比丘，與女人交會者，波羅夷。
+
+First, if a monk engages in sexual intercourse with a woman, it is a Parajika offense.
+
+第二若比丘，自行出精，波羅夷。
+
+Second, if a monk intentionally emits semen, it is a Parajika offense.
+
+第三若比丘，盜竊他物，波羅夷。
+
+Third, if a monk steals the belongings of others, it is a Parajika offense.
+
+第四若比丘，奪人生命，波羅夷。
+
+Fourth, if a monk takes the life of another being, it is a Parajika offense.
+
+
+
+若篤信善男子欲得五事利益者，當盡受持此律。
+If a devout man desires to obtain the five benefits, he should fully uphold these precepts.
+
+何等五？
+What are these five?
+
+若善男子欲建立佛法者，當盡受持此律。
+If a good man wishes to establish the Buddha's teachings, he should fully uphold these precepts.
+
+欲令正法久住者，當盡受持此律。
+If one wishes the true teachings to endure, he should fully uphold these precepts.
+
+不欲有疑悔請問他人者，當盡受持此律。
+If one does not wish to have doubts and regrets and inquire of others, he should fully uphold these precepts.
+
+諸有比丘、比丘尼犯罪恐怖，為作依怙者，當盡受持此律。
+If there are monks or nuns who commit offenses and seek refuge, provide support by fully upholding these precepts.
+
+欲遊化諸方而無礙者，當盡受持此律。
+If one wishes to travel and teach without obstacles, he should fully uphold these precepts.
+
+是名篤信善男子受持此律，得五事利益。
+This is called a devout man upholding these precepts and obtaining the five benefits.
+
+
+
+
+若能盡受持，　　
+If you can fully uphold,
+
+調御威儀戒；
+and regulate the precepts of conduct;
+
+
+
+五事功德利，  
+The five aspects of meritorious benefit,  
+
+世尊之所說。  
+as spoken by the World-Honored One.  
+
+
+
+
+受持此律者， 
+Those who uphold this law,
+
+如其義善聽； 
+listen well to its meaning.
+
+
+
+
+若能盡受持，
+If one can fully uphold,
+
+調御戒律儀，
+and diligently observe the disciplines,
+
+
+
+
+建立世尊教，
+Establish the teachings of the World-Honored One,
+
+是名真佛子。
+this is called being a true disciple of the Buddha.
+
+
+
+
+佛法得久住，  
+The Buddha's teachings shall endure,
+
+能行正法施，  
+Those who can practice and give in righteousness,
+
+
+
+
+亦無疑悔起，  
+There is no doubt or regret,
+
+請問於他人。  
+Please ask others.
+
+
+
+
+比丘比丘尼，
+Bhikkhus and Bhikkhunis,
+
+犯罪得依怙；
+if they commit crimes, they find protection;
+
+
+
+
+於各地遊歷，　　所到之處無拘無束。
+
+Traveling through various places, he is unrestrained wherever he goes.
+
+
+
+
+婆伽婆、三藐三佛陀從本發意所修習者，今已成就，欲度人故住舍衛城，
+
+The Blessed One, the Samyak-Sambuddha, perfected what was practiced from his initial aspiration and now accomplished, dwells in the city of Sravasti with the intention to save people,
+
+諸天世人恭敬供養、尊重讚歎，名聞十方供養中最。
+
+revered and adored by heavenly beings and human beings alike, honored with praise, known as the foremost among offerings throughout the ten directions.
+
+為求福眾生得建立於福，
+
+For those sentient beings seeking blessings, establish them in blessings,
+
+求果眾生得建立於果，
+
+for those seeking fruits, establish them in fruits,
+
+苦惱眾生而得安隱，
+
+for afflicted sentient beings to gain peace,
+
+為諸天人開甘露門，
+
+to open the door of ambrosia for heavenly beings and humans,
+
+於十六大國莫不宗伏、知見自覺。
+
+there is no nation among the sixteen great countries not subjugated, self-aware through insight.
+
+佛所住者，住於天住、住於梵住、住賢聖住、住最勝住、住一切智心，
+
+Where the Buddha abides is in divine abode, in Brahma's abode, in the abode of the sages and noble ones, in the supreme abode, with a heart of omniscience,
+
+得自在隨意所住，是故如來住舍衛國。
+
+gaining freedom to dwell anywhere at will, thus the Tathagata abides in the country of Sravasti.
+
+
+
+爾時尊者舍利弗，獨一靜處結加趺坐正受三昧。
+At that time, the venerable Śāriputra was sitting alone in a quiet place, absorbed in meditation.
+
+三昧覺已作是思惟：「有何因緣，諸佛世尊滅度之後法不久住？
+Upon emerging from meditation, he contemplated: "What are the reasons that after the passing of the Blessed Buddhas, the Dharma does not last long?
+
+有何因緣，諸佛世尊滅度之後法教久住？」
+What are the reasons that after the passing of the Blessed Buddhas, the Dharma teachings endure for a long time?"
+
+於是尊者舍利弗，晡時從三昧起詣世尊所，頭面禮足却坐一面。
+Then the venerable Śāriputra, arising from meditation in the evening, approached the Blessed One, bowed down with his head at the feet, and sat to one side.
+
+坐一面已白佛言：「世尊！
+Once seated to one side, he said to the Buddha: "Blessed One!
+
+我於靜處正受三昧，三昧覺已作是思惟：
+While I was in a secluded meditation, upon emerging, I reflected:
+
+『有何因緣，諸佛世尊滅度之後法不久住？
+'What are the reasons that after the passing of the Blessed Buddhas, the Dharma does not last long?
+
+有何因緣，諸佛世尊滅度之後法教久住？』」
+What are the reasons that after the passing of the Blessed Buddhas, the Dharma teachings endure for a long time?'"
+
+
+
+爾時佛告舍利弗：「有如來不為弟子廣說修多羅、祇夜、授記、伽陀、優陀那，如是語、本生、方廣、未曾有經。
+
+Then the Buddha told Śāriputra: "There are Tathāgatas who do not extensively explain the Sūtras, Geyas, Vyākaraṇas, Gāthās, Udānas, Nidānas, Avadānas, Upadeśas, and Adbhuta-dharmas to their disciples.
+
+舍利弗！諸佛如來不為聲聞制戒，不立說波羅提木叉法，是故如來滅度之後法不久住。
+
+Śāriputra! The Tathāgatas do not establish precepts for the śrāvakas, nor do they lay down the Pātimokkha law, which is why the Dharma does not last long after the Nirvāṇa of the Tathāgata.
+
+舍利弗！譬如鬘師、鬘師弟子，以種種色花著於案上，不以線連，若四方風吹則隨風散。
+
+Śāriputra! It is like a garland maker or his apprentice placing various colored flowers on a table without threading them together. When the wind blows from the four directions, they scatter with the wind.
+
+何以故？無線連故。
+
+Why is this? Because they are not threaded together.
+
+如是舍利弗！如來不廣為弟子說九部法，不為聲聞制戒，不立說波羅提木叉法，是故如來滅後法不久住。
+
+In this way, Śāriputra! If the Tathāgata does not extensively teach the nine-part Dharma to his disciples, and does not establish precepts for the śrāvakas nor the Pātimokkha law, then the Dharma will not last long after the Tathāgata's Nirvāṇa.
+
+舍利弗！以如來廣為弟子說九部法，為聲聞制戒，立說波羅提木叉法，是故如來滅度之後教法久住。
+
+Śāriputra! When the Tathāgata extensively teaches the nine-part Dharma to his disciples, establishes precepts for the śrāvakas, and lays down the Pātimokkha law, the teachings will last long after the Tathāgata's Nirvāṇa.
+
+舍利弗！譬如鬘師、鬘師弟子，以種種色花以線連之，若四方風吹不隨風散。
+
+Śāriputra! It is like a garland maker or his apprentice threading various colored flowers together. Even when the wind blows from the four directions, they do not scatter with the wind.
+
+所以者何？以線連故。
+
+Why is this? Because they are threaded together.
+
+如是舍利弗！如來廣說九部經，為聲聞制戒，立說波羅提木叉法，是以如來滅後法得久住。
+
+In this way, Śāriputra! When the Tathāgata extensively explains the nine-part Dharma, establishes precepts for the śrāvakas, and lays down the Pātimokkha law, the Dharma endures long after the Tathāgata's Nirvāṇa.
+
+舍利弗！以是因緣故，教法有久住、有不久住者。」
+
+Śāriputra! It is for this reason that some teachings endure for a long time, while others do not."
+
+
+
+
+爾時尊者舍利弗白佛言：
+At that time, Venerable Śāriputra addressed the Buddha saying:
+
+「唯願世尊！
+"I only wish the World-Honored One!
+
+廣說九部經，
+to extensively explain the Nine Divisions of the Teachings,
+
+善為聲聞制戒，
+to skillfully establish precepts for the Śrāvakas,
+
+立說波羅提木叉法，
+to set forth the rules of the Prātimokṣa,
+
+令教法久住，
+so that the teachings may endure for a long time,
+
+為諸天世人開甘露門。」
+and open the gates of nectar for gods and men alike."
+
+
+
+
+爾時佛告舍利弗：「如來不以無過患因緣而為弟子制戒、立說波羅提木叉法。
+At that time, the Buddha said to Śāriputra, "The Tathāgata does not establish precepts or proclaim the Prātimokṣa laws for disciples without cause or fault.
+
+舍利弗！譬如轉輪聖王不以無過而為婆羅門居士而制刑罰。
+Śāriputra, just as the Wheel-Turning Sacred King does not punish Brahmins and householders without fault.
+
+如是舍利弗！如來亦復如是，不以無過患因緣而為弟子制戒、立說波羅提木叉法。
+So, Śāriputra, the Tathāgata also, does not establish precepts or proclaim the Prātimokṣa laws for disciples without cause or fault.
+
+然舍利弗！當來有正信善男子，於佛法中信家非家捨家出家，
+However, Śāriputra, in the future there will be faithful and virtuous men who, having faith in the Dharma, leave their homes.
+
+或有心亂顛倒起於淨想，三毒熾盛而犯諸罪。
+Some may have disturbed and confused minds, develop pure thoughts, yet the three poisons flare up causing various transgressions.
+
+舍利弗！是時如來當為弟子制戒、立說波羅提木叉法。
+Śāriputra, at that time the Tathāgata will establish precepts and proclaim the Prātimokṣa laws for disciples.
+
+止！舍利弗！如來自當知時。」
+Stop, Śāriputra! The Tathāgata will know the right time himself."
+
+
+
+舍利弗言：「唯然世尊！如來自當知時。」
+Shariputra said, "Indeed, World-Honored One! The Tathagata himself should know the time."
+
+
+
+
+是时舍利弗，　　偏袒而合掌，
+
+At that time, Śāriputra, with one shoulder bared and his palms together,
+
+
+
+
+隨順轉法輪，
+In accordance with the turning of the Dharma wheel,
+
+請求最勝說。
+Requesting the supreme teachings.
+
+
+
+
+勸請於世尊：　　「今正是其時，
+
+Exhorting the World-Honored One: "Now is the time,
+
+
+
+
+愿为弟子众，广制戒律仪。
+Willing to be among the disciples, widely establishing discipline and rituals.
+
+
+
+
+能令佛正法，
+Able to make the true teachings of the Buddha
+
+長夜得久住；
+endure throughout the long night;
+
+
+
+
+顯示甘露門，
+Display the Gate of Sweet Dew,
+
+開化天人眾。
+Instruct and transform the masses of heavens and humanity.
+
+
+
+
+彼住最後身，  
+He dwells in his final body,  
+
+作此勸請已；  
+Having made this encouragement;  
+
+
+
+
+爾時最勝告， 
+At that time the Most Exalted said,
+
+尊者舍利弗：
+to the venerable Śāriputra: 
+
+
+
+
+弟子未有罪，
+The disciple is not guilty,
+
+眾僧悉清淨；
+All the monks are pure；
+
+
+
+諸佛未曾有，  
+All Buddhas have never had,  
+
+無過而制戒。  
+no transgression yet established the precepts.  
+
+
+
+
+譬如世界主，  
+For example, the ruler of the world,  
+
+王領其國土；  
+The king governs his territory;  
+
+
+
+
+無有無過人，
+There is no one without faults,
+
+而加其刑罰。
+Who can be subjected to punishment.
+
+
+
+
+彼喻此亦然，  
+And so it is with this analogy,
+
+世尊天人師；  
+The World-honored One is the teacher of gods and humans;
+
+
+
+
+未有無過患，  
+There are none without faults,  
+
+而制弟子戒。  
+So the precepts for disciples are established.  
+
+
+
+
+過患既已起，  
+When troubles have arisen,
+
+時有犯惡者；  
+There will be evildoers at times.  
+
+
+
+
+是时天人师，  
+At this moment, the teacher of gods and humans,
+
+为众制律仪。  
+established the disciplinary rules for the community.
+
+
+
+
+過去、未來世，
+The past and future worlds,
+
+佛眼靡不見；
+Are all seen by the Buddha's eye;
+
+
+
+
+随其事轻重，
+
+According to the importance of the matter,
+
+随其轻重制。
+
+Decide based on the severity.
+
+
+
+說此正法時，  
+When this true teaching is spoken,
+
+在於祇洹林；  
+In the Jetavana Grove;
+
+
+
+
+舍利弗勸請，  
+Śāriputra entreated,
+
+世尊答如是。  
+the Blessed One answered thus.
+
+
+
+
+爾時諸比丘白佛言：「世尊！
+
+At that time the monks spoke to the Buddha, "World-Honored One!
+
+云何尊者舍利弗，諸比丘未有過患，而請世尊制戒、立說波羅提木叉法？」
+
+How is it that the venerable Śāriputra, when the monks have not yet erred, asks the World-Honored One to establish the precepts and proclaim the Pātimokkha?
+
+佛告諸比丘：「舍利弗不但今日未有過患而請制戒，
+
+The Buddha told the monks, "Śāriputra not only today, without there being any transgression, requests the establishment of precepts,
+
+彼於昔時在一城邑聚落，人民居士未有過患，亦曾請我制諸刑罰。」
+
+In the past, when he was in a town or village, the people, without any transgression, also requested me to establish various punishments."
+
+諸比丘白佛言：「世尊！乃往昔時已有此耶？」
+
+The monks said to the Buddha, "World-Honored One! Was this the case in the past?"
+
+佛言：「如是。」
+
+The Buddha replied, "So it was."
+
+諸比丘白佛言：「世尊！願樂欲聞。」
+
+The monks said to the Buddha, "World-Honored One! We wish to hear it with pleasure."
+
+
+
+
+佛告諸比丘：「過去世時有城名波羅奈，國名迦尸。
+The Buddha told the monks, "In a past life, there was a city named Banaras and a country named Kasi.
+
+彼時國王號曰大名稱，以法治化，無有怨敵，布施持戒，汎愛人物、善攝眷屬。
+At that time, the king was called Great Fame, who ruled by law, had no enemies, was charitable and observed precepts, loved all beings, and was good at managing his family.
+
+法王御世，人民殷盛，富樂豐實，聚落村邑雞飛相接，舉國人民更相敬愛，種種眾伎共相娛樂。
+Under the rule of the dharma king, the people were prosperous, wealthy, and joyful, with villages and towns close to each other, people loved and respected each other, and entertained themselves with various arts.
+
+時有大臣名曰陶利，多諸策謀，作是思惟：『今此王境自然富樂人民熾盛，城邑聚落雞飛相接，舉國人民更相敬愛，種種眾伎共相娛樂。』
+At that time, there was a minister named Taoli, who had many strategies, and thought, 'Now, this kingdom is naturally prosperous and the people are flourishing, with villages and towns close to each other, and people love and respect each other, entertaining themselves with various arts.'
+
+時彼大臣往白王言：『今日境界自然富樂人民熾盛，城邑聚落雞飛相接，舉國人民更相敬愛，種種伎樂共相娛樂。
+The minister then went to the king and said, 'Today's realm is naturally prosperous, and the people are flourishing, with villages and towns close to each other, and people love and respect each other, entertaining themselves with various arts.
+
+願王當為斯等制立刑罰，莫令極樂生諸過患。』
+I wish the king would establish penalties for these, so as not to let extreme joy give rise to problems."
+
+王言：『止！止！此言不可。所以者何？過患未起而欲制罰。』
+The king said, "Stop! Stop! This proposal is not acceptable. Why? Because you want to penalize before any problems have arisen.
+
+臣復白王：『當防未來，莫令極樂生諸過患。』
+The minister replied to the king, 'We should prevent future issues and not let extreme joy cause problems.'
+
+時王作是思惟：『今此大臣聰明智謀，多諸朋黨不可卒制，今若呵責或生咎釁。』
+The king then thought, 'This minister is clever and scheming, with many allies who cannot be restrained at once. If I scold him now, it might cause a grievance or conflict.'
+
+爾時國王欲微誨大臣，即說偈言：
+At that time, the king wanted to subtly teach the minister a lesson, and then he recited a verse:
+
+
+
+權力使人容易憤怒，  
+Power makes people easily angry,  
+
+難以立刻加以約束；  
+It's difficult to restrain it immediately;  
+
+
+
+
+橫生人過患，
+When unexpected troubles arise,
+
+此事甚不可。
+This matter is really not acceptable.
+
+
+
+
+大人多慈愍，　　
+Great people often show compassion,
+
+知人實有過；
+and understand that people do indeed have faults.
+
+
+
+猶尚復觀察，
+Yet still continues to observe,
+
+哀愍加其罰。
+Imposes punishment with compassion.
+
+
+
+
+恶人喜恼他，不审其过罪；
+
+Evil people are happy to trouble him, and do not examine their sins;
+
+
+
+而加其刑罰，
+And impose punishment on them,
+
+自損惡名增。
+Only increases their notoriety.
+
+
+
+
+若王好威怒，  
+If the king delights in anger,  
+
+枉害加良善；  
+Innocent people will be wrongfully harmed;  
+
+
+
+
+惡名流四遠，
+His evil reputation spreads far and wide,
+
+死則墮惡道。
+In death, he will fall into the evil path.
+
+
+
+
+正法化黎庶，
+The righteous law transforms the common people,
+
+身口意清淨；
+Body, speech, and mind are pure;
+
+
+
+
+忍辱行四等，  
+Tolerance ranks among the four virtues,  
+
+是謂人中王。  
+This is called the king among men.  
+
+
+
+
+王為人中上，
+The king is a person of moderate ability,
+
+宜制忿怒心：
+It is appropriate to control the heart of anger:
+
+
+
+
+仁愛恕有罪，  
+Benevolence and forgiveness are seen as a crime,
+
+哀愍加刑罰。  
+Compassion is met with punishment.
+
+
+
+
+爾時大臣聞王所說，心大歡喜而說偈言：
+
+At that time, when the minister heard what the king said, he was filled with great joy and spoke the following verse:
+
+
+
+
+「最勝人中王，
+
+The greatest among men,
+
+願永蔭黎庶；
+
+May they forever protect the common people;
+
+
+
+
+忍辱自調伏，
+Endure insult, adjust and suppress oneself,
+
+道化怨自降。
+The way transforms grievances, and they naturally subside.
+
+
+
+
+王德被無外，
+The king's virtue is boundless,
+
+祚隆永無窮；
+His prosperity extends eternally without limit.
+
+
+
+
+以道治天下，
+
+Rule the world by Dao,
+
+常為天人王。
+
+and you shall often be the king of heaven and man.
+
+
+
+
+佛告諸比丘：「爾時國王大名稱者，豈異人乎？
+The Buddha said to the monks, "The great king of that time, was he anyone else?
+
+則我身是。
+It was I.
+
+時大臣陶利者，舍利弗是。
+The minister at that time, Toli, was Śāriputra.
+
+爾時城邑聚落長者居士未有過患，而彼請我令制刑罰。
+At that time, the villages and towns' elders and laypeople had not yet committed offenses, yet they requested me to establish punishment.
+
+今諸比丘過患未起，而復請我為諸弟子制戒、立說波羅提木叉法。
+Now, while the monks have not yet committed offenses, they request me to establish precepts and proclaim the code of conduct for the disciples.
+
+
+
+爾時世尊從舍衛城隨所樂住已，於憍薩羅國人間遊行，與大比丘眾五百人前後圍遶，詣憍薩羅國耕田婆羅門聚落。 
+At that time, the World-Honored One left the city of Sravasti and moved as he pleased, traveling through the Kausala region among the people, surrounded by a great assembly of five hundred monks, arriving at the Brahmin settlement in the Kausala region.
+
+到已於耕田林中住。 
+He settled in the plowing field grove.
+
+於是世尊晡時從三昧起，周遍觀察上下諸方又復視前平地，而發微笑往來經行。 
+At that time, the World-Honored One arose from meditation at dusk, thoroughly observing all directions and the flat ground ahead, and smiled as he walked back and forth.
+
+時舍利弗見世尊從三昧起周遍觀察上下諸方又復視前平地，而發微笑往來經行，見已往詣眾多比丘所，語比丘言：「諸長老！ 
+When Sariputra saw the World-Honored One arise from meditation, observing all around and smiling while walking, he went to the many monks and said, "Elders!
+
+我向見世尊從三昧起，觀察諸方乃至往來經行。 
+I have just seen the World-Honored One arise from meditation, observing everywhere and walking back and forth.
+
+諸長老！如來、應供、正遍知，不以無因緣而起微笑。 
+Elders, the Tathagata, the Worthy One, the Perfectly Enlightened One, does not smile without a reason.
+
+若往請問，必當聞說過去宿命久遠之事。我等今日當詣世尊問如此義，如佛所說我當奉行。」 
+If we ask him, we will surely hear about past distant events. Today, we should go to the World-Honored One to ask about this matter, and follow what the Buddha says."
+
+諸比丘聞舍利弗說已，即與舍利弗，共詣世尊所頭面禮足，禮足已隨佛經行。 
+The monks, having heard Sariputra, went with him to the World-Honored One, bowed at his feet, and after paying respects, followed the Buddha as he walked.
+
+
+
+時尊者舍利弗白佛言：「向見世尊從三昧起，觀察諸方乃至往來經行，
+
+At that time, Venerable Śāriputra addressed the Buddha, "Earlier, I saw the World-Honored One emerging from samādhi, observing the directions and walking about.
+
+我即往詣眾多比丘所，語比丘言：『諸長老！我向見世尊從三昧起，觀察諸方乃至往來經行。
+
+I then went to where many monks were and said to them, 'Venerable sirs! I saw the World-Honored One earlier, emerging from samādhi, observing the directions and walking about.
+
+諸長老！如來、應供、正遍知，不以無因緣而笑。
+
+Venerable sirs! The Tathāgata, the Worthy One, the Perfectly Awakened One, does not smile without reason.
+
+若往請問，必當聞說過去宿命久遠之事。
+
+If we go and ask, we will surely hear about past events and distant stories.
+
+我等今日當詣世尊問如此義，如佛所說我當奉行。』
+
+Today, we should go to the World-Honored One to ask about this matter, and we will practice according to what the Buddha explains.'
+
+不審世尊！有何因緣而發微笑？」
+
+World-Honored One, what causes and conditions led you to smile?"
+
+
+
+
+爾時世尊，出金色臂指地告舍利弗：「汝見此地不？」
+
+At that time the World-Honored One extended his golden arm, pointed at the ground, and said to Shariputra, "Do you see this place?"
+
+舍利弗言：「唯然已見。」
+
+Shariputra replied, "Yes, I have seen it."
+
+佛言：「此地是迦葉佛故園林處，此一處是迦葉佛精舍處，此一處是經行處，此一處是坐禪處。」
+
+The Buddha said, "This land was once the garden of Kashyapa Buddha, this place was Kashyapa's temple, this place was his walking place, and this place was where he meditated."
+
+爾時尊者舍利弗，即取僧伽梨襞為四褺，即布是地。
+
+At that time, the venerable Shariputra took his monastic robe, folded it four times, and spread it on the ground.
+
+布是地已，偏袒右肩、右膝著地，合掌白佛言：
+
+After spreading it on the ground, he bared his right shoulder, placed his right knee on the ground, and with joined palms said to the Buddha:
+
+「唯願世尊！坐此座上，當令此地為二佛坐處。」
+
+"May the World-Honored One sit upon this seat, thus making this place the site of two Buddhas' seating."
+
+爾時世尊即受而坐，尊者舍利弗禮佛足已，於一面坐而白佛言：
+
+Then the World-Honored One accepted and sat down, and the venerable Shariputra, having paid homage at the Buddha's feet, sat to one side and said to the Buddha:
+
+「世尊！有幾事利益，如來、應供、正遍知為弟子制戒、立說波羅提木叉法？」
+
+"World-Honored One! For how many beneficial reasons do the Tathagata, Worthy of Offering, and Completely Enlightened One lay down rules and establish the pratimoksha code for disciples?"
+
+佛告舍利弗：「有十事利益故，諸佛如來為諸弟子制戒、立說波羅提木叉法。
+
+The Buddha told Shariputra, "There are ten benefits for which Buddhas, the Tathagatas, establish rules and lay down the pratimoksha for their disciples.
+
+何等十？一者攝僧故；二者極攝僧故；三者令僧安樂故；
+
+What are the ten? First, for the guidance of the Sangha; second, for the extreme guidance of the Sangha; third, for the peace and happiness of the Sangha;
+
+四者折伏無羞人故；五者有慚愧人得安隱住故；
+
+Fourth, to subdue those without shame; fifth, so those with shame can dwell in peace;
+
+六者不信者令得信故；七者已信者增益信故；
+
+Sixth, to allow those who lack faith to gain faith; seventh, to increase the faith of those who already have it;
+
+八者於現法中得漏盡故；九者未生諸漏令不生故；
+
+Eighth, to bring about the end of defilements in this life; ninth, to prevent future defilements from arising;
+
+十者正法得久住，為諸天人開甘露施門故。
+
+Tenth, to ensure the longevity of the true Dharma and to open the door of nectar for gods and humans.
+
+以是十事，如來、應供、正遍知為諸弟子制戒、立說波羅提木叉法。」
+
+With these ten benefits, the Tathagata, Worthy of Offerings, and Completely Enlightened One establishes the precepts and lays down the pratimoksha for his disciples."
+
+
+
+
+是时舍利弗，偏袒而合掌；
+At that time, Śāriputra, having uncovered one shoulder and joined his palms;
+
+
+
+
+隨順轉法輪　
+Follow and turn the Dharma wheel
+
+請問於最勝。
+I ask the most supreme.
+
+
+
+他住在最后一个身体里，　　合起掌来请求问道，
+
+He lives in the final body, putting his palms together to ask,
+
+
+
+
+爾時最勝告，  
+At that time, the most victorious said,  
+
+尊者舍利弗：  
+Venerable Śāriputra:  
+
+
+
+
+有十功德利，　　
+There are ten beneficial virtues,
+
+如來所知見，
+as known and seen by the Tathagata,
+
+
+
+
+故為諸弟子，　　
+Therefore, to all the disciples, 
+
+廣制戒律儀。　　
+He extensively established the precepts and rules.
+
+
+
+
+攝僧、極攝故；
+To gather and care for monks, to the greatest extent;
+
+令僧安樂住；
+To allow monks to live in peace and happiness;
+
+
+
+
+折伏無羞人；
+For those who face humiliation, there is no shame.
+
+慚愧得安隱；
+Feelings of shame and remorse bring peace.
+
+
+
+
+不信令入信；
+Those who do not believe, make them believe;
+
+已信者增益；
+Those who already believe, increase their faith;
+
+
+
+
+現法得漏盡；  
+In the present life, the outflows are exhausted;
+
+未生漏不生；  
+Those not yet arisen, do not arise;
+
+
+
+
+正法得久住，  
+The true teachings can endure for a long time,
+
+開甘露施門。  
+opening the door to the nectar of wisdom.
+
+
+
+
+說是正法時，  
+Teaching the true path,  
+
+在於耕田林，  
+Amidst the fields and forests,  
+
+
+
+
+舍利弗請問，
+Sariputra asked,
+
+世尊答如是。
+The World Honored One replied like this.
+
+
+
+
+爾時世尊於耕田聚落隨所樂住已，從憍薩羅國遊行向跋耆國。
+At that time, the World-Honored One resided in the farming village as he pleased, and traveled from the Kosala country to the Vajji country.
+
+爾時世尊與五百比丘俱，到跋耆國毘舍離城，住大林重閣精舍。
+At that time, the World-Honored One, together with five hundred monks, arrived at the city of Vesali in the Vajji country and resided in the Great Forest, in the Pinnacle Hall.
+
+爾時毘舍離城，人民飢饉五穀不熟，白骨縱橫乞食難得。
+At that time, in the city of Vesali, people were suffering from famine, the grains were not ripened, and skeletal remains were scattered around, making it difficult to beg for food.
+
+毘舍離城有長者子，名曰耶舍，信家非家、捨家出家，其父名迦蘭陀，故諸梵行者皆稱為迦蘭陀子。
+In the city of Vesali, there was a wealthy elder's son named Yashas, who left his household, renouncing worldly life for spiritual pursuits. His father’s name was Kalanda, and thus spiritual practitioners referred to him as Kalanda’s son.
+
+時世飢饉乞食難得，每至食時多還家食，其母告耶舍言：「子！汝甚為大苦，剃除鬚髮著弊納衣，持鉢乞食為世人所笑。
+During the time of famine, when it was difficult to obtain food by begging, Yashas often returned home for meals. His mother said to him, "My son, you are enduring great hardship, shaving your head and wearing worn-out robes, carrying a bowl to beg for food, which makes you a laughingstock.
+
+今此家中大有財物，汝父母錢及餘先祖財寶，恣汝所欲；
+Our family has great wealth, your parents’ money and the treasures of your ancestors are at your disposal.
+
+且汝愛婦今猶故在，當共生活，何以如是受諸勤苦？
+Moreover, your beloved wife is still here; you should live together. Why undergo such toil and hardship?
+
+汝當歸家受五欲樂，自恣布施、種諸功德、供養三寶。」
+You should return home, enjoy the five desires, freely give alms, cultivate various merits, and worship the Three Jewels."
+
+爾時耶舍白母言：「願母止！止！我樂修梵行。」
+At that time, Yashas replied to his mother, "Please, mother, stop! I enjoy practicing the holy life."
+
+其母復第二、第三所勸如初，耶舍答亦如先。
+His mother persuaded him a second and third time as before, and Yashas responded as he had initially.
+
+母復重言：「汝若不樂在家者，當乞我種以續繼嗣，莫令門戶斷絕、財物沒官。」
+His mother further said, "If you don't wish to stay at home, you should at least give me a grandchild to continue the family line, so that our lineage does not end and our wealth isn't confiscated."
+
+爾時耶舍即白母言：「今欲使我於此中留種子者，當奉此勅。」
+At that time, Yashas said to his mother, "If you want me to leave any seed here, then I shall comply with this command."
+
+母即歡喜疾入婦房語新婦言：「汝速莊嚴，著耶舍本所愛樂嚴身之服，與之相見。」
+His mother, delighted, quickly entered the wife’s room and told her, "Quickly adorn yourself and wear the clothes Yashas always loved, and meet him."
+
+新婦答言：「爾。」即便莊嚴如教所勅。
+The wife replied, "Yes," and immediately adorned herself as instructed.
+
+爾時耶舍即與其婦共相娛樂，如其俗法，於是其婦遂便有娠，月滿生子。
+At that time, Yashas spent affectionate time with his wife following their customs, and she soon became pregnant and, in due course, gave birth to a son.
+
+其家議言：「本為乞種故，今當立字名為續種。」
+The family discussed and said, "Since it was for the purpose of bearing offspring, let's name him Sutadhara (Continuing the Line)."
+
+爾時世人皆名為續種，父續種、母續種、祖續種，錢財一切皆名續種。
+At that time, everyone referred to him as Sutadhara, and everything related to the father, mother, ancestors, and wealth was named Sutadhara.
+
+所有如是惡名流布，道俗悉聞。
+Such an undesirable name spread wide, and both laypeople and clerics heard of it.
+
+
+
+爾時耶舍聞惡名已，為續種子父，大自慚愧，恥其所聞，
+
+At that time, when Yasha heard the disgraceful news, he, who was the father that continued the lineage, felt deeply ashamed and humiliated by what he heard,
+
+作是思惟：「沙門釋種中，未曾見聞有如此事。
+
+and reflected: "Among the monks of the Shakya clan, I've never seen or heard of such a thing.
+
+此為法耶？為非法耶？我今當以此事廣白尊者舍利弗，
+
+Is this according to the Dharma or not? I should report this matter in detail to the venerable Shariputra,
+
+舍利弗當以此事具白世尊，如世尊教，我當奉行。」
+
+and Shariputra will present this matter fully to the World-Honored One. According to the World-Honored One's teaching, I will act."
+
+時耶舍疾往詣尊者舍利弗所，廣說上事。
+
+Then Yasha quickly went to the venerable Shariputra and explained the matter in detail.
+
+
+
+尊者舍利弗，與耶舍共詣世尊所，頭面禮足却坐一面。
+Venerable Śāriputra, along with Yasha, went to the Blessed One, bowed, and sat to one side.
+
+坐已尊者舍利弗具以上事廣白世尊。
+After sitting, Venerable Śāriputra fully informed the Blessed One of the matter.
+
+佛問耶舍：「汝實有是事不？」
+The Buddha asked Yasha, "Is it true?"
+
+答言：「實爾。」
+He replied, "Indeed, it is so."
+
+佛言：「耶舍！是為大過，比丘僧中未曾有此。
+The Buddha said, "Yasha! This is a great offense, never before in the monastic community.
+
+汝愚癡人！最初開大罪門，未有漏患而起漏患。
+You fool! You were the first to open the door to great wrongdoing, creating flaws where there were none.
+
+天魔波旬常求諸比丘短而不能得，汝今最初開魔徑路。
+Mara, the evil one, always seeks flaws in the monks but could not find any; you have now opened the path for him.
+
+汝今便為毀正法幢、建波旬幢。
+You are now destroying the banner of the true Dharma and raising the banner of Mara.
+
+汝愚癡人！寧以利刀割截身生，若著毒蛇口中、若狂狗口中，
+You fool! Better to be cut by a sharp knife, put in the mouth of a venomous snake, or a mad dog,
+
+若大火中、若灰炭中，
+or into a great fire, or among ash and coals,
+
+不應與女人共行婬欲。
+than to engage in sexual intercourse with a woman.
+
+耶舍！汝常不聞我無數方便呵責婬欲：
+Yasha! Have you never heard how I reproach lust in countless ways?
+
+欲為迷醉，欲如大火燒人善根，欲為大患。
+Lust causes intoxication, like a great fire that burns the roots of virtue, it is a great affliction.
+
+我常種種方便稱歎離欲、斷欲、度欲。
+I always, through various means, praise renouncing, cutting off, and overcoming lust.
+
+汝今云何作是不善？
+How can you now commit this unwholesome act?
+
+耶舍！此非法、非律、非如佛教，不可以是長養善法。」
+Yasha! This is neither the law, nor the discipline, nor the way of the Buddha's teaching, and it cannot nurture good dharma."
+
+
+
+
+時諸比丘白佛言：「世尊！
+
+At that time, the monks said to the Buddha, "World Honored One!
+
+云何是耶舍比丘，僧中未曾有此，而彼耶舍初開罪門，未有漏患而起漏患？」
+
+Why is it that Yasha the monk, something previously unseen among the monks, first opened the door to offenses, causing afflictions to arise without any existing leaks?
+
+佛告諸比丘：「是人不但今日於我法中未有漏患而起漏患。」
+
+The Buddha told the monks, "This person not only today in my teachings, but previously had no afflictions yet caused them to arise.
+
+諸比丘白佛言：「彼過去時已曾有是事耶？」
+
+The monks said to the Buddha, "Did this happen in the past?"
+
+佛言：「如是。」
+
+The Buddha said, "Yes."
+
+諸比丘白佛言：「世尊！願樂欲聞。」
+
+The monks said to the Buddha, "World Honored One! We would like to hear about it."
+
+
+
+：「過去世時此世界劫盡時，諸眾生生光音天上，而此大地還已成立，諸眾生等從光音天還來至此。
+The Buddha said to the monks: "In a past world cycle when this world was ending, all beings were born in the Heaven of Light-Sound, and after this Earth reformed, all beings returned from the Heaven of Light-Sound to this place.
+
+時彼眾生身有妙光，神足自在禪悅為食，諸有所須隨意所欲。
+At that time, those beings had a wondrous light in their bodies, freely traveled with spiritual feet, and found joy in meditation as sustenance, having whatever they needed at will.
+
+是諸眾生身光相照，無有日月星宿亦無晝夜，亦無一月、半月、四時歲數。
+The light from these beings illuminated each other, and there was no sun, moon, stars, or constellations, and no day or night, nor months, half-months, or seasons and years.
+
+時此大地便有自然地味，色香美味皆悉具足，如天甘露等無有異。
+Then this Earth had a naturally occurring flavor, with color, fragrance, and taste complete, like heavenly ambrosia.
+
+時有一輕躁貪欲眾生，嘗此地味覺其香美，漸取食之即生著心。
+At that time, there was a restless and greedy being who tasted this Earth flavor and found it aromatic and delicious, gradually eating it and becoming attached.
+
+其餘眾生見其如此，展轉相効皆競取食。
+The other beings saw this and imitated him, all competing to consume it.
+
+爾時眾生食地味已，身體沈重光明即滅，貪著五欲退失神足。
+At that time, when these beings ate the Earth flavor, their bodies became heavy, and their brightness vanished, greed for five desires arose, and their spiritual feet were lost.
+
+然後世間便有日月星宿昏明，半月、一月、春秋冬夏。
+Afterward, this world had the sun, moon, stars, and constellations, with light and darkness, months, half-months, and spring, autumn, winter, and summer.
+
+佛告諸比丘：「爾時輕躁眾生者，豈異人乎？即耶舍比丘是。
+The Buddha said to the monks: "Was that restless and greedy being at that time a different person? It was the monk Yasha.
+
+彼時耶舍於諸眾生，漏患未起而先起漏；今日復於清淨僧中先開漏門。」
+At that time, Yasha was among beings who had not yet developed defilements, yet he was the first to develop them; today, he is again the first to open the door to defilements among the pure monks.
+
+
+
+諸比丘白佛言：「世尊！彼耶舍比丘先世已來乃如是耶？
+
+The monks said to the Buddha, "World Honored One! Was the monk Yasha also like this in previous lives?
+
+云何其母巧作方便以婬欲誘誑其子？」
+
+How was it that his mother skillfully used desire to deceive her son?"
+
+佛告諸比丘：「是耶舍母不但今日巧作方便誘誑其子，過去世時亦曾誘誑。」
+
+The Buddha told the monks, "Yasha's mother has not only today skillfully deceived her son, but also did so in past lives."
+
+諸比丘白佛言：「世尊！已曾爾耶？」
+
+The monks said to the Buddha, "World Honored One! Has it truly been so?"
+
+佛言：「如是。」
+
+The Buddha said, "Indeed."
+
+諸比丘白佛言：「世尊！願樂欲聞。」
+
+The monks said to the Buddha, "World Honored One! We wish to hear more."
+
+
+
+
+佛告诸比丘：「过去世时有城名波罗奈，国名迦尸。
+The Buddha told the monks: "In past eras, there was a city called Benares in the country of Kashi.
+
+时彼国王号大名称，离诸怨敌，布施持戒，泛爱人物，以法治化，善摄眷属。
+At that time, the king of that land was known for his great name, free from enemies, generous, disciplined, loving all beings, ruling by law, and skillfully managing his kin.
+
+时王第一夫人，晨朝上高楼上观察星宿，见一金色鹿王从南方来陵虚北逝。
+At that time, the king's first consort climbed to a high tower in the morning to observe the stars and saw a golden deer king flying from the south to the north.
+
+夫人见已即作是念：『我若得此金色鹿皮持作褥者，没无遗恨；若不得者，用作此王夫人为？』
+The consort thought, 'If I can obtain this golden deer's skin to use as a mattress, I would have no regrets; if not, what use is it being the king's consort?'
+
+即自念曰：『若我语人：“见金色鹿王。”谁当信者？』
+She thought further to herself: 'If I tell people, "I saw a golden deer king," who would believe me?'
+
+又作是念：『若言是鹿，不应乘虚；若乘虚行，不应言鹿。』
+And she thought again: 'If I say it is a deer, it should not fly; if it flies, it should not be called a deer.'
+
+夫人愁忧，恐不信故，即脱璎珞著垢弊衣入忧恼房。
+The consort, distressed and fearing disbelief, removed her jewelry, put on worn clothes, and entered the room of sorrow.
+
+王于殿上治政事讫，还入其室不见第一夫人，即问侍者。
+The king, after finishing governance matters in the hall, returned to his chamber and did not see the first consort, so he asked the attendants.
+
+侍者答言：『夫人向入忧恼房住。』
+The attendants replied: 'The consort has gone into the room of sorrow.'
+
+王便往就，问夫人言：『谁犯汝者？为大臣、王子？为余夫人及余侍者？若犯汝者，我当为汝重治其罪。
+The king then went to her and asked: 'Who has offended you? Is it the ministers, princes, other consorts, or servants? If anyone has wronged you, I will severely punish them for you.
+
+汝今将无有所须耶？若欲须金银、珍宝、香花、璎珞，当相供给；若欲杀罚，便可见语。』
+Is there anything you desire now? If you need gold, silver, treasures, perfumes, flowers, or jewelry, I will provide them; if you want anyone punished, just say so.'
+
+王种种问已，夫人不答。
+The king asked various questions, but the consort did not respond.
+
+王即出去，告余夫人、大臣、太子及余人等：『卿等率往问夫人意。』
+The king then went out and told the other consorts, ministers, princes, and others: 'You all go and inquire about the consort's thoughts.'
+
+诸人受教各各问已，夫人犹故默然不对。
+The people followed the orders and each asked, yet the consort still remained silent and unresponsive.
+
+王使耆旧青衣更问夫人，此青衣者生长王宫多有方便，即往入房问夫人言：『王是夫人之所恃怙，如何王问而默然不答？
+The king sent an old trusted servant to further inquire from the consort. This servant grew up in the palace and had many resources. He entered the room and asked: 'The king is the consort's support, why remain silent in his inquiry?
+
+若有所求何缘可得？谁犯夫人？为大臣、王子及余夫人？欲有杀罚宜应白王。
+If you desire something, what is the reason you cannot ask? Who offended the consort? Is it the ministers, princes, or other consorts? If any punishment is needed, you should tell the king.
+
+夫人默恨无乃失耶？夫人若丧，王终不能相与俱死，正可忧恼月日之间，国中自有刹利、婆罗门、长者、居士等，皆各有女端正妙好，与你相娱乐足以忘忧。
+Is the consort silent because of inner hate or sorrow? If the consort passes, the king would not die with you, only mourn for days and months, and in the kingdom, there are kshatriyas, Brahmins, elders, and commoners with daughters who are just as beautiful and would let him forget his sorrows.
+
+夫人正可徒自死耳！喻若哑人眠中得梦，谁能瞻者？
+The consort is just dying uselessly! It's like a mute dreaming, who can understand?
+
+夫人不语，难知亦尔。』
+If the consort does not speak, it's equally hard to understand.'
+
+尔时夫人闻青衣语，即自惟曰：『此是名语。』
+Then the consort, hearing the servant's words, thought to herself: 'These are recognized words.'
+
+便答青衣：『无犯我者，别有所忆故不语耳。
+And she answered the servant: 'No one has offended me; I am silent because I remember something else.
+
+汝听我说，吾近晨朝登楼观看星宿，时见有一金色鹿王，乘空南来凌虚北逝。
+Listen to what I say, just this morning I climbed the tower to watch the stars and saw a golden deer king flying from the south to the north.
+
+若语人言：「鹿能乘虚。」谁能信者？
+If I tell people, "A deer can fly," who would believe it?
+
+我欲得其皮持用作褥而不能得，是以生恼，自念：「用作王夫人为何？」』
+I wish to obtain its skin to use as a mat but cannot, hence my distress, thinking: "What's the use being the king's consort?"'
+
+是时青衣闻此语已，具白大王。
+At that moment, the servant heard these words and fully reported to the king.
+
+王知其意，甚大欢喜，即问傍臣：『谁能得此金色鹿皮？我今须之持用作褥。』
+The king, knowing her intent, was very happy and asked his ministers: 'Who can obtain this golden deer's skin? I need it now for a mat.'
+
+诸臣答言：『当问猎者。』
+The ministers replied: 'We should ask the hunters.'
+
+王告大臣：『敕我境内国中猎师，尽使令集。』
+The king told his ministers: 'Order all the hunters in my land and gather them.
+
+如偈所说："如偈所说"。
+As the verse says: "As the verse says."
+
+
+
+諸天隨念感，
+The responses of the heavens follow one's thoughts,
+
+王者隨聲至；
+The monarch arrives with the call;
+
+
+
+富者以財得，
+The rich obtain with wealth,
+
+貧人以力辦。』
+The poor manage with effort.
+
+
+
+如是王教出已，國中獵師一切皆集。
+After the king's command was issued, all the hunters in the kingdom gathered.
+
+獵師白王：『何所約勅？』 
+The hunters asked the king, "What command do you have for us?"
+
+王告獵者：『我今急須金色鹿皮持用作褥，卿等為吾疾速求之。』
+The king told the hunters, "I urgently need a golden deer's hide to use as a cushion, go and quickly find it for me."
+
+獵師答王：『願聽小還共論此事。』
+The hunters replied to the king, "We request to return briefly to discuss this matter among ourselves."
+
+王曰：『可爾。』
+The king said, "Very well."
+
+獵師還已共相謂言：『汝等遊獵頗曾見聞金色鹿不？』
+The hunters, having returned, said to each other, "Have any of you ever seen or heard of a golden deer while hunting?"
+
+彼各對曰：『我等先祖已來常行遊獵，未曾有聞金色鹿名，況復眼見！』
+They each replied, "From our ancestors to us, we have always hunted, but have never heard of, let alone seen, a golden deer!"
+
+時諸獵師共作要言：『今往答王，無使不同。』
+The hunters then made a pact among themselves, "Let us report to the king, and ensure our statements are unified."
+
+既見王已各白王言：『我先祖已來相承遊獵，初未曾聞金色鹿名，況復眼見。』
+Having met the king, they each said to him, "From our ancestors to us, we have always hunted, but have never heard of, let alone seen, a golden deer!"
+
+如所說：
+As has been said:
+
+
+
+『王者力自在，
+
+The king's power is at ease,
+
+所求欲如教。』
+
+what he desires is like a lesson.』
+
+
+
+
+王即勅有司令執諸獵者繫著牢獄。
+The king ordered the officials to arrest the hunters and put them in prison.
+
+時有一獵師名曰刪闍，勇健多力走及奔獸，仰射飛鳥箭無空落，
+At that time, there was a hunter named Shanja, who was brave and strong, could run after and catch running animals, and shoot birds flying without missing.
+
+彼即念言：『我諸獵黨自惟無罪而見囚執，當設權計脫此苦難。
+He thought to himself: 'My fellow hunters and I are innocent yet imprisoned, we must devise a plan to escape this hardship.
+
+我當白王應募求鹿，若得者善，若不得者，我且遊散，諸伴得出。』
+I shall tell the king I will search for the deer. If I find it, that's good; if not, I will wander and escape, and my companions will be freed.'
+
+便白王言：『頗有見聞金色鹿不？』
+So he asked the king, 'Have you seen or heard of the golden deer?'
+
+王告獵者：『汝等自可往問夫人。』
+The king told the hunter, 'You can go and ask the queen.'
+
+爾時獵者即詣王宮白夫人曰：『誰有見聞金色鹿者？』
+Then the hunter went to the palace and asked the queen, 'Who has seen or heard of the golden deer?'
+
+夫人答言：『我親自見。』
+The queen replied, 'I saw it myself.'
+
+獵師白言：『見在何處？』
+The hunter asked, 'Where was it seen?'
+
+夫人答言：『我於樓上觀於星宿，晨朝見一金色鹿王，從南方來陵虛北逝。』
+The queen said, 'I was observing the stars from the tower and saw a golden deer king in the morning, coming from the south and disappearing to the north.'
+
+時彼獵師善相禽獸，知此鹿王止宿在南、食處在北，
+At that time, the hunter was adept at understanding animals, and he knew that the deer king rested in the south and fed in the north.
+
+止宿之處永無可得，當於食處而求取之。
+The resting place could never be found, so he should seek it at the feeding place.
+
+於是獵師便持弓箭，漸次北行到彼雪山。
+So, the hunter took his bow and arrows and gradually went north to the snowy mountains.
+
+時彼山中有仙人住，流泉浴池花果茂盛。
+At that time, a sage lived in the mountains, where streams flowed, and flowers and fruits were abundant.
+
+彼中仙人以二事除欲：一者苦行，二者閑居。
+The sage there removed desires with two methods: ascetic practice and tranquil dwelling.
+
+爾時獵師藏諸獵具假以人服，詣仙人所禮拜問訊。
+The hunter hid his hunting gear, dressed as a person, and went to greet the sage.
+
+彼仙人者處在山澤久不見人，得獵者至甚大歡喜，
+The sage had not seen people for a long time in the mountains, so he was very happy when the hunter arrived.
+
+命令就坐，與甘果美漿共相慰勞。
+He invited him to sit and shared sweet fruits and tasty drinks.
+
+獵師白言：『止此久近？』
+The hunter asked, 'How long have you lived here?'
+
+答言：『止此以來經爾所時。』
+The sage answered, 'I've been here for a long time.'
+
+復白仙人：『止此已來，頗曾見有奇異事不？』
+He further asked the sage, 'Have you seen any extraordinary things here?'
+
+答言：『曾見。』
+The sage replied, 'Yes, I have.'
+
+復問：『為見何等？』
+He asked, 'What did you see?'
+
+答曰：『此山南有一樹名尼拘律，常有金色鹿王飛來在上，
+The sage said, 'On the south side of this mountain, there's a tree called Nikul, and a golden deer king often flies onto it.
+
+食彼樹葉飽已而去。』
+It eats the leaves of that tree until it's full, then departs.'
+
+獵師聞此甚大歡喜，作是念言：『必是夫人所見金色鹿王，今已得聞，我願將果。』
+Upon hearing this, the hunter was overjoyed and thought, 'This must be the golden deer king the queen saw. Now that I've heard about it, I wish to capture it.'
+
+獵師方便更說餘事，然後乃問：『趣尼俱律樹道在何處？』
+The hunter cleverly talked about other things and then asked, 'Where is the path to the Nikul tree?'
+
+仙人答言：『從此而去。』
+The sage replied, 'Go from here.'
+
+中間曲路委悉語之。
+He carefully described the winding path to him.
+
+獵師聞喜，呪願而去。
+The hunter was pleased, chanted a blessing, and left.
+
+還執持獵具順道而進，漸次前行，
+He took his hunting gear, followed the directions, and gradually advanced.
+
+遙見彼樹枝葉扶疎蔭覆彌廣，
+He saw the tree from afar, its branches and leaves lush and broad, providing wide shade.
+
+至彼樹下尋覓鹿王，不見蹤跡又無食處。
+When he reached the tree, he searched for the deer king but saw no traces or feeding spot.
+
+獵師便於樹下潛微伺之，伺之不久便見鹿王，
+The hunter hid under the tree to watch closely, and soon he saw the deer king.
+
+譬如鴈王陵虛而來止此樹上，形色光明照耀山谷，
+Like a king goose, it came gracefully to the tree, its form shining brightly, illuminating the valleys.
+
+食彼樹葉飽則還南。
+After eating the leaves to its fill, it returned southward.
+
+尋復思惟：『此樹高遠，非是網羂弓矢所及，云何可得？
+He thought again: 'This tree is high and far, beyond the reach of ropes or arrows. How can it be caught?
+
+我今當還波羅奈城。
+Now, I should return to the city of Varanasi.
+
+彼有大臣、王子聰明智德，我當問之。』
+There are wise ministers and princes there; I should consult them.'
+
+即還其國便白王言：『如夫人所見，但鹿所止住，非網羂弓矢所及，無由得之。』
+He returned to the country and told the king: 'As the queen said, the deer is unreachable by nets or arrows, and there's no way to catch it.'
+
+王告獵師：『汝可自往具白夫人。』
+The king told the hunter, 'You may go and inform the queen yourself.'
+
+獵師即白夫人：『已見金色鹿王，都非網羂弓矢所及，不知何由而得。』
+The hunter then told the queen: 'I have seen the golden deer king, but it's beyond the reach of nets or arrows, and I don't know how to get it.'
+
+夫人問言：『彼鹿所住為在何處？』
+The queen asked, 'Where does the deer reside?'
+
+答言：『住在尼拘律樹上，食彼樹葉飽已還南。』
+He replied, 'It resides on the Nikul tree, eats the leaves until satisfied, then returns south.'
+
+如所說：
+As it was said:
+
+
+
+剎利百方便，
+The Kshatriyas have a hundred ways of doing things.
+
+婆羅門增倍；
+The Brahmins increase exponentially.
+
+
+
+
+王有千種計， 
+The king has a thousand kinds of plans,
+
+女人策無量。
+But women's strategies are immeasurable.
+
+
+
+
+如是王夫人多諸方便，便教獵者：
+With such devices, Lady Wang instructed the hunter:
+
+『汝持蜜去，至彼樹上蜜塗樹葉，
+"Take some honey, go to the tree, and spread honey on its leaves.
+
+鹿聞蜜香必食樹葉噉盡，
+The deer will smell the honey and surely eat the leaves until they are all gone.
+
+次第塗下至彼施網羂處。』
+Continue applying honey downward to where the net is set."
+
+獵師如教還於山中，持蜜上樹塗其樹葉。
+The hunter followed the instructions, returned to the mountain, climbed the tree, and applied honey on its leaves.
+
+彼鹿來食隨蜜食盡，
+The deer came and ate, following the scent of honey, and consumed the leaves completely.
+
+蜜不塗處鹿輒不食，
+In places not coated with honey, the deer did not eat,
+
+隨蜜食葉漸次而下。
+Following the honey, the deer ate the leaves gradually downward.
+
+如所說：
+As it was told:
+
+
+
+野兽信其鼻，
+
+Beasts trust their noses,
+
+梵志依相书，
+
+Brahmins rely on physiognomy,
+
+
+
+
+王者委有司，
+
+The king entrusts the officials,
+
+各各有所信。
+
+each with his own duties.
+
+
+
+
+彼鹿尋香食彼樹葉，漸下到其施網羂處，即便著羂。
+The deer, drawn by the scent, eats the leaves of that tree. Gradually, it comes to the snare set for it and gets caught.
+
+獵師念言：『我若殺取其皮，不足為貴，當活將去。』
+The hunter thought: "If I kill it for its skin, it is not valuable enough. I should take it alive."
+
+於是驅還。
+So he drove it back.
+
+獵師籠䩭過仙人處，仙人遙見驚而歎曰：『咄哉！禍酷。』
+The hunter, guiding the deer past the sage's place, made the sage see it from afar, and he exclaimed: "Alas! Such cruel misfortune."
+
+雖能乘虛而不能免此惡人之手。
+"Though it can roam free, it cannot escape the hands of this evil man."
+
+即問獵者：『惡人！汝用是為？』
+Then he asked the hunter: "Evil man! What are you doing this for?"
+
+獵師答言：『迦尸國王第一夫人須此鹿皮持用作褥。』
+The hunter replied: "The first queen of the kingdom of Kashi needs this deer's skin to use as a mat."
+
+仙人復言：『汝謂此鹿死後色如是耶？』
+The sage said again: "Do you think the deer's appearance will be the same after death?"
+
+內有生氣故外色如是。
+"It is because it has life within that its external color is like this."
+
+可活將去，汝可得賞。
+"Keep it alive, and you will be rewarded."
+
+仙人復問：『汝作何方便而得此鹿？』
+The sage further asked: "What method did you employ to capture this deer?"
+
+答言：『我作如是方便而得此鹿。』
+He responded: "I used this method to capture the deer."
+
+爾時仙人自慶善寂無此諸惡，悲念夫人能為巧惡方便，
+At that time, the sage rejoiced in the virtue of being without evil and pitied the queen's clever yet malicious means.
+
+痛彼鹿王貪味受困。
+He grieved for the deer king, suffering from its desire for flavor.
+
+爾時仙人即說偈言：
+Then the sage uttered a verse:
+
+
+
+世間之大惡，
+The greatest evil in the world,
+
+莫過於嗜味；
+Is nothing more than the love of flavors;
+
+
+
+
+欺誑凡夫人，  
+Deceiving ordinary people,
+
+及諸林野獸；  
+And various forest beasts;
+
+
+
+
+因风着香味，
+
+Because of the fragrance brought by the wind,
+
+受斯苦恼患。
+
+Suffering from this distress and affliction.
+
+
+
+
+『我作何方便養育此鹿得生歸我國？』
+
+The hunter asked, "What is the best way to raise this deer so it could return alive to my country?"
+
+仙人答言：『以蜜塗樹葉而用養之。若到人間以蜜和麨。』
+
+The sage replied, "Coat the leaves with honey and use them to feed the deer. For humans, use honey mixed with flour."
+
+如是教令養之。漸漸還國遂到人間。
+
+Thus instructed, they raised it. Gradually, it returned to its country and then reached human lands.
+
+此鹿形貌端正色若天金，角白如珂，目紫紺色，一切人見莫不雅奇。
+
+The deer had an appearance as noble as heavenly gold, antlers as white as jade, and eyes of purple-blue color, making everyone who saw it admire its beauty.
+
+漸次行詣波羅奈城，王聞鹿至，勅諸城內平治道路，掃灑燒香、搥鍾擊鼓往迎鹿王。
+
+Gradually, it made its way to the city of Varanasi. Upon hearing of the deer's arrival, the king ordered the streets to be cleaned, incense burned, and drums beaten to welcome the deer king.
+
+觀者如雲莫不歡喜，慶賀大王吉祥遠至。
+
+The spectators gathered like clouds, all joyful, celebrating the great king's auspicious arrival from afar.
+
+夫人見已歡喜踊躍不能自勝，以愛心重故前抱鹿王，以昔染污心重故，令彼鹿王金色即滅。
+
+The lady, upon seeing it, was so overjoyed that she couldn't contain herself. Driven by affectionate love, she approached to embrace the deer king, but due to her past polluted heart, the deer's golden color vanished.
+
+王告夫人：『此鹿金色忽變當如之何？』
+
+The king told the lady, "The deer's golden color suddenly changed; what should be done?"
+
+夫人答王：『此今便是無施之物，放使令去。』
+
+The lady replied to the king, "This now is a useless thing, let it go free."
+
+
+爾時佛告諸比丘：「彼時金色鹿王豈異人乎？
+
+Then the Buddha told the monks, "Was the golden deer king at that time a different person?
+
+今耶舍比丘是。
+
+Now he is the monk Yasha.
+
+時夫人者，今耶舍母是。
+
+The lady at that time is now Yasha's mother.
+
+往昔已來曾作方便誘誑其子，令墮貪著受諸苦惱。」
+
+In the past, she used means to deceive her son, leading him to fall into attachment and suffer distress."
+
+
+
+
+：「依止毘舍離比丘皆悉令集。」
+The Buddha said to the monks: "Gather all the monks who are staying in Vesali."
+
+爾時世尊以是因緣向諸比丘廣說過患事起，
+At that time, the Blessed One explained to the monks the arising of afflictions due to these causes,
+
+種種因緣呵責過患起已，
+and after reprimanding the arising of various afflictions caused by different conditions,
+
+為諸比丘隨順說法：「有十事利益，
+he expounded the Dharma to the monks accordingly: "There are ten benefits,
+
+如來、應供、正遍知為諸弟子制戒、立說波羅提木叉法。
+for which the Tathagata, Worthy of Offerings, Completely Enlightened One, establishes the precepts and declares the rules of the Vinaya for his disciples.
+
+十事利益廣說如上。
+The ten benefits are elaborated as mentioned above.
+
+是故如來從今日當為諸比丘制戒，
+Therefore, from today, the Tathagata shall establish precepts for the monks,
+
+未聞者令聞，已聞者當重聞。
+so that those who have not heard may hear, and those who have heard may hear again.
+
+若比丘於和合僧中受具足戒，
+If a monk, who has taken full ordination in the harmonious assembly,
+
+行婬法，是比丘得波羅夷，不共住。
+engages in sexual misconduct, that monk incurs a Parajika and is no longer part of the community."
+
+
+
+復次佛住毘舍離，廣說如上。
+Furthermore, the Buddha was staying in Vaishali, teaching extensively as previously mentioned.
+
+時毘舍離城有二離車子，信家非家、捨家出家，於毘耶離眾所知識，能致供養四事具足。
+At that time, in the city of Vaishali, there were two young Licchavis, who belonged to a faithful household but had renounced the world, well known among the people of Vaisali, and were able to provide the four requisite offerings.
+
+彼比丘時至，著入聚落衣持鉢入城乞食，不能攝身口意繫念在前，心意馳亂不攝諸根，染著色欲取色淨相。
+When the time came, the monks wore their robes, took their alms bowls, and entered the city to beg for food. They were unable to restrain their body, speech, and mind, their thoughts were distracted, their faculties were unrestrained, and they were tainted with lust, seeking the purity of form.
+
+欲心熾盛便作是念：「我著法服為此欲事甚為不可，我當捨於法服著彼俗衣，七日之內不還僧中隨意所為。」
+With their minds burning with desire, they thought, "Wearing monastic robes for such desires is highly inappropriate. I should discard these robes, wear lay clothes, and not return to the Sangha for seven days, doing whatever I wish."
+
+作是念已，即脫袈裟著彼俗衣便行欲事。
+Having thought thus, they immediately took off the monastic robes, donned lay clothes, and engaged in their desired actions.
+
+過七日已還著法服而來入僧，入僧已還自厭污愧身所行，便作是念：「都不見聞餘諸沙門有如是事，我今當以此事白尊者舍利弗，舍利弗當向世尊具陳此事。
+After seven days, they put the robes back on and returned to the Sangha. Upon returning, they felt a sense of shame and self-disgust for their actions, thinking, "I've never heard or seen other monks do such things. I should confess this matter to Venerable Sariputra, and Sariputra should report it to the World-Honored One."
+
+若佛有所教勅我當奉行。」時二比丘往詣尊者舍利弗所廣說如上。
+If the Buddha instructs anything, I will obey." Then, the two monks went to Venerable Sariputra and recounted everything as mentioned above.
+
+時尊者舍利弗將二比丘往詣世尊，禮足已，却住一面，以上因緣廣白世尊。
+So, Venerable Sariputra took the two monks to the World-Honored One, paid homage at his feet, stood aside, and reported the entire matter.
+
+佛告舍利弗：「應遣令去。是愚癡人！不復得在如來法中更出家受具戒。」
+The Buddha told Sariputra, "They should be expelled. These are foolish people! They should not be allowed to reordain in the Tathagata's teachings."
+
+時舍利弗以哀愍故，偏袒右肩胡跪合掌白佛言：「世尊！當來有善男子，
+Then, out of compassion, Sariputra uncovered his right shoulder, knelt on his right knee, and with joined palms, said to the Buddha, "World-Honored One, in the future, there will be virtuous men,
+
+於世尊法中信家非家、捨家出家，迷意顛倒起於淨想，無慚無愧三毒熾盛。
+who will, in faith in the World-Honored One's teachings, renounce household life and become monks. But in confusion, they may develop wrong views about purity, become shameless, and burn with the three poisons.
+
+唯願世尊為開方便，令是善男子更於如來法中得出家受具足戒。」
+I sincerely hope the World-Honored One will offer a way, so that these virtuous men may reordain and take the full monastic precepts within the Tathagata's teachings."
+
+爾時佛告諸比丘：「依止毘舍離諸比丘皆悉令集。為諸比丘制戒，乃至已聞者當重聞。
+Then the Buddha instructed the monks, "Gather all the monks residing in Vaishali. I shall lay down a rule for the monks, even those who have heard it before should listen again.
+
+若比丘於和合僧中受具戒，若不還戒而行婬法，是比丘得波羅夷罪，不應共住。」
+If a monk, having received the full precepts in a harmonious community of monks, then commits sexual misconduct without renouncing his vows, he accrues a Parajika offense and should not remain in the community."
+
+
+
+
+舍離，廣說如上。  
+Again, the Buddha was living in Vesālī and expounded extensively as before.
+
+時諸比丘處處安居，安居已還詣毘舍離，到世尊所禮拜問訊。  
+At that time, many monks lived in various places. After staying there, they returned to Vesālī to pay homage and inquire after the Blessed One.
+
+問訊已次第付房而住。  
+After inquiring, they were assigned quarters one by one.
+
+房盡不受，有依屋欄、草庵、空地、樹下住者。  
+Since the quarters were full, some stayed near fences, grass huts, open spaces, or under trees.
+
+爾時有一比丘依樹下坐，作是思惟：「佛法出家甚為大苦，修習梵行亦為甚難。  
+At that time, there was a monk sitting under a tree thinking, "Leaving home for the Buddha's Dharma is very hard, and cultivating the holy life is also very difficult.
+
+晝則風飄日炙，夜則蚊虻毒虫所嚙，我欲不堪於佛法中修淨梵行。」  
+During the day, the wind blows and the sun scorches; at night, mosquitoes, gadflies, and poisonous insects bite. I feel I cannot endure cultivating the pure holy life in the Buddha's Dharma.”
+
+彼比丘作是心念口言，諸比丘聞已便謂此比丘言：「汝捨戒耶？」  
+The monk expressed this thought aloud, and upon hearing it, other monks said to him, "Are you abandoning your vows?"
+
+答言：「不捨！我但作是念：『我不堪於如來法中修淨梵行。』」  
+He replied, "I am not abandoning them! I am merely thinking, 'I am unable to cultivate the pure holy life in the Tathāgata's Dharma.'"
+
+諸比丘以是因緣往白世尊：「是比丘捨戒。」  
+The monks, because of this situation, reported to the Blessed One, “This monk has abandoned his vows.”
+
+爾時世尊告諸比丘：「喚彼比丘來。」  
+At that time, the Blessed One instructed the monks, “Call that monk here.”
+
+來已，佛問比丘：「汝實捨戒耶？」  
+After he arrived, the Buddha asked the monk, “Have you truly abandoned your vows?”
+
+答言：「不捨。」  
+He responded, "I have not abandoned them."
+
+佛言：「何緣致此？」  
+The Buddha said, "Why did the situation arise?"
+
+「世尊！我於樹下作是心念口言：『於佛法中捨家出家甚為大苦，我不堪於如來法中修淨梵行。』」  
+"Blessed One, while sitting under a tree, I thought and expressed, 'Leaving home in the Buddha's Dharma is very hard; I cannot endure cultivating the pure holy life in the Tathāgata's Dharma.'"
+
+佛告比丘：「汝云何於如來法中信家非家、捨家出家，而作是念：『我不堪忍於如來法中修淨梵行。』」  
+The Buddha told the monk, “How can you, having faith in the home-leaving of the Tathāgata's Dharma, abandon the home and leave home life, yet think, ‘I cannot endure cultivating the pure holy life in the Tathāgata's Dharma?’”
+
+佛言：「是比丘不名捨戒，是名戒羸。彼作戒羸說語，得偷蘭罪。」  
+The Buddha said, “This monk is not called one who has abandoned his vows; he is called one who is weak in his vows. He spoke words of weakness in his vows and thereby committed a minor offense."
+
+爾時佛告諸比丘：「依止毘舍離比丘皆悉令集，乃至未聞者當聞、已聞者重聞。  
+Then the Buddha instructed the monks, “Let all the monks residing in Vesālī assemble, so those who have not heard may hear, and those who have heard may hear again.
+
+若比丘於和合僧中受具足戒，不還戒，戒羸，不捨戒便行婬法，是比丘得波羅夷罪，不應共住。」  
+If a monk receives full ordination in a harmonious sangha, does not renounce his vows, is weak in his vows, and engages in sexual misconduct without renouncing his vows, that monk incurs a pārājika offense and should not dwell with the community.
+
+
+復次佛住舍衛城，廣說如上。
+Furthermore, the Buddha was staying in Shravasti and spoke extensively as mentioned above.
+
+時舍衛城有長老名難提，信家非家、捨家出家，於舍衛城眾所知識，能致供養四事具足。
+At that time, in Shravasti, there was an elder named Nantideva, who, having faith, left his home, renounced household life, and was well-known to the people of Shravasti for being able to provide the four requisites.
+
+餘多有名難提者，但是長老行時亦禪、住時亦禪、坐時亦禪、臥時亦禪，時人名之為禪難提。
+Though many were named Nantideva, this elder practiced meditation while walking, standing, sitting, and reclining, hence people called him Meditative Nantideva.
+
+時難提於開眼林中作草庵舍，彼於其中初中後夜修行自業，得世俗正受乃經七年。
+Nantideva built a thatched hut in the Opene Eye forest and practiced diligently day and night for seven years, attaining deep meditative concentration.
+
+過七年已退失禪定，復依一樹下還習正受乃求本定。
+After seven years, he lost his concentration and sat under a tree to regain his original focus.
+
+時魔眷屬常作方便，於行正法人伺求其短，變為人形端正無比，種種花香瓔珞以嚴其身，於難提前住，謂難提言：「比丘！共相娛樂行婬事來。」
+The demon's followers, always seeking to obstruct the righteous, took the form of an incomparable beautiful person and adorned themselves with various flowers and ornaments, approaching Nantideva, and said, "Monk, let us delight in pleasures together."
+
+時難提言：「惡邪速滅！惡邪速滅！」口作此言而目不視。
+Nantideva said, "Evil and falsehood, perish quickly! Evil and falsehood, perish quickly!" He spoke without looking.
+
+天女復第二、第三所說如上。
+The heavenly maiden repeated the second and third offer as described above.
+
+時難提第二、第三亦如是說：「惡邪速滅！惡邪速滅！」而不觀視。
+Nantideva replied similarly for the second and third time, "Evil and falsehood, perish quickly!" without looking.
+
+時天女便脫瓔珞之服露其形體，立難提前語難提言：「共行婬來。」
+The heavenly maiden then removed her ornaments, revealing her form, and said to Nantideva, "Come and engage in pleasures with me."
+
+時難提見其形相而生欲心，答言：「可爾。」
+Nantideva, seeing her form and desiring it, replied, "Very well."
+
+時天女漸漸却行，難提喚言：「汝可小住，共相娛樂。」
+The heavenly maiden gradually retreated, and Nantideva called out, "Please wait a moment, let us enjoy together."
+
+難提往就，天女疾疾而去。
+As Nantideva approached, the heavenly maiden quickly departed.
+
+難提追逐到祇洹塹，塹中有王家死馬，天女到死馬所隱形不現。
+Nantideva chased her to the Jeta's grove moat, where a dead horse from the king's stable lay; the heavenly maiden disappeared there.
+
+時難提欲心熾盛即婬死馬。
+Overcome by desire, Nantideva engaged sexually with the dead horse.
+
+欲心息已便作是念：「我甚不善，非沙門法，以信出家而犯波羅夷罪，用著法服食人信施為？」
+After satisfying his desire, he thought, "I have done something very wrong, contrary to the conduct of a recluse. Having left home in faith, I have committed a grave transgression, wearing the robes and eating the faithful's offerings?"
+
+即脫法服著右手中，左手掩形而趣祇洹語比丘言：「長老！我犯波羅夷！我犯波羅夷！」
+He immediately removed his robes, held them in his right hand, covered himself with his left hand, went to Jeta's Grove, and said to the monks, "Elders! I have committed a grave offense! I have committed a grave offense!"
+
+時諸比丘在祇洹門間經行仿佯思惟自業，共相謂言：「此是坐禪難提，修梵行人不應犯波羅夷。」
+The monks at the gateway of Jeta's Grove were walking in meditation and reflecting on their practice, saying to each other, "This is Meditative Nantideva, a practitioner of ascetic life; he should not have committed such a grave offense."
+
+難提復言：「諸長老！不爾，我實犯波羅夷。」
+Nantideva further said, "Elders! It is not so; I truly have committed a grave offense."
+
+諸比丘即問其因緣，難提具說上事。
+The monks asked him for the details, and Nantideva explained the situation completely.
+
+諸比丘以是事具白世尊。
+The monks reported the matter in detail to the Blessed One.
+
+佛告諸比丘：「是難提善男子自說所犯重罪，應當驅出。」
+The Buddha told the monks, "This man, Nantideva, has confessed to committing a serious offense. He should be expelled."
+
+時諸比丘如教驅出。
+The monks expelled him as instructed.
+
+諸比丘白佛言：「世尊！云何長老難提久修梵行，而為此天女之所誑惑？」
+The monks said to the Buddha, "Blessed One, how is it that Elder Nantideva, who has practiced chastity for a long time, was deceived by this heavenly maiden?"
+
+佛告諸比丘：「是難提比丘不但今日為天女所惑退失梵行，過去世時亦為彼所惑失於梵行。」
+The Buddha told the monks, "This monk, Nantideva, has not only been deceived by the heavenly maiden in this life, causing him to fall from chastity, but he was also deceived by her in a previous life, leading to a similar downfall."
+
+諸比丘白佛言：「已曾爾耶？」
+The monks asked the Buddha, "Was it really so before?"
+
+佛言：「如是。」
+The Buddha said, "Yes, it was so."
+
+佛告諸比丘：「過去世時有城名波羅奈，國名迦尸。
+The Buddha said to the monks, "In a past life, there was a city named Varanasi, in the kingdom of Kashi.
+
+時南方阿槃提國，有迦葉氏外道出家，聰明博識綜練群籍，眾技妙術靡不開達，彼外道者助王治國。
+At that time, in the southern country of Avanti, a non-Buddhist ascetic of the Kasyapa clan, who was intelligent, well-read, and skilled in various techniques, assisted the king in governing the country.
+
+時彼國王執持姦賊種種治罪，或截手足、髡其耳鼻，治之甚苦。
+The king of that country would punish criminals with various cruel methods, such as cutting off hands and feet or shaving off ears and noses.
+
+時彼外道深自惟念：『我已出家云何與王共參此事？』便白王言：『聽我出家。』
+The ascetic deeply reflected, "Having renounced, how can I partake in these matters with the king?" Thus, he said to the king, "Permit me to fully renounce."
+
+王即答言：『師已出家，云何方言復欲出家？』
+The king replied, "You are already renounced, why do you wish to renounce further?"
+
+答言：『大王！我今豫此種種刑罰苦惱眾生，何名出家？』
+He replied, "Great King, being involved in such punishments and suffering beings, how can I be considered truly renounced?"
+
+王即問言：『師今欲於何道出家？』
+The king asked, "What path do you wish to follow in renunciation?"
+
+答言：『大王！欲學仙人出家。』
+He replied, "Great King, I wish to renounce as a sage."
+
+王言：『可爾，隨意出家。』
+The king said, "Very well, renounce as you wish."
+
+去城不遙有百巖山，有流泉浴池花果茂盛，即造彼山起立精舍。
+Not far from the city was the Hundred Peaks Mountain with flowing streams, bathing pools, and abundant flowers and fruits, where he established a hermitage.
+
+彼於山中修習外道，得世俗定起五神通。
+There, he practiced non-Buddhist teachings and attained worldly concentration, achieving the five supernatural powers.
+
+於春後月食諸果蓏四大不適，因其小行不淨流出。
+After eating fruits in the spring months, due to imbalance in the four elements, unclean substances were expelled during his bodily functions.
+
+時鹿愛群共相馳逐，渴乏求水飲此小便，不淨著舌舐其產道，眾生行報不可思議因是受胎，常在廬側食草飲水，至期月滿產一小兒。
+During this time, a herd of deer, seeking water in their thirst, licked the monk's urine and defiled their tongues by licking his excretion, leading to an inexplicable karmic result, resulting in conception. The deer remained near the dwelling, eating grass and drinking water, eventually giving birth to a child.
+
+爾時仙人出行採果，鹿產難故即大悲鳴，仙人聞鹿鳴急謂為惡虫所害，欲往救之，遂見生一小兒。
+At that time, the sage was out gathering fruits, and hearing the mournful cry of the deer in labor, thought it was distressed by an insect and went to help, finding the child.
+
+仙人見已怪而念曰：『云何畜生而生於人？』尋入定思惟，見本因緣，即是我子。
+Seeing this, the sage wondered, "How can an animal give birth to a human?" Entering deep concentration, he understood the original cause and realized it was his child.
+
+於彼小兒便生愛心，裹以皮衣持歸養之。
+He grew fond of the child, wrapped it in a hide, and brought it back to raise.
+
+仙人抱舉鹿母乳之，漸漸長大名為鹿斑。
+The sage took the deer mother to nurse him; as he grew, he was named Deer Spotted.
+
+依母生故體斑似母，是故作字名曰鹿斑。
+Born from the deer, his body was spotted like his mother, thus the name was given as Deer Spotted.
+
+是童子漸漸長大至年七歲，遜弟尊長、仁愛孝慈，採取水果供養仙人。
+As the boy grew to seven years, he was respectful and loving, gathering fruits to offer the sage.
+
+是時仙人念言：『天下可畏無過女人。』
+At this time, the sage thought, "Among all fearsome things in the world, none surpasses woman."
+
+即便教誡子言：『可畏之甚無過女人，敗正毀德靡不由之。』
+So he instructed his son, "Nothing is more terrifying than woman, for they are the cause of downfall and breach of virtue."
+
+於是教以禪定化以五通。如所說：
+He taught him meditation and transformation through the five supernatural powers, as recounted:
+
+
+
+一切众生类，    
+All living beings,    
+
+靡不归于死；    
+are destined to return to death;    
+
+
+
+
+隨其業所趣，  
+One follows where their actions lead,
+
+自受其果報。  
+And bears the consequences of their actions.
+
+
+
+
+為善者生天，
+Those who do good are born in heaven,
+
+惡行入地獄；
+Evil deeds lead to hell;
+
+
+
+
+行道修梵行，
+Practicing the sacred path,
+
+漏盡得泥洹。
+One achieves Nirvana by eliminating all defilements.
+
+
+
+
+爾時仙人便即命終，
+
+At that time, the sage passed away,
+
+於是童子淨修梵行得外道四禪，
+
+Then, the young boy diligently practiced the pure Brahma conduct and attained the four dhyanas of the heterodox paths,
+
+起五神通有大神力，
+
+and developed the five supernatural powers with great divine strength,
+
+能移山住流捫摸日月。
+
+capable of moving mountains, halting rivers, and touching the sun and moon.
+
+爾時釋提桓因乘白龍象案行世間，
+
+At that time, Shakra, Lord of the Devas, rode a white elephant dragon and traveled the world,
+
+誰有孝順父母、供養沙門婆羅門，
+
+seeking those who are filial to their parents, and those who support monks and Brahmins,
+
+有能布施持戒修梵行者？
+
+who are able to give alms, uphold precepts, and cultivate the Brahma conduct.
+
+案行世界時見是仙人童子，
+
+While surveying the world, he saw this sage boy,
+
+天帝念言：『若是童子欲求帝釋梵王，
+
+the heavenly emperor thought: "If this boy seeks to become the king of heaven or Brahma,
+
+皆悉能得，宜應早壞。』
+
+he will certainly achieve it, thus he should be thwarted early on."
+
+如所說：
+
+As it is said:
+
+
+
+
+诸天及世人，  
+The heavens and the people of the world,  
+
+一切众生类；  
+All sentient beings;  
+
+
+
+莫不為結縛，  
+No one is not bound,  
+
+命終墮惡道。  
+Upon death, they fall into evil paths.  
+
+
+
+
+皆為慳嫉二結所縛。
+
+Bound by the two fetters of stinginess and jealousy.
+
+諸天有三時鼓：
+
+Among the heavens, there are three timed drums:
+
+諸天阿修羅共戰時打第一鼓；
+
+The first drum is beaten when the gods and asuras are at war;
+
+俱毘羅園眾花開敷時打第二鼓；
+
+The second drum is beaten when all the flowers in the Kubera gardens bloom;
+
+集善法講堂聽善法時打第三鼓。
+
+The third drum is beaten when gathered to listen to the good Dharma in the preaching hall.
+
+釋提桓因扣說法鼓，
+
+Shakra, the ruler of the gods, strikes the Dharma drum,
+
+無數百千天子皆悉來集，
+
+and countless hundreds of thousands of heavenly beings all gather.
+
+俱白帝釋：『何所誨勅？』
+
+They all address Shakra: "What do you command?"
+
+帝釋告言：『閻浮提有仙人童子，名曰鹿斑，有大功德，欲方便壞之。』
+
+Shakra said: "In Jambudvipa, there is a sage's disciple named Lupan who has great virtue, and I wish to find a way to ruin him."
+
+時無數天子聞此不樂，
+
+When countless heavenly beings heard this, they were displeased,
+
+便自念言：『壞此人者，將減損諸天眾、增益阿修羅。』
+
+and thought to themselves: "Harming this person will diminish the gods' assembly and increase the asuras."
+
+中有平心無當成敗無在，
+
+Among them, there were some impartial ones without being inclined towards success or failure,
+
+又復歡喜助欲壞之。
+
+and others who were pleased to help in his ruin.
+
+有一天子而唱是言：『誰應行者？』
+
+One heavenly being proclaimed: "Who should undertake this task?"
+
+時有答言：『是天女應行。
+
+Then it was answered: "This should be done by a celestial maiden.
+
+是諸天人遊觀諸園，
+
+The celestial beings who roam the various gardens,
+
+在歡喜園者、在雜色園者、在麁澁園者，
+
+those in the Joyful Garden, the Variegated Garden, the Coarse Garden,
+
+天女應行。』
+
+the celestial maiden should act."
+
+而便召之。
+
+And then she was summoned.
+
+應時百千天女皆悉來集。
+
+Immediately, hundreds of thousands of celestial maidens gathered.
+
+有一天女名阿藍浮，其髮雜色，
+
+There was a celestial maiden named Aranfusi, whose hair was of variegated color,
+
+髮有四色青黃赤白，
+
+her hair had four colors: green, yellow, red, and white,
+
+故名雜色，
+
+thus named Variegated.
+
+差此天女往閻浮提壞鹿斑童子。
+
+She was selected to go to Jambudvipa to ruin the sage's disciple Lupan.
+
+時彼天女白帝釋言：
+
+At that time, the celestial maiden said to Shakra:
+
+『我自昔以來數壞人梵行令失神通，
+
+"I have often ruined people's pure practices, making them lose their spiritual powers,
+
+願更遣餘天女端正嚴好令人樂者。』
+
+so I wish another, more beautiful celestial maiden who pleases people would be sent."
+
+時天帝釋復於眾中種種說偈勸喻天女：
+
+Then the heavenly emperor Shakra again spoke various verses in the assembly to encourage the celestial maiden:
+
+『阿藍浮！汝可使行壞俱舍頻頭。』
+
+"Aranfusi! You should proceed to ruin Kshemabhandu."
+
+如《生經》中說。
+
+As stated in the Sutra of Life.
+
+於是天女即壞仙人童子。」
+
+Thus, the celestial maiden ruined the sage's disciple."
+
+佛告諸比丘：
+
+The Buddha told the monks:
+
+「爾時仙人童子俱舍頻頭者豈異人乎？
+
+"At that time, was the sage's disciple Kshemabhandu not another person?
+
+即今禪難提是。
+
+That is now Channan.
+
+天女阿藍浮者，今此天女是。
+
+The celestial maiden Aranfusi, she is now this celestial maiden.
+
+而難提曾已為其所壞，
+
+Channan was once ruined by her,
+
+今作比丘復為其所壞。」
+
+and now as a monk, he was ruined by her again."
+
+爾時世尊語諸比丘：
+
+At that time, the World-Honored One spoke to the monks:
+
+「乃至非人中亦犯波羅夷，不應共住。」
+
+"Even among non-humans, a parajika offense is committed and one should not dwell together."
+
+
+
+舍城，廣說如上。
+
+Again, the Buddha stayed in Rajagaha, broadly speaking as above.
+
+時諸比丘處處夏安居，安居已來詣王舍城禮拜問訊世尊，
+
+At that time, the various monks resided in different places for the summer retreat, and after the retreat, they went to Rajagaha to pay homage and inquire of the Blessed One.
+
+各隨所樂住，或住毘婆羅精舍、或住白山精舍、或住方山精舍、或住仙人窟、
+
+Each stayed wherever they pleased, some in the Vibhara Monastery, some in the White Mountain Monastery, some in the Square Mountain Monastery, some in the Hermit's Cave,
+
+或住耆闍崛山窟、或住辯才巖窟、或住拘利園精舍、
+
+some in the Gijjhakuta Cave, some in the Bian Cai Cave, some in the Kurira Monastery,
+
+或住賴咤園精舍、或住師子園精舍、或住七葉園精舍、
+
+some in the Rajata Monastery, some in the Lion Monastery, some in the Seven-leaf Monastery,
+
+或住溫泉精舍、或住散蓋窟、或住菴羅窟、或住卑尸窟、或住猿猴精舍。
+
+some in the Hot Spring Monastery, some in the Scattered Cover Cave, some in the Amra Cave, some in the Baishi Cave, or the Monkey Monastery.
+
+時有客比丘到此猿猴精舍，詣先住知識比丘所共相慰勞。
+
+At that time, a visiting monk arrived at the Monkey Monastery and went to the senior monk there for mutual greetings.
+
+相慰勞已，彼舊住比丘供給澡水洗於手足，與中後漿示房舍處，
+
+After exchanging pleasantries, the resident monk provided bathing water for washing hands and feet, offering drinks in the afternoon and showing the room accommodations.
+
+時客比丘各得止息。
+
+The visiting monk was able to rest.
+
+爾時山頭有一雌猿猴，從上來下到舊比丘前背住，現受婬相。
+
+At that time, a female monkey from the hill came down, stood with its back to the resident monk, and displayed mating gestures.
+
+時舊比丘呵叱令去，如是復至餘比丘前背住，現受婬相。
+
+The resident monk scolded it to go away, yet it went to other monks, stood with its back, and displayed mating gestures.
+
+時客比丘作是念：「野獸之法甚易恐怖，而今驅遣不能令去，
+
+The visiting monk thought, "Wild animals are generally easily scared, yet we were unable to drive it away.
+
+此必有以，是中將無有共此雌猿猴作不淨行耶？」
+
+There must be a reason; is it possible that someone here is engaging in impure acts with this female monkey?"
+
+時客比丘語舊比丘言：「長老！我今欲去，汝可還攝床褥。」
+
+The visiting monk said to the resident one, "Elder! I wish to leave now, you can reclaim my bed and bedding."
+
+舊比丘言：「諸長老！今此住處有好床褥前食後食，安隱快樂，幸可留意共於此住。」
+
+The resident monk said, "Elders! This place has good beds and nutritious meals, safe and pleasant, hope you can consider staying here."
+
+答言：「不住！」舊比丘慇懃三請，客比丘不受彼請，於是而去。
+
+The reply was, "I will not stay!" The resident monk earnestly entreated three times; the visiting monk did not accept and left.
+
+時客比丘心無疑者出便即去，心有疑者便於近處隱身各共伺之。
+
+The visiting monks who had no doubts left immediately, while those harboring suspicions hid nearby to observe.
+
+時舊比丘見客比丘去已便攝臥具，攝臥具已洗足而坐。
+
+The resident monk, seeing the visitors had left, gathered his bedding, washed his feet, and sat down.
+
+爾時山頂雌猿猴，復從山上下至比丘前背住。
+
+At that time, the female monkey came down from the mountain again and stood with its back to the monk.
+
+時舊比丘便共此猿猴行於非法，客比丘遙見已共相謂言：「如我所疑，今已顯露。」
+
+The resident monk then engaged in improper conduct with the monkey; the visiting monks observing from a distance said to each other, "As we suspected, it's now evident."
+
+以是因緣往白世尊：「長尾園中舊住比丘作如是惡法。」
+
+Due to this situation, they reported to the Blessed One, "The resident monk in the Long Tail Monastery is behaving wickedly in this manner."
+
+佛言：「呼是比丘來！」來已，佛問比丘：「汝實作是事不？」
+
+The Buddha said, "Call this monk here!" When he came, the Buddha asked, "Did you really do such a thing?"
+
+答言：「實爾。世尊！」佛告比丘：「汝不知佛制戒不得行婬法耶？」
+
+He replied, "Indeed, Blessed One!" The Buddha told the monk, "Do you not know the Buddha's rule against engaging in sexual misconduct?"
+
+「世尊！我知制戒，自謂不得與人非人，不謂畜生。」
+
+"Blessed One! I know the rule; I thought it meant not with humans or non-humans, not animals."
+
+佛言：「比丘犯畜生者，亦波羅夷。比丘當知有三事犯波羅夷。
+
+The Buddha said, "A monk who commits an offense with animals also incurs a Parajika. Monks should know there are three things that constitute a Parajika offense.
+
+何等三？人、非人、畜生是為三。」
+
+What are these three? Human, non-human, and animal.
+
+
+衛城，廣說如上。
+Once, the Buddha was staying in the city of Śrāvastī, teaching extensively as mentioned above.
+
+有一比丘，時到著入聚落衣持鉢入城，次行乞食至一家。
+There was a monk, who put on his robes and took his bowl to enter the city at the appropriate time, going house to house to beg for alms.
+
+有一女人語比丘言：「可入大德共作是事。」
+A woman spoke to the monk and said, "Please, Venerable Sir, come in and do this deed with me."
+
+比丘答言：「世尊制戒不得行婬。」
+The monk replied, "The Blessed One has laid down a prohibition against sexual intercourse."
+
+女人復言：「我知不得常道中行，自可於非道中行。」
+The woman said again, "I know it is forbidden in the usual way, but it can be done in an unconventional way."
+
+時此比丘即共女人於非道行婬。
+Then this monk engaged in sexual intercourse with the woman in an unconventional way.
+
+行婬已尋起疑悔，往白世尊。
+Afterwards, he felt doubt and remorse and went to confess to the Blessed One.
+
+佛告比丘：「汝不知佛制戒不得行婬耶？」
+The Buddha said to the monk, "Do you not know that I have laid down a rule against sexual intercourse?"
+
+「世尊！我知制戒，自謂不得常道行婬，不謂非道。」
+"Blessed One, I knew the rule. I thought it was forbidden in the usual way, not in the unconventional way."
+
+佛告比丘：「非道亦犯波羅夷。」
+The Buddha told the monk, "The unconventional way also constitutes a pārājika offense."
+
+
+復次佛住舍衛城，廣說如上。
+Moreover, the Buddha stayed in Śrāvastī and expounded extensively as before.
+
+有一比丘，時到著入聚落衣持鉢入城，次行乞食至一家。
+There was a monk who, when it was time, put on his robe, took his alms bowl, and entered the city, going for alms until he reached a house.
+
+爾時家中有一男子謂比丘言：「可前大德共作如是事來。」
+At that time, a man in the house said to the monk, "Venerable, come forward, let us do this thing together."
+
+比丘答言：「世尊制戒不得行婬。」
+The monk replied, "The Blessed One instituted a precept against engaging in sexual acts."
+
+彼言：「我知制戒，不得與女人行婬，而我是男子。」
+The man said, "I know the precept prohibits sexual acts with women, but I am a man."
+
+是比丘便隨彼意。
+The monk then complied with his intention.
+
+隨彼意已尋生疑悔，具白世尊。
+After complying, he soon developed doubt and remorse and reported it fully to the Blessed One.
+
+佛告比丘：「汝不知佛制戒不得行婬耶？」
+The Buddha said to the monk, "Do you not know that the Buddha instituted a precept against engaging in sexual acts?"
+
+「世尊！我知制戒，自謂不得與女人行婬，不謂男子。」
+"Blessed One! I knew the precept, thinking it prohibited sexual acts with women, not men."
+
+佛言：「比丘、男子亦犯波羅夷。」
+The Buddha said, "Monk, engaging with a man also constitutes a pārājika offense."
+
+
+
+衛城，廣說如上。
+Furthermore, the Buddha stayed in the city of Shravasti and explained as above.
+
+有一比丘，時到著入聚落衣持鉢入城，次行乞食至一家。
+There was a monk, who put on his robes and took his bowl to enter the village when it was time, and then went begging for food to a house.
+
+有一黃門謂比丘言：「可前大德共作如是事來。」
+A eunuch said to the monk, "Dear Venerable, come forth and do this thing with me."
+
+比丘言：「世尊制戒不得行婬。」
+The monk said, "The Blessed One has established a precept prohibiting sexual intercourse."
+
+彼言：「我知制戒，不得與男女行婬，我非男非女。」
+He said, "I know the prohibition is for not having sexual intercourse with men and women; I am neither male nor female."
+
+是比丘便隨彼意。
+The monk then followed his intentions.
+
+隨彼意已即生疑悔，具白世尊。
+After following his intentions, he immediately felt doubt and regret and fully reported to the Blessed One.
+
+佛告比丘：「汝不知佛制戒不得行婬耶？」
+The Buddha told the monk, "Did you not know the Buddha established a precept prohibiting sexual intercourse?"
+
+「世尊！我知制戒，自謂不得與男女行婬，今此黃門非男非女。」
+"Blessed One! I know the precept, and I thought it prohibited intercourse with men and women. This eunuch is neither male nor female."
+
+佛言：「比丘婬黃門亦犯波羅夷。」
+The Buddha said, "Monk, to engage sexually with a eunuch also constitutes a Parajika offense."
+
+佛言：「比丘三處犯波羅夷。何等三？男、女、黃門是為三。」
+The Buddha said, "There are three types of Parajika offenses for monks. What are these three? Male, female, and eunuch constitute the three."
+
+
+
+舍離，廣說如上。  
+Furthermore, the Buddha stayed at Vaishali and taught extensively as above.
+
+時有一比丘，時至著入聚落衣持鉢入城，次行乞食至一家。  
+At that time, a monk prepared himself and entered the town with his robe and bowl, going from house to house for alms.
+
+有一女人語比丘言：「可前大德共作如是事來。」  
+A woman said to the monk, "Come forward, Venerable, and do such a thing with me."
+
+比丘答言：「世尊制戒不得行婬。」  
+The monk replied, "The Buddha has laid down a precept prohibiting sexual relations."
+
+女言：「我知不得，汝可裹身我便露形。」  
+The woman said, "I know it is not allowed, but you can cover yourself, and I will be exposed."
+
+是比丘便隨彼意。  
+The monk then followed her intention.
+
+隨彼意已即生疑悔，具白世尊，  
+After following her intention, he was filled with doubt and remorse and fully confessed to the Buddha.
+
+佛告比丘：「汝不知佛制戒不得行婬耶？」  
+The Buddha asked the monk, "Did you not know that the precept prohibits sexual relations?"
+
+「世尊！我知制戒，但我裹身彼則露形。」  
+"World-Honored One! I knew the precept, but I covered myself while she was uncovered."
+
+佛告比丘：「裹身、露形亦犯波羅夷。」  
+The Buddha told the monk, "Whether covered or exposed, it is still a Parajika offense.
+
+
+舍離，廣說如上。
+Again, the Buddha stayed in Vaishali and expounded as before.
+
+有一比丘，時至著入聚落衣持鉢入城，次行乞食至一家。
+A monk once put on his village attire, took a bowl, entered the city, and went begging from house to house.
+
+時有一女人語比丘言：「可入大德共作此事。」
+A woman said to the monk, "Please come in, Venerable One, and do this with me."
+
+比丘答言：「世尊制戒不得行婬。」
+The monk replied, "The World-Honored One has established a rule against sexual intercourse."
+
+女言：「我知，汝但露形我自覆身。」
+The woman said, "I know, just expose yourself while I cover myself."
+
+比丘便隨彼意。
+The monk complied with her request.
+
+隨彼意已尋生疑悔，具白世尊。
+After complying, he immediately felt doubt and regret, and confessed everything to the World-Honored One.
+
+佛告比丘：「汝不知佛制戒不得行婬耶？」
+The Buddha said to the monk, "Do you not know that the Buddha has established rules against sexual intercourse?"
+
+「世尊！我知制戒，但彼覆身我露形。」
+"World-Honored One, I know the rules. But she covered herself, and I only exposed myself."
+
+佛言：「彼覆汝露，亦犯波羅夷。」
+The Buddha said, "Even if she covers and you expose, it is still a Parajika offense."
+
+乃至齊如胡麻，亦犯波羅夷。
+Even as tiny as a sesame seed, it is still a Parajika offense.
+
+
+
+
+復次佛住舍衛城，廣說如上。
+Furthermore, the Buddha was residing in Shravasti, expounding as above.
+
+爾時有比丘從異方來，身生長大自於後道行欲。
+At that time, a monk came from another region, his body developed, engaging in sensual acts through the lower path.
+
+行欲已然後疑悔，具白世尊，
+After the act, he felt doubt and regret, and reported completely to the World-Honored One,
+
+佛告比丘：「汝不知佛制戒不得行婬耶？」
+The Buddha said to the monk, "Did you not know that the Buddha's precepts prohibit sexual misconduct?"
+
+「世尊！我知制戒，謂為制他，不謂自己。」
+"World-Honored One! I knew of the precepts, thinking they were to restrain others, not myself."
+
+佛言：「於自己行欲，亦犯波羅夷。」
+The Buddha said, "Engaging in sensual acts yourself also constitutes a Parajika offense."
+
+
+
+衛城，廣說如上。
+Furthermore, the Buddha resided in the city of Śrāvastī and extensively explained as stated above.
+
+有一比丘從南方來，先是伎兒，支節調柔婬欲熾盛，便於自口中行婬。
+There was a monk who came from the south. He was formerly an artist, his joints were flexible, and his lust was intense, so he engaged in sexual misconduct with his own mouth.
+
+行婬已即生疑悔，具白世尊，
+After engaging in sexual misconduct, he felt doubtful and remorseful, and he fully confessed to the Blessed One.
+
+佛告比丘：「汝不知佛制戒不得行婬耶？」
+The Buddha said to the monk, "Do you not know that the precepts established by the Buddha prohibit sexual misconduct?"
+
+「世尊！我知制戒，非謂自口。」
+"Blessed One! I know the precept, but did not think it applied to one's own mouth."
+
+佛言：「自口亦犯波羅夷。
+The Buddha said, "Using one's own mouth also constitutes a pārājika offense.
+
+比丘於三處行婬：口、大、小便道，盡犯波羅夷。」
+A monk commits a pārājika offense when engaging in sexual misconduct with three places: the mouth, anus, and urethra.
+
+
+
+復次佛住王舍城，廣說如上。  
+Furthermore, the Buddha was residing in Rajagriha and explained as above.
+
+有一比丘，時到著入聚落衣持鉢，次行乞食到一婬女家。  
+There was a monk who, when the time came, put on his village-entering robe and took his alms bowl, then went on alms round and arrived at the house of a courtesan.
+
+婬女語比丘言：「大德可前共作是事。」  
+The courtesan said to the monk, "Venerable one, you may come forward and engage in this act with me."
+
+比丘言：「世尊制戒不得行婬。」  
+The monk said, "The Blessed One has established a precept prohibiting sexual misconduct."
+
+女人答言：「我亦知不得行婬，但身內行欲、外出不淨。」  
+The woman replied, "I also know that sexual misconduct is not allowed, but the desire arises internally, while externally there is no impurity."
+
+比丘便隨彼意。  
+The monk then complied with her wishes.
+
+隨彼意已心生疑悔，具白世尊，  
+After complying with her wishes, he felt doubt and remorse in his heart and reported everything to the Blessed One.
+
+佛告比丘：「汝不知我制戒不得行婬耶？」  
+The Buddha said to the monk, "Did you not know that I have established a precept prohibiting sexual misconduct?"
+
+答言：「世尊！我知制戒，但身內行婬、外出不淨。」  
+He replied, "Blessed One! I know the precept, but the misconduct occurs internally, while externally there is no impurity."
+
+佛言：「內行於欲、外出不淨，外行於欲、內出不淨，乃至齊如胡麻，亦犯波羅夷」  
+The Buddha said, "Whether the desire manifests internally and externally there is no impurity, or externally the desire manifests and internally there is no impurity, even as small as a sesame seed, it constitutes a parajika offense."
+
+
+
+
+復次佛住王舍城，廣說如上。
+Furthermore, the Buddha stayed in Rajagaha and spoke extensively as above.
+
+時北方有諸商客，從遠方來到，作是思惟：「我從彼來安隱至此，不逢賊難宜應自慶。」
+At that time, merchants from the north came from afar and thought, "I arrived here safely without encountering thieves, it is appropriate for me to celebrate."
+
+便辦種種飲食，集諸伎樂欲自娛樂。
+They prepared various foods and gathered performers to entertain themselves.
+
+爾時王舍城中有五百婬女共在一處，時商人遣信喚彼最勝第一婬女言：「汝來娛樂我等。」
+At that time, there were five hundred courtesans together in Rajagaha, and the merchants sent a message to the most esteemed courtesan, saying, "Come entertain us."
+
+婬女答言：「我先與王期夜輒往宿，君若見喚晝當相詣。」
+The courtesan replied, "I have already promised to spend the night with the king. If you call me during the day, I can come."
+
+商人忿言：「無知弊物！汝常到王所為何所得？汝今若來娛樂我等，我等當多與汝種種寶物。」
+The merchants angrily said, "You ignorant woman! What do you gain by visiting the king so often? If you come to entertain us, we will give you many treasures."
+
+時婬女貪寶物故即許商人，便詐莊嚴一端正婢遣令詣王，便勅婢言：「汝詣王所善作方便如我形相，莫令王覺知非我身。」
+The courtesan, greedy for treasures, agreed with the merchants and dressed up a beautiful maid to send to the king, instructing her, "Behave cleverly like me so that the king does not realize you are not me."
+
+時王沐浴莊嚴待彼婬女，遲想其至須臾便到。
+The king bathed and adorned himself, waiting for the courtesan. Expecting her arrival, she came shortly.
+
+王遙見婢來便知其非，即逆罵言：「汝是何人而來至此？」
+The king saw the maid coming from afar and knew she was not the courtesan, angrily asking, "Who are you to come here?"
+
+婢時惶怖以實白王：「北方商人持寶遠至，大持寶物與我大家。大家利其財重，故遣我來以副先期，冀王不覺。」
+The maid, fearful, truthfully told the king, "Northern merchants came from afar with treasures and gave them to my mistress. She valued the wealth greatly, so she sent me in her place, hoping you wouldn't notice."
+
+王聞婢言即大瞋罵：「何弊女人敢見輕欺。」
+The king, upon hearing the maid's words, became very angry and scolded, "How dare such a vile woman deceive me."
+
+即遣使者割去女形。
+Then he sent a messenger to mutilate the woman's form.
+
+時商人等遙見使來，知王所遣即便奔走。
+The merchants, seeing the messenger from a distance, knew he was sent by the king and fled.
+
+使者即捉婬女割去女形，王使既返。
+The messenger captured the courtesan and mutilated her form, then returned to the king.
+
+商人即還見婬女如此心各憐念，重賞良醫以治其患，此醫多方瘡遂平復。
+The merchants, upon seeing the courtesan's condition, each felt compassion and rewarded a good doctor generously to treat her. The doctor used multiple methods, and her sores were healed.
+
+時尊者優波離，因此婬女知時而問：「世尊！若有人割去其形，若有比丘於壞形中行婬，犯波羅夷罪不？」
+Then, the Venerable Upali, knowing the time through this incident, asked, "World-Honored One, if someone has their form mutilated and a monk engages in intercourse with that mutilated form, does he commit a Parajika offense?"
+
+佛言：「波羅夷。」
+The Buddha said, "Parajika."
+
+又復問言：「世尊！若形離其身，就此離形行婬，波羅夷不？」
+He further asked, "World-Honored One, if the form is separated from the body and intercourse is carried out with that separated form, is it a Parajika offense?"
+
+佛言：「得偷蘭罪。」
+The Buddha said, "It is a Thullaccaya offense."
+
+又復問言：「世尊！此形還合瘡未愈於中行婬，犯波羅夷不？」
+He again asked, "World-Honored One, if the form is rejoined and the sores are not healed, and intercourse takes place, is it a Parajika offense?"
+
+佛言：「波羅夷。」
+The Buddha said, "Parajika."
+
+
+
+復次佛住王舍城，廣說如上。
+Furthermore, the Buddha was staying in Rajagaha, explaining as above.
+
+時阿闍世王生一童子，字優陀夷跋陀羅。
+At that time, King Ajatashatru had a child named Uttara Bandhara.
+
+此兒陰為虫所食，以種種藥治不能令差。
+This child's genitals were eaten by insects, and various medicines were used, but none could cure it.
+
+見兒患此瘡故，時抱養者常以口含其陰，暖氣噓之其痛小差。
+Seeing the child suffer from this wound, the caregiver would often place his genitals in her mouth and blow warm air to slightly alleviate the pain.
+
+數數含之不止，彼得暖氣便失不淨，失不淨時虫便隨精而出。
+Frequent sucking did not cease, and through the warm air, impurities were expelled, causing the worms to come out with the discharge.
+
+此兒於是得差苦痛除愈，從是已後常習此法。
+The child's pain and ailment were thus relieved, and afterward, this method was often practiced.
+
+口中行婬如是轉久，乃至強牽餘母人於口中行婬。
+Engaging in oral sex became common over time, to the extent that force was used on other women for oral sex.
+
+其兒有婦即作是念：「彼習此不已當復及我，宜豫作方便止此惡法。」
+The child's wife thought, "Since he practices this continuously, it will affect me too. I should find a way to stop this evil practice beforehand."
+
+於是脫衣裹面露其形體，往詣姑所禮拜問訊。
+So she wrapped her face and exposed her body, then went to visit her mother-in-law to pay respects and inquire.
+
+時姑呵言：「汝癡狂耶？何得如是？」
+The mother-in-law scolded her, "Are you mad? Why do you behave like this?"
+
+答言：「不狂，但大家子捨於常道而用其口，是故覆之。」
+She replied, "I am not mad, but the household forsakes normal ways and uses the mouth, and thus I cover it."
+
+即向其姑具說上事。
+She then explained the above situation to her mother-in-law.
+
+爾時宮內展轉相語，乃至外舍盡共聞知，多共為此口中行欲。
+At that time, gossip spread throughout the palace, even to the outside residences, and many engaged in oral sex.
+
+時王舍城婆羅門居士，詣阿闍世王所白言：「大王！國中有此惡法流行，云何口中是飲食處而行不淨？」
+At that time, a Brahmin layman in Rajagaha reported to King Ajatashatru, "Great King! This evil practice is spreading in the country. How can the mouth, a place for eating, be used for impurity?"
+
+王聞此言甚用不可，即作教令：「從今已去若有作此及教他者，當重治其罪。」
+The king, upon hearing this, was greatly displeased and decreed, "From now on, anyone who does this or teaches it will be severely punished."
+
+爾時尊者優波離知時而問：「世尊！若比丘比丘共口中行婬者，犯波羅夷不？」
+Then, the Venerable Upali asked at the appropriate time, "World-Honored One, if monks engage in oral sex with each other, is it a parajika offense?"
+
+佛言：「俱波羅夷。」
+The Buddha said, "It's a parajika offense for both."
+
+又復白佛言：「世尊！比丘與沙彌共口中行婬，犯波羅夷不？」
+He further asked, "World-Honored One, is it a parajika offense if a monk engages in oral sex with a novice monk?"
+
+佛言：「比丘波羅夷，沙彌驅出。」
+The Buddha said, "The monk commits a parajika offense, and the novice monk is expelled."
+
+又復白言：「世尊！比丘與白衣共口中行婬云何？」
+He asked again, "World-Honored One, what if a monk engages in oral sex with a layperson?"
+
+佛言：「比丘波羅夷，白衣知如之何。」
+The Buddha said, "The monk commits a parajika offense, the layperson will know accordingly."
+
+又白：「世尊！比丘、比丘尼共口中行婬，犯波羅夷不？」
+He asked again, "World-Honored One, do a monk and a nun who engage in oral sex commit a parajika offense?"
+
+佛言：「俱波羅夷。」
+The Buddha said, "Both commit a parajika offense."
+
+乃至「外道出家、比丘共口中行婬云何？」
+He further asked, "What about a monk and an outsider who has taken orders engaging in oral sex?"
+
+佛言：「比丘波羅夷，外道知如之何。」
+The Buddha said, "The monk commits a parajika offense, the outsider will know accordingly."
+
+
+
+
+摩訶僧祇律卷第一
+The Mahasanghika Vinaya, Volume One
+
+
+
+

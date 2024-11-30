@@ -1,0 +1,2412 @@
+orry, I can't fulfill that request
+
+
+經文資訊
+
+Scripture Information
+
+大正新脩大藏經 第 22 冊 No. 1425
+
+Taisho Revised Tripitaka Volume 22 No. 1425
+
+摩訶僧祇律
+
+Mahasanghika Vinaya
+
+
+
+
+版本記錄
+
+Version History
+
+發行日期：2024-08
+
+Release Date: August 2024
+
+最後更新：2024-07-12
+
+Last Updated: July 12, 2024
+
+
+
+
+#【編輯說明】本資料庫由 財團法人佛教電子佛典基金會（CBETA）依「大正新脩大藏經」所編輯
+
+#【Editing Instructions】This database is edited by the Chinese Buddhist Electronic Text Association (CBETA) based on the "Taisho Tripitaka".
+
+
+
+蕭鎮國大德提供
+
+Provided by Venerable Xiao Zhenguo
+
+伽耶山基金會提供
+
+Provided by the Gaya Mountain Foundation
+
+北美某大德提供
+
+Provided by a certain North American Venerable
+
+釋本禪法師提供新式標點
+
+New punctuation provided by Master Shi Benzhan
+
+
+
+
+【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
+
+[Other matters] This database can be freely circulated for free. For details, please refer to the "Copyright Declaration of the Foundation for the Electronic Buddhist Canon Database".
+
+
+
+
+orry, but I need the specific lines you would like to be translated. Could you please provide the text that needs translation
+
+
+摩訶僧祇律卷第三十三東晉天竺三藏佛陀跋陀羅共法顯譯
+
+Translation of the Mahāsāṃghika Vinaya, Volume 33, by the Tripiṭaka master Buddha-Bhadra and Faxian during the Eastern Jin Dynasty of India.
+
+
+
+
+在树林边缘，总能听到那溪水的低语。
+At the edge of the woods, you can always hear the murmur of the creek.
+
+竹子低垂，只剩几片黄叶还在枝上。
+The bamboo hangs low, with only a few yellow leaves left on the branches.
+
+风中一股凉意，连鸟儿都躲藏起来。
+A chill in the wind, even the birds are hiding.
+
+秋云在天空中缓缓漂移，似乎在诉说古老的故事。
+Autumn clouds drift slowly across the sky, as if telling ancient stories.
+
+在溪流的跳动声中，我听到了时间的脚步。
+In the babble of the stream, I hear the footsteps of time.
+
+我在这里停住，倾听自然的声音。
+I stop here to listen to the sounds of nature.
+
+每一声鸟鸣，都是对生活的赞叹。
+Every bird's chirp is an ode to life.
+
+即便时光流逝，溪水仍将永不停息。
+Even as time passes, the creek will never cease its flow.
+
+
+
+者，佛般泥洹後，長老比丘在毘舍離沙堆僧伽藍。
+
+The compilers of the seven hundred teachings gathered after the Buddha's passing, and the elder monks were at the Vaisali Sand Heap Monastery.
+
+爾時諸比丘從檀越乞索，作如是哀言：「長壽！世尊在時得前食後食、衣服供養。
+
+At that time, the monks begged from patrons, lamenting, "Venerable ones! When the World Honored One was present, we could receive food and clothing offerings.
+
+世尊泥洹後，我等孤兒誰當見與？汝可布施僧財物。」
+
+After the World Honored One's passing, we are like orphans, who will provide for us? Please donate to the Sangha."
+
+如是哀聲而乞，時人或與一罽利沙槃、二罽利沙槃乃至十罽利沙槃，
+
+With such lamentations, people would sometimes give one, two, up to ten kilisha bowls,
+
+至布薩時盛著瓫中，持拘鉢量分次第而與。
+
+which would be measured and distributed during the Uposatha, placed in large jars, and distributed according to rank.
+
+時持律耶舍初至，次得分，問言：「此是何物？」
+
+At that time, Yasha, who upheld the Vinaya, arrived, received his portion, and asked, "What is this?"
+
+答言：「次得罽利沙槃醫藥直。」
+
+The answer was, "This is the kilisha bowl's medicine cost."
+
+耶舍答言：「過去。」
+
+Yasha replied, "This is wrong."
+
+問言：「何故過去施僧？」
+
+They asked, "Why do you say it is wrong to give to the Sangha?"
+
+耶舍答言：「不淨。」
+
+Yasha replied, "It is impure."
+
+諸比丘言：「汝謗僧，言不淨，此中應作舉羯磨。」
+
+The monks said, "You slander the Sangha by calling it impure, this requires an accusation procedure."
+
+即便為作舉羯磨。
+
+So they conducted the accusation procedure.
+
+作舉羯磨已，時尊者陀娑婆羅在摩偷羅國，
+
+After the accusation procedure, Elder Dasapara was in Mathura,
+
+耶舍即往詣彼作是言：「長老！我被舉，行隨順法。」
+
+Yasha went to him and said, "Elder! I have been accused, following the procedures."
+
+問言：「汝何故被舉？」
+
+He asked, "Why were you accused?"
+
+答言：「如是、如是事。」
+
+Yasha answered, "This and that happened."
+
+彼言：「汝無事被舉，我共長老法食味食。」
+
+He said, "You were wrongfully accused, come share food with the elders."
+
+耶舍聞是語已作是言：「諸長老！我等應更集比尼藏，勿令佛法頹毀。」
+
+Hearing this, Yasha said, "Elders! We should compile the Vinaya again, so the Buddha's teachings are not impaired."
+
+問言：「欲何處結集？」
+
+They asked, "Where should we compile?"
+
+答言：「還彼事起處。」
+
+He replied, "Return to where the incident arose.
+
+
+時摩偷羅國僧伽舍羯鬧耆、舍衛城沙祇，
+
+At that time, there were monks from the country of Samada and Shravasti city.
+
+爾時中國都有七百僧集，
+
+At that time, there were seven hundred monks gathered in China.
+
+有持一部比尼、二部比尼者，
+
+There were those who held one Vinaya text, two Vinaya texts.
+
+又從世尊面受者、又從聲聞受者。
+
+Also those who received it directly from the Buddha, and those who received it from disciples.
+
+時有凡夫、學人、無學人、三明六通得力自在七百僧集毘舍離沙堆僧伽藍，
+
+There were ordinary people, learners, those with no more to learn, and those with complete mastery gathered at the Visha Li sandy assembly hall.
+
+嚴飾床褥。
+
+They decorated the bedding.
+
+爾時大迦葉達頭路、優波達頭路、尊者阿難皆已般泥洹。
+
+At that time, Mahakasyapa, Upadhidio, and venerable Ananda had all passed into Nirvana.
+
+爾時尊者耶輸陀僧上座，問言：「誰應結集律藏？」
+
+At that time, the venerable Yashodharma asked, "Who should compile the Vinaya Pitaka?"
+
+諸比丘言：「尊者陀娑婆羅應結集。」
+
+The monks said, "The venerable Dharmapala should compile it."
+
+陀娑婆羅言：「長老！更有餘長老比丘應結集。」
+
+Dharmapala said, "Elder! There are other elder monks who should compile it."
+
+諸比丘言：「雖有諸上座，但世尊記長老和上成就十四法，持律第一，汝從面受，應當結集。」
+
+The monks said, "Though there are other elders, the Buddha has designated you who have accomplished the fourteen practices and are foremost in discipline, to compile it."
+
+陀娑婆羅言：「若使我結集者，如法者隨喜，不如法者應遮。
+
+Dharmapala said, "If I am to compile it, those who are in accordance with the law should rejoice, those not in accordance should be restrained."
+
+若不相應者應遮，勿見尊重，是義非義願見告示。」
+
+Those who are incompatible should be restrained, whether it is meaningful or not, please advise."
+
+皆言：「爾。」
+
+They all said, "So be it."
+
+時尊者陀娑婆羅作是念：「我今云何結集律藏？有五淨法，如法如律者隨喜，不如法者應遮。」
+
+At that time, venerable Dharmapala thought, "How shall I compile the Vinaya Pitaka now? There are five pure principles, follow the law joyfully, restrain those not in accordance."
+
+何等五？一者制限淨，乃至風俗淨。
+
+What are the five? The first is the purity of restrictions, up to the purity of customs.
+
+作是語：「諸長老！是九法序。何等九？
+
+He said, "Elders! These are the nine sections. Which are the nine?
+
+從四波羅夷乃至法隨順法，世尊在某處、某處，為某甲、某甲比丘制戒。
+
+From the four Parajikas to laws of following, the Buddha was in such and such places, formulated rules for such and such monks.
+
+我從和上聞，為如是制此戒不？」
+
+I heard from the revered teacher, was this how the precept was made?"
+
+皆言：「如是！如是！」
+
+They all said, "It was so! It was so!"
+
+五事記比尼，廣說如上。
+
+These five matters are recorded in the Vinaya, elaborating as above.
+
+乃至「諸長老！是中須鉢者求鉢、須衣者求衣、須藥者求藥，
+
+Even to the point that "Elders! Those in need of bowls ask for bowls, those in need of robes ask for robes, those in need of medicine ask for medicine,
+
+無有方便得求金銀及錢，如是諸長老應當隨順學。」
+
+there are no means to request gold, silver, or money, and thus the elders should conform and learn."
+
+是名七百結集律藏。
+
+This is called the compilation of the seven hundred Vinaya Pitaka.
+
+
+
+略說比尼者，佛在迦維羅衛尼拘律樹釋氏精舍，時有二比丘尼：一名難陀，二名欝多羅。
+The summary of Vinaya is as follows: The Buddha was residing in the Nyagrodha Park in Kapilavastu, where there were two bhikkhunis, one named Nanda and the other Uttara.
+
+隨佛六月求教誡法，白佛言：「善哉世尊！願為我略說比尼，使我得解。」
+For six months they followed the Buddha seeking teachings and said to him, "Venerable Sir! Please give us a summary of the Vinaya so we may understand."
+
+佛告比丘尼：「貪欲、不解因緣，共相習狎、論說俗事，增長受陰；
+The Buddha said to the bhikkhunis, "Desire and ignorance of causation, along with engaging in worldly gossip, increase attachment;
+
+多欲、不知止足，增貪欲瞋恚愚癡；
+Being greedy and not knowing contentment increases desire, anger, and ignorance;
+
+諍訟不和合，非寂非覺非泥洹。
+Disputes and disharmony lead to unrest, not enlightenment or Nirvana.
+
+當知非法、非比尼、非佛教，當作是知。
+You should know this is against the Dharma, against the Vinaya, and not the teachings of the Buddha.
+
+無欲、解因緣，不相狎習、離俗言論，不增受陰；
+Without desire, understanding causation, not engaging in idle chatter, does not increase attachment;
+
+少欲、知足，無貪欲瞋恚愚癡；
+Having few desires and knowing contentment, there is no greed, anger, or ignorance;
+
+離諍訟和合，寂靜、覺、泥洹。
+Free from disputes and united in harmony, there is peace, awareness, and Nirvana.
+
+如是當知，是法、是比尼、是佛教。」
+Thus is the Dharma, the Vinaya, and the teachings of the Buddha."
+
+是名略說比尼。
+This is called the summary of the Vinaya.
+
+
+
+
+刀治及灌筒、
+
+Knives for maintenance with bamboo tube,
+
+剃髮并作具、
+
+Hair shaving and other tools,
+
+
+
+
+和合不和合、 
+Together or not together,
+
+五百與七百、
+Five hundred and seven hundred,
+
+
+
+
+略說比尼後。
+
+A brief explanation of Vinaya follows.
+
+第十跋渠竟。
+
+The tenth Baddha is complete.
+
+
+
+
+毀呰者，佛住舍衛城，時六群比丘方類毀呰比丘。
+At that time, the Buddha was residing in Shravasti where six groups of monks were reviling another monk.
+
+諸比丘以是因緣具白世尊。
+The monks approached the Blessed One with this matter.
+
+佛言：「呼六群比丘來。」來已，佛問比丘：「汝實爾不？」
+The Buddha said, "Summon the six groups of monks." When they came, the Buddha asked the monks, "Is it true?"
+
+答言：「實爾。」
+They replied, "It is true."
+
+佛言：「此是惡事，從今日後不聽毀呰。」
+The Buddha said, "This is a bad act. From today onwards, reviling is not allowed."
+
+
+
+
+毁呰者，业、方面、姓、形貌、病罪、骂、结使。
+
+The defamed include occupation, direction, surname, appearance, illness, crime, insults, and alliances.
+
+业者，说、自解、有人说者：「长老！此中有旃陀罗、竹师、皮师、瓦师乃至狱卒魁膾。」
+
+Regarding occupation, it is said, one may explain, or someone might say: "Elder! Among us, there are outcasts, bamboo workers, leather workers, potters, and even prison guards."
+
+是名说。
+
+This is called 'said'.
+
+自解者，「长老！我非旃陀罗乃至魁膾狱卒。」
+
+One who explains, "Elder! I am neither an outcast nor a prison guard."
+
+是名自解。
+
+This is called 'explained'.
+
+有人者，「此中或有人是旃陀罗乃至狱卒。」
+
+For someone, "Among us, there might be one who is an outcast or a prison guard."
+
+是名有人。
+
+This is called 'someone'.
+
+如是方面、姓、形貌、病罪结使亦如是。
+
+In this way, direction, surname, appearance, illness, crime, and alliances are likewise.
+
+是中毁呰，越比尼罪。
+
+In these cases of defamation, it is a transgression of the Vinaya rules.
+
+是名毁呰。
+
+This is called 'defamation'.
+
+
+
+
+伎樂者，佛住王舍城加蘭陀竹園，時六群比丘先至作樂處，視占如坐禪比丘。
+At that time, the Buddha was staying at Kalanda Bamboo Grove in Rājagaha, and six groups of monks arrived early at the place where music was played, observing as if they were meditating monks.
+
+伎兒既集作眾伎樂，眾人悅樂喜笑，比丘默然。
+When the musicians started their performances, people were happily enjoying and laughing, while the monks remained silent.
+
+眾人笑已，比丘方更拍手大笑。
+After the people laughed, the monks also clapped their hands and laughed loudly.
+
+眾人競看，伎兒不得雇直，嫌言：「坐是比丘令我等不得財物。此敗壞人，何道之有？」
+Everyone watched eagerly, but the musicians didn't earn any money. Complaining, they said, "It's because of these monks sitting here that we can't make a profit. What kind of behavior is this?"
+
+諸比丘聞已，以是因緣具白世尊。
+Upon hearing this, the monks reported the matter to the Blessed One.
+
+佛言：「呼六群比丘來。」
+The Buddha said, "Call the six groups of monks here."
+
+來已，佛問比丘：「汝實爾不？」
+When they came, the Buddha asked the monks, "Is this true?"
+
+答言：「實爾。世尊！」
+They replied, "It is true, Blessed One!"
+
+佛言：「此是惡事，從今日後不聽觀看伎兒。」
+The Buddha said, "This is improper behavior. From this day forward, watching performances is not permitted."
+
+
+
+
+伎兒者，打鼓、歌舞、彈琵琶、鐃、銅鈸，如是比種種伎樂，下至四人聚戲，不聽看。
+Those who perform are drumming, singing and dancing, playing pipa, cymbals, and copper cymbals; if such various performances are held, even down to a gathering of four people, one should not watch.
+
+若比丘入城聚落，若天象出、若王出翼，從作種種伎樂，過行觀見無罪。
+If a monk enters the city or village, when celestial elephants or royal wings appear, they may witness various performances without sin while passing by.
+
+若作方便看，越比尼罪。
+If one deliberately watches, it is a transgression for monks.
+
+若佛生日大會處、菩提大會處、轉法輪大會、五年大會，作種種伎樂供養佛。
+During the Buddha's birthday celebration, Bodhi assembly, Dharma wheel assembly, or quinquennial assembly, various performances are conducted to make offerings to the Buddha.
+
+若檀越言：「諸尊者！與我和合翼從世尊。」
+If a lay supporter says, "Honorable ones! Join me in following the World Honored One."
+
+爾時得與和合在坐。
+At that time, they are allowed to sit in harmony together.
+
+若坐中有種種伎樂生染著心者，即應起去。
+If someone develops an attachment to the performances while sitting, they should immediately get up and leave.
+
+是名伎樂。
+This is called performance art.
+
+
+
+住王舍城，時節會日，六群比丘、難陀、優波難陀。
+
+The fragrant flower incident happened when the Buddha was residing in the city of Rajgir, during a festive day, and involved the six groups of monks, Nanda, and Upananda.
+
+以香塗身，著優鉢羅華鬘、瞻蔔華鬘，有著草華鬘共行，為世人所嫌：
+
+They anointed themselves with perfume and wore garlands of blue lotuses and jasmine flowers, while some wore garlands made of wild grass, which caused dissatisfaction among the people:
+
+「云何沙門釋子著優鉢羅華、瞻蔔華鬘？猶如王子大臣。
+
+"How can the followers of the Shakya be wearing lotus and jasmine garlands? They look like princes and ministers.
+
+又如作使賤人著草華鬘。此壞敗人，何道之有？」
+
+And like servants and lowly people wearing grass garlands. They are people of ruined states, what principles do they have?"
+
+諸比丘聞已，以是因緣往白世尊。
+
+Upon hearing this, the monks informed the Blessed One about the incident.
+
+佛言：「呼六群比丘來。」
+
+The Buddha said, "Call the six groups of monks."
+
+來已，佛問比丘：「汝實爾不？」
+
+When they came, the Buddha asked the monks, "Did you really do this?"
+
+答言：「實爾。世尊！」
+
+They replied, "Indeed, we did, Blessed One!"
+
+佛言：「從今日後不聽著香花。」
+
+The Buddha said, "From this day forward, wearing fragrant flowers is not permitted."
+
+
+香者，栴檀、沈水，如是比一切香皆不應著。
+Fragrances such as sandalwood and agarwood, all of these scents should not be used whimsically.
+
+若熱病，醫言：「當須栴檀香塗。」爾時得用香塗。
+If there's a fever, and the doctor says, "Sandalwood paste is needed," then it is permissible to use the fragrance.
+
+若欲塗時，先應供養佛泥塔，然後塗身。
+If one wishes to apply it, they should first make an offering to the Buddha's clay stupa and then apply it to the body.
+
+塗身已不得在眾中，當在屏處；病差淨澡，浴身然後入眾。
+After applying it to the body, one should not be in the crowd but rather in a secluded place; once the illness is cured, cleanse and bathe the body before rejoining the crowd.
+
+華者，優鉢羅、瞻蔔、須摩那，如是一切華不應著。
+As for flowers like the blue lotus, jasmine, and champak, none of these flowers should be worn frivolously.
+
+若比丘患眼痛、頭痛，醫教言：「當須華鬘繫頭差。」者，得繫。
+If a monk suffers from eye pain or headache, and the doctor advises, "You need to tie a floral garland to the head to cure it," then it is permitted to tie it.
+
+若欲繫者當先供養佛塔，然後得繫。
+If one wishes to tie it, they should first make an offering to the Buddha's stupa before doing so.
+
+繫已不得在眾人中，當在屏處，差已當捨。
+After tying it, they should not stay among the people but in a secluded spot, and once cured it should be discarded.
+
+若著香不著華，一越比尼罪。
+If one uses fragrance but not flowers, it constitutes a minor offense.
+
+若著華不著香，一越比尼罪。
+If one uses flowers but not fragrance, it is a minor offense.
+
+二俱著，犯二罪。
+Using both constitutes two offenses.
+
+俱不著，無罪。
+Using neither incurs no offense.
+
+是名香華法。
+This is known as the rule concerning fragrance and flowers.
+
+
+
+
+住舍衛城祇桓精舍，有檀越飯僧打揵椎。  
+There was a rule about mirrors; when the Buddha was staying at Jetavana Monastery in the city of Shravasti, a patron invited monks for a meal by striking a gong.  
+
+時難陀、優波難陀照鏡自觀，停久不至，為檀越所嫌：「我捨棄家業故來飯僧，而諸比丘不時來集。」  
+At that time, Nanda and Upananda were looking at themselves in a mirror and delayed in arriving, which made the patron unhappy: "I gave up my duties to offer a meal to the monks, but the monks are not gathering on time."  
+
+諸比丘以是因緣往白世尊。  
+The monks reported this matter to the Buddha.  
+
+佛言：「呼難陀、優波難陀來。」來已，佛問難陀、優波難陀：「汝實爾不？」  
+The Buddha said, "Call Nanda and Upananda here." When they arrived, the Buddha asked them, "Is this true?"  
+
+答言：「實爾。」  
+They replied, "Yes, it is true."  
+
+佛言：「從今日後不聽照鏡。」  
+The Buddha said, "From today onwards, you are not allowed to look in a mirror."  
+
+
+
+
+鏡者，油中、水中、鏡中，不得為好故照面自看。
+
+A mirror, whether in oil, water, or glass, is not used solely for appearance; one looks at their reflection to observe themselves.
+
+若病差，照面自看病差、不差？
+
+If one is ill, they look at their reflection to see whether they have improved or not.
+
+若新剃頭，自照看淨、不淨？
+
+If one has a new haircut, they look at their reflection to see if it is neat or not.
+
+頭面有瘡，照看無罪。
+
+It is not a sin to look at one's reflection if there are sores on the head or face.
+
+為好故照鏡，越比尼罪。
+
+Looking into a mirror for the sake of vanity constitutes a violation of moral discipline.
+
+是名鏡法。
+
+This is called the Law of the Mirror.
+
+
+
+
+擔法者，佛住曠野精舍。
+At that time, the Buddha was residing in a wilderness retreat.
+
+爾時營事比丘持擔輦塼泥土，為世人所譏：
+At that time, the monks dealing with tasks were carrying bricks and soil, and were criticized by the people:
+
+「云何沙門釋子，似奴僕使人客作人擔負泥土？
+“How can the followers of Shakyamuni, the monks, work like servants carrying soil?
+
+此壞敗人，何道之有？」
+Does this ruined person have any path?”
+
+諸比丘以是因緣往白世尊。
+The monks, for this reason, went to report to the World-Honored One.
+
+佛言：「呼營事比丘來。」
+The Buddha said, "Call those task-managing monks to come."
+
+來已，佛問比丘：「汝實爾不？」
+When they came, the Buddha asked the monks, "Is it true?"
+
+答言：「實爾。」
+They replied, "It is true."
+
+佛言：「從今日後不聽擔。」
+The Buddha said, "From today onward, you are not permitted to carry such burdens."
+
+
+
+
+擔者，繩囊擔、籠擔。
+Carrying involves either carrying a cord bag or basket.
+
+擔杖不擔囊，越比尼心悔。
+Carrying a staff without a bag leads to remorse according to Vinaya.
+
+擔囊不擔杖，越比尼心悔。
+Carrying a bag without a staff also leads to remorse according to Vinaya.
+
+二俱擔，越比尼罪。
+Carrying both results in an offense according to Vinaya.
+
+若精舍院內石、竹、木重者得擔。
+If within the monastery walls, one may carry heavy rocks, bamboo, or wood.
+
+若僧次作使，瓨瓶得繩連擔。
+If serving in the monastic sequence, a jar may be carried with a rope.
+
+若前後擔衣囊、前後擔鉢，俱越比尼罪。
+Carrying a bag in the front and pots in the back leads to a Vinaya offense.
+
+若長衣囊拖著肩上、鉢串肩無罪。
+Draping a long bag over the shoulder or stringing pots over the shoulder is not an offense.
+
+是名擔法。
+This is called the rule of carrying.
+
+
+
+
+住在荒野的精舍。
+
+The one who mends clothes, the Buddha was staying in a hermitage in the wilderness.
+
+那時候，一位处理事务的比丘正在缝补衣服、搬运砖石泥土，
+
+At that time, a managing monk was mending clothes and carrying bricks and mud,
+
+被世人讥讽：「为何沙门释子的僧人，像奴仆一样劳作，缝补衣物？
+
+and was ridiculed by the people: “Why does a shramana, a monk of Shakyamuni, work like a servant, mending clothes?
+
+这不是自毁前程，哪里有什么道理呢？」
+
+This is self-destructive behavior, what kind of principle is this?”
+
+诸比丘听闻后，因这缘故去向世尊禀报。
+
+The monks, having heard this, went to report to the World-Honored One because of this incident.
+
+佛说：「把那位处理事务的比丘叫过来。」
+
+The Buddha said, “Call the managing monk here.”
+
+来了之后，佛问比丘：「你真是这样做的吗？」
+
+After he came, the Buddha asked the monk, “Did you really do this?”
+
+回答说：「是的，我确实这样做了。」
+
+He replied, “Yes, I truly did this.”
+
+佛说：「从今以后，不允许缝补衣物了。」
+
+The Buddha said, “From now on, mending clothes is not permitted.
+
+
+抄繫者，一邊、兩邊抄繫，盡不得。
+Binding is done, on one side or both sides, it should not be entirely done.
+
+若泥土作為覆屋泥屋，得抄繫內衣。
+If mud is used as a covering for a mud house, the inner garment can be bound.
+
+是名抄繫法。
+This is called the method of binding.
+
+
+
+
+上樹者，佛住舍衛城，爾時世尊往欝單越乞食。
+Once upon a time, when the Buddha was staying in the city of Shravasti, the Blessed One went to Uttarakuru to beg for food.
+
+時諸比丘作是念：「世尊還者必乘神足來。」
+The monks thought, "The Blessed One will surely return using his divine power."
+
+或上樹、上牆遙望世尊。
+Some climbed trees or walls to look out for the Blessed One.
+
+世尊知諸比丘心念，即隱身自坐本座。
+The Blessed One, knowing what the monks were thinking, made himself invisible and sat on his original seat.
+
+佛知而故問：「諸比丘何處去？」
+The Buddha knowingly asked, "Monks, where have you gone?"
+
+比丘即以上事具白世尊。
+The monks reported the matter to the Blessed One in full.
+
+佛言：「從今日後不聽上樹。」
+The Buddha said, "From today onwards, climbing trees is not allowed."
+
+
+
+
+樹者，樹共人等不得上。
+Trees are not for people to climb.
+
+若作菩提大會，欲莊嚴菩提樹，
+If holding a Bodhi assembly and wishing to adorn the Bodhi tree,
+
+一脚登樹、一脚登牆，越比尼心悔。
+Climbing with one foot on the tree and one foot on the wall is a transgression, to be regretted in conscience.
+
+二脚上樹，越比尼罪。
+Climbing the tree with both feet is a transgression.
+
+二脚上牆無罪，登梯亦如是。
+Climbing a wall with both feet is not a transgression, and the same goes for a ladder.
+
+若道路行失道，迷不知方面，得上樹望無罪。
+If one loses their way and is confused about directions, they may climb a tree to look without transgression.
+
+若為虎狼師子如是比恐怖，得上樹無罪。
+If one is frightened by tigers, wolves, or lions, they may climb a tree without transgression.
+
+是名樹法。
+This is called the Tree Rule.
+
+
+
+住舍衛城，
+
+The Fire Discourse: The Buddha was residing in Śrāvastī,
+
+爾時世尊到時著入聚落衣，
+
+At that time, the World-Honored One put on his robe,
+
+持鉢入城次行乞食還，
+
+Took his bowl, entered the city, begged for food, and returned.
+
+自併床褥，不語侍者及比丘僧，
+
+He arranged his bedding himself and did not speak to the attendants or the monks.
+
+往拘薩羅國波利邪娑羅林賢樹下，
+
+He went to the Kusalā country, under the Bodhi tree in the Pālava forest.
+
+受象王三月供養，
+
+He received offerings from the king of elephants for three months.
+
+乃至非時寒雪，
+
+Until the untimely cold snow fell.
+
+諸比丘自然火向，
+
+The monks naturally made a fire for warmth.
+
+為世人所嫌：
+
+This was criticized by worldly people:
+
+「沙門瞿曇無量方便毀呰殺生、讚歎不殺，
+
+"The ascetic Gautama uses many skillful means to condemn taking life, and praises not killing,
+
+而今比丘然火燒地擾傍一根。」
+
+But now the monks are lighting fires, burning the earth, disturbing roots."
+
+諸比丘以是因緣往白世尊，
+
+Due to this cause, the monks went to report to the World-Honored One.
+
+乃至佛言：
+
+Until the Buddha said:
+
+「從今已後不聽然火。」
+
+"From now on, lighting fires will not be allowed."
+
+
+火者，薪火、草火、牛屎火、糠火、札火，不得燒未燒地。
+Huǒ zhě, xīn huǒ, cǎo huǒ, niú shǐ huǒ, kāng huǒ, zhá huǒ, bùdé shāo wèi shāo de.
+Fire, whether it be wood fire, grass fire, cow dung fire, husk fire, or stick fire, must not be lit on unburnt ground.
+
+若次直溫室、若直月、若熏鉢，先使淨人知，然後自燒無罪。
+Ruò cì zhí wēnshì, ruò zhí yuè, ruò xūn bō, xiān shǐ jìng rén zhī, ránhòu zì shāo wú zuì.
+If close to a hot room, near a wall, or close to a pot, inform a clean person first, then it is blameless to ignite.
+
+若持炬行，欲抖擻炬者，不得在未燒地，當在灰上、若瓦上、若炬火自落地， 即在上抖擻無罪。
+Ruò chí jù xíng, yù dǒusǒu jù zhě, bùdé zài wèi shāo de, dāng zài huī shàng, ruò wǎ shàng, ruò jù huǒ zì luò de, jí zài shàng dǒusǒu wú zuì.
+If carrying a torch and wishing to shake off the torch, do not do it on unburnt ground; it should be over ashes, on tiles, or where the torch falls, it is blameless to shake off there.
+
+若未燒地中然火，越比尼罪。
+Ruò wèi shāo de zhōng rán huǒ, yuè bǐ ní zuì.
+If a fire is lit on unburnt ground, it transgresses a minor rule.
+
+是名火法。
+Shì míng huǒ fǎ.
+This is called the fire rule.
+
+
+
+銅盂法者，佛住王舍城，爾時欝竭居士大施五百象、五百馬、五百牛、五百水牛、五百婢、五百奴，種種雜施中有銅盂。
+The law regarding the copper bowl occurred when the Buddha was residing in Rajgir. At that time, the householder Ugga gave a large donation of five hundred elephants, five hundred horses, five hundred oxen, five hundred water buffaloes, five hundred maidens, and five hundred servants. Among these various offerings, there was a copper bowl.
+
+諸比丘心生疑，往問世尊：「是淨不淨？應受不受？」
+The monks were filled with doubt and went to ask the Buddha, "Is this pure or impure? Should it be accepted or not?"
+
+佛言：「一切銅盂不聽受。若施僧淨器，應為呪願受。」
+The Buddha said, "All copper bowls are not to be accepted. If it is a pure vessel offered to the monastic community, it should be received with a blessing."
+
+若私畜銅盂，越比尼罪。得施淨人已，用無罪。
+"If it is a personal possession of a copper bowl, it is a breach of the vinaya rule. Once given to a pure person, it can be used without sin."
+
+是名銅盂法。
+This is called the law regarding the copper bowl.
+
+
+
+
+住舍衛城，諸天世人信心尊重，持種種飯食來供養佛比丘僧，尊者舍利弗、大目連及諸比丘。
+
+At that time, the Buddha was residing in the city of Śrāvastī. The heavenly beings and people of the world, with faith and respect, brought various kinds of food to offer to the Buddha and the monks, including venerable Śāriputra, Mahāmoggallāna, and other monks.
+
+時六群比丘晨朝至精舍門下立，見世人持飯食來，問言：「此食與誰？」
+
+Then the group of six monks stood at the gate of the monastery in the morning, saw the people bringing food, and asked, "Who is this food for?"
+
+答言：「與世尊。」
+
+The answer was, "For the World Honored One (Buddha)."
+
+即語言：「世尊應供養。」
+
+They immediately said, "The World Honored One should be offered."
+
+次問：「此復與誰？」
+
+Then they asked, "Who is this food for next?"
+
+答言：「與僧。」
+
+The answer was, "For the Sangha (monastic community)."
+
+即語言：「僧應供養。」
+
+They immediately said, "The Sangha should be offered."
+
+次問：「此復與誰？」
+
+Then they asked, "Who is this food for next?"
+
+答言：「與尊者舍利弗、大目連。」
+
+The answer was, "For venerable Śāriputra, Mahāmoggallāna."
+
+語言：「此人應供養。」
+
+They said, "These people should be offered."
+
+次問：「此復與誰？」
+
+Then they asked, "Who is this food for next?"
+
+答言：「與某甲比丘。」
+
+The answer was, "For a certain monk."
+
+即便語言：「某甲老病不能噉食，但棄汝食；當施我，我為汝呪願，使汝得食用功德。」
+
+Immediately they said, "A certain monk is old and ill and cannot eat, so your food is wasted; you should give it to me, and I will chant blessings for you so that you may gain the merit of food donation."
+
+時人直信即便施之。
+
+At that time, some people, believing them, immediately gave the food.
+
+有黠慧者不與，作是言：「我何故與是無慚愧人？」
+
+Some wise people did not give it and said, "Why should I give it to such shameless people?"
+
+諸比丘以是因緣往白世尊，乃至佛問比丘：「汝實爾不？」
+
+Due to this incident, the monks went to report it to the World Honored One. The Buddha asked the monks, "Is this true?"
+
+答言：「實爾。」
+
+They replied, "It is true."
+
+佛語六群比丘：「此是惡事，汝云何知物向他而迴向己？
+
+The Buddha said to the group of six monks, "This is a bad deed, how could you take something meant for others and direct it to yourselves?
+
+從今日後不聽知物向他自迴向己。」
+
+From this day forward, you are not allowed to take what is meant for others and direct it to yourselves."
+
+
+
+物者八種：時食乃至淨不淨，如上廣說。
+
+There are eight types of things: food according to time and purity or impurity, as explained in detail above.
+
+若人問言：「尊者！我欲布施，當施何處？」
+
+If someone asks: "Venerable one! I wish to make an offering, where should I offer it?"
+
+答言：「施僧。」
+
+The answer is: "Offer it to the Sangha."
+
+若復問言：「何處有持戒僧？」
+
+If further asked: "Where are the monks who uphold the precepts?"
+
+應語言：「無有犯戒僧，汝但施。」
+
+One should reply: "There are no monks violating the precepts, you just make the offering."
+
+若問言：「何處有比丘，能常一處修習行業，令物久在使我常見？」
+
+If asked: "Where is a monk who can practice diligently in one place so that the offering stays long and I can always see it?"
+
+爾時得語：「某甲比丘可與。」
+
+At that time, it can be said: "Such and such a monk can receive it."
+
+知物向僧自迴向己，尼薩耆波夜提。
+
+Knowing that the item intended for the Sangha is redirected for the donor's own benefit incurs a Nissagiya Pacittiya.
+
+知物向僧迴向他，波夜提。
+
+Knowing that the item intended for the Sangha is redirected to another person incurs a Pacittiya.
+
+知物向眾多人迴向眾多人、知物向一人迴向一人，越比尼罪。
+
+Knowing that the item intended for many people is redirected to many people, or intended for one person is redirected to one person, incurs a Dukata offense.
+
+下至知物向畜生迴向餘畜生，越比尼心悔。
+
+Even knowing that the item intended for one sentient being is redirected to another sentient being incurs a slight offense that requires remorse.
+
+是名迴向法。
+
+This is called the rule of redirection.
+
+
+
+
+毀呰觀伎兒、  
+Condemn the performer boy,
+
+華鬘并鏡法、  
+With floral garlands and mirror-like rules,  
+
+
+
+
+擔持抄繫衣、
+Holding clothes tied over the shoulders,
+
+上樹自然火、
+Climbing trees is like a natural fire,
+
+
+
+
+铜盂回向物。
+Copper pot of dedication.
+
+十一跋渠竟。
+Eleven Baqu finally.
+
+
+
+
+眾生者，佛住王舍城，
+All living beings, the Buddha resided in the city of Rajagriha,
+
+爾時欝竭居士大施五百象乃至五百奴婢，
+At that time, the householder Yujie made a great offering of five hundred elephants and up to five hundred servants,
+
+諸比丘心生疑悔往問佛言：「淨不淨？應受不應受？」
+The monks, feeling doubt and regret in their hearts, went to ask the Buddha: "Is it pure or impure? Should it be accepted or not?"
+
+佛言：「一切眾生不聽受。」
+The Buddha said: "All living beings are not allowed to accept."
+
+
+
+
+、馬、牛、水牛、驢、羊、麞鹿、猪、奴婢，如是及餘一切眾生不應受。
+
+All living beings, such as elephants, horses, cows, water buffalo, donkeys, sheep, deer, pigs, slaves, and all other such beings should not be accepted.
+
+若人言：「我施僧婢。」不聽受。
+
+If a person says, "I give a slave to the clergy," it should not be accepted.
+
+若言：「我施僧園民婦。」不聽受。
+
+If someone says, "I give a woman worker to the clergy," it should not be accepted.
+
+若言：「施僧奴。」不聽受。
+
+If someone says, "I offer a servant to the clergy," it should not be accepted.
+
+若言：「施僧使人。」不應受。
+
+If someone says, "I give a manservant to the clergy," it should not be accepted.
+
+若言：「供給僧男淨人。」聽受。
+
+If someone says, "I provide a clean man for the clergy," it can be accepted.
+
+若別施一人婢，不聽受；若奴、若使人、若園民，不聽受；
+
+If an individual gifts a maid, it should not be accepted; nor should servants or workers be accepted.
+
+若施淨人，為料理僧故，得受；
+
+If one offers a clean person for the purpose of serving the clergy, it can be accepted.
+
+若施尼僧奴，不聽受；
+
+If one gives a servant to a nun, it should not be accepted.
+
+若施園民，不聽受；
+
+If one offers a worker, it should not be accepted.
+
+若施婢，不聽受。
+
+If one gives a maid, it should not be accepted.
+
+若言：「供給尼僧女淨人。」聽受。
+
+If someone says, "Provide a clean woman for the nuns," it can be accepted.
+
+若別施一比丘尼奴，不聽受；
+
+If one specifically gives a servant to a nun, it should not be accepted.
+
+若施園民，不聽受；
+
+If one offers a laborer, it should not be accepted.
+
+若施淨女人，為料理僧故，得受。
+
+If one offers a clean woman to serve the clergy, it can be accepted.
+
+若檀越作佛生日大會、菩提大會、轉法輪大會、羅睺羅大會、阿難大會、五年大會，檀越信心歡喜，莊嚴象馬、布施眾僧者，不聽受。
+
+If a donor holds a grand ceremony for the Buddha's birthday, a Bodhi celebration, a Turning of the Dharma Wheel gathering, a Rahul or Ananda celebration, a five-year gathering, and if the donor is sincerely joyous and wishes to give offerings adorned with ornate elephants or horses to the clergy, it should not be accepted.
+
+若檀越持鸚鵡、孔雀、雞羊、麞鹿與，不聽受。
+
+If a donor gives a parrot, peacock, chicken, sheep, or deer, it should not be accepted.
+
+若言：「不受者我當殺之。」應語言：「汝自放已。」
+
+If someone says, "If you do not accept, I will kill it," you should say, "You should release it yourself."
+
+應與水食守護，勿令眾生傷害。
+
+It should be provided with water and food and be protected from harm.
+
+不得剪翅羽籠繫，若能飛能行自活放去，莫拘制。
+
+Its wings and feathers should not be clipped, nor should it be caged; if it can fly or walk on its own, it should be released without restriction.
+
+若受眾生者，越比尼罪。
+
+To accept living beings is an offense against the rule.
+
+是名眾生法。
+
+This is called the rule regarding living beings.
+
+
+
+住舍衛城，
+
+The Dharma regarding trees was given when the Buddha was residing in the City of Sravasti,
+
+爾時檀越僧園中種菴婆羅樹，
+
+At that time, a benefactor planted a mango tree in the monastery garden,
+
+有一比丘截取，為一居士作房，
+
+A certain monk cut it down to build a house for a layperson,
+
+房成施床褥請僧供養。
+
+Once the house was completed, it was furnished and offerings were made to the monastic community.
+
+時種菴婆羅樹檀越亦在會中，
+
+At that gathering was also the benefactor who planted the mango tree,
+
+見已問言：「尊者！此是誰房？」
+
+Upon seeing this, he asked, "Venerable! Whose house is this?"
+
+比丘言：「是某甲居士房。」
+
+The monk replied, "It is the house of a certain layperson."
+
+時檀越言：「尊者！何故取我樹為他作房？
+
+The benefactor said, "Venerable! Why did you take my tree to build a house for someone else?
+
+此房即是我房。」
+
+This house is therefore mine."
+
+心猶不悅，即往詣佛所，
+
+Not pleased at heart, he immediately went to the Buddha,
+
+頭面禮足却住一面，
+
+After bowing with his head to the Buddha's feet, he stood to one side,
+
+即以上事具白世尊。
+
+and fully described the matter to the World Honored One.
+
+佛為說法示教利喜，
+
+The Buddha expounded the Dharma to instruct and benefit him, bringing him joy,
+
+前禮佛足歡喜而去。
+
+He bowed to the Buddha's feet, left happily.
+
+佛言：「呼彼比丘來。」
+
+The Buddha said, "Call that monk here."
+
+來已，佛問比丘：「汝實爾不？」
+
+Once the monk came, the Buddha asked him, "Did you really do this?"
+
+答言：「實爾。」
+
+He replied, "Yes, indeed."
+
+佛言：「汝云何斫截華果樹作房？」
+
+The Buddha said, "Why did you cut and take flowering or fruit-bearing trees to build a house?"
+
+從今已後不聽斫華果樹。
+
+From now on, it is not permitted to cut down flowering or fruit-bearing trees.
+
+
+
+斫華果樹者，菴婆羅樹、閻浮樹、毘羅樹、迦毘陀樹、叵那娑樹、椰子樹、無憂樹、瞻婆樹、枳薩羅樹、阿提目多樹，
+
+Chopping flowering fruit trees, such as mango trees, rosewood trees, Ficus retusa trees, Sal trees, banana trees, coconut trees, Saraca indica trees, trumpet-flowered trees, jujube trees, and Myrobalan trees,
+
+如是比一切華果樹不聽斫作房。
+
+thus all flowering and fruit trees are not allowed to be chopped down to make houses.
+
+若樹老無華果者，應語檀越言：「長壽！是樹已老，又須作房舍安置比丘，得受用福。」
+
+If a tree is old and no longer bears flowers or fruit, you should say to the benefactor, "Good sir, this tree is already old, and we need to make a house to accommodate the monks and enjoy the blessings."
+
+若主聽得取，不聽不得取。
+
+If the owner permits, it can be taken; if not, it cannot be taken.
+
+若必須木用復妨地者，使淨人以魚骨刺，若灰汁澆。
+
+If the use of the wood is necessary but hinders the land, have a pure person pierce it with a fishbone, or pour ash water on it.
+
+若樹已死，應語檀越言：「此樹已乾，欲須用。」
+
+If the tree is already dead, you should say to the benefactor, "This tree is dry and is needed for use."
+
+若聽者取用。
+
+If permitted, it can be taken for use.
+
+若比丘斫花果樹者，越比尼罪。
+
+If a monk chops down a flowering fruit tree, it is a violation of the monastic code.
+
+是名樹法。
+
+This is called the Tree Law.
+
+
+
+
+佛住舍衛城爾時聚落邊有精舍，客比丘來斫伐樵薪。
+The law of cutting firewood was established when the Buddha was residing in the city of Śrāvastī, where there was a monastery on the outskirts of a village, and visiting monks came to cut firewood.
+
+舊比丘言：「汝何故斫截我等勤苦種殖？汝客來但逐蔭涼坐，不能助愛護，而狼藉稱意。
+The resident monks said, "Why are you cutting down the trees we have painstakingly cultivated? You come as guests, sit in the shade, and do not help protect them, while you scatter things as you please.
+
+明日便去，不知我苦。」
+You will leave tomorrow, without understanding our hardships."
+
+如是語已，舊比丘乞食去後，客比丘乾生合斫，房前積聚然火。
+After saying this, when the resident monks went out for alms, the visiting monks cut down fresh branches and piled them up in front of the dwelling to make a fire.
+
+舊比丘乞食還見已即言：「汝何故乾生合斫積聚然火？」
+When the resident monks returned from alms, they saw this and said, "Why do you cut and pile fresh wood to make a fire?"
+
+客比丘言：「汝何故自取然火而反遮我？」
+The visiting monks replied, "Why do you take firewood for yourself and then prevent us from doing the same?"
+
+如是諍已，二比丘往詣佛所，頭面禮足具白上事。
+After this dispute, the two groups of monks went to the Buddha, respectfully bowed at his feet, and reported the entire matter.
+
+佛語諸比丘：「汝不得自取遮他，亦應當護。
+The Buddha said to the monks: "You should not take it upon yourselves to prevent others, you should also protect what is there.
+
+不得乾生合斫，房前積聚然樵薪。」
+Do not cut and pile fresh branches to build a fire in front of the dwelling.
+
+
+然法者，然有准則。
+However, in terms of the law, there are guidelines.
+
+爾許溫室中然；
+You are permitted to burn in the greenhouse;
+
+爾許厨下然；
+You are permitted to burn in the kitchen;
+
+爾許浴室中然；
+You are permitted to burn in the bathroom;
+
+爾許別房中然，當分應從限，不得過取。
+You are permitted to burn in other rooms, but it should be within limits and not excessive.
+
+若然無定限者，多亦無罪。
+If there are no set limits on burning, burning much is also not a sin.
+
+不聽斫濕樹木，應取乾者。
+Do not chop wet trees, select the dry ones.
+
+僧坊內樹木觀望好者不得斫。
+Trees that look good in the monastery should not be chopped.
+
+山林無主守護者斫無罪。
+Chopping unattended or unguarded trees in the forest is not a sin.
+
+是名樵薪法。
+This is called the firewood law.
+
+
+
+華法者，佛住舍衛城，聚落邊有僧伽藍，時客比丘來取華，
+
+Regarding the floral regulations, while the Buddha resided in the Jetavana Monastery near the town, a visiting monk came to take flowers.
+
+舊比丘言：「汝何以取華？我等勤苦種殖守護溉灌，汝客來但逐涼坐，不欲料理，狼藉稱意。
+
+An elder monk said, "Why do you take the flowers? We work hard to plant, care for, and water them, while you guests come and just sit in the shade, not wanting to work yet benefiting from the chaos.
+
+明日便去，不知我苦。」
+
+You will leave tomorrow, not knowing my hardship."
+
+如是語已，舊比丘乞食去後，客比丘成華不成華合折，狼藉積置房前。
+
+After saying this, the elder monk went for alms, while the guest monk, whether or not the flowers were mature, picked and piled them in front of the room.
+
+舊比丘乞食還，見花聚即言：「汝何故取華？」
+
+When the elder monk returned from begging for food, seeing the pile of flowers, he asked, "Why did you take the flowers?"
+
+客比丘言：「汝何故自取而反遮我？」
+
+The guest monk said, "Why do you take them yourself and in turn stop me?"
+
+如是諍已，俱往詣佛具白上事。
+
+After arguing like this, they both went to report the matter to the Buddha.
+
+佛語舊比丘：「汝不得自取遮他，應當愛護。
+
+The Buddha said to the elder monk, "You should not take for yourself while denying others; you should be protective.
+
+客比丘復不得成不成合折積聚房前。」
+
+The guest monk should also not pick and pile flowers, regardless of whether they are mature, in front of the room."
+
+有五法成就，應拜作分花人。
+
+There are five qualities that should be fulfilled in order to be appointed as a flower distributor.
+
+何等五？不隨愛、不隨瞋、不隨癡、不隨怖、知得不得，是名五法。
+
+What are these five qualities? Not acting out of desire, not acting out of anger, not acting out of ignorance, not acting out of fear, and knowing what is appropriate. These are called the five qualities.
+
+羯磨者應作是說：「大德僧聽！某甲比丘五法成就。
+
+The procedure should be said as follows: "Venerable monks, please listen! A certain monk has fulfilled the five qualities.
+
+若僧時到，僧拜某甲比丘作分花人。如是白。」
+
+If it is the right time, the assembly appoints a certain monk as the flower distributor. Thus, I declare."
+
+白一羯磨，乃至「僧忍默然故，是事如是持。」
+
+With this declaration, if the assembly remains silent, it is understood as agreement.
+
+是比丘受羯磨已，應使淨人知花。
+
+Once this monk has accepted the procedure, he should notify the laypeople about the flowers.
+
+若花小者，應器量分、若手作准則。
+
+If the flowers are small, they should be distributed according to containers, or measured by hand.
+
+若優鉢羅花、瞻蔔、鉢頭摩分陀利，如是等大花應數分。
+
+If it's large flowers like the Utpala, Vārṣika, Padma, and Puṇḍarīka, they should be divided by count.
+
+若佛花者，應上佛。
+
+If they are flowers for the Buddha, they should be offered to him.
+
+若僧花者，隨意供養、若轉易。
+
+If they are flowers for the monks, they can be offered as desired or exchanged.
+
+若花多者可與華鬘家，語言：「汝日日與我爾許鬘，餘者與我爾許直。」
+
+If there are many flowers, they can be given to a garland maker, stating, "Supply me with such and such garlands daily, and any excess give me their value."
+
+得直已得用作別房衣。
+
+The obtained value can be used to make additional robes.
+
+若前食後食，若猶多者當著無盡財中。
+
+If there is surplus before or after the meal, it should be placed in the inexhaustible fund.
+
+是名花法。
+
+This is called the floral regulations.
+
+
+
+果法者，如上花中說。
+The fruit method is as mentioned in the previous discussion of flowers.
+
+乃至拜羯磨已，當使淨人知。
+Until the ceremony is completed, the information should be communicated to the attendant.
+
+果若細者，當量分、若以手為限。
+If the fruits are small, they should be divided proportionally, using the hand as a measure.
+
+若大者如多羅果、毘羅果、椰子果、娑那沙果、菴婆羅果，如是等當數分。
+If the fruits are large like palm fruit, bilva fruit, coconut, fan fan fruit, or mango, they should be divided into portions.
+
+若多者應與販果人，日日應與我爾許果，餘者與我爾許直。
+If there are many fruits, they should be given to the fruit seller, with a daily allocation to me, and the remainder in monetary value.
+
+得直已應著前食後食中，若猶故多者當著無盡財中。
+The acquired monetary value should be included in the prior and subsequent meals, and if there is still an excess, it should be placed in the inexhaustible funds.
+
+是名果法。
+This is called the fruit method.
+
+
+
+
+種樹法者，佛住舍衛城，爾時有比丘於僧地中種菴婆羅果，長養成樹，自取其果不令他取。
+The Tree Planting Method, when the Buddha was residing in the city of Śrāvastī, at that time a monk planted mango seeds in the monastery grounds, nurtured the tree, and would pick the fruits himself, not allowing others to take them.
+
+諸比丘言：「汝何故自取遮他？」
+The monks said, "Why do you take them yourself and prohibit others?"
+
+答言：「我種此樹護令長大。」
+He replied, "I planted this tree and protected it to ensure its growth."
+
+諸比丘以此因緣往白世尊。
+The monks, with this reason, went to report to the Blessed One.
+
+佛言：「此種殖有功，聽一年與一樹。」
+The Buddha said, "There is merit in this planting; he may keep the tree for a year."
+
+
+
+年法者，若比丘僧地種菴婆羅果樹、閻浮樹，如是比果樹應與一年取。
+In the rule of the year, if a monk plants a mango tree or a jambu tree on monastery land, it should be allowed to bear fruit for one year.
+
+若樹大不欲一年并取者，聽年年取一枝，枝遍則止。
+If the tree is large and one does not wish to harvest all at once, it is permissible to take one branch each year until all branches have been taken.
+
+若種一園樹者，應與一年，若言：「我欲年取一樹。」亦聽。
+If one plants an orchard, it should be allowed to bear fruit for a year. If one says, "I want to take one tree per year," this is also permissible.
+
+若種蕪菁、若葱，如是比菜應與一剪。
+If one plants turnips or onions, such vegetables should be allowed to be harvested once.
+
+若種瓜瓠，應與一番熟取。
+If one plants gourds, they should be allowed to be harvested once they are ripe.
+
+是名種樹法。
+This is called the rule of planting trees.
+
+
+
+
+治罪法者，身行口行、身口行，身不攝故犯、口不攝故犯，身口不攝故犯，身作、口作、身口作，是名罪法。
+The laws of punishment are those that involve bodily actions or speech actions, actions involving both, offenses due to lack of restraint in body or speech, and actions due to both body and speech. These are called offenses.
+
+無罪者，身無行、口無行、身口無行，身攝故不犯、口攝故不犯、身口攝故不犯。
+The sinless are those with no bodily actions, no speech actions, and no actions involving both. Due to restraint in body or speech or both, they are without offense.
+
+身不作、口不作、身口不作，是名非罪。
+No actions in body, speech, or both are undertaken. This is called non-offense.
+
+
+
+
+治罪者，波羅夷罪當云何治？
+How should the crime of Parajika be dealt with?
+
+若作俗人、若與作學沙彌、若僧中驅出。
+Either as laypeople, or as novice monks expelled from the community.
+
+僧伽婆尸沙罪云何治？
+How should the crime of Sanghavasesa be dealt with?
+
+若不覆藏，應行摩那埵、阿浮呵那；
+If not concealed, should perform Manatta, Apattikhanna;
+
+覆藏者與別住、行摩那埵、阿浮呵那。
+For those who conceal, segregate, perform Manatta, Apattikhanna.
+
+尼薩耆者當云何治？
+How should the Nissaggiya offense be dealt with?
+
+隨前物應僧中捨，捨已若上座應頭面作禮執足，
+According to the prior material, one should renounce in the community, if renounced the elder should bow and hold the feet,
+
+若下座應胡跪合掌作如是言：「長老！我犯長衣，已僧中捨；
+If the junior should kneel with clasped hands and say: "Elder! I have violated the long cloth, and have renounced it in the assembly;
+
+波夜提罪，我今悔過。」
+The Pacittiya offense, I now repent."
+
+應問：「汝見是罪不？」
+Should be asked: "Do you see this as an offense?"
+
+答言：「見。」
+Reply: "Yes, I see."
+
+應語言：「更莫作。」
+They should say: "Do not do it again."
+
+答言：「頂戴持。」
+Reply: "I will uphold this."
+
+波夜提、波羅提提舍尼、越比尼罪，但名差別，亦如是治。
+Pacittiya, Patidesaniya, and Dukkat offense, with only different names, are also dealt with in this way.
+
+是名治罪法。
+This is called the method of dealing with offenses.
+
+
+
+
+眾生并種樹、
+All beings plant trees,
+
+薪積與華果、
+Accumulating firewood and fruit and flowers,
+
+
+
+
+种植听一年、　   
+Plant and listen for a year,   
+
+罪非罪治法。   
+Whether guilty or not, governed by law.   
+
+
+
+
+十二跋渠竟。  
+Twelve canals were finally completed.
+
+
+
+
+滅者有七。
+There are seven destroyers.
+
+何等七？
+What are the seven?
+
+現前比尼、
+Present Bhikkhuni,
+
+憶念比尼、
+Mindful Bhikkhuni,
+
+不癡比尼、
+Wise Bhikkhuni,
+
+自言比尼、
+Self-expressing Bhikkhuni,
+
+覓罪相比尼、
+Finding fault Bhikkhuni,
+
+多覓比尼、
+Often searching Bhikkhuni,
+
+草布地比尼，
+Ground-laying Bhikkhuni,
+
+是名滅。
+These are called the destroyers.
+
+
+
+
+諍事者，四諍事。
+Disputes, there are four types of disputes.
+
+何等四？
+What are the four?
+
+相言諍、
+Disputes of words,
+
+誹謗諍、
+Disputes of slander,
+
+罪諍、
+Disputes of guilt,
+
+常所行事諍，
+Disputes of customary actions,
+
+是名四滅諍事。
+These are called the four types of disputes.
+
+
+
+
+調伏者，折伏羯磨、不語羯磨、驅出羯磨、發喜羯磨、舉羯磨、別住羯磨，是名調伏。
+The one who subdues, suppression of offenses, silence offenses, expulsion offenses, arousing joy offenses, raising offenses, and separation offenses, is known as the subduer.
+
+
+
+
+調伏事者，五眾罪：
+
+The discipline involves the five kinds of offenses:
+
+波羅夷、僧伽婆尸沙、波夜提、波羅提提舍尼、越比尼罪。
+
+Parajika, Sanghabhasi, Pācittiya, Pratidesaniya, and Aniyata offenses.
+
+是名調伏事。
+
+This is what is referred to as discipline.
+
+
+
+
+聽法者，佛住舍衛城，爾時諸比丘白佛言：「世尊！聽我作草屋不？」
+
+At that time, the Buddha was staying in the city of Shravasti, and the monks asked the Buddha, "World-Honored One, do you allow us to build a straw hut?"
+
+佛言：「聽。」
+
+The Buddha said, "I allow it."
+
+「如是作壁、作戶扇、作戶楣格、作白泥、作五種畫不？」
+
+"Can we also make walls, door panels, door frames, apply white plaster, and make five types of paintings?"
+
+佛言：「聽。」
+
+The Buddha said, "I allow it."
+
+佛告諸比丘：「如過去世，時有王名曰吉利，為迦葉佛作精舍，一重、二重乃至七重，彫文刻鏤、種種彩畫，唯除男女和合像。」
+
+The Buddha told the monks, "In a past era, there was a king named Jili who built a monastery for the Buddha Kashyapa. It had layers of carvings and various colorful paintings, except for images depicting sexual union."
+
+種種者，所謂長老比丘像、葡萄蔓、摩竭魚、鵝像、死屍之像、山林像，如是比一切是名五種畫。
+
+These various paintings included images of elder monks, grapevines, magara fish, geese, corpses, and mountain forests. These are referred to as the five types of paintings.
+
+
+
+
+佛住舍衛城聽作房，毘舍離聽乳酪酥，
+The Buddha allowed monks to reside in rooms in Shravasti and permitted the consumption of cheese and butter in Vaishali.
+
+曠野聽魚肉，如是一切聽、一切制皆在八大城：
+In the wilderness, the consumption of fish and meat was allowed; thus, all allowances and restrictions were made in the eight major cities:
+
+一、舍衛；二、沙祇；三、瞻婆；四、波羅柰；
+1. Shravasti; 2. Saketa; 3. Champa; 4. Benares;
+
+五、拘睒彌；六、毘舍離；七、王舍城；八、迦毘羅衛。
+5. Kosambi; 6. Vaishali; 7. Rajagaha; 8. Kapilavastu.
+
+是九部經若忘說處者，是八大城趣舉一，
+If one forgets the location where a certain part of the ninefold teachings was mentioned, it can be attributed to one of these eight cities,
+
+即名是處世尊所印，是名聽法。
+being places recognized by the World Honored One, representing the Dharma's authorization.
+
+
+
+塗面油者，佛住舍衛城，爾時精舍中檀越飯僧。
+The Buddha was residing in Sravasti, and at that time, a patron in the monastery was providing meals for the monks.
+
+時難陀、優波難陀聞揵椎鳴方以油塗面，住不時出故，為檀越所嫌。
+At that time, Nanda and Upananda applied oil to their faces upon hearing the bell and delayed their exit, which upset the patron.
+
+諸比丘以是因緣往白世尊。
+The monks reported this matter to the World-Honored One.
+
+佛言：「喚是比丘來。」
+The Buddha said, "Call these monks here."
+
+來已，佛問比丘：「汝實爾不？」
+When they came, the Buddha asked the monks, "Did you really do this?"
+
+答言：「實爾。」
+They replied, "Yes, indeed."
+
+佛言：「從今已後不聽油塗面。」
+The Buddha said, "From now on, you are not allowed to apply oil to your face."
+
+
+
+
+油者，胡麻油、大麻油、阿提目多華油、瞻婆花油，
+The oils are sesame oil, hemp oil, Artimudvara oil, and Amra flower oil,
+
+如是等比香油，為好故塗面者，越比尼罪。
+Using these fragrant oils to anoint the face with the intention of beautification is a Vinaya offense.
+
+若洗浴時得用油，
+If one uses oil during bathing,
+
+若澡豆屑末、塗足油著手，得用拭面無罪。
+or if powdered soap or foot oil is applied to the hands, using it to wipe the face is not an offense.
+
+是名油法。
+This is called the method of using oil.
+
+
+
+
+粉法者，佛住舍衛城，
+
+At that time, the Buddha dwelled in the city of Shravasti,
+
+爾時祇洹精舍有檀越設供飯僧，
+
+At that time, a patron set up a meal offering for the monks at Jetavana Monastery.
+
+時六群比丘聞揵椎鳴，方以粉拭面，
+
+At that time, the group of six monks heard the wooden knocker sounding and were just about to apply powder to their faces.
+
+不時出，為檀越所嫌。
+
+They went out late, which displeased the patron.
+
+諸比丘以是因緣往白世尊，
+
+The monks, due to this incident, went to report to the Blessed One.
+
+乃至佛言：「從今日後不聽比丘以粉拭面。」
+
+The Buddha said, "From this day forward, monks are not allowed to apply powder to their faces."
+
+
+
+粉者，摩那石粉、鉛錫粉如是比。  
+Powder refers to manash powder and lead-tin powder, among others.
+
+若為好故，乃至赤土塗面，越比尼罪。  
+If applied for beauty purposes, even red clay on the face, it violates the monastic precepts.
+
+若面有瘡、癰痤腫起，得塗無罪。  
+If there are sores or swelling on the face, applying it is blameless.
+
+塗時不得在眾人中，當在屏處。  
+When applying, it should not be done in public but in a private place.
+
+是名粉法。  
+This is known as the powder rule.
+
+
+
+
+刷法者，佛住舍衛城，乃至六群比丘刷頭，住不時出，為檀越所嫌。
+The Brush Method: When the Buddha was residing in Shravasti, six groups of monks brushed their heads and frequently went out, which displeased the benefactors.
+
+諸比丘以是因緣往白世尊，乃至佛言：「不聽比丘用刷刷頭。」
+The monks, due to this situation, went to inform the Blessed One, and the Buddha said, "Monks are not permitted to use brushes to brush their heads."
+
+
+
+刷者，毛刷、草刷、草根刷，如是比下至手刷，為好故，越比尼罪。  
+Brushes such as hair brushes, straw brushes, and root brushes, as well as hand brushes, are considered superior, thus surpassing the offenses of the Bhikkhunis.  
+
+若剃髮已得手摩無罪。  
+If the hair has been shaved, using the hand to rub does not constitute an offense.  
+
+是名刷法。  
+This is called the rule of brushing.  
+
+
+
+
+梳法者，佛住舍衛城，世尊制戒，不聽用刷。
+Once, when the Buddha was residing in the city of Shravasti, he established a precept prohibiting the use of a comb.
+
+時有檀越飯僧，難陀、優波難陀聞揵椎鳴方以梳梳頭，而住不時得出，
+There was a patron offering food to the monks. Nanda and Upananda heard the wooden gong, and only then did they start combing their hair, hence not leaving in a timely manner.
+
+為檀越所嫌，乃至佛言：「不聽用梳。」
+This displeased the patron, leading to the Buddha eventually saying, "Combs should not be used."
+
+
+
+
+梳者，牙梳、骨梳、角梳、木梳，
+A comb can be of ivory, bone, horn, or wood.
+
+如是比一切梳不聽用，
+All such combs are not allowed to be used.
+
+下至以手梳頭，
+Even using hands to comb hair,
+
+為好故，越比尼罪。
+If done for beauty, it constitutes a breach of the nun's rules.
+
+是名梳法。
+This is called the law of the comb.
+
+
+
+髮簪者，佛住舍衛城，
+
+About hair pins, when the Buddha was residing in the city of Sravasti,
+
+世尊制戒不得用梳，
+
+the World-Honored One established a rule not to use combs,
+
+乃至六群比丘用簪搔頭，
+
+so as to prevent six groups of monks from using hair pins to scratch their heads,
+
+不時得出，為檀越所嫌，
+
+and at times exposing themselves, causing lay supporters to disapprove,
+
+乃至佛言：「不聽用簪。」
+
+so the Buddha said, "Do not use hair pins."
+
+
+
+
+簪者，金銀、銅鐵、鍮石、牙骨角、竹木，如是比一切不聽，乃至以豪猪獵，為好故用刷頭，越比尼罪。
+Ornaments such as gold, silver, copper, iron, brass, stone, ivory, bone, horn, bamboo, and wood are not allowed; for the best effect, using a porcupine quill for adorning violates monastic rules.
+
+若手已淨，頭故痒者，得持物搔。
+If the hands are already clean, and the head is still itchy, one may use an object to scratch.
+
+是名簪法。
+This is called the rule of ornaments.
+
+
+
+
+七滅并滅事、
+The matter of seven extinctions and simultaneous extinction,
+
+調伏調伏事、
+The matter of pacification and taming,
+
+
+
+
+聽法油塗面、  
+Listening to the Dharma, apply oil to the face,  
+
+粉刷梳以簪。  
+Powder and comb hair, then adorn with a hairpin.  
+
+
+
+
+Thirteen Ba channels terminated.
+
+
+
+
+塔法者，佛住拘薩羅國遊行，時有婆羅門耕地，見世尊行過，持牛杖住地禮佛。
+In the land of Kosala, the Buddha was traveling, when a Brahmin was plowing the field, he saw the Buddha pass by, he stood holding his ox stick and bowed to the Buddha.
+
+世尊見已便發微笑，諸比丘白佛：「何因緣笑？唯願欲聞。」
+The World-Honored One, having seen him, smiled slightly. The monks said to the Buddha, "What is the reason for your smile? We wish to hear it."
+
+佛告諸比丘：「是婆羅門今禮二世尊。」諸比丘白佛言：「何等二佛？」
+The Buddha told the monks, "This Brahmin now honors two World-Honored Ones." The monks asked the Buddha, "Which two Buddhas?"
+
+佛告比丘：「禮我，當其杖下有迦葉佛塔。」
+The Buddha said to the monks, "He honors me, and beneath his staff, there is the stupa of the Buddha Kassapa."
+
+諸比丘白佛：「願見迦葉佛塔。」佛告比丘：「汝從此婆羅門索土塊并是地。」
+The monks said to the Buddha, "We wish to see the stupa of the Buddha Kassapa." The Buddha told the monks, "Ask this Brahmin for a piece of earth from that place."
+
+諸比丘即便索之，時婆羅門便與之。
+The monks immediately asked for it, and the Brahmin gave it to them.
+
+得已，爾時世尊即現出迦葉佛七寶塔，高一由旬、面廣半由延。
+Once they received it, the World-Honored One then manifested the stupa of the Buddha Kassapa, made of the seven treasures, one yojana high and half a yojana wide.
+
+婆羅門見已即便白佛言：「世尊！我姓迦葉，是我迦葉塔。」
+When the Brahmin saw it, he said to the Buddha, "World-Honored One! My surname is Kassapa, this is my Kassapa stupa."
+
+爾時世尊即於彼處作迦葉佛塔。諸比丘白佛言：「世尊！我得授泥不？」佛言：「得授。」
+At that time, the World-Honored One made a Kassapa Buddha stupa at that place. The monks asked the Buddha, "World-Honored One! Can we receive the consecrated earth?" The Buddha said, "You can."
+
+即時說偈言：
+Then he spoke the verse:
+
+
+
+
+真金百千担，  
+True gold in hundreds of thousands of loads,
+
+持用行布施，  
+Used for practicing charity,
+
+
+
+
+不如一團泥，　　
+
+Not as good as a clump of mud,
+
+敬心治佛塔。」　
+
+Respectfully taking care of a pagoda with heart.
+
+
+
+
+爾時世尊自起迦葉佛塔，
+At that time, the World Honored One erected a stupa for Buddha Kashyapa,
+
+下基四方周匝欄楯，
+Surrounding it with railings on all four sides of the base,
+
+圓起二重、方牙四出，
+Raising two tiers with four projecting corners,
+
+上施槃蓋長表輪相。
+And placing a long, round canopy on top, resembling a wheel.
+
+佛言：「作塔法應如是。」
+The Buddha said, "The method of making a stupa should be like this."
+
+塔成已，世尊敬過去佛故，
+Once the stupa was completed, the World Honored One, out of respect for past Buddhas,
+
+便自作禮。
+Performed a ritual of homage.
+
+諸比丘白佛言：「世尊！我等得作禮不？」
+The monks said to the Buddha, "World Honored One! May we also perform the homage?"
+
+佛言：「得。」
+The Buddha said, "You may."
+
+即說偈言：
+Then he spoke these verses:
+
+
+
+人等百千金，
+People carry hundreds of thousands of gold,
+
+持用行布施，
+To perform acts of charity,
+
+
+
+不如一善心，  
+Nothing compares to a kind heart,
+
+恭敬禮佛塔。  
+show respect by saluting the Buddha stupa.
+
+
+
+
+爾時世人聞世尊作塔，持香華來奉世尊。
+At that time, people heard that the World Honored One was building a stupa, and they came with incense and flowers to offer to the World Honored One.
+
+世尊恭敬過去佛故，即受華香持供養塔。
+Out of respect for past Buddhas, the World Honored One accepted the flowers and incense to make offerings to the stupa.
+
+諸比丘白佛言：「我等得供養不？」
+The monks said to the Buddha, "Are we allowed to make offerings?"
+
+佛言：「得。」即說偈言：
+The Buddha said, "Yes." Then he spoke these verses:
+
+
+
+
+百千车真金，  
+Offering true gold from hundreds and thousands of carriages,
+
+持用行布施，  
+Use them to practice charity,
+
+
+
+不如一善心， 
+It is better to have a kind heart,
+
+華香供養塔。 
+Than to offer flowers and incense to a pagoda.
+
+
+
+爾時大眾雲集，
+At that time, a great assembly gathered,
+
+佛告舍利弗：「汝為諸人說法。」
+The Buddha said to Shariputra: "You should speak the Dharma for the people."
+
+佛即說偈言：
+The Buddha then spoke in verse:
+
+
+
+百千閻浮提，
+Hundreds and thousands of Jambudvipas,
+
+滿中真金施，
+are filled with true gold.
+
+
+
+
+不如一法施，　　
+No other method is better taught,
+
+隨順令修行。」
+Adapt and follow it to practice."
+
+
+
+爾時坐中有得道者，
+Among those seated, there were some who attained the path.
+
+佛即說偈言：
+The Buddha then spoke these verses:
+
+
+
+百千世界中，
+In a hundred thousand worlds,
+
+滿中真金施，
+There is true gold throughout.
+
+
+
+不如一法施，
+It is better to practice a single method,
+
+隨順見真諦。」
+and thereby see the ultimate truth.
+
+
+
+
+得不壞信，即於塔前飯佛及僧。
+
+At that time, the Brahmin gained unwavering faith and offered food to the Buddha and monks in front of the stupa.
+
+時波斯匿王聞世尊造迦葉佛塔，即勅載七百車塼來詣佛所，頭面禮足白佛言：「世尊！我欲廣作此塔，為得不？」
+
+King Prasenajit, upon hearing that the World-Honored One was constructing the Kāśyapa Buddha stupa, immediately ordered seven hundred carts of bricks to be brought to the Buddha, and then he bowed his head to the Buddha's feet and said, "World-Honored One! I wish to expand this stupa, may I?"
+
+佛言：「得。」
+
+The Buddha said, "You may."
+
+佛告大王：「過去世時，迦葉佛般泥洹時，有王名吉利，欲作七寶塔。
+
+The Buddha told the great king, "In the past, when the Kāśyapa Buddha entered Nirvana, there was a king named Gili who wished to build a stupa of seven treasures.
+
+時有臣白王言：『未來世當有非法人出，當破此塔得重罪。
+
+At that time, an official said to the king, 'In the future, there will be unlawful people who will destroy this stupa, committing a grave sin.
+
+唯願王當以塼作、金銀覆上，若取金銀者塔故在得全。』
+
+May the king construct it with bricks and cover it with gold and silver, so that even if someone takes the gold and silver, the stupa still remains intact.'
+
+王即如臣言以塼作、金薄覆上，高一由延、面廣半由延，銅作欄楯，經七年七月七日乃成。
+
+The king followed the official's advice, built it with bricks, covered it with a thin layer of gold, making it one yojana high and half a yojana wide, with bronze railings, and it was completed in seven years, seven months, and seven days.
+
+作成已香華供養及比丘僧。」
+
+After completion, he made offerings of incense and flowers as well as to the monks."
+
+波斯匿王白佛言：「彼王福德多有珍寶，我今當作不及彼王。」
+
+King Prasenajit said to the Buddha, "That king had great merit and many treasures, I cannot match him in what I will now do."
+
+即便作，經七月七日乃成，成已供養佛比丘僧。
+
+Then he proceeded to build, completing it in seven months and seven days, and after its completion, he made offerings to the Buddha and the monks.
+
+
+作塔法者，下基四方周匝欄楯，圓起二重、方牙四出，上施槃蓋長表輪相。
+Those who build a stupa start with a square base with encircling railings, create two circular layers, four protruding square pegs, and place a disk and wheel symbol on top.
+
+若言：「世尊已除貪欲瞋恚愚癡，用是塔為？」
+If one says, "The Blessed One has eliminated greed, aversion, and delusion, so what is the purpose of this stupa?"
+
+得越比尼罪，業報重故。
+One incurs the offense of disciplinary transgression, because the karmic result is severe.
+
+是名塔法。
+This is called the method of building a stupa.
+
+
+
+
+塔事者，起僧伽藍時，先預度好地作塔處，塔不得在南、不得在西，應在東、應在北。
+In constructing a pagoda, when starting a monastery, a good site for the pagoda should be chosen in advance. The pagoda must not be in the south or west, but should be in the east or north.
+
+不得僧地侵佛地，佛地不得侵僧地。
+The land of the monks must not encroach on the land of the Buddha, and the land of the Buddha must not encroach on the monks' land.
+
+若塔近死尸林，若狗食殘持來污地，應作垣牆。
+If the pagoda is near a charnel ground or if dogs bring remains to pollute the area, walls should be built.
+
+應在西、若南作僧坊，不得使僧地水流入佛地、佛地水得流入僧地。
+In the west or south where a monastery is built, the water from the monks' land should not flow into the Buddha's land, but water from the Buddha's land can flow into the monks' land.
+
+塔應在高顯處作，不得在塔院中浣染、曬衣、著革屣、覆頭、覆肩、涕唾地。
+The pagoda should be built in a prominent place, and it is not allowed to wash, dye clothes, dry clothes, wear leather shoes, cover the head, cover the shoulders, or spit in the pagoda courtyard.
+
+若作是言：「世尊貪欲瞋恚愚癡已除，用是塔為？」
+If one says, "The World-Honored One has already eliminated greed, anger, and ignorance, what use is this pagoda?"
+
+得越比尼罪，業報重。是名塔事。
+One incurs a violation of the monastic rules, and the karmic consequences are severe. This is known as the matter of the pagoda.
+
+
+
+
+塔龕者，爾時波斯匿王往詣佛所，頭面禮足白佛言：「世尊！我等為迦葉佛作塔，得作龕不？」
+The king, Prasenajit, went to the Buddha and respectfully said, "World-honored one! We are building a stupa for Kāśyapa Buddha, can we make niches?"
+
+佛言：「得。過去世時，迦葉佛般泥洹後，吉利王為佛起塔，四面作龕，上作師子象種種彩畫，前作欄楯安置花處，龕內懸繒幡蓋。」
+The Buddha said, "Yes. In the past, after Kāśyapa Buddha's nirvana, King Kalika built a stupa for the Buddha, made niches on four sides, adorned the top with various paintings of lions and elephants, created railings for flowers, and hung banners inside the niches."
+
+若人言：「世尊貪欲瞋恚愚癡已除，但自莊嚴而受樂。」者，得越比尼罪，業報重。
+If one claims, "The World-honored one has rid himself of greed, hatred, and delusion, yet he seeks adornment and enjoys pleasures," it incurs a serious karmic offense.
+
+是名塔龕法。
+This is the method of constructing niches in stupas.
+
+
+
+塔園法者，佛住舍衛城，爾時波斯匿王往至佛所，頭面禮足白佛言：「世尊！我得為迦葉佛塔作園不？」
+
+Regarding the rule of pagoda gardens, when the Buddha was living in the city of Shravasti, at that time King Prasenajit went to see the Buddha, bowed his head to the Buddha's feet, and said: "World Honored One! May I create a garden for the stupa of Kashyapa Buddha?"
+
+佛言：「得作。過去世時有王名吉利，迦葉佛般泥洹後，王為起塔，塔四面造種種園林。
+
+The Buddha replied: "You may. In a past life, there was a king named Jili. After Kashyapa Buddha attained nirvana, the king built a pagoda and created various gardens around it on all four sides.
+
+塔園林者，種菴婆羅樹、閻浮樹、頗那娑樹、瞻婆樹、阿提目多樹、斯摩那樹、龍華樹、無憂樹，一切時華，是中出華應供養塔。」
+
+The gardens around the pagoda were planted with Amra trees, Jambu trees, Punna trees, Champaka trees, Arjuna trees, Saptaparni trees, Sal trees, and Asoka trees, which bloomed all the time to provide flowers for offering to the stupa."
+
+若檀越言：「尊者！是中華供養佛、果與僧。」應從檀越語。
+
+If the benefactor says, "Venerable! Let these flowers worship Buddha, and the fruits be offered to the sangha," their words should be followed.
+
+若花多者，得與華鬘家，語言：「爾許華作鬘與我，餘者與我爾許直。」
+
+If there are many flowers, they can be given to garland makers with these words: "Make me a garland from these flowers, and for the rest, pay me a certain amount."
+
+若得直得用然燈、買香以供養佛、得治塔，若直多者得置著佛無盡物中。
+
+If you receive money, it can be used to light lamps, buy incense to worship Buddha, or maintain the stupa; if there is excess, it should be placed among the inexhaustible offerings for Buddha.
+
+若人言：「佛無婬怒癡，用是華果園為？」得越比尼罪，果報重。
+
+If someone says, "Buddha is free from lust, anger, and delusion, what use are these flower and fruit gardens to him?" they would be committing a transgression against the precepts, and the karmic retribution would be severe.
+
+是名塔園法。
+
+This is called the rule of the pagoda garden.
+
+
+
+
+塔池法者，佛住舍衛城，乃至佛告大王：「過去迦葉佛泥洹後，吉利王為迦葉佛塔，四面作池，種優鉢羅華、波頭摩華、拘物頭、分陀利種種雜華，今王亦得作池。」
+
+The method of making a stupa pond involves the Buddha residing in the city of Shravasti. Buddha told the great king, "After Kashyapa Buddha attained nirvana, King Bimbisara built a pond on all four sides of the stupa, planting a variety of flowers like utpala, padma, kumuda, and pundarika. Now the king can also make such a pond."
+
+池法者，得在塔四面作池，池中種種雜華供養佛塔，餘得與華鬘家，若不盡得置無盡物中。
+
+The method of making a pond involves constructing it on all four sides of the stupa. Various mixed flowers are planted in the pond to offer to the Buddhist stupa. The remaining flowers can be given to flower garland houses, or if there are too many, stored indefinitely.
+
+不得浣衣澡、洗手面、洗鉢，下頭流出處得隨意用無罪。是名塔池法。
+
+One should not wash clothes, bathe, wash hands and face, or wash bowls in it. The downstream water can be used at will without incurring sin. This is called the method of the stupa pond.
+
+
+
+
+塔枝提者，佛住舍衛城，乃至佛語大王：「得作枝提。
+Ta Zhiti are stupas and monasteries. The Buddha was living in the city of Shravasti, and he spoke to the great king: "You may build monasteries.
+
+過去迦葉佛般泥洹後，吉利王為迦葉佛塔，
+After the Parinirvana of the past Buddha Kassapa, King Gili built a stupa for Buddha Kassapa.
+
+四面起寶枝提，彫文刻鏤種種彩畫。
+On all four sides, he erected jeweled shrines, engraved with various designs and colorful paintings.
+
+今王亦得作枝提。」
+Now, you, the king, may also build monasteries."
+
+有舍利者名塔，無舍利者名枝提。
+A structure with relics is called a stupa; without relics, it is called a monastery.
+
+如佛生處、得道處、轉法輪處、般泥洹處、
+Such as the place of the Buddha's birth, enlightenment, first turning of the Dharma wheel, and Parinirvana,
+
+菩薩像、辟支佛窟、佛脚跡，
+a Bodhisattva image, a Pratyekabuddha's cave, and the footprints of the Buddha,
+
+此諸枝提得安佛華蓋供養具。
+all these monasteries can be adorned with flowers and canopies for offerings to the Buddha.
+
+若有言：「佛貪欲瞋恚愚癡已斷，用是精舍供養為？」
+If anyone says, "The Buddha has already eliminated greed, anger, and ignorance; why use these monasteries for offerings?"
+
+得越比尼罪，業報重。
+They incur a transgression against the precepts, and the karmic result is severe.
+
+是名塔枝提。
+This is what is called a stupa and a monastery.
+
+
+
+供養具者，佛住舍衛城，乃至諸比丘白佛言：
+For those who offer supplies, when the Buddha resided in Shravasti, even the monks said to the Buddha:
+
+「世尊！得持塔供養具供養枝提不？」
+"World-Honored One! May we offer materials to the stupas and ghettis?"
+
+佛言：「得。」若佛生日、得道日、轉法輪日、五年大會日，當此時得持供養，
+The Buddha said, "Yes." On the Buddha's birthday, enlightenment day, Dharma wheel turning day, and the five-year assembly day, one may offer at such times,
+
+中上者供養佛塔，下者供養枝提。
+The high ones offer to the Buddha stupas, the low ones offer to the ghettis.
+
+若有言：「佛婬怒癡已盡，用是幡蓋供養為？」
+If someone says: "The Buddha has rid of lust, anger, and ignorance, what's the use of offering banners and canopies?"
+
+得越比尼罪，業報重。
+This results in a violation of the Vinaya, with heavy karmic consequences.
+
+是名枝提法。
+This is called the law of ghettis.
+
+
+
+
+伎樂供養者，佛住舍衛城，時波斯匿王往詣佛所，頭面禮足却住一面而白佛言：「世尊！得持伎樂供養佛塔不？」
+
+The performer offered music to the Buddha residing in Shravasti City. At that time, King Prasenajit visited the Buddha, bowed his head in respect, stood aside and said, "World-Honored One! May I use music to offer to the Buddha's pagoda?"
+
+佛言：「得。迦葉佛般泥洹後，吉利王以一切歌舞伎樂供養佛塔，今王亦得。」
+
+The Buddha said, "You may. After the parinirvana of Kasyapa Buddha, King Kalikala offered various songs and dances to the Buddha’s pagoda, and now you may also do so."
+
+佛言：「若如來在世、若泥洹後，一切華香、伎樂、種種衣服、飲食盡得供養，為饒益世間令一切眾生長夜得安樂故。」
+
+The Buddha said, "Whether the Tathagata is in the world or after his parinirvana, all flowers, incense, music, various clothes, and food may be offered, for the benefit of the world and to bring long-lasting happiness and peace to all beings."
+
+若有人言：「世尊無婬怒癡，用此伎樂供養為？」得越比尼罪，業報重。
+
+If someone says, "The World-Honored One has no lust, anger, or delusion, why use music for offerings?" they will incur a violation of the Vinaya, and the karmic consequences will be severe.
+
+是名伎樂法。
+
+This is known as the Dharma of musical offerings.
+
+
+
+
+收供養具者，佛住舍衛城，爾時諸比丘白佛言：「世尊！我等得收枝提供養具不？」
+
+At that time, while the Buddha was residing in the city of Shravasti, the monks said to the Buddha, "World Honored One! Can we gather branches and provide offerings?"
+
+佛言：「得。」
+
+The Buddha replied, "You may."
+
+收者，若佛生日、得道日、轉法輪日、五年大會日，多出幡蓋供養枝提。
+
+This is permitted on Buddha's birthday, enlightenment day, turning the Dharma Wheel day, and the five-year assembly day, when many banners and offering branches are displayed.
+
+若卒風雨，一切眾僧應共收，不得言：「我是上座、我是阿練若、我是乞食、我是糞掃衣、我是大德。汝等依是活者自應收。」
+
+If there is sudden wind or rain, all monks should gather them together, and no one should say, "I am a senior monk, I am one who practices in seclusion, I live by alms, I wear robes made from discarded rags, I am a virtuous one. You who live here should gather them yourselves."
+
+若風雨卒來應共收，隨近房應安，不得護房言著先處。
+
+If sudden wind or rain comes, you should gather them together, place them in a nearby room, and should not argue about putting them in a prior position.
+
+若濕者應曬，塵土坌者應抖擻疊舉。
+
+If they become wet, they should be dried, and if covered with dust, they should be shaken clean and folded.
+
+若言：「我是上座、我是阿練若、我是乞食、我是糞掃衣、我是大德。」者，得越比尼罪。
+
+If someone says, "I am a senior monk, I am one who practices in seclusion, I live by alms, I wear robes made from discarded rags, I am a virtuous one," they commit a transgression against the monastic code.
+
+是名收供養具法。
+
+This is known as the regulation for collecting offering items.
+
+
+
+
+難者，佛住舍衛城，時尊者優波離往詣佛所，頭面禮足白佛言：「世尊！若塔物、僧物難起者，當云何？」
+
+At one time, when the Buddha was staying in the city of Śrāvastī, the venerable Upāli went to visit him, bowed at his feet, and said: "World-honored One! If it is difficult to protect items belonging to the stupa or the sangha, what should be done?"
+
+佛言：「若外賊弱者，應從王求無畏。
+
+The Buddha replied: "If the external robbers are weak, you should seek protection from the king.
+
+王若言：『尊者但住莫畏，若我後事不立者隨意。』
+
+If the king says: 'Revered one, stay without fear, if I am not able to assist later, do as you see fit.'
+
+爾時應量王力強弱，賊強者應密遣信往賊主所求索無畏。
+
+At that time, you should evaluate the king's strength; if the robbers are strong, you should secretly send a message to the robber chief to seek protection.
+
+王若言：『我今自恐不立，何得無畏？』
+
+If the king says: 'I am now afraid I might not be stable, how can I offer protection?'
+
+尊者自可從賊索救護者應去。
+
+The revered one should seek rescue from the robbers and leave.
+
+若賊是邪見不信佛法者、不可歸趣者，不得便捨物去，應使可信人藏佛物僧物。
+
+If the robbers hold wrong views and do not believe in the Buddha Dharma, and cannot be appeased, you should not abandon the objects and leave, but should have a trustworthy person hide the Buddha’s and sangha’s items.
+
+當先探候看賊，不可令奄爾卒至。
+
+You should first scout and observe the robbers, not allowing them to arrive suddenly.
+
+若賊來急不得藏者，佛物應莊嚴佛像、僧坐具應敷、安置種種飲食，令賊見相。
+
+If the robbers come suddenly and there is no time to hide the items, you should adorn the Buddha statues with the Buddha's belongings, arrange the seating for the monks, and display various foods, letting the robbers see.
+
+當使年少比丘在屏處伺看賊至，賊見供養具若起慈心作是問：『有比丘不？莫畏，可來出。』
+
+Have a young monk stand in a screened place to observe the robbers approaching; if the robbers see the offerings and develop a kind heart, they might ask: 'Is there a monk? Do not fear, you can come out.'
+
+爾時年少比丘應看。
+
+At that time, the young monk should observe.
+
+若賊卒至不得藏物者，應言：『一切行無常。』
+
+If the robbers suddenly arrive and there is no way to hide the items, one should say: 'All things are impermanent.'
+
+作是言已捨去。」
+
+Having said this, they should leave.
+
+是名難法。
+
+This is called the difficult Dharma.
+
+
+
+塔法并塔事、  
+Rules and matters concerning pagodas,  
+
+塔龕及塔園、  
+Pagoda niches and gardens,
+
+
+
+
+塔池及枝提、  
+Pagodas, ponds, and branches,
+
+伎樂供養具、  
+Offerings of music and dance,
+
+
+
+
+收拾香花难。  
+It's hard to pick up fragrant flowers.  
+
+十四跋渠竟。  
+Eventually, fourteen forded the canal.  
+
+
+
+
+具足舉羯磨、  
+The full ordination ritual,
+
+舉事并布薩、  
+The proceedings and confession,
+
+
+
+
+生病之时，忌食大蒜。
+
+When you are sick, avoid consuming garlic.
+
+
+
+
+為殺并刀治、
+For the purpose of slaying and mastering the blade,
+
+方便受眾生、
+Adapted to the convenience of sentient beings,
+
+
+
+
+灭偷婆法后。
+After the law to eliminate thieves.
+
+
+
+
+摩訶僧祇律卷第三十三  
+The Mahāsāṃghika Vinaya, Volume 33  
+
+
+
+

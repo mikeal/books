@@ -1,0 +1,3389 @@
+eady to assist you with the translation. Could you please provide the text that needs to be translated
+
+
+【經文資訊】大正新脩大藏經 第 22 冊 No. 1425 摩訶僧祇律
+[Scripture Information] Taisho Revised Tripitaka, Volume 22, No. 1425, Mahasanghika Vinaya
+
+
+
+
+#【版本记录】发行日期：2024-08，最后更新：2024-07-12
+
+# [Version History] Release Date: 2024-08, Last Updated: 2024-07-12
+
+
+
+
+#【编辑说明】本数据库由 财团法人佛教电子佛典基金会（CBETA）依「大正新脩大藏经」所编辑
+
+# [Editing Instructions] This database is compiled by the Chinese Buddhist Electronic Text Association (CBETA) based on the "Taisho Revised Tripitaka."
+
+
+
+
+原始資料由蕭鎮國大德提供。
+
+The original data was provided by the virtuous elder Xiao Zhenguo.
+
+伽耶山基金會提供。
+
+Provided by the Gaya Mountain Foundation.
+
+北美某大德提供。
+
+Provided by a certain virtuous elder in North America.
+
+釋本禪法師提供新式標點。
+
+The new-style punctuation was provided by Master Shi Benchan.
+
+
+
+
+【其他事項】本資料庫可自由免費流通，
+
+[Other Matters] This database can be freely circulated without charge,
+
+詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
+
+For detailed information, please refer to the Copyright Declaration of the Buddhist Electronic Text Foundation Database.
+
+
+
+orry, it looks like there isn't any text provided for translation. Could you please provide the lines you'd like translated
+
+
+摩诃僧祇律卷第六東晉天竺三藏佛陀跋陀羅共法顯譯
+
+The sixth scroll of the Mahāsāṃghika Vinaya, translated by the Tripiṭaka of India, Buddhavarman and Faxian of the Eastern Jin Dynasty
+
+
+
+
+悲矣無明狂，苦哉生死牢
+Alas, the madness of ignorance, oh the suffering of the prison of life and death
+
+古道嗟將墮，豪傑幾魂消
+The ancient path lamented will fall, how many heroes' spirits will fade
+
+惟憶看山路，雲歸眼豁開
+Only remember the mountain path, the returning clouds with open eyes
+
+不知何日轉，寂寞暮亭隈
+I do not know when it will turn, lonely in the evening by the pavilion's corner
+
+
+
+
+佛住舍衛城，廣說如上。
+The Buddha stayed in the city of Savatthi and taught as above.
+
+爾時有長老比丘，名迦羅。
+At that time there was an elder monk named Kalara.
+
+時到著入聚落衣持鉢入城，次行乞食，到一田家。
+When it was time, he put on his robe, took his bowl, entered the city, and went begging for food from house to house until he reached a farm.
+
+其家母人遙見長老迦羅，便起迎之，恭敬問訊：「善來阿闍梨！久不相見，莫如餘家作疎外意，如自家想。」
+The lady of the house saw Elder Kalara from a distance and went out to greet him respectfully, saying, "Welcome, good teacher! It has been a long time since we last met. Please do not feel like a stranger but consider this your own home."
+
+請令入坐，迦羅即坐。
+She invited him to sit, and Kalara did so.
+
+時母人禮迦羅足已，於一面立。
+The lady of the house paid homage at Kalara's feet and then stood to one side.
+
+其家男女皆來禮迦羅足已，於一面立。
+The men and women of the house all came to pay homage at Kalara's feet and then stood to one side.
+
+時有大兒後來禮足已，於一面立，迦羅問言：「是誰家兒？」
+A grown son came later, paid homage, and stood to one side. Kalara asked, "Whose son is this?"
+
+母人答言：「此是我兒。」
+The lady replied, "This is my son."
+
+迦羅問言：「為婚娶未？」
+Kalara asked, "Is he married yet?"
+
+答言：「未婚。」
+She replied, "Not yet."
+
+迦羅言：「應為娶婦，莫令在外作諸過惡。」
+Kalara said, "He should marry to avoid any outside wrongdoing."
+
+迦羅復問：「頗有擬宜處不？」
+Kalara further asked, "Is there a suitable prospect?"
+
+答言：「有某家有女，遣信往索不得。」
+She replied, "There is a family with a daughter, but we sent a message and were refused."
+
+問言：「何故不得？」
+He asked, "Why were you refused?"
+
+答言：「彼作是語：『我欲令無子有子、無女有女，如我一目，亦為我子、亦為女婿，我當與之。』我今何為？為彼女故，放子令去。」
+She replied, "They said, 'I want someone who will become like my own son, grandson, and son-in-law, then I will give her.' What can I do? I can't let her go for their daughter."
+
+迦羅言：「如汝所言，彼是愚人。誰當為女放捨其子？如人所說：『女生外向，雖生王家，隨嫁娶法，會當出去。』如汝本時，亦從外來。然我亦出入彼家，當為汝男求索。」
+Kalara said, "As you said, they are foolish. Who would give up their son for a daughter? As the saying goes, 'A daughter belongs outside, marrying and leaving. Even if born in a royal home, she must follow the law of marriage and eventually leave.' You, too, came from outside. I visit that family, so I will seek a match for your son."
+
+彼女答言：「善哉阿闍梨！」
+She replied, "Excellent, good teacher!"
+
+迦羅比丘即出是家，往詣彼家。
+Kalara the monk left that house and went to the other family's home.
+
+彼家母人見迦羅來，即出來迎恭敬問訊：「善來阿闍梨！久不問訊，莫如餘家作疎外意，今於我家如自己想。」
+The lady of that house saw Kalara coming, went out to greet him respectfully, and said, "Welcome, good teacher! It's been a long time; please feel at home here."
+
+請令入坐，坐已禮迦羅足，於一面立。
+She invited him in to sit, and after sitting, paid homage at Kalara's feet and stood to one side.
+
+其家男女亦前禮足，於一面立。
+The men and women of the house also came to pay homage and stood to one side.
+
+時有一大女，後來禮足。
+A grown daughter came later and paid homage.
+
+迦羅問言：「此是誰女？」
+Kalara asked, "Whose daughter is this?"
+
+答言：「我女。」
+She replied, "My daughter."
+
+問言：「嫁未？」
+He asked, "Is she married?"
+
+答言：「未嫁。」
+She replied, "Not yet married."
+
+迦羅言：「應早處分，莫令在外脫生諸過。」
+Kalara said, "This should be settled soon to avoid any issues."
+
+迦羅復問：「頗有來索者不？」
+Kalara further asked, "Have there been any suitors?"
+
+答言：「有某甲家，曾索不與。」
+She replied, "There was a certain family that inquired, but we did not agree."
+
+問：「何故不與？」
+He asked, "Why not agree?"
+
+答言：「阿闍梨！我欲令無子有子、無女有女，如我一目，亦為我女婿。亦如我兒，來就我家，當以女與之。我今何為為他男故，捨女令去？」
+She replied, "Good teacher! I want someone who becomes like my own son, grandson, and son-in-law. Like my son, he should decide to visit my house and then I will give my daughter in marriage. Why should I give my daughter and let her go for some other man?"
+
+迦羅言：「怪哉汝是愚人！何聞由來嫁男就女？如汝本時，云何來就他人？」
+Kalara said, "You are indeed foolish! How can you expect a man to marry and come live with the woman's family? In your case, how did you come to your husband?"
+
+如所說：「女生外向，雖生王家，亦隨嫁娶法，會當出門。」
+As it is said, "A daughter belongs outside, even if born in a royal house, she follows the marriage custom and must leave."
+
+然彼男家是我檀越，汝嫁女與之可得富樂。」
+Furthermore, the boy's family is my supporter; marrying your daughter to him will bring wealth and happiness."
+
+其母答言：「阿闍梨意欲爾耶？」
+The mother responded, "Good teacher, is this your intention?"
+
+答言：「欲爾。」
+He replied, "Indeed, it is."
+
+即便許可。
+She immediately gave her consent.
+
+迦羅即還男家語男家婦言：「已得彼女，所應為者宜及時為。」
+Kalara returned to the boy's house and said to the boy's mother, "The girl is secured, so proceed as needed."
+
+時二家俱富，各送禮具成其婚姻。
+Both families were wealthy and exchanged gifts to arrange the marriage.
+
+女適男家，每執苦事遂生勞患，臥到日出。
+The girl went to her new husband's house, took on hard work, became weary, and lay in bed until sunrise.
+
+時姑喚言：「何以不起？汝不知婦禮，晨朝當起掃灑執作，瞻視賓客。」
+The mother-in-law called, "Why are you not up? You don't understand a wife's duties, like getting up in the morning to clean and prepare, or look after guests."
+
+如是再三語，婦故不從教。
+She repeated this several times, but the wife didn't follow the instructions.
+
+其姑極生苦厭，而作是言：「坐是迦羅遺我此苦，為我求此無手足物。」
+The mother-in-law was greatly frustrated and said, "Kalara brought me this pain, getting me this worthless person."
+
+爾時兒婦復啼泣言：「坐是迦羅遺我此苦，云何持我陷火坑中？」
+At that time, the daughter-in-law cried and said, "Kalara brought this upon me, how could he put me in this hellish situation?"
+
+爾時女母聞之，復瞋恚言：「我女在家婉樂少事，今在男家多務辛苦，終日啼泣。云何迦羅安我女著弊惡家？」
+The girl's mother heard this, became angry, and said, "My daughter was happy with little work at home, now she has many duties and suffers, crying all day. How could Kalara put my daughter in such a miserable family?"
+
+迦羅比丘為二家所瞋。
+Kalara the monk was resented by the two families.
+
+諸比丘以是因緣，廣白世尊，
+The monks reported this matter extensively to the Blessed One,
+
+佛言：「喚迦羅比丘來。」
+The Buddha said, "Summon the monk Kalara."
+
+即便喚來已，佛問迦羅：「汝實作是事不？」
+After being summoned, the Buddha asked Kalara, "Did you actually do this?"
+
+答言：「實爾。世尊！」
+He replied, "Indeed, Blessed One!"
+
+佛言：「迦羅！汝常不聞，我無數方便呵責和合欲法，無數方便讚歎離欲法。汝今云何和合欲法？是為惡事，今因汝故當為諸比丘制戒。」
+The Buddha said, "Kalara! Have you not often heard me condemn the path of desire and praise the path of renunciation with countless methods? How could you follow the path of desire? This is a wrongdoing, and because of you, I will establish a rule for the monks."
+
+佛告諸比丘：「依止舍衛城比丘，皆悉令集，
+The Buddha told the monks, "Gather all the monks residing in Savatthi,
+
+以十利故為諸比丘制戒，乃至已聞者當重聞。
+For the sake of the ten benefits, I will establish a rule for the monks, even those who have heard it before should hear it again.
+
+若比丘受他使，行和合男女，若娶婦、若私通，乃至須臾頃者，僧伽婆尸沙。」
+If a monk acts as a matchmaker, arranging marriages, or facilitates sexual relations even momentarily, it is a parajika offense."
+
+
+
+
+比丘者，如上說。
+Monks, as mentioned above.
+
+
+
+
+使者，受使事。
+The envoy, entrusted with the mission.
+
+
+
+
+行者，往來。
+The traveler goes back and forth.
+
+
+
+
+和合者，和合男女也。  
+A harmonious person is one who harmonizes both men and women.
+
+
+
+
+婦者，終身婦也。
+A woman is a wife for life.
+
+
+
+
+私通者，暫交會也。
+Those who have an affair, meet temporarily.
+
+
+
+
+乃至須臾頃者，乃至和合令須臾間會者，亦犯僧伽婆尸沙。
+Even a short moment, a moment that unites and harmonizes, is also an offense comparable to a Sangha Parajika. 
+
+
+
+
+僧伽婆尸沙者，如上說。
+Saṅghādisesa, as stated above.
+
+
+
+
+若孤女，無父、無母、無親里、若俱無、若自立、若依他立、若依親里立、若俱立。
+If an orphan girl has no father, no mother, no relatives, whether none at all, self-reliant, dependent on others, dependent on relatives, or dependent on both.
+
+孤無母者，謂女無母，依父生活，是名無母。
+An orphan without a mother means a girl without a mother who lives dependent on her father, this is called having no mother.
+
+若有男子欲求此女為婦，倩比丘往求，比丘許者，犯越比尼罪；往向彼說，犯偷蘭罪；得不得還報時，犯僧伽婆尸沙。
+If a man wishes to marry this girl and asks a monk to go and ask for her, if the monk agrees, he commits a parajika offense; if he goes and speaks to her, he commits a theft offense; regardless of outcome, he commits a sanghadisesa offense.
+
+孤女無父者，有女無父依母生活，是名無父孤女。
+An orphan girl without a father means a girl without a father who lives dependent on her mother, this is called having no father.
+
+若有男子，欲求此女為婦，倩比丘往求此女為婦，受彼使者，犯越比尼罪；往向彼說，犯偷蘭罪；得不得還報時，犯僧伽婆尸沙。
+If a man wants to marry this girl and asks a monk to go and ask for her to be his wife, accepting the mission, the monk commits a parajika offense; going to her and speaking, he commits a theft offense; regardless of outcome, he commits a sanghadisesa offense.
+
+無親俱無亦復如是。
+The same applies to having no relatives altogether.
+
+自立者，無父無母、無親里自活。
+Self-reliant means she has no father, no mother, no relatives and lives on her own.
+
+若有男子欲求此女為婦，倩比丘往女所，受彼使者，犯越比尼罪；往向女說，得偷蘭罪；得不得還報時，犯僧伽婆尸沙。
+If a man wishes to marry such a girl and asks a monk to go to her, accepting the mission, the monk commits a parajika offense; going to her and speaking, he commits a theft offense; regardless of outcome, he commits a sanghadisesa offense.
+
+依他立者，若女無親而依他立。
+Dependent on others means a girl with no relatives relying on others for support.
+
+若有男子欲得此女為婦，倩比丘往，受彼使者，犯越比尼罪；往向彼說，偷蘭罪；得不得還報時，犯僧伽婆尸沙。
+If a man wishes to marry this girl and asks a monk to go, accepting the mission, the monk commits a parajika offense; going and speaking to her, he commits a theft offense; regardless of outcome, he commits a sanghadisesa offense.
+
+依親及俱亦復如是。
+The same applies to being dependent on relatives or both.
+
+若孤兒，無母無父無親，俱無自立，依他依親、依俱無母者，
+If an orphaned child has no mother, no father, no relatives, none while being self-reliant, relying on others, relatives, or both, with no mother,
+
+若孤兒無母，依父生活，此兒欲求他女為婦，倩比丘往受彼使者，犯越比尼罪；
+If an orphan without a mother lives relying on the father, and this child wishes to marry a girl, asks a monk to go and accept the mission, the monk commits a parajika offense;
+
+往向彼說，犯偷蘭罪；得不得還報時，僧伽婆尸沙。
+Going to her and speaking, he commits a theft offense; regardless of outcome, he commits a sanghadisesa offense.
+
+乃至依俱亦復如是。
+The same applies even to dependency on both.
+
+
+
+若家內
+
+Within the household
+
+同產
+
+those born of the same parents
+
+先要
+
+the first to be considered
+
+罰
+
+shall be penalized
+
+榛王
+
+for the chief of the hazelnuts
+
+績縷
+
+spins the thread
+
+作食
+
+prepares the meal
+
+取水
+
+fetches water
+
+無子
+
+Without a son
+
+繼嗣
+
+there is no successor
+
+
+
+
+家內者。
+
+At home.
+
+若有人養他小兒，教習長大，
+
+If someone raises a child, teaching them until they grow up,
+
+家中有所生女年亦長大，
+
+and there is a daughter in the family who also grows up,
+
+便作是念：
+
+then they think:
+
+「我今此女年已長大，當出適他。
+
+"My daughter is now grown and should be married off.
+
+今日此兒是我所養，今已長大，
+
+Today, this child whom I have raised is now grown,
+
+何不以女嫁與此兒，當如我子，亦為女婿。」
+
+why not marry my daughter to this child, as if he were my own son and also my son-in-law?"
+
+不能自語，
+
+Unable to speak for themselves,
+
+便倩比丘語此男兒言：
+
+they ask a monk to speak to the boy, saying:
+
+「我養育汝教學成就，年已長大。
+
+"I have raised you and seen you accomplished in your studies, and now you are grown.
+
+今我有女向當出門，
+
+Now, I have a daughter who is about to leave home,
+
+欲令汝為我女婿，亦如我子。」
+
+and I wish for you to be my son-in-law, as if you were my own son."
+
+比丘受彼使者，得越比尼罪；
+
+The monk acts on their behalf, thereby committing a minor offense;
+
+往向彼說，犯偷蘭罪；
+
+when going to speak to the young man, they commit a grave offense;
+
+得不得還報時，犯僧伽婆尸沙。
+
+if unable to deliver the message, they commit a major offense.
+
+若彼養兒先自欲得其女，
+
+If the one raising the child wishes for him to have the daughter,
+
+倩比丘往白其父，
+
+and asks the monk to speak to the father,
+
+亦復如是。
+
+it is also the same.
+
+
+
+同產者，若有同產兄喪，欲執嫂為婦，倩比丘往語其嫂，乃至得不得還報時，犯僧伽婆尸沙。
+If a brother of the same lineage passes away and another brother wishes to take the widow as his wife, he asks a monk to convey this to her. Until the monk returns with her decision, it constitutes a Sanghadisesa offense.
+
+先要者，若有男子，共他婦通，其婦語此男子言：「若我夫瞋，苦治我罪驅出門者，汝當取我。」答言：「可爾。」
+First, if a man has relations with another's wife, and the woman tells him, "If my husband gets angry, punishes me and drives me out, you should take me," to which he replies, "Agreed."
+
+時彼婦人便故惱其夫，令其忿恚，苦治驅出。
+Then the woman deliberately provokes her husband into anger, causing him to punish and drive her out.
+
+彼男子聞已，不能自往，便倩比丘往語婦人：「汝已為夫苦治驅出，當來就我。」
+The man, unable to go himself, asks a monk to tell the woman, "Since your husband has punished and driven you out, you should come to me."
+
+比丘受使，乃至得不得還報時，犯僧伽婆尸沙。
+If the monk acts as a messenger in this matter, whether he succeeds or not, it constitutes a Sanghadisesa offense.
+
+若復女人欲樂男子，不能自語，便倩比丘往語男子：「我已為夫苦治驅出，今欲就汝為我作夫。」
+If a woman desires a man but cannot speak to him directly, she asks a monk to tell him, "My husband has punished and driven me out, and I now wish to come to you for marriage."
+
+比丘受使，乃至得不得還報時，犯僧伽婆尸沙。
+If the monk accepts the task, whether he succeeds or not, it constitutes a Sanghadisesa offense.
+
+若是女人欲還從本夫，不能自語，倩比丘往語其夫言：「還共生活，更不作過。」
+If a woman wishes to return to her original husband but cannot speak to him, she asks a monk to tell her husband, "I wish to return to live together and will not err again."
+
+比丘受使，乃至得不得還報時，僧伽婆尸沙。
+If the monk acts as a messenger, whether he succeeds or not, it constitutes a Sanghadisesa offense.
+
+若復夫主還欲娶婦，不能自語，倩比丘往語本婦言：「今聽汝還，莫更作過。」
+If a husband wishes to take back his wife but cannot speak to her, he asks a monk to tell her, "You may return; do not err again."
+
+比丘受使，乃至得不得還報時，犯僧伽婆尸沙。
+If the monk accepts the task, whether he succeeds or not, it constitutes a Sanghadisesa offense.
+
+
+
+
+罰者，若王欲取人女，不能自語，倩比丘往語其家言：「我能罰汝家而取汝女，但不欲爾。
+If the ruler desires to take someone's daughter but cannot speak directly, he sends a monk to the family, saying: "I can punish your family and take your daughter, but I do not wish to do so.
+
+汝與我女可得衣食，莊嚴之具自然不乏，又可饒益汝家。」
+Give us your daughter, and you will naturally receive clothes, food, and all necessities, while also benefiting your family."
+
+比丘受使，乃至得不得還報時，犯僧伽婆尸沙。
+When the monk receives this mission, whether he succeeds or not upon returning to report, it violates the Sanghavasesa rule.
+
+
+
+榛王者，賊主也。
+Zhen Wang is the master of bandits.
+
+若賊主欲取他女，不能自語，
+If the bandit leader wants to take a woman, he cannot speak for himself,
+
+倩比丘往語其家言：「我是林中王，能為汝作不饒益事。
+so he sends a monk to speak to her family saying: "I am the king of the forest, I can do beneficial things for you.
+
+汝當送女與我，可得衣食嚴具自恣，并護汝家。」
+You should send the woman to me, and you will receive clothing, food, and protection freely, as well as protection for your family."
+
+比丘受使，乃至得不得還報時，僧伽婆尸沙。
+The monk accepts the mission, but whether he succeeds or fails, he must report back to the Sangha. 
+
+
+
+績縷者，若有寡婦紡績自活，
+A spinner, if there is a widow who spins to support herself,
+
+有男子欲得，不能自語，
+a man desires her, but cannot speak for himself,
+
+倩比丘往語寡婦言：「為我作婦。」
+he asks a monk to go and tell the widow, "Become my wife."
+
+彼寡婦言：「我若相就不能餘作，
+The widow says, "If I agree, I cannot do anything else,
+
+唯能績縷，須者當往。」
+I can only spin thread, if needed, you must come."
+
+乃至得不得還報時，
+Until obtaining or not obtaining, returning to report the time,
+
+僧伽婆尸沙。
+it is a Sanghabhishaja (an offense requiring confession).
+
+
+
+作食者，若有寡婦，有男子欲得而不能自語，
+
+A man who cooks wishes to speak to a widow but cannot.
+
+倩比丘往語寡婦言：「來共生活。」
+
+He asks a monk to tell the widow, "Come live with me."
+
+寡婦言：「我但能作食不能餘作，須者當往。」
+
+The widow replies, "I can only cook but not do other tasks. If you need, I will come."
+
+乃至得不得還報時，僧伽婆尸沙。
+
+Whether he succeeds or not, he must return on time, as per the Sanghabhāṣita.
+
+
+
+
+取水者，若有寡婦，
+If there is a widow who fetches water,
+
+有男子欲取此婦，不能自語，
+a man wishes to take this woman, but cannot speak for himself,
+
+倩比丘往語寡婦言：「來共生活。」
+he asks a monk to speak to the widow, saying: "Come live with me."
+
+寡婦答言：「我但能取水不能餘作，
+The widow replies: "I can only fetch water and cannot do other work,
+
+須者當往。」
+if needed, you can come."
+
+乃至得不得還報時，
+Later, whether successful or not, at the time of returning with news,
+
+僧伽婆尸沙。
+there is a minor disciplinary rule for the monastic community.
+
+
+
+無子者，若有男子都無子息，復有寡婦亦無兒子，
+
+A childless person, if a man has no children, and a widow also has no son,
+
+有男子欲得此寡婦，不能自語，
+
+If a man desires this widow and cannot express himself,
+
+倩比丘往語寡婦言：「俱無子息，來共合活。」
+
+He asks a monk to go speak to the widow, saying, "Neither of us has a child; let's live together."
+
+比丘受使，乃至得不得還報時，僧伽婆尸沙。
+
+If the monk accepts the task, regardless of success or failure in delivering the message, it violates a minor offense (Sanghavasesa).
+
+若彼寡婦欲求男子，而不能自語，
+
+If the widow desires a man and cannot express herself,
+
+倩比丘往，亦復如是。
+
+She asks a monk to go, the situation is the same.
+
+
+
+繼嗣者，若有男女俱無子息，恐其死後，若墮餓鬼無所繼嗣。
+As for heirs, if a man and woman both have no offspring, they fear that after death, they will become hungry ghosts with no one to succeed them.
+
+時有男子欲得寡婦，不能自語，倩比丘往語寡婦言：「來共汝生活，若我先死墮餓鬼者，汝當祠我。
+At that time, there was a man who wanted to have a widow, but he could not speak for himself, so he asked a monk to go and tell the widow, "Come and live with me. If I die first and become a hungry ghost, you should make offerings to me.
+
+若汝先死我當祠汝。」乃至得不得還報時，僧伽婆尸沙。
+If you die first, I shall make offerings to you." Regardless of whether this request is fulfilled, it is considered Sangha imperative misconduct.
+
+若彼寡婦欲求男子亦復如是。
+If the widow wants to seek a man, it is the same.
+
+
+
+若有女人，
+If there is a woman,
+
+母所護、
+protected by her mother,
+
+父所護、
+protected by her father,
+
+兄弟護、
+protected by her brothers,
+
+姊妹護、
+protected by her sisters,
+
+自護、
+self-protected,
+
+種姓護、
+protected by her caste,
+
+錢所護、
+protected by money,
+
+童女寡婦他婦。
+as a maiden, widow, or another's wife.
+
+
+
+
+母護者，有女人依母住，
+
+The mother is the protector, a woman lives with her mother,
+
+有人欲得此女，遣比丘往語其母言：
+
+someone wishes to obtain this woman and sends a monk to speak to her mother, saying:
+
+「欲得此女為婦。」
+
+"I wish to have this woman as a wife."
+
+乃至得不得還報時，
+
+Whether successful or not, when the report is returned,
+
+僧伽婆尸沙。
+
+Sanghabadussa.
+
+
+
+父護、
+
+Father protects,
+
+兄弟護、
+
+Brothers protect,
+
+姊妹護，
+
+Sisters protect,
+
+亦復如是。
+
+Also, it is the same.
+
+
+
+
+自護者，有女人無父母親里，自作生活持戒自護。
+A self-supporter is a woman without parents around, living independently and maintaining moral conduct.
+
+若有男子欲得此女，倩比丘往語，乃至得不得還報時，僧伽婆尸沙。
+If a man wishes to take this woman, he sends a monk to speak, until he receives her or not, then returns the message, Sanghadisesa.
+
+
+
+姓護者，有女人無父母，依同姓住。
+For someone who protects their family name, there is a woman without parents living with family members of the same name.
+
+若有男子欲求此女，倩比丘往語其同姓，
+If a man wishes to marry this woman, he should send a monk to speak with her family members of the same surname.
+
+乃至得不得還報時，僧伽婆尸沙。
+Whether or not the request is successful, when they report back, this is the offense of Saṅghādisesa.
+
+
+
+錢護者，若女人負人錢未滿，有男子欲得此女，
+
+False witnesses, if a woman owes a small amount of money and a man wants her,
+
+倩比丘往語其家言：「與我此女，我代與錢。」
+
+he asks a monk to go tell her family: "Give me this woman, I will pay her debt."
+
+乃至還報，僧伽婆尸沙。
+
+If returned to her, it results in a Sanghavasesa offense.
+
+童女、寡婦、他婦亦復如是。
+
+The same applies to maidens, widows, and other women.
+
+
+
+若女人穀買得、錢買得，
+If a woman is bought with grains, and money buys her, 
+
+若輸錢女、半輸女、盡輸女。
+If she loses money, half loses, or completely loses.
+
+若一月住、若隨意住、
+If she stays for a month, or stays as she pleases,
+
+抄掠、與花鬘、無種、
+Loots, gives garlands, without seeds,
+
+須臾。
+For a moment.
+
+
+
+
+穀買得者，若女以穀買得，有男子欲得此女，倩比丘往語彼女言：「為我作婦。」
+If a woman was purchased with grain, and a man desires to have this woman, he asks a monk to go and tell her: "Be my wife."
+
+乃至得不得還報時，僧伽婆尸沙。
+Until she gives a response, whether affirmative or negative, the monk is a messenger.
+
+錢買得者亦復如是。
+The same applies if she was purchased with money.
+
+
+
+
+輸錢者，若有人養女索稅錢，唯除自供，餘者盡取。
+If someone lends money, and someone raises a daughter asking for tax money, the lender can take everything except what is needed for their own provision.
+
+若有男子，欲求此女人，倩比丘往語，乃至還報，僧伽婆尸沙。
+If a man seeks this woman, he should ask a monk to go speak, and report back, leading to a Sanghavasesa.
+
+半輸、盡輸亦復如是。
+The same applies to partial and complete loans.
+
+
+
+一月住者，若寡婦，有男子欲求為婦，倩比丘往語寡婦。
+If someone stays for a month, like a widow, and a man desires her for a wife, he requests a monk to speak to the widow.
+
+寡婦答言：「我不能長住，為可一月相就，若須者當往。」
+The widow replies, "I cannot stay long, but it's possible to meet for a month; if needed, I will go."
+
+乃至還報，僧伽婆尸沙。
+Even to the point of reporting back, [this is] a minor offense in Buddhist monastic code.
+
+
+
+
+隨意住者，有寡婦，男子欲求為婦，倩比丘往語寡婦。
+There is a widow who lives as she pleases; a man wants to make her his wife and asks a monk to talk to her.
+
+寡婦言：「我不能長住，隨我意幾時住，須者當往。」
+The widow says, "I cannot stay for long; I'll live as I please and leave when necessary."
+
+乃至還報。
+And then the message was delivered back.
+
+僧伽婆尸沙。
+Sanghabhissaka.
+
+
+
+抄掠得者，若人破他聚落抄得女人，
+
+If a person raids another's village and captures women,
+
+若有男子欲求此女，
+
+If a man desires this woman,
+
+倩比丘往語，
+
+He asks a monk to convey his message,
+
+乃至還報，
+
+Until he receives a reply,
+
+僧伽婆尸沙。
+
+It is a minor offense for the community.
+
+
+
+
+持花鬘者，有國土法，男子欲求女人為婦時，直遣人持花鬘往與女人家。
+In some countries, when a man desires to take a woman as his wife, it is customary to send someone with a garland to the woman's home.
+
+若受花鬘便知得婦，若不受花鬘便知不得。
+If the garland is accepted, it is understood that marriage is agreed upon; if it is not accepted, it is not.
+
+即遣比丘，持花鬘往與女家，乃至還報，僧伽婆尸沙。
+Then a monk is sent to deliver the garland to the woman's family, and upon return, report back to the Sangha.
+
+
+
+無種者，若男子無父親亦無母親，又無知識。
+An outcaste is one who, like a man without father, mother, or knowledge.
+
+彼女亦爾。
+She is the same.
+
+是男子欲求彼女，
+This man desires her,
+
+倩比丘往語，乃至還報，僧伽婆尸沙。
+Asks a monk to go speak, until a response is received, it is a Sanghavasesa offense.
+
+
+
+須臾者，若端正女人，有男子倩比丘往求須臾交會，乃至還報，僧伽婆尸沙。
+A moment later, if there is a beautiful woman, a man asks a monk to seek a brief encounter, and he will return to report, this constitutes the offense called Sanghavasesa.
+
+
+
+
+無子婦
+
+A wife without children
+
+婢婦
+
+A maidservant wife
+
+出家
+
+A woman who becomes a nun
+
+放
+
+A woman who is cast out
+
+婬女
+
+A promiscuous woman
+
+婬女使人
+
+A promiscuous woman sent by someone
+
+外婬女
+
+A foreign promiscuous woman
+
+外婬女使人
+
+A foreign promiscuous woman sent by someone
+
+若棄女
+
+An abandoned girl
+
+乞女
+
+A girl who begs
+
+被遣女
+
+A dismissed or sent away girl
+
+下錢女
+
+A woman who is paid
+
+
+
+無子婦者，若有家富，兒小便為娶婦。
+A childless daughter-in-law, if the family is wealthy, is made a bride for a young son.
+
+兒死，此兒婦小依止姑住，至其長大。
+When the son dies, the daughter-in-law relies on the mother-in-law while she grows up.
+
+有男子欲求此女，倩比丘往語言：「汝兒既喪，我今便如汝兒無異。
+A man wants to propose to this young woman and asks a monk to say: "Since your son is lost, I will now be like your son.
+
+與我此婦，我當以衣食共相供給。」
+Give me this daughter-in-law, and I will provide her with clothing and food."
+
+乃至還報，僧伽婆尸沙。
+The request was eventually reported, and it's a Sanghabhedaka offense.
+
+
+
+婢婦者，如諸國土有賣生口。
+A maidservant, as in some countries, there are living beings for sale.
+
+若男子欲求為婦，欲言買為婦，
+If a man wishes to have a wife and wants to say he is buying her to become his wife,
+
+恐責錢多，便倩比丘往密語婦言：
+Fearing the price may be high, he asks a monk to secretly tell the woman:
+
+「我今買汝為婢，實持作婦。」
+"I am buying you as a maid, but truly to be my wife."
+
+乃至還報，僧伽婆尸沙。
+And so on, this was reported in the monastic code.
+
+
+
+出家者，若端正女人，於諸外道出家。
+If a woman of comely appearance becomes a monk in non-Buddhist orders.
+
+有男子欲求此出家女為婦，倩比丘往語，乃至還報，僧伽婆尸沙。
+A man desires to marry this monastic woman, and sends a monk to propose, and the monk returns with the reply, it is Sangghādisesa.
+
+
+
+二種：若賣、若離婚。
+Release has two types: either selling or divorce.
+
+賣者，如頗梨國法，有婦小嫌便賣。
+Selling, according to the laws of Vārāṇasī, if there is a slight dislike of the wife, she will be sold.
+
+離婚者，有國土法，夫婦不相樂樂，便詣王所，輸三錢半、二張劫貝而求斷，當聽使離婚。
+For divorce, there is a national law where if spouses do not get along, they go to the king, submit three and a half coins and two pieces of paper as a petition, then are allowed to divorce.
+
+或有女人與他私通，共作要言：「若我與夫離婚，當為汝作婦。」
+Sometimes a woman might have an affair and make a promise saying, “If I divorce my husband, I will become your wife.”
+
+答：「可爾。」即持錢物求得離婚。
+The other party replies, “Alright.” Then the woman uses money and goods to obtain the divorce.
+
+彼男子聞已，便倩比丘往語女人言：「汝已離婚，來作我婦。」
+Upon hearing this, the man sends a monk to tell the woman, “You have divorced, come and be my wife.”
+
+乃至還報，僧伽婆尸沙。
+Until the report comes back, it is a Sanghādisesa offense.
+
+若彼女人倩比丘往語彼男子言：「我已離婚，當為作婦。」
+If the woman sends a monk to tell the man, “I have divorced and will become your wife.”
+
+乃至還報，僧伽婆尸沙。
+Until the report comes back, it is a Sanghādisesa offense.
+
+
+
+
+婬女者，
+A prostitute,
+
+有男子倩比丘語婬女，
+A man asks a monk to speak with a prostitute,
+
+與我交通，
+To have intercourse with him,
+
+乃至還報，
+Until the favor is returned,
+
+僧伽婆尸沙。
+Falls under the Sanghadisesa offense.
+
+婬女使人者，
+In the case where the prostitute employs someone,
+
+婬女婢也，
+It refers to the prostitute's maid,
+
+亦如上說。
+It is as stated above.
+
+
+
+
+外婬女者，有婬女恒在田野求人。
+There is an adulteress who is always in the fields looking for people.
+
+有男子倩比丘往語，外婬女與我交通，乃至還報，僧伽婆尸沙。
+A man asked a monk to tell the adulteress to have relations with him, and eventually informed the sangha, resulting in a Parajika.
+
+外婬女使人亦復如是。
+The adulteress also made others do the same.
+
+
+
+棄女者，若女人他行妊娠，然後於諸外道中出家，月滿生女，棄著四衢道中。
+An abandoned girl is one whose mother, having become pregnant from another, then joins an outside sect and gives birth when the time is full, leaving the girl in the middle of a crossroads.
+
+有人取養，至年長大。
+Someone takes her in and raises her until she grows up.
+
+有男子欲得此女，倩比丘往語，乃至還報者，僧伽婆尸沙。
+A man desires to have this woman, sends a monk to speak, and until the return message, it is a Sanghāvāsīya offense.
+
+
+
+乞女者，若有人多男無女，從他乞女，養至年長大。
+For someone who has many sons but no daughters, they would beg for a daughter from others and raise her until she grows up.
+
+有男子欲求為婦，倩比丘往語，乃至還報，僧伽婆尸沙。
+If a man wants to take her as a wife, he asks a monk to go and speak on his behalf, returning with a report; this is a Sangkha-pasirsa matter.
+
+
+
+
+若有女人未出嫁時，共他私通，然後出適。
+If a woman, before marriage, secretly consorted with someone and then got married,
+
+婿知非童女，便遣還家，索本財物。
+and the husband discovered she was not a virgin, he would send her back to her home, demanding a return of the wedding gifts.
+
+先共通男子聞女被遣，便作是念：「此女由我令其被遣，我當取之。」
+The man who previously consorted with her hears she was sent back, and thinks: "It is because of me that she was sent away, I should take her."
+
+倩比丘往語彼父母，乃至還報，僧伽婆尸沙。
+He sends a monk to speak to her parents, and so on until a report is returned, this is Sanghabhasisa.
+
+
+
+下錢女者，若人娶婦輸錢未畢，
+The dowry girl is one whose marriage dowry is not fully paid.
+
+此女父母多索其錢，不能令滿而不得婦，女亦不得更嫁。
+Her parents demand more money, and if unable to fulfill it, the woman cannot marry, nor can she remarry.
+
+有異男子欲求此女，倩比丘往語其父母：
+If another man desires this woman, he may ask a monk to speak to her parents:
+
+「與我此女，當與錢還本夫家，并復與汝。」
+"Give me this girl, and I will return the dowry to the original husband's family, and also give you money."
+
+乃至還報，僧伽婆尸沙。
+Until the repayment is completed, according to the Sanghavasesa rule.
+
+
+
+若男子男子使語彼比丘，是比丘若從男子及男子使聞已，越比尼；
+If a man or a man's messenger speaks to a monk, and the monk listens to the man or the man's messenger, he has committed an offense.
+
+往語彼者，偷蘭罪；
+To speak to him is a minor offense. 
+
+若自往、若遣使往，得不得還報，僧伽婆尸沙。
+Whether one goes oneself or sends a messenger, whether or not one receives a reply, it is a grave offense for the community.
+
+若孤女依外祖母、依外祖父、依外曾祖、依外舅、依外姨母、依祖父依祖母、依曾祖、依父舅、依父姨母，亦如上說。
+If an orphan girl depends on her maternal grandmother, maternal grandfather, maternal great-grandfather, maternal uncle, maternal aunt, paternal grandfather, paternal grandmother, paternal great-grandfather, paternal uncle, or paternal aunt, the same rules apply as stated above.
+
+
+
+直、曲、相、堪能、出入、病、王、說法師伴黨、共、雜。
+Direct, crooked, appearance, capable, access, disease, king, Dharma teacher's companions, common, miscellaneous.
+
+直者，有男子欲求他女，不能自語，倩比丘往語。
+As for direct, there is a man who wants to ask for another's daughter but cannot speak himself, so he asks a monk to speak on his behalf.
+
+受語者，犯越比尼罪；向彼說，偷蘭罪。
+The one who receives the message commits the Vinaya offense; if speaking to her, it is a theft penalty.
+
+若女家說言：「彼是剎利、我婆羅門。彼毘舍、我婆羅門。彼首陀羅、我婆羅門。」
+If the girl's family says, "He is Kshatriya, and I am Brahmin. He is Vaishya, and I am Brahmin. He is Shudra, and I am Brahmin."
+
+或言：「我剎利、彼婆羅門。我毘舍、彼婆羅門。我首陀羅、彼婆羅門。」
+Or they say, "I am Kshatriya, he is Brahmin. I am Vaishya, he is Brahmin. I am Shudra, he is Brahmin."
+
+或復言：「彼是剎利、我毘舍。彼剎利、我首陀羅。」
+Or they further say, "He is Kshatriya, I am Vaishya. He is Kshatriya, I am Shudra."
+
+或言：「彼婆羅門、我亦婆羅門。彼剎利、我亦剎利。彼毘舍、我亦毘舍。彼首陀、我亦首陀。」
+Or they say, "He is Brahmin, and I am also Brahmin. He is Kshatriya, I am also Kshatriya. He is Vaishya, I am also Vaishya. He is Shudra, I am also Shudra."
+
+若得不得還報，僧伽婆尸沙。
+Whether received or not, the exchange must be reported back, Saṅghāvasesa.
+
+
+
+曲者，若男子欲求他女，不能自語，倩比丘往，比丘言：「世尊制戒不得使行。」
+
+In the case where a man desires a woman but cannot speak for himself, he asks a monk to go on his behalf, to which the monk responds: "The World-Honored One has established a rule prohibiting this."
+
+口雖不許心然可者，犯越比尼罪；往語彼，偷蘭罪；得不得還報，犯僧伽婆尸沙。
+
+Even if the words are denied but the heart permits, it is a violation of the minor precepts; going to speak, incurs a serious offense; reporting back whether successful or not, is a grave sin of expulsion.
+
+
+
+
+相者，若男子欲求他女，不能自語，倩比丘往。
+If a man wants to seek a woman but cannot speak for himself, he asks a monk to go on his behalf.
+
+比丘言：「佛制戒不得使行，然我當為汝作相。
+The monk says, "The Buddha's precepts do not allow me to act for you, but I will be a sign for you."
+
+汝若見我著垢膩衣持破空鉢，坐卑床上、口說奴婢語，當知不得。
+If you see me wearing dirty clothes, holding a broken empty bowl, sitting on a low seat, and speaking servant's words, you should know it's not successful.
+
+若復見我著鮮淨衣，執持好鉢，坐大床上、口說夫婦兒女、共汝言語，當知得相。
+If you see me wearing clean clothes, holding a good bowl, sitting on a big seat, and speaking of husbands, wives, and children while talking with you, you should know it is successful.
+
+如是作相，得不得還報，僧伽婆尸沙。
+In this way, acting as a sign, whether successful or not, report back to Saṅghāvaśiṣa.
+
+
+
+堪能者，若比丘眾多詣檀越家食，食已優婆夷白比丘言：「我欲取某家女作兒婦，當為我語之。」
+
+Competent person, if many monks go to a layperson's house to eat, after eating, the laywoman says to the monks: "I want to take a girl from a certain family as a wife for my son, you should speak on my behalf."
+
+諸比丘言：「優婆夷！世尊制戒不得使行。其中有二、三比丘堪能行。」
+
+The monks said: "Laywoman! The World Honored One has established rules not to allow us to act. Among us, two or three monks are competent to act."
+
+者，得越比尼罪；往語彼，得偷蘭罪；還報，犯僧伽婆尸沙。
+
+Those who act commit a pārājika offense; if you go and speak, you commit a thullaccaya offense; if you return and report, you commit a saṇghādisesa offense.
+
+
+
+
+家，受供养时，主人说：「我想为某家子女作儿媳，尊者为我求之。」
+
+When a monk enters another's house and receives offerings, the host says, "I want my son to marry a girl from a certain family, could you please help arrange it?"
+
+比丘说：「汝为我作饮食，当为汝求。」
+
+The monk says, "If you prepare food for me, I will help with your request."
+
+主人说：「为我儿得妇后，必为尊者作饮食。」
+
+The host says, "After securing a wife for my son, I will prepare food for the venerable one."
+
+比丘说：「我如果开口无不得礼，只需准备食物即可。」
+
+The monk says, "If I speak, there's nothing I cannot achieve, just prepare the food."
+
+于是若为其准备食物者，犯越比尼罪。
+
+Therefore, if one prepares the food for this reason, they commit a minor offense.
+
+若他对那家的主人说：「你知道不？」问：「何事？」
+
+If he goes to the other host and says, "You know?" and they ask, "About what?"
+
+比丘说道：「我想告诉您，有件事跟随我的话就知道了。」
+
+The monk says, "I want to tell you something, follow what I say and you'll know."
+
+主人说：「请讲。」
+
+The host says, "Please speak."
+
+比丘说：「有人想请求您的女儿。」
+
+The monk says, "Someone wishes to ask for your daughter."
+
+问：「是谁？」答：「某家子。」
+
+Asked, "Who?" Answered, "The son of a certain family."
+
+主人愤怒地说：「我宁愿把女儿置于水火、暗黑之地，也不给他。」
+
+The host angrily said, "I would rather put my daughter in water and fire, in a dark place, than give her to him."
+
+比丘因害怕而仓皇逃去，犯偷兰罪。
+
+The monk, frightened, ran away quickly, committing a serious offense.
+
+若女人未结婚，比丘先夸食用他的饮食，惭愧后返还并说不可，犯僧伽婆尸沙。
+
+If the woman is unmarried, and the monk boasts after consuming his food, and then feels ashamed and returns, saying it's not possible, this is a serious offense.
+
+若该女人已嫁或死亡，返还者，犯偷兰罪。
+
+If the woman has married or died, returning it is a serious offense.
+
+
+
+一家，其家語比丘言：「我欲索彼家女為婦，為我求之。」
+A monk frequently visited a household, and they said to him, "I want to ask for the daughter of that family as a wife; please seek her for me."
+
+比丘受語，得越比尼罪；往語彼，得偷蘭罪。
+If the monk followed their words, he incurred a minor transgression; if he conveyed this to the family, he committed a serious offense.
+
+彼家言：「我女病，知當死活？」
+The family said, "Our daughter is sick; do you know if she will live or die?"
+
+若男病者，彼言：「彼家兒病，知當死活？而女與之，彼脫死者，令我女寡。」
+If the man was sick, they would say, "That family's son is sick; do you know if he will live or die? If he escapes death, it would leave our daughter a widow."
+
+比丘復言：「夫人得病，皆當死耶？或自當差耳！但當與之。」
+The monk responded, "When people get sick, do they all have to die? Some recover on their own! Just give her to him."
+
+作是語時，偷蘭罪；得不得還報，僧伽婆尸沙。
+When he spoke these words, he committed a serious offense; whether or not he received a reply, it was a grave sin
+
+
+欲得他女，語比丘僧言：「我今欲得索某家女，當為我求。」
+
+If a king desires a woman, he tells the monk, "I now wish to seek a woman from a certain family, go and seek her for me."
+
+一切僧許者，一切得越比尼罪；一切僧往求者，一切僧得偷蘭罪；得不得還報者，一切僧犯僧伽婆尸沙。
+
+If all the monks agree, all incur a Vinaya offense; if all the monks go to seek her, they incur a Sanghadisesa offense whether they succeed or not.
+
+若眾僧遣使語彼家者，一切僧得越比尼罪；語時，一切僧得偷蘭罪；得不得還報時，一切僧得僧伽婆尸沙。
+
+If the monks send an envoy to speak to her family, all incur a Vinaya offense; while speaking, they incur a Sanghadisesa offense; whether successful or not, they incur a Parajika offense later.
+
+若受使者，作是思惟：「我若還眾中，俱使我白王。我不如即往白王，王當識我。」
+
+If the envoy thinks, "If I return to the assembly, they will send me to report to the king. I might as well go directly to the king, then he will know me."
+
+如是者是比丘，得不得還報時，僧伽婆尸沙；一切僧故得先，偷蘭罪。
+
+Such a monk incurs a Parajika offense whether successful or not; previously, the assembly incurred a Sanghadisesa offense.
+
+
+法師者，有優婆塞家，欲索一優婆塞家女。
+The monk, there was an upasaka family who wanted to propose to a daughter of another upasaka family.
+
+彼不欲與彼，言：「我寧嫁與邪見外道，勝與優婆塞家。」
+She did not wish to give her to him, saying, "I would rather marry her to a heretic outsider than to an upasaka family."
+
+男家便作是念：「誰能為我和合，唯有沙門，多諸方便，能說法者，當能為我和合之。」
+The man's family thought, "Who can unite us? Only a monk with many means and who can preach the Dharma can make us united."
+
+便詣精舍，白法師言：「我索彼家女，不欲與我。」
+So they went to the monastery and told the preacher, "I seek the daughter of that family, but they refuse to give her to me."
+
+法師問言：「彼何所道？」
+The preacher asked, "What did they say?"
+
+答言：「彼作是語：『寧與邪見外道，不與是家。』法師為我說同道之義，令彼與我。」
+He replied, "They said, 'I would rather give her to a heretic outsider than to your family.' Please preach the principle of the same path for me so they will give her to me."
+
+比丘許者，越比尼罪。
+If a monk agrees to this, it is a transgression of Vinaya.
+
+若通請法師徒眾令去，去者舉眾得越比尼罪。
+If they convincingly invite all of the preacher's disciples to go, anyone who leaves incurs a Vinaya transgression.
+
+若月八日、十四日、十五日說法時，男家女家二家盡來聽法。
+On the 8th, 14th, and 15th days of the month, both the man's family and the woman's family came to listen to the Dharma.
+
+爾時法師方便為說法：「如佛契經告諸比丘，諸眾生隨性相得，不信、不信者共為親好。
+At that time, the preacher conveniently preached: "As the Buddha told the monks in a Sutra, all sentient beings associate according to their nature, and those without faith naturally associate with those without faith.
+
+如是犯戒、犯戒相親，無威儀、無威儀相親，無愧、無愧相親，懈怠、懈怠相親，亂心、亂心相親，無智、無智相親，各隨其類，共相親好。
+Those who violate precepts associate with others who violate precepts, those lacking decorum associate with others lacking decorum, the shameless associate with the shameless, the lazy with the lazy, the scatterbrained with the scatterbrained, and the unintelligent with the unintelligent, each according to their kind, associate together harmoniously.
+
+過去當來及現在諸眾生類，皆悉如是。
+Past, future, and present sentient beings are all like this.
+
+譬如臭穢不淨，自相和合，如是諸比丘！諸眾生類，各隨其性，篤信、篤信自相親好，如是持戒、持戒相好，有威儀、有威儀相好，有愧、有愧相好，精進、精進相好，定意、定意相好，智慧，智慧相好。
+Just like foul, unclean things that naturally combine, so it is with monks! Sentient beings of every kind associate even with their true faith, those who keep precepts associate with those who keep precepts, those with decorum with those with decorum, the ashamed with the ashamed, the diligent with the diligent, the focused with the focused, the wise with the wise, and each according to its kind associates harmoniously.
+
+過去當來及現在諸眾生類，皆悉如是。
+Past, future, and present sentient beings are all like this.
+
+譬如白淨香熏之物，自相和合。」
+Just as pure fragrances naturally combine."
+
+法師作是說法已，語女家言：「我聞彼兒欲索汝女。」
+Once the preacher had spoken this Dharma, he told the woman's family, "I heard that this young man wants to propose to your daughter."
+
+報彼言：「寧與邪見外道，不與彼家。」
+They replied, "We would rather give her to a heretic outsider than to his family."
+
+「汝不聞，世尊說若有殺賊及以怨家，手執利劍常伺人便欲得殺人。
+"Didn't you hear that the World Honored One said that if there is a killer, as well as a hostile family, who holds a sharp sword always waiting for the opportunity to kill people?
+
+彼怨家子寧入其家，不入邪見外道之家。
+Such a son of a hostile family would rather enter his own home than the home of a heretic outsider.
+
+汝今云何欲嫁子女與邪見家？與優婆塞者，時時可得見。」
+How can you now want to marry your daughter to a heretic family? By marrying someone from an upasaka family, you will often get to see her."
+
+諸比丘受齋持戒時，女家言：「阿闍梨欲爾耶？」
+When the monks were observing the fast and keeping the precepts, the woman's family asked, "Is the Acharya willing to do this?"
+
+答言：「欲爾。」
+The answer was, "He is willing."
+
+彼言：「當與法師。」
+They said, "Then we should give her to the preacher."
+
+爾時默然不語者，得偷蘭罪。
+Those who remained silent and did not speak incurred the offense of Stupidity.
+
+若法師不能忍，即坐上語，彼得者，僧伽婆尸沙。
+If the preacher cannot endure it and immediately speaks from his seat, then he incurs the Sanghabheda offense.
+
+若復法師徒眾中，唱言：「得者。」亦得僧伽婆尸沙。
+If again, among the preacher's disciples, one declares: "He received," he also incurs the Sanghabheda offense.
+
+
+
+
+共者，共受別說、別受共說、共受共說、別受別說。
+There are four types: A shared request with separate agreement, a separate request with shared agreement, a shared request with shared agreement, and a separate request with separate agreement.
+
+共受別說者，若比丘各各夏安居竟，遊諸聚落，與知識主人別，向餘國行。
+In a shared request with separate agreement, if monks complete their summer retreat and travel among villages, each knowing different hosts, and then head to another country.
+
+爾時聚落中諸優婆夷言：「為我兒索婦、為我兄弟索婦、為我叔索婦。」
+At that time, the laywomen in the villages say, "Find a wife for my son, find a wife for my brother, find a wife for my uncle."
+
+如是種種諸優婆夷，各各說比丘一過。
+In this way, different laywomen make separate requests to the monks.
+
+答言：「可者。」犯一越比尼罪；
+If they say "yes" to one, they commit a minor disciplinary offense.
+
+詣彼處各別為求，各各犯偷蘭罪；
+If they travel there and separately look for a wife, they each commit a moderate offense.
+
+來還各別報者，各犯僧伽婆尸沙。
+If they return and give separate reports, they each commit a severe offense.
+
+別受共說者，若比丘各各夏安居竟，人間遊行，與諸檀越別，欲詣他國土。
+In a separate request with shared agreement, if monks complete their summer retreat and travel among people, then separately say goodbye to benefactors and intend to go to another country.
+
+爾時諸優婆夷有語比丘言：「為我兒求婦。」
+At this time, certain laywomen speak to the monks, saying, "Find a wife for my son."
+
+有言：「為我兄弟求婦、為我叔求婦。」
+Others say, "Find a wife for my brother, for my uncle."
+
+若比丘各各許者，各各犯越比尼罪；
+If each monk agrees separately, they each commit a minor disciplinary offense.
+
+若詣彼各別為求婦，各各別犯偷蘭罪；
+If each travels separately and looks for a wife, they each commit a moderate offense.
+
+來還已一語通報言：「得。」犯一僧伽婆尸沙。
+If they return and give a unified report saying "Completed," they commit a severe offense.
+
+共受共說者，若比丘各各夏安居竟，遊行人間，與諸檀越別，欲詣他國時。
+In a shared request with shared agreement, if monks complete their summer retreat, travel among people, and wish to depart to another country.
+
+諸優婆夷語比丘言：「為我兒求婦、為我兄弟求婦、為我叔求婦。」
+Laywomen say to the monks, "Find a wife for my son, my brother, my uncle."
+
+者，若比丘通答言：「可爾。」犯一越比尼罪；
+If the monks collectively say "Okay," they commit a minor disciplinary offense.
+
+若詣彼各別為求，各別偷蘭罪；
+If they go separately to look, each commits a moderate offense.
+
+來還已通答言：「得。」犯一僧伽婆尸沙。
+If they return and report together, saying "Completed," they commit a severe offense.
+
+別受別說者，若比丘夏安居竟，人間遊行，與諸檀越別，諸優婆夷言：「為我兒求婦、為我兄弟求婦、為我叔求婦。」
+In a separate request with separate agreement, if monks end their summer retreat, travel among people, separate from benefactors, and laywomen say, "Find a wife for my son, my brother, my uncle."
+
+比丘各別答言：「可爾。」各各犯越比尼罪；
+If the monks answer separately "Okay," they each commit a minor offense.
+
+往詣彼各別為求，各各犯偷蘭罪；
+If they separately travel to look, they each commit a moderate offense.
+
+來還已各各別報，各各得僧伽婆尸沙。
+If they return and report separately, each incurs a severe offense.
+
+
+
+雜者，有一比丘多知識，將諸徒眾詣一家請食。
+Once there was a well-learned monk who took his followers to a house to ask for food.
+
+食已時家母人白上座言：「我欲為兒求某家女為婦，上座當為我語。」
+After eating, the lady of the house said to the senior monk, "I wish to seek a girl from a certain family as a wife for my son, senior monk, please speak for me."
+
+時上座不善知律相，即便許之，得越比尼罪。
+At that time, the senior monk, not well-versed in the rules, agreed and thereby committed a Para-Nibbāṇa offense.
+
+時諸徒眾少知戒律，恐壞人心，不敢諫之。
+The followers, being less knowledgeable about the precepts, feared discouraging people and did not dare to advise him.
+
+出彼家已，白上座言：「何以作是？」問言：「何等事？」
+After leaving the house, they told the senior monk, "Why did you do this?" He asked, "What matter?"
+
+答言：「上座不知，世尊制戒不得和合男女耶？」
+They replied, "Don't you know that the Buddha made a rule against uniting men and women?"
+
+上座答言：「不知中有。」
+The senior monk answered, "I was not aware."
+
+比丘言：「上座莫求，我當為求彼求。」者，得偷蘭罪。
+The monk said, "Senior monk, do not seek, I will make the request for them." This constitutes a Thullaccaya offense.
+
+得不得還報，僧伽婆尸沙；上座犯越比尼罪。
+Regardless of whether received or not, it is a saṅghādisesa offense; the senior monk committed a Para-Nibbāṇa offense.
+
+若先優婆夷語彼徒眾言：「我為兒求某家女，當為我求。」
+If a laywoman first tells the followers, "I want to seek a girl from a certain family for my son, please seek for me."
+
+時徒眾不知戒律，便答言：「可爾。」犯越比尼罪。
+If the followers, not knowing the rules, respond "Alright," they commit a Para-Nibbāṇa offense.
+
+爾時上座少知戒律，恐壞人心，不時呵止。
+The senior monk, knowing little about the precepts, feared damaging people’s faith and did not timely stop.
+
+出彼家已語徒眾言：「汝等不善而作是事。」
+After leaving the house, he told the followers, "You did wrong by doing this."
+
+問言：「作何等事？」上座言：「汝不知世尊制戒不得使行耶？」
+They asked, "What did we do?" The senior monk said, "Do you not know the Buddha's rule against such actions?"
+
+答言：「不知。」上座復言：「汝且莫求，我當為求。」
+They replied, "We did not know." The senior monk said, "You should not ask, I will make the request."
+
+上座求時得偷蘭罪；得不得還報時，犯僧伽婆尸沙；
+The senior monk, when making the request, committed a Thullaccaya offense; whether successful or not, it's a saṅghādisesa offense.
+
+彼徒眾得越比尼罪。
+The followers committed a Para-Nibbāṇa offense.
+
+若先優婆夷通白大眾，大眾皆可，一切得越比尼罪；
+If the laywoman first announces to the assembly, and everyone agrees, all commit a Para-Nibbāṇa offense;
+
+一切共求，一切偷蘭罪；得不得還報時，一切僧伽婆尸沙。
+If all seek together, all commit a Thullaccaya offense; whether successful or not, all commit a saṅghādisesa offense.
+
+若男子有眾多婦，有念者、不念者，
+If a man has many wives, some mindful, some not,
+
+有比丘出入其家時，有婦人禮比丘足，恭敬問訊已，比丘問言：「安隱樂不？」
+when a monk visits his house, the women may worship the monk’s feet, respectfully greet him, and the monk may ask, "Are you well and happy?"
+
+彼即答言：「何處得樂？」
+They would reply, "Where is there joy to be found?"
+
+問：「何以故？」婦人言：「是男子常與一人共起共臥，
+When asked, "Why?" the woman would say, "The man always rises and rests with one,
+
+我獨為彼薄賤，譬如穿器無用，那得不苦。」
+while I am neglected like a worn-out object, how can that not be painful?"
+
+比丘答言：「但莫愁憂，我當為汝語令平均。」
+The monk replied, "Do not worry, I will speak to make things equal for you."
+
+便語其夫：「汝無所知，云何效人多畜妻婦，不能平均，偏與一人共起共臥？」
+He would then tell the husband, "Do you not understand, why do you keep many wives but not treat them equally, favoring only one?"
+
+答言：「當如之何？」比丘言：「當等看視，務令平均。」
+The husband asked, "How should I do this?" The monk said, "You must treat them equally, ensuring fairness."
+
+答言：「當如師教。」比丘爾時得偷蘭罪。
+The husband said, "I will follow the master's teaching." The monk at this time committed a Thullaccaya offense.
+
+若人有多婦，猶復更求他童女，不能自語，
+If a man with many wives still seeks other young girls, and cannot speak himself,
+
+倩比丘往語，乃至得不得還報時，僧伽婆尸沙。
+he asks a monk to speak for him, it becomes a saṅghādisesa offense, whether he succeeds or not.
+
+若人夫婦鬪諍，比丘便勸喻和合，得偷蘭罪。
+If a couple quarrels and the monk advises reconciliation, he commits a Thullaccaya offense.
+
+若彼夫婦不和，或於佛事僧事有鬪，為福事故，勸令和合，無罪。
+If the couple is not harmonious, and for the sake of the Buddha's teachings or monastic community, the monk encourages reconciliation, there is no offense.
+
+若有婦女還家，比丘往到其舍，其家男女皆為作禮。
+If a woman returns home and a monk visits her house, where the household respectfully greets him,
+
+比丘見彼婦女便言：「汝故住此耶？不應久住，汝夫故錢取汝持作何等？
+the monk sees the woman and says, "Are you still here? You should not stay long, what reason does your husband have for obtaining you?"
+
+汝應還彼。」作是語時，得偷蘭罪。
+"You should return there." Saying this, he commits a Thullaccaya offense.
+
+有人多畜馬而無好種生者，倩比丘語：「某家有生馬，為我求之。」
+If someone keeps many horses but has no good breeds, and asks a monk to say, "A certain family has bred horses, ask for one for me,"
+
+比丘為求，得偷蘭罪。
+the monk, by asking, commits a Thullaccaya offense.
+
+
+
+
+復次佛住舍衛城，有二摩訶羅：一摩訶羅捨妻子出家，一摩訶羅捨婦女出家。
+Moreover, when the Buddha was residing in the city of Śrāvastī, there were two Mahāras: one abandoned his wife and children to become a monk, and the other abandoned a woman in marriage to become a monk.
+
+各於人間遊行，來還舍衛城，共一房住。
+Each of them wandered around the world and returned to Śrāvastī to live together in one room.
+
+彼捨婦女者，便自念言：「我當還家看本婦女。」
+The one who abandoned a woman in marriage thought to himself, "I should go back home to see my former wife."
+
+著入聚落衣，往到本家。
+He put on village clothes and went back to his home.
+
+其婦遙見摩訶羅來，即瞋恚言：
+His wife saw Mahāra coming from a distance and angrily said:
+
+「汝摩訶羅薄福無相，不能養活妻子，又避官役捨家遠走。 
+"You, Mahāra, are of poor fortune and insignificant qualities, unable to support your wife and children, and ran away from home to avoid duties.
+
+女年長大，不得嫁處，今用來為？
+The girl has come of age but cannot be married off, so why have you come back now?
+
+汝促還去。若不去者，當雙折汝脚。
+You should hurry and leave. If you don't go, I will break your legs."
+
+誰喜見汝？」
+"Who would be happy to see you?"
+
+時摩訶羅還本住處，如賈客失財，愁憂苦住。
+At that time, Mahāra returned to his original dwelling place, living in worry and distress like a merchant who had lost his wealth.
+
+時捨婦兒出家者還家，亦復如是。
+The Mahāra who abandoned his child in marriage also returned home and encountered a similar situation.
+
+共在一房住，捨兒出家者，少有智慧，語第二摩訶羅言：
+Living together in one room, the Mahāra who renounced his child was somewhat wise and said to the second Mahāra:
+
+「長老！何故愁憂苦住？」
+"Venerable one! Why do you live in such worry and distress?"
+
+答言：「長老！何須問是事？」
+He replied, "Venerable one! Why do you need to ask about this matter?"
+
+又言：「必欲得知，云何我等二人共在一房，好惡之事而不相知？
+He further said, "If you must know, how is it that we two live in one room and do not know each other's likes and dislikes?
+
+不向我說，更應語誰？」
+If not telling me, who else should you speak to?"
+
+彼摩訶羅即廣說上事，捨兒摩訶羅言：
+The Mahāra then broadly recounted the previous matters, and the Mahāra who renounced his child said:
+
+「汝何足愁？我家亦爾。汝今知作方便不？
+"Why are you worried? My family is the same. Do you know how to make things convenient now?
+
+汝可以女作我兒婦。」
+You can make your daughter my son's wife."
+
+彼答言：「好。」
+He replied, "Good."
+
+爾時二摩訶羅俱得越比尼罪。
+At that time, both Mahāras committed a transgression of Vinaya rules.
+
+是摩訶羅明日時到，著入聚落衣，各歸本家時。
+The next day, Mahāras arrived, put on village clothes, and each returned to his home.
+
+捨女者謂其婦言：「我為汝求得女婿。」
+The one who abandoned the daughter said to his wife, "I have found you a son-in-law."
+
+婦即問言：「是誰家兒？」
+His wife immediately asked, "Whose son is he?"
+
+答言：「某家子。」
+He replied, "The son of a certain family."
+
+捨男出家者謂其婦言：「我已為汝求得兒婦。」
+The Mahāra who abandoned a son in marriage said to his wife, "I have already found a daughter-in-law for our son."
+
+問言：「誰家女？」
+She asked, "Whose daughter is she?"
+
+答言：「某家女。」
+He replied, "The daughter of a certain family."
+
+作是語時，俱得偷蘭罪。
+In saying this, they both incurred a Stūlāntana offense.
+
+時彼男女遊戲里巷，一摩訶羅語其女言：「此是汝婿。」
+As the young man and woman played in the alley, one Mahāra said to his daughter, "This is your husband."
+
+第二摩訶羅語其兒言：「此是汝婦。」
+The second Mahāra said to his son, "This is your wife."
+
+作是語時，俱得僧伽婆尸沙。
+In this conversation, they both committed a Saṃghāvaśeṣa offense.
+
+時二摩訶羅展轉作婚姻已，各各歡喜，如貧得寶，更相愛敬，如兄如弟。
+When the two Mahāras arranged for the marriage reciprocally, they were both delighted, like the impoverished finding treasure, and they loved and respected each other like brothers.
+
+
+
+諸比丘聞已，以是事具白世尊：「云何，世尊！此二摩訶羅共結婚姻已，歡喜相敬乃如是耶？」
+
+The monks, having heard, fully informed the Blessed One of this matter: "How, Blessed One! These two Mahāras, after marrying, are happy and respectful like this?"
+
+佛告諸比丘：「此二摩訶羅不但今日作如是事，過去世時已曾爾也。」
+
+The Buddha told the monks: "These two Mahāras not only acted like this today, but also did so in the past."
+
+佛告諸比丘：「過去世時，有城名波羅奈，國名伽尸。
+
+The Buddha told the monks: "In the past, there was a city called Baranasi, in the country of Kasi.
+
+有一婆羅門，有摩沙豆陳久煮不可熟，持著肆上，欲賣與他，都無人買。
+
+There was a Brahmin, who had some lentils that had been cooked for a long time but were not soft, placed them on a stand, hoping to sell them, but no one would buy.
+
+時有一人，家有一態驢，市賣難售。
+
+At that time, there was a person whose family had an unsellable donkey.
+
+時陳豆主便作是念：『我當以豆買此驢用。』
+
+Then the owner of the lentils thought: 'I should trade these lentils for that donkey.'
+
+便往語言：『汝能持驢貿此豆耶？』
+
+He went and said: 'Would you trade this donkey for the lentils?'
+
+驢主復念：『用是態驢為？當取彼豆。』
+
+The donkey owner thought: 'What use is this donkey? I should take those lentils.'
+
+即便答言：『可爾。』
+
+He immediately replied: 'Alright.'
+
+得驢已歡喜。
+
+He was delighted to have the donkey.
+
+爾時豆主便作是念：『今得子。』
+
+The lentil owner then thought: 'Now I've gained a son.'
+
+便即說頌曰：
+
+He then recited a verse, saying:
+
+
+
+婆羅門法巧販賣，
+The Brahman skillfully trades the law;
+
+陳久氷豆十六年；
+Chen Jiu Bing Dou, sixteen years;
+
+
+
+
+唐盡汝薪煮不熟，
+Tang exhausts your firewood, it can't be cooked thoroughly.
+
+足折汝家大小齒。
+It breaks the teeth of all sizes in your family.
+
+
+
+
+「當忍於我諸好驢，
+
+My fine donkeys, now endure with me,
+
+有力能行遠長途，
+
+With strength, they can travel long distances,
+
+野草刍华渴者休，
+
+In the wild, where there is grass and flowers, rest the thirsty ones,
+
+勿披暗坠深泥淤。」
+
+Do not tread in the dark and fall into deep mire."
+
+
+
+
+婆羅門你喜歡什麼？  
+What do you like, Brahmin?
+
+雖然有四條腿和美麗的毛皮；  
+Although it has four legs and beautiful fur;
+
+
+
+
+负重著道令汝知，  
+By carrying burdens, I let you know,  
+
+针刺火烧终不动。  
+That even needles and fire cannot move me.  
+
+
+
+
+爾時豆主復說頌曰：
+At that time, Doushu spoke again in verse:
+
+
+
+
+獨生千秋杖，  
+Born alone like a thousand-year magic staff,
+
+頭著四寸針，  
+With a head adorned by a four-inch needle,
+
+
+
+
+能治敗態驢，  
+If you can tame a defeated donkey,  
+
+何憂不可伏？  
+what is there to fear that it cannot submit?  
+
+
+
+
+爾時驢主復瞋即說頌曰：
+At that time, the donkey's owner, angered again, spoke in verse, saying:
+
+
+
+
+安立前二足，
+Firmly standing on its front two feet,
+
+雙飛後兩蹄，
+Its back two hooves soar in the air,
+
+
+
+
+折汝前板齒，
+
+Break your front teeth,
+
+然後自當知。
+
+Then you will naturally understand.
+
+
+
+
+豆主謂驢頌曰：
+
+The master of the beans spoke to the donkey, saying:
+
+「吾以豆貴而買驢，何為聞驢不久響乎？」
+
+"I bought a donkey at a high price for beans, why does the donkey not bray for long?"
+
+驢頌曰：「豆食非等量，奚能久而響也。」
+
+The donkey replied: "The amount of beans is not the same, how can it bray for long?"
+
+人曰：「誠然！豆奚不足也？」
+
+Someone said: "Indeed! Is there not enough beans?"
+
+驢頌曰：「豆多則響長，豆少則響短，豆盡則響止。」
+
+The donkey said: "More beans result in a longer bray, fewer beans result in a shorter bray, no beans mean no bray."
+
+「茲謂慳利之俗也。」
+
+"This is said to be the custom of being stingy with profits."
+
+
+
+
+蚊虻毒虫螫，
+When mosquitoes, horseflies, and poisonous insects bite,
+
+唯仰尾自防，
+Only through raising our tails can we defend ourselves,
+
+
+
+
+當截汝尾脚， 
+When I cut off your tail and legs,
+
+令汝知辛苦。 
+I will make you understand the hardship.
+
+
+
+
+驢復答言：
+The donkey replied:
+
+「此我兄弟。」
+"This is my brother."
+
+
+
+從先祖已來，
+
+Since the time of our ancestors,
+
+行此𢤱悷法；
+
+We have practiced this austere way;
+
+
+
+今我故承習，
+Now I adhere to past habits,
+
+死死終不捨。
+Never abandoning them even till death.
+
+
+
+爾時豆主知此弊惡畜生不可以苦語，便更稱譽，頌曰：
+
+At that time, the leader of the beans realized that harsh words would not work with this vile beast, so he praised it instead, saying:
+
+
+
+
+音聲鳴徹好，
+A voice rings out clearly,
+
+面白如珂雪；
+Her face is as white as snow;
+
+
+
+
+當為汝取婦，
+When I find a wife for you,
+
+共遊林澤中。
+We will wander together in the woods and marshes.
+
+
+
+驢愛聽這些柔軟的甜言蜜語，於是開始吟誦道：
+
+The donkey loved hearing these soft sweet words, so it began to chant:
+
+
+
+
+我能負八斛，  
+I can carry eight dou,  
+
+日行六百里；  
+And travel six hundred li a day;  
+
+
+
+
+婆罗门当知，  
+The Brahmin should know,
+
+闻妇欢喜故。』  
+That hearing brings the wife's joy.
+
+
+
+
+佛告諸比丘：「爾時二人者，今二摩訶羅是。
+The Buddha told the monks: "Those two people at that time are the two Maha Rakkhita now.
+
+爾時驢者，今摩訶羅兒是。
+The donkey at that time is the child of Maha Rakkhita now.
+
+爾時已曾更相欺誑和合已然後歡喜；
+At that time, they were pleased after deceiving each other and coming together.
+
+今亦如是，更相欺誑和合已然後歡喜。
+Now it is the same, they deceive each other and are pleased after coming together.
+
+若比丘和合女人，得僧伽婆尸沙罪。
+If a monk unites with a woman, he commits a Sanghabadhishesa offense.
+
+和合黃門，得偷蘭罪。
+Uniting with a eunuch results in a Thullaccaya offense.
+
+和合男子及畜生，得越比尼罪。
+Uniting with a man or an animal results in a Parajika offense.
+
+和合緊那羅女及獼猴女，得偷蘭罪。
+Uniting with a kinnari woman or a female monkey results in a Thullaccaya offense.
+
+是故說。」(五戒竟)
+Therefore it is said." (End of the Five Precepts)
+
+
+
+佛住曠野精舍，廣說如上。
+The Buddha resided in the wilderness hermitage, extensively teaching as above.
+
+爾時諸比丘於曠野中作五百私房，皆人人自乞索而作。
+At that time, the monks built five hundred private rooms in the wilderness, each asking for materials themselves to construct.
+
+有比丘晨朝著入聚落衣，持鉢入曠野聚落，為乞作房。
+A monk, at dawn, dressed himself in village attire, and entered the wilderness settlement with a bowl, to beg for materials to build a room.
+
+故有一估客，手執戶鉤來，向市肆開自店舍，遙見比丘疾行而來。
+There was a merchant, holding a door hook, who came to open his shop, and from a distance, saw the monk quickly approaching.
+
+估客念言：「是比丘來，必為乞作房故，我晨朝至此，市賣未售，誰能乞是物者？」
+The merchant thought to himself, "This monk is coming to beg for materials to build a room. I just arrived this morning, and haven't sold anything yet. How can I give him anything?"
+
+便閉肆戶還家去。
+So he closed his shop and returned home.
+
+比丘念言：「是估客見我便閉戶還家去，知我來乞不欲與故。」
+The monk thought, "The merchant saw me and immediately closed his shop and returned home, knowing I came to beg and not wanting to give anything."
+
+便於餘道，往截其前，問言：「長壽！汝欲何處去？不得相置，我依阿誰而起房舍？
+Then, taking another path, he went in front of the merchant and asked, "Good sir, where are you going? Don't abandon me. On whom should I rely to build my dwelling?
+
+正依汝等信佛法者。知有罪福業行果報而不欲與，誰當與者？
+I rely on those of you who have faith in Buddha's teachings. Knowing there are results for deeds, who else should give if not you?
+
+長壽當知，如世尊說，當起慈心，不樂聞者方便使聞、諸不信者教令立信。
+Good sir, you should know, as the Exalted One said, you should cultivate a compassionate heart. Assist those who do not wish to hear so they may hear; instruct those who disbelieve so that they may believe.
+
+乃至手捉其頭強勸令施。
+Even hold their head and strongly persuade them to give.
+
+所以然者，彼於此終當生天上，色力壽命眷屬自然，來生人中亦受快樂，色力壽命眷屬成就。
+Because of this, they will eventually be reborn in heaven, with natural beauty, strength, lifespan, and companions, and when reborn among humans, they will also experience happiness, beauty, strength, lifespan, and companions.
+
+修習佛法增益功德，建其道果。
+Cultivating Buddha's teachings enhances merit and establishes their path and fruition.
+
+是故長壽，如世尊說偈：
+Therefore, good sir, as the Exalted One's verse says:
+
+
+
+為福受樂報，  
+Enjoy the rewards of happiness,
+
+所欲皆自然；  
+All desires come naturally;
+
+
+
+
+超踰生死流
+Transcend the cycle of life and death
+
+上寂之涅槃
+Attain the tranquil state of Nirvana
+
+
+
+
+若人為福者，  
+If a person does good deeds,  
+
+天神自然護；  
+the heavenly spirits will naturally protect them.  
+
+
+
+
+所願皆自成，
+May all your wishes come true,
+
+眾魔莫能壞。
+And may no evil forces prevail against them.
+
+
+
+
+薄德多诸恼，  
+When virtue is thin, many troubles arise;
+
+福能消众患；  
+Fortune can dispel numerous afflictions;  
+
+
+
+
+福德既牢強，
+Blessings and virtues are already firm and strong,
+
+速成堅固定。
+quickly become stable and fixed.
+
+
+
+
+生天受快樂，  
+Happy are those who are born in the heavens.  
+
+人中亦自在；  
+Among people, there is also a sense of freedom.  
+
+
+
+斯由功德故，  
+This is due to the merits,
+
+所往皆自然。  
+Wherever they go, all is natural.
+
+
+
+
+因斯福方便，　　
+
+With this advantage and convenience,  
+
+永離生死苦；
+
+forever liberate from the suffering of life and death;
+
+
+
+
+得道至涅槃，
+
+Achieving the path to nirvana,
+
+不沒不復生。』」
+
+Neither disappearing nor being reborn."
+
+
+
+爾時比丘說此偈已，復言：「長壽！助我起房舍，其福最大。」
+At that time, the monk recited this verse and added, "Long life! Help me build a house, for the merit is the greatest."
+
+是時估客聞說法已，便少多布施。
+At that time, the merchant, having heard the teaching, offered some great alms.
+
+爾時估客作是思惟：「若入市肆多諸乞索，更不得利折減錢本，寧坐家住可全其本，故勝市中子本俱失。」
+Then the merchant thought, "If I enter the marketplace with many beggars asking, I will no longer profit but will lose money, so it is better to stay home to keep the principal intact, compared to the market where both principal and interest are lost."
+
+作是念已，便還家坐時。
+Having thought this, he sat at home.
+
+估客婦瞋其夫言：「何以詣市速疾來歸，如是懶惰，當何由養活男女、充官賦役？」
+The merchant's wife angrily said to her husband, "Why did you return so quickly from the market? Being so lazy, how will you support our children and fulfill official duties?"
+
+估客答言：「莫瞋，且聽！我今晨朝詣市店肆，廣說乃至畏失錢本，故還家住。」
+The merchant replied, "Do not be angry, just listen! This morning I went to the market stalls and was told extensively that I feared losing the principal, so I returned home."
+
+其婦知已，默然不言。
+Upon knowing this, his wife remained silent.
+
+
+
+
+尊者舍利弗來入聚落，次行乞食，至其門住。
+The venerable Shariputra entered the settlement and went out for alms, stopping at their door.
+
+爾時估客婦篤信恭敬，見舍利弗即持淨器盛食，持出著鉢中，識舍利弗頭面禮足，恭敬問訊。
+Then, a merchant's wife, full of faith and reverence, saw Shariputra and immediately brought out a clean vessel with food, placing it in his bowl, and greeted him respectfully with her head bowed.
+
+時舍利弗而慰勞之：「家中何如？生活好不？」
+Shariputra inquired kindly: "How is everything at home? Is life going well?"
+
+其婦答言：「家內悉佳，但生活頓弊。」
+The woman replied: "Everything is fine at home, but our livelihood has suddenly declined."
+
+問：「何以故爾？」
+Shariputra asked, "Why has this happened?"
+
+即以上因緣廣白舍利弗：「家中生活飲食衣服、供王賦役，正仰市肆。而今夫主在家中住，畏人乞索，實在言行、實覺言眠。阿闍梨是我家所供養恭敬尊重，無所藏隱，故白此意。」
+She then explained to Shariputra: "Our livelihood depends on food, clothing, and taxes for the king, supported by trade. However, since my husband stays at home, fearing people begging and asking for things, we speak and act cautiously. As you are a venerable teacher whom our family respects and supports, I am being open with you."
+
+時舍利弗為估客婦種種說法，得歡喜心。即還精舍。
+Shariputra then preached various teachings to the merchant's wife, bringing joy to her heart, and returned to the monastery.
+
+即以上事具白世尊，佛言：「呼是營事比丘來。」
+Shariputra fully recounted the event to the Blessed One, who said, "Call that managing monk here."
+
+即便呼來已，佛問營事比丘：「汝實乞作房舍惱諸檀越，令向舍利弗嫌說汝不？」
+They then called the monk, and the Buddha asked, "Did you indeed solicit to build a house and trouble the patrons so that they complained to Shariputra about you?"
+
+答言：「實爾。世尊！」
+He replied, "Yes, Blessed One."
+
+佛告比丘：「此是惡法，私乞作房惱諸檀越。」
+The Buddha said to the monk, "This is a wrongful act, privately begging to build a house and disturbing the patrons."
+
+佛告諸比丘：「汝等莫復為房舍故惱亂檀越，錢財難得、布施亦難。」
+The Buddha told the monks, "Do not trouble the patrons for building houses, as money is hard to earn and giving is challenging."
+
+婆羅門居士割損財物，供養沙門，衣服、飲食、床臥、病瘦醫藥，此亦甚難。」
+"The Brahmin householders reduce their own finances to support the monks with clothing, food, bedding, and medicine for illness, which is also very difficult."
+
+佛告營事比丘：「過去世時有比丘，名跋懅，止住林中。」
+The Buddha told the managing monk, "In a past life, there was a monk named Bhaddaliya who lived in the forest."
+
+時有釋軍多鳥亦栖集此林，晨暮亂鳴惱彼比丘。
+At that time, many birds of the Shakya clan also gathered in that forest, their noisy chirping disturbing the monk day and night.
+
+爾時跋懅比丘詣世尊所，頂禮佛足，於一面立。
+At that time, Bhaddaliya went to the Blessed One, knelt at his feet, and stood to one side.
+
+爾時世尊，慰問林中比丘言：『云何少病少惱樂住林中不？』
+The Blessed One then asked the forest-dwelling monk: 'Are you free from illness and distress while living happily in the forest?'
+
+林中比丘白世尊言：『少病少惱樂住林中，但晨暮時為諸釋軍多鳥，鳴喚惱亂不得思惟。』
+The forest monk replied, 'I am relatively free from illness and distress and live happily, but I am disturbed by the birds of the Shakya clan chirping around me morning and evening, preventing my contemplation.'
+
+佛告比丘：『汝欲令釋軍多鳥一切不來耶？』
+The Buddha asked the monk, "Do you want the Shakya clan birds to stop coming altogether?"
+
+答言：『願爾。世尊！』
+The monk replied, "Yes, Blessed One!"
+
+佛言：『比丘！汝於日暮釋軍多鳥來時，便從眾鳥各乞一毛，晨朝去時亦如是乞。』
+The Buddha said, "Monk! When the Shakya clan birds come at dusk, ask each bird for a feather. Do the same in the morning when they leave."
+
+比丘白佛言：『善哉。世尊！』
+The monk said to the Buddha, "Well done, Blessed One!"
+
+即還林中正坐思惟。至日向暮鳥集亂鳴，便作是言：『汝釋軍多鳥各乞一毛，我今須用。』
+The monk then returned to the forest to contemplate. At dusk, when the birds gathered and chirped, he said, "O Shakya clan birds, I ask each of you for a feather, as I now need it."
+
+爾時眾鳥少時無聲寂然，不得已後各拔一毛著地。
+At that moment, the birds fell silent for a while, and reluctantly each plucked a feather and dropped it to the ground.
+
+晨朝復乞，爾時眾鳥即便移去異處一宿。
+The next morning, the monk asked again, and the birds moved to another place to rest.
+
+不樂彼處，尋復來還。
+Not happy with that place, they soon returned.
+
+爾時比丘復從索毛，一一復與。
+At that time, the monk requested feathers again, and each bird obliged.
+
+眾鳥念言：『今此沙門奇異喜乞，恐我不久毛衣都盡，肉段在地不能復飛，當如之何？』
+The birds thought, "This strange monk seems fond of begging. I'm afraid soon we will be without feathers, just flesh on the ground, unable to fly. What should we do?"
+
+便共議言：『此比丘常住林中，我等當去，更求餘栖不復宜還。』
+They then conferred, saying, "Since this monk always resides in the forest, we should leave and find another place to roost and not return."
+
+佛告諸比丘：「飛鳥畜生尚嫌多求，況復世人？
+The Buddha said to the monks, "Even sentient creatures like birds resent excessive requests, how much more so humans?
+
+汝等比丘莫為營事多欲多求，令彼信心婆羅門居士苦捨財物，供給沙門衣服、飲食、床臥、病瘦醫藥。」
+You monks should not be over-ambitious and demanding, causing devoted Brahmin householders to reluctantly sacrifice their wealth to provide monks with clothing, food, bedding, and medical care."
+
+
+
+
+諸比丘白佛言：「世尊！云何此林中比丘怯劣喜亂畏惡鳥聲？」
+
+The monks addressed the Buddha: "World Honored One! Why are the monks in this forest timid and fearful at the sound of evil birds?"
+
+佛告比丘：「是林中比丘不但今日怯劣，昔已曾畏。」
+
+The Buddha replied to the monks, "The monks in this forest are not only timid today; they have been fearful in the past."
+
+諸比丘言：「已曾爾耶？」
+
+The monks said, "Was it so before?"
+
+佛告諸比丘：「過去世時有一龍象住在林中空閑之處，大風卒起吹折樹木，象聞樹木折聲驚怖奔走。
+
+The Buddha told the monks: "In a past life, there was a great elephant living in an empty place in the forest. A strong wind suddenly arose, breaking the trees, and the elephant, hearing the sound of the breaking trees, became frightened and ran away.
+
+怖心小止，住一樹下彼樹復折，即復奔走。
+
+When its fear subsided a little, it stood under a tree, but that tree broke as well, and it ran away again.
+
+爾時有天見象驚走，念言：『云何此象橫自狂走？』
+
+At that time, a deity saw the elephant running in fright and thought, 'Why is this elephant running around so madly?'
+
+即說偈言：
+
+Then spoke a verse:"
+
+
+
+暴风突然兴起折断树木，  
+The storm suddenly arose and broke the trees,
+
+龙象惊恐狂奔逃走；  
+The dragons and elephants were terrified and fled in panic;
+
+
+
+
+假使大風普天下，
+
+If a great wind sweeps across the world,
+
+爾時龍象何處避？
+
+Where would the dragons and elephants find shelter?
+
+
+
+
+佛告諸比丘：「爾時象者，今林中比丘是。」
+
+The Buddha told the monks, "The elephant of that time is now a monk in the forest."
+
+佛復告營事比丘：「過去世時，有五百仙人住雪山中。
+
+The Buddha said to the managing monk, "In a past life, there were five hundred sages living in the Himalayas.
+
+有一仙人於別處住，有好泉水花果茂盛。
+
+One sage lived separately, in a place with good springs, flowers, and abundant fruits.
+
+去是不遠有薩羅水，中有龍住。
+
+Not far from there was a lake called Salo, inhabited by a dragon.
+
+見是仙人威儀庠序，心生愛念。
+
+Upon seeing the dignified demeanor of the sage, the dragon developed affection.
+
+時此水龍來詣仙人，正值仙人結跏趺坐，
+
+The dragon came to the sage while he was sitting cross-legged,
+
+龍即以身遶仙人七匝，以頭覆其頂上而住，
+
+The dragon circled the sage seven times and rested its head on his crown,
+
+日日如是，唯有食時不來。
+
+This happened daily, except when it was mealtime.
+
+仙人以龍遶身故，日夜端坐不得休息，身體萎羸便生疥瘡。
+
+Because the dragon coiled around him, the sage couldn't rest day or night, becoming emaciated and developing sores.
+
+爾時近處有人居止，有供養仙人者，
+
+At that time, nearby people lived who supported the sage.
+
+彷徉遊行詣仙人所，見是仙人羸劣疥𭼦，即問仙人：『何故如是？』
+
+While wandering, they visited the sage, seeing him weak and sore-covered, and asked, 'Why are you like this?'
+
+仙人具為廣說上事。
+
+The sage explained the situation in detail.
+
+彼語仙人言：『欲令此龍，不復來耶？』
+
+They said to the sage, 'Do you want the dragon to stop coming?'
+
+答言：『欲爾。』
+
+He replied, 'Yes, I do.'
+
+復問仙人：『是龍有所著不？』
+
+They asked again, 'Does the dragon have any attachment?'
+
+答言：『唯有咽上瓔珞寶珠。』
+
+He replied, 'Only to the jeweled necklace at its throat.'
+
+彼人教言：『但從索珠，龍性極慳，終不與汝，可使不來。』
+
+They advised, 'Just ask for the jewel; the dragon is very stingy and will never give it to you, so it won't come anymore.'
+
+言已便去。
+
+Having said this, they left.
+
+須臾龍來，便從索珠。
+
+In a short while, the dragon came, and he asked for the jewel.
+
+龍聞乞珠聲，心即不喜，徐捨而去。
+
+Hearing the request for its jewel, the dragon was displeased and slowly left.
+
+明日龍來，未至之間，仙人見已，遙說偈言：
+
+The next day the dragon came again, and from a distance, the sage recited a verse:
+
+
+
+光耀摩尼寶，   
+The shining Mani jewel,
+
+瓔珞莊嚴身；   
+Adorns and dignifies the body;
+
+
+
+
+若龍能施我，
+
+If the dragon can grant me,
+
+乃為善親友。
+
+I would be a good friend.
+
+
+
+
+時非過去亦非未來，
+Time is neither past nor future,
+
+不為有為無為。
+Neither being nor non-being.
+
+若能悟此法，
+If you can understand this law,
+
+則可見真如。
+Then you can see the true nature.
+
+勿捨而求，不必外尋。
+Do not abandon it and seek, there's no need to look outside.
+
+心生諸法生，心滅諸法滅。
+When the mind arises, all things arise; when the mind ceases, all things cease.
+
+自知諸法自性，
+Know for yourself the nature of all things,
+
+於彼無所求。
+And have nothing to seek in them.
+
+
+
+畏失摩尼珠，  
+Afraid of losing the Mani jewel,  
+
+猶執杖呼狗；  
+Still holding a stick and calling a dog;  
+
+
+
+
+寶珠不可得，  
+The precious pearl is unattainable,
+
+更不來看汝。  
+Cannot come to see you again.
+
+
+
+
+上饌及眾寶，
+Offering of delicacies and treasures,
+
+由此摩尼尊；
+By the venerable Maṇi.
+
+
+
+
+是终不可得，  
+It is ultimately unattainable,
+
+何足慇懃求？  
+Why bother to earnestly seek it?
+
+
+
+
+多求親愛離，
+
+Often we seek affection, only to part.
+
+由是更不來。
+
+Thus they no longer come back.
+
+
+
+
+然今何禍至於斯？
+
+But how has this misfortune come to be?
+
+一切皆因緣和合故。
+
+Everything is due to all conditions and factors coming together.
+
+何當復更逢此時？
+
+When shall I encounter this time again?
+
+如是難遇可領悟。
+
+Such a rare encounter can be understood.
+
+
+
+
+厭薄所以生，  
+Aversion arises due to seeking a lot;  
+
+皆由多求故；  
+All because of excessive desires;  
+
+
+
+
+梵志貪相現，
+When the sign of Brahman greed appears,
+
+龍則潛于淵。
+the dragon hides in the abyss.
+
+」
+"
+
+
+
+佛告營事比丘：「龍是畜生，尚惡多求，豈況於人！
+
+The Buddha told the monks in charge of affairs, "Dragons are animals that still dislike excessive seeking, how much more so for people!
+
+汝等比丘莫為多營事務廣索無厭，
+
+You monks should not engage in excessive affairs, broadly seeking without satisfaction,
+
+令彼信心婆羅門居士苦捨財物，
+
+making the faithful Brahmin laypeople suffer by giving up their wealth,
+
+供給沙門衣服、飲食、床臥、病瘦醫藥。」
+
+to provide the mendicants with clothes, food, bedding, and medicine for the sick and ailing."
+
+
+
+
+佛告諸比丘：「有十事法為人所不愛。
+
+The Buddha told the monks: "There are ten things that people do not like.
+
+何等為十？不相習近，輕數習近，為利習近，愛者不愛，
+
+What are the ten? Not familiar, lightly familiar, familiar for benefit, loved but not loved,
+
+不愛者愛，諦言不受，好豫他事，實無威德而欲陵物，
+
+Loved by those not loved, not accepting truthful speech, liking to interfere with others' matters, truly lacking dignity but wanting to surpass others,
+
+好屏私語，多所求欲，是為十事起他不愛。」
+
+Liking to speak privately, having many desires, these are the ten things that cause others to dislike you."
+
+佛告諸比丘：「依止曠野比丘，皆悉令集，
+
+The Buddha told the monks: "Monks living in the wilderness, gather them all together,
+
+以十利故為諸比丘制戒，乃至已聞者當重聞。
+
+For the sake of ten benefits, set precepts for the monks, so that those who have heard should hear again.
+
+若比丘自乞作房舍，無主為身，當如量作，
+
+If a monk requests to build a house for himself, without an owner, it should be done according to measure,
+
+應長十二修伽陀搩手，內廣七搩手。
+
+It should be twelve cubits long and seven cubits wide inside.
+
+應將諸比丘示作房處，無難處、無妨處。
+
+Show the monks where to build the house, without obstacles or disturbances.
+
+若比丘於難處、妨處自乞作房，無主為身，
+
+If a monk requests to build a house in a difficult or obstructed place, without an owner,
+
+亦不將諸比丘示作房處，而過量作者，
+
+And does not show the monks where to build, and builds beyond the measure,
+
+僧伽婆尸沙。」
+
+It is a Sanghadisesa offense."
+
+
+
+比丘者，如上說。
+A bhikkhu, as mentioned above.
+
+
+
+
+自乞者，自行乞求，若一錢、二錢家家行乞，乃至百千錢。
+Those who beg, beg on their own, whether for one coin or two, going from house to house asking for money, even up to hundreds or thousands of coins.
+
+
+
+
+房舍者，佛所聽也。
+A house is something that the Buddha permits.
+
+
+
+
+作者，自作若教他作。
+Author, if you do it yourself, act as if teaching someone else.
+
+
+
+
+無主者，無有主，若男、若女、在家、出家人為主也。
+The ownerless have no master, whether male or female, layperson or monastic. 
+
+
+
+
+自身者，自己也。
+Oneself is oneself.
+
+
+
+
+當如量者，應法量也。
+
+One should accord with the measure, which is the measure of the Dharma.
+
+
+
+
+長者，縱量也。  
+An elder is someone who is lenient and generous.
+
+
+
+
+廣者，橫量也。
+"Width is the horizontal measurement."
+
+
+
+
+十二修伽陀搩手者，修伽陀者，名善逝也。
+The twelve Shukata measurements, Shukata known as Sugata.
+
+搩手者，二尺四寸也。
+Gasha refers to twenty-four inches.
+
+內七搩手者，作屋法有內外量，令縱橫量壁內也。
+The inner seven Gasha is used in house construction to determine internal and external measurements, increasing the vertical and horizontal dimensions within the walls.
+
+屋高下量者，邊壁一丈二尺。
+The height of the house is measured at one zhang and two chi on the side wall.
+
+
+
+將諸比丘示作房處者，示地也。
+This means showing the place for making a dwelling to the monks, indicating the ground.
+
+諸比丘者，若僧、若僧使僧者。
+The monks refer to the monastic assembly or those appointed by the assembly.
+
+作房比丘入僧中，先作求聽羯磨，然後聽乞羯磨。
+A monk constructing a dwelling enters the assembly, first requesting permission, then formally asking for approval.
+
+羯磨者，作是說：「大德僧聽！某甲比丘自乞作房，無主為身，欲於僧中乞指授處。」
+The formal request is as follows: "Venerable assembly, listen! A certain monk seeks to make a dwelling, as he has no master, and wishes to request a site from the assembly."
+
+「若僧時到，僧為某甲比丘欲從僧乞指授房處。」
+"If it is time for the assembly, the assembly should grant a site for a dwelling to a certain monk."
+
+「諸大德僧聽！某甲比丘乞指授處，僧忍默然故，是事如是持。」
+"Venerable assembly, listen! A certain monk requests a site; the assembly remains silent, indicating consent. Thus, the matter stands."
+
+是比丘入僧中，䠒跪合掌作如是言：「大德僧憶念！我某甲比丘自乞作房，無主為身。今從僧乞指授房處，唯願僧與我指授處。」
+The monk enters the assembly, kneels, and with joined palms says: "Venerable assembly, recall! I, a certain monk, request to make a dwelling, being without a master. Now I ask the assembly to grant me a site."
+
+如是三乞。
+This is asked three times.
+
+羯磨人應作是說：「大德僧聽！某甲比丘自乞作房，無主為身，已於僧中乞指授房處。」
+The person performing the procedure should say: "Venerable assembly, listen! A certain monk seeks to make a dwelling, as he has no master, and has requested a site from the assembly."
+
+若僧時到，僧為某甲比丘指授作房處。
+If it is time for the assembly, the assembly grants a site for making a dwelling to a certain monk.
+
+如是白：「大德僧聽！某甲比丘自乞作房，無主為身，已從僧中乞指授房處。」
+Thus declare: "Venerable assembly, listen! A certain monk seeks to make a dwelling, as he has no master, and has requested a site from the assembly."
+
+僧今為某甲比丘指授房處。
+The assembly now assigns a site for the dwelling for a certain monk.
+
+諸大德忍為某甲比丘指授房處，忍者僧默然，若不忍便說。
+Venerable ones consent to assign a site for a certain monk; silence indicates consent, otherwise, please speak.
+
+「僧已忍為某甲比丘指授作房處竟，僧忍默然故，是事如是持。」
+"The assembly has already consented to grant a dwelling site to a certain monk, and because the assembly remained silent, the matter is thus settled."
+
+若一切僧中都無有說羯磨者，一切僧往就作房處，一比丘僧中唱：「一切僧為某甲比丘指授房處。」
+If no one in the assembly speaks during the formal process, all should go to the dwelling site, and one monk in the assembly should announce: "The entire assembly assigns a dwelling site for a certain monk."
+
+如是三說。
+This is said three times.
+
+僧使者，若作房處遠、或隔水、若大寒時、大熱時、大雨時、或大雪時、若僧中多老病，不能一切往者，彼比丘於僧中乞指授竟，僧應差一比丘、二比丘、三比丘
+The assembly's envoy, if the dwelling site is far, across water, in severe cold, heat, rain, or snow, or if there are many elderly or sick monks unable to go, after the monk requests a site in the assembly, the assembly should appoint one, two, or three monks.
+
+不得羯磨眾故極至三人，
+Because a quorum cannot be reached, the limit is three people.
+
+羯磨者應作是說：「大德僧聽！某甲比丘自乞作房，無主為身，已於僧中乞指授作房處。
+The formal request should be as follows: "Venerable assembly, listen! A certain monk seeks to make a dwelling, as he has no master, and has requested a site from the assembly.
+
+若僧時到，僧差某甲某甲比丘，為某甲比丘指授作房舍處。如是白。」
+If it is time for the assembly, they appoint certain monks to assign a dwelling site for a certain monk. Thus declare."
+
+「大德僧聽！某甲比丘自乞作房，無主為身，已於僧中乞指授作房處。
+"Venerable assembly, listen! A certain monk seeks to make a dwelling, as he has no master, and has requested a site from the assembly."
+
+僧今差某甲某甲等比丘，為某甲比丘指授作房處。
+The assembly now appoints monks to assign a dwelling site for a certain monk.
+
+諸大德忍差某甲某甲比丘，指授作房處者默然，若不忍便說。
+Venerable ones consenting to certain monks assigning a dwelling site, remain silent, otherwise, please speak.
+
+「僧已忍差某甲某甲比丘指授作房處竟。
+"The assembly has already consented to appoint certain monks to assign a dwelling site.
+
+僧忍默然故，是事如是持。」
+Because the assembly remained silent, the matter is thus settled."
+
+時使比丘往作房處，觀察處所，若彼房處多有諸虫，及生花果樹，不應語除。
+The envoy monk should go to the dwelling site and observe; if there are many insects or flowering and fruit trees, they should not be ordered to remove them.
+
+若無是事，觀察已亦如前說。
+If these issues do not exist, proceed as previously mentioned after observing.
+
+一比丘唱言：「僧已示作房處。」
+A monk announces: "The assembly has shown the dwelling site."
+
+如是三說。
+This is said three times.
+
+
+
+无难处者，若彼处无生花果树木，无诸虫蛇。
+The place without difficulties is one where no trees or fruit trees grow and there are no insects or snakes.
+
+
+
+
+非妨處者，四邊各容十二桄梯，桄間各一捲肘，令作事者周匝來往塗治覆苫。
+In unobstructed places, each side accommodates twelve rafters, with each space using a rolled elbow, allowing workers to go back and forth completely for plastering and roofing.
+
+若比丘於難處者，有生花果樹木及諸虫蛇。
+If a monk is in a difficult place, there may be live flowering and fruiting trees, and various insects and snakes.
+
+妨處者，周匝不得容十二桄梯，令作事者不得周旋往返覆苫塗治也。
+In obstructed places, it does not allow twelve rafters around, making it impossible for workers to fully move around for roofing and plastering.
+
+自乞作房，無主為身，亦不將諸比丘指授處所，過量作者，僧伽婆尸沙。
+Begging to make a dwelling without a master for oneself, and not showing other monks the location, if one exceeds the limits, it is a violation (Sanghadisesa).
+
+
+
+僧伽婆尸沙者，如上說。
+As for the Sanghabashisa, as stated above.
+
+
+
+
+作房，有難處、妨處，不將諸比丘指授處所，若減量作、教他作，乃至作竟時，得僧伽婆尸沙罪。
+If a monk requests to build a room and there is difficulty or obstruction, and he does not guide other monks on the location, whether he reduces the size or instructs others to build, until it is completed, he incurs a Sanghadisesa offense.
+
+受用時，得越比尼罪。如是二比丘、眾多比丘亦如是。
+When using it, he incurs a Parajika offense. The same applies to two monks or many monks.
+
+若一比丘自乞作房，無主為身，難處、妨處，不將諸比丘指授處所，如量作，若教他作，乃至作房竟時，得僧伽婆尸沙罪。
+If a monk requests to build a room without an owner for himself, in a difficult or obstructive place, and does not guide other monks on the location, if he makes it according to measure, or instructs others to build, until the room is completed, he incurs a Sanghadisesa offense.
+
+受用時，得越比尼罪。若二若多亦復如是。
+When using it, he incurs a Parajika offense. The same applies to two or many.
+
+若比丘自乞作房，無主為身，難處、妨處，亦不將諸比丘指授處所，過量作，教他作，房竟時，得僧伽婆尸沙罪。
+If a monk requests to build a room without an owner for himself, in a difficult or obstructive place, and also does not guide other monks on the location, makes it oversized, instructs others to make it, when the room is completed, he incurs a Sanghadisesa offense.
+
+受用時，得越比尼罪。若二、若多亦復如是。
+When using it, he incurs a Parajika offense. The same applies to two or many.
+
+若比丘是處不名指授，若異界僧指授、若先年豫指授、若水中非沙地、非碎石地、非石上非被燒地，若僧中一人不作房者，若二人、三人不作房者，盡不應指授。
+If a monk is in a place not named for guidance, if instructed by a monk from another realm or from previous years, or if it is in the water, not on sand, gravel, stone, or burnt ground, if one, two, or three among the monks do not build a room, no instruction should be given.
+
+若僧中不作房者多，聽作指授。
+If there are many among the monks who do not build a room, guidance is allowed.
+
+若比丘作淨房，即欲持當住房者不應作。
+If a monk builds a clean room, it should not be intended for living.
+
+若作淨房，即持當𧂐薪屋者不應作。
+If building a clean room, it should not be intended for storing fuel.
+
+若作淨房，即持當井屋者不應作。
+If building a clean room, it should not be intended as a well house.
+
+若作淨房，即持當浴室者不應作。
+If building a clean room, it should not be intended as a bathroom.
+
+若比丘難處、妨處，不指授，作過量，作房時，若授甎泥團者，盡得越比尼罪。
+If a monk in a difficult or obstructive place does not provide guidance, makes an oversized room, and is given bricks and mud, he incurs a Parajika offense.
+
+壘甎安行行，作房比丘一一得越比尼罪。
+Stacking bricks row after row, the monk building the room incurs a Parajika offense for each.
+
+乃至若戶牖成已，得偷蘭罪。
+Until the doors and windows are completed, he incurs a Thullaccaya offense.
+
+乃至屋成若塼覆者，最後一塼時，得僧伽婆尸沙罪。
+Until the house is completed with tiles, with the last tile placed, he incurs a Sanghadisesa offense.
+
+若瓦覆、若木覆、若板覆、若石灰覆、若泥團覆、若草覆，乃至最後一把草覆時，得僧伽婆尸沙。
+Whether using tiles, wood, boards, lime, mud, or grass, until the last handful of grass is placed, he incurs a Sanghadisesa offense.
+
+作房未成中止者，得偷蘭罪。
+If stopped in the middle of building the room, he incurs a Thullaccaya offense.
+
+後更成時，僧伽婆尸沙。
+When later completed, he incurs a Sanghadisesa offense.
+
+作房者若房主安處房已，令餘人作，乃至房成時，作房者比丘得僧伽婆尸沙。
+If the person building the room, after arranging the room for the owner, instructs others to build until the room is completed, the monk building the room incurs a Sanghadisesa offense.
+
+若房主安處房已，後他人成者，偷蘭罪。
+If the owner arranges the room and others later complete it, it is a Thullaccaya offense.
+
+若比丘於難處、妨處，不將諸比丘指授處，過量作房，是房主比丘不捨戒、不死不與僧。
+If a monk, in a difficult or obstructive place, does not guide other monks on the location, makes an oversized room, the owning monk neither leaves the precepts nor dies before giving it to the Sangha.
+
+若有比丘，於此房中，若熏鉢、作衣、若受誦、若思惟一切受用者，得越比尼罪；二人、多人作房亦如是。
+If any monk, in this room, smokes bowls, makes clothes, recites teachings, or contemplates and enjoys all uses, he incurs a Parajika offense; the same applies for two or more building a room.
+
+若比丘自乞作房，無難處、無妨處，將諸比丘指授處，減量作，若教他作，至房竟時，是比丘無罪；受用者亦無罪；二人、多人亦如是。
+If a monk requests to build a room in an unobstructed and easy place, guides other monks on the location, reduces the size or instructs others to build, until the room is completed, the monk is blameless, as is the user; the same applies for two or more.
+
+若比丘自乞作房，無難處、非妨處，將諸比丘指授，如量作者、若教他作，乃至房成，是比丘無罪；受用者無罪；若二、若多亦復如是。
+If a monk requests to build a room in an easy, non-obstructive place, guides other monks, builds according to measure, or instructs others to build, until the room is completed, the monk is blameless; the user is blameless; the same applies for two or more.
+
+若比丘將諸比丘指授房處，非他界僧指授、非先年指授，不水中、若沙地、若碎石地、若磐石上、若被燒地，非僧中一人不作房者，非僧中二人三人不作房者，若不作房者多，聽作定作，住止房定作、淨房定作、井屋定作、浴室者聽作。
+If a monk guides other monks on the room's location, not instructed by monks from another realm or from previous years, not in water, on sand, gravel, rock, or burned ground, not when one, two, or three among the monks are not building, if there are many who are not building, determined work is allowed: stopping rooms, clean rooms, well houses, or bathrooms can be built.
+
+是比丘作房，無難處、非妨處，不過量作，將諸比丘示作房處，是諸比丘若助治泥團，若治塼授與時，一一是助比丘無罪。
+If the monk builds a room in an unobstructive, easy place, does not oversize, guides other monks in building, and if these monks assist in preparing mud, when delivering bricks, each assisting monk is blameless.
+
+若累一行、二行，乃至安戶牖時，是比丘無罪。
+If stacking one row, two rows, until fitting the doors and windows, the monk is blameless.
+
+若塼覆者，最後一塼時，是比丘無罪。
+If covered with tiles, at the last tile, the monk is blameless.
+
+若瓦覆、木板覆、草覆、石灰覆、泥團覆，最後泥團覆時無罪。
+When covered with tiles, wood, grass, lime, mud, at the final covering, he is blameless.
+
+作半止者，是比丘無罪。
+If stopped halfway, the monk is blameless.
+
+後還成者，是比丘無罪。
+If later completed, the monk is blameless.
+
+自作方便令他成者，是比丘無罪。
+If facilitating for others to finish, the monk is blameless.
+
+自作後他人成者，是比丘無罪。
+If after starting others finish, the monk is blameless.
+
+若比丘自乞作房，無難處、非妨處，將諸比丘指授，不過量作，是比丘不捨戒、不死不與僧。
+If a monk requests to build a room in an unobstructive, easy place, guides other monks, does not oversize, the monk neither leaves the precepts nor dies before giving it to the Sangha.
+
+諸比丘於中若熏鉢、作衣、誦經、思惟，一切受用盡無罪。
+If monks smoke bowls, make clothes, recite scriptures, or contemplate – all enjoyed use is blameless.
+
+若比丘於佛生處，得道處、轉法輪處、五年大會處，是諸尊處，為供養作草庵、樹葉庵、帳幔旃庵，暫住者聽作。
+If at the location of Buddha's birth, achieving the path location, turning the Dharma wheel location, the five-year gathering location, these revered places, making a grass hut, leaf hut, or cloth canopy for offerings, temporary residence is allowed.
+
+是故說：「若比丘自乞作房，無主為身，乃至過量作者，僧伽婆尸沙。」(六戒竟)
+Therefore, it is said: "If a monk requests to build a room, without an owner for himself, and even makes it oversized, he incurs a Sanghadisesa offense." (End of the six precepts
+
+
+國，廣說如上。
+The Buddha stayed in the country of Kausambi, expounding widely as above.
+
+爾時俱舍彌國五百比丘各作私房，爾時闡陀比丘無人為作房，時闡陀比丘主人名阿跋吒。
+At that time, five hundred monks in the country of Kausambi each built their own quarters, but Venerable Chanda had no one to build a dwelling for him. His patron was named Avadha.
+
+時闡陀比丘著入聚落衣，往詣其家。
+Venerable Chanda put on his village-going robe and went to his patron's house.
+
+時主人見比丘來恭敬禮足，共相問訊。
+The patron saw the monk come, respectfully greeted him, and they exchanged courtesies.
+
+時主人言：「阿闍梨！我聞俱舍彌作五百間私房，頗有與阿闍梨作房者不？」
+The patron said, "Teacher! I heard that there are five hundred private dwellings being built in Kausambi. Is there anyone building one for you?"
+
+答言：「實如所聞，有主人者皆作房舍，我薄福德，譬如禿梟無有主人，誰當與作？」
+Venerable Chanda replied, "Indeed, as you've heard, those with patrons have dwellings built for them. I have meager fortune, like a bald-headed owl without a patron. Who would build for me?"
+
+主人答言：「阿闍梨！莫恨！我當為作。」
+The patron replied, "Teacher! Do not worry! I will have one built for you."
+
+爾時即與五百金錢，白言：「阿闍梨！持去作房。」
+Then he gave him five hundred coins, saying, "Teacher! Take this to build a dwelling."
+
+爾時闡陀即持錢去，尋便安處欲作大房，盡五百金錢，正得起基、起少牆壁，錢物已盡。
+Venerable Chanda took the money, found a place for a large dwelling, and spent all five hundred coins just laying the foundation and erecting some walls, exhausting the funds.
+
+復詣其家，主人禮足，共相慰勞，問言：「阿闍梨作房竟未？」
+He returned to his patron's house, greeted him, and received consolation. The patron asked, "Teacher, is the dwelling completed?"
+
+答言：「始起屋基、作少牆壁，錢物已盡。」
+He replied, "Only the foundation and some walls are done. The money is gone."
+
+爾時主人復與五百金錢。
+Then the patron gave him another five hundred coins.
+
+闡陀持五百金錢，作牆壁竟，安施戶牖，錢物復盡。
+With the five hundred coins, he finished the walls and installed doors and windows, spending all the funds again.
+
+更詣主人，主人禮足復問：「阿闍梨房舍竟耶？」
+He went back to the patron, who greeted him and asked again, "Teacher, is the dwelling finished?"
+
+答言：「牆壁戶牖始竟，錢物已盡。」
+He replied, "The walls and windows are finished, but the money is gone."
+
+爾時主人生不信心，語闡陀言：「阿闍梨是出家人，用作大房舍為？用千金錢可起樓閣，而作一房云何不足？尊者且還，不能復與。」
+The patron became doubtful and said, "Teacher, why does a monastic need such a large dwelling? A thousand coins could build a pavilion. How is it not enough for one dwelling? Please return, for I cannot give more."
+
+爾時闡陀即便愁憂：「云何方便得成是房舍？」
+Venerable Chanda became worried, thinking, "How can I complete this dwelling?"
+
+有薩羅林樹，便伐之持用成房。
+There was a Sal tree in the forest, so he cut it down to use for the dwelling.
+
+爾時林中有鬼神，依止此林，語闡陀言：「莫斫是樹！令我弱小兒女暴露風雨無所依止。」
+There was a deity in the forest who depended on this tree and said to Chanda, "Do not cut this tree! My young children will be exposed to the wind and rain with no shelter."
+
+闡陀答言：「死鬼促去，莫住此中，誰喜見汝？」即便伐之。
+Chanda replied, "Demon! Get lost and stop staying here. Who wants to see you?" And he cut the tree.
+
+時此鬼神即大啼哭，將諸兒子詣世尊所。
+The deity cried loudly and took the children to see the Blessed One.
+
+佛知而故問：「汝何以啼哭？」
+The Buddha, knowing the reason, asked, "Why are you crying?"
+
+答言：「世尊！尊者闡陀伐我林樹，持用作房。世尊！我男女劣小風雨漂露，當何所依？」
+The deity replied, "Blessed One! Venerable Chanda cut my tree for his dwelling. Blessed One, my children are exposed to the storm. What can they depend on?"
+
+爾時世尊為此鬼神，隨順說法示教利喜，憂苦即除。
+The Blessed One spoke to the deity in accordance with the Dharma, giving instruction and joy, removing the distress.
+
+去佛不遠，更有林樹，世尊指授令得住止。
+Not far from the Buddha, there was another forest, and the Blessed One pointed it out as a place to stay.
+
+佛告諸比丘：「喚闡陀來。」
+The Buddha instructed the monks, "Call Chanda here."
+
+即便喚來來已，佛廣問上事：「汝實爾不？」
+When he was called and came, the Buddha extensively asked about the matter, "Is this true?"
+
+答言：「實爾。世尊！」
+He replied, "It is true, Blessed One!"
+
+佛言：「癡人！此是惡事，汝不知耶？
+The Buddha said, "Foolish man! This is a wrongful act; do you not know?
+
+如來、應供、正遍知一宿住止，是處左右有樹木與人等者，便為塔廟，是故神祇樂來依止。
+The Tathagata, the Worthy One, the Perfectly Enlightened One, in one night's stay anywhere, the surrounding trees with deities make it a shrine; hence, the deities like to dwell there.
+
+云何比丘惡口罵之？闡陀！是非法、非律、非是佛教，不可以是長養善法。」
+How can a monk scold with harsh words? Chanda! This is against the Dharma, against the Vinaya, and not the Buddha's teaching. It cannot nurture virtuous qualities.
+
+
+諸比丘白佛言：「世尊！云何是闡陀比丘，巧作方便營事，得彼主人千舊金錢？」
+The monks said to the Buddha, "World Honored One! How did the monk Chanda cleverly devise means to gain a thousand ancient coins from that master?"
+
+佛告諸比丘：「是非巧便，若巧便者應當更得，何但齊千？」
+The Buddha told the monks, "This was not a clever means, for if it were clever, he should have gained more, why just a thousand?"
+
+諸比丘白佛言：「實如世尊說，善知是闡陀比丘不善方便。」
+The monks said to the Buddha, "It is indeed as the World Honored One says, we know well that the monk Chanda is not skillful in his means."
+
+佛告比丘：「不但今日知此比丘不善方便，過去世時已知闡陀比丘不善方便。」
+The Buddha told the monks, "Not only today do you know that this monk is not skillful in his means, even in past lives it was known that the monk Chanda was not skillful."
+
+佛告諸比丘：「過去有城，名波羅奈，國名伽尸。」
+The Buddha told the monks, "In the past, there was a city named Benares, in the country of Kashi."
+
+時國有王以法治化，人民安樂無諸患難。
+At that time, the country had a king who governed by law, and the people were happy, free of hardships.
+
+時王無子，夫人忽然懷妊，十月生子而無眼鼻。
+The king had no son, but suddenly his queen became pregnant, and after ten months gave birth to a son who had no eyes or nose.
+
+生子七日施設大會，集諸群臣相師道士，為子立字。
+On the seventh day after the child's birth, a great assembly was convened, gathering all ministers, astrologers, and priests to name the child.
+
+時王土法，或因福相、或因星宿、或因父母而立名字。
+According to the customs of the land, a name would be given based on omens, constellations, or parental wishes.
+
+婆羅門問言：『王子身體有何異相？』
+A Brahmin asked, "What unusual features does the prince's body have?"
+
+傍人答言：『今此王子其面正平，都無眼鼻之處。』
+Someone nearby answered, "This prince's face is completely flat, with no eyes or nose."
+
+婆羅門言：『今此王子應名鏡面。』
+The Brahmin said, "This prince should be named Mirror Face."
+
+以四乳母供給抱養：一人摩拭洗浴、一人除棄不淨、一人懷抱、一人乳哺。
+Four nurses were appointed to care for him: one to nurse, one to clean, one to hold, and one to feed him.
+
+此四乳母晝夜給侍，譬如蓮花日日增長。
+These four nurses attended him day and night, like a lotus flower growing each day.
+
+至年長大，父王命終，即拜鏡面紹尊王位。
+When he grew up and the king passed away, Mirror Face was enthroned as king.
+
+然此太子宿殖德本，雖生無目而有天眼，堪為國王福德力大。
+Since this prince had previous accumulated virtues, though born without eyes, he had divine vision and was capable of ruling with great virtue and power.
+
+國中人民聞鏡面太子為王，無不奇怪。
+The people of the country were all amazed to hear that Prince Mirror Face had become king.
+
+時有大臣，便欲試之，不能得便。
+At that time, a minister wanted to test him, but couldn't find the opportunity.
+
+遇王出令，勅諸群臣更立新殿，彫文刻鏤種種彩畫。
+One day, the king issued a decree ordering the ministers to build a new palace, adorned with various carvings and paintings.
+
+大臣念言：『恒欲試王，今正是時。』
+The minister thought, "I've always wanted to test the king; now is the time."
+
+將一獼猴與著衣服，作巧作具，革囊盛之，串其肩上，將到王前白言：
+He dressed a monkey in clothing, prepared some tools, put them in a leather bag, slung it over his shoulder, and went to the king, saying:
+
+『大王！被勅立殿，巧匠已至，願王指授殿舍方法。』
+"O Great King! A skilled craftsman has arrived to build the palace. Please instruct us on how the palace should be constructed."
+
+王即心念：『彼將試我。』便說偈言：
+The king thought to himself, "He intends to test me." And then he spoke in verse:
+
+
+
+觀此眾生類，
+Observe these kinds of beings,
+
+睒睒面皺𧹞；
+Their faces wrinkled and blinking;
+
+
+
+
+趌𧽸性輕躁，
+An impetuous nature is impulsive,
+
+成事彼能壞，
+A successful matter can be ruined by them,
+
+
+
+
+受分法如是，  
+How can this give rise to palaces?  
+
+何能起宮殿？  
+Why is it able to construct mansions?  
+
+
+
+
+殘害花果樹，
+Destroying the trees and flowers,
+
+不能親近人，
+Cannot get close to people,
+
+
+
+
+況能造宮殿？　　
+
+Moreover, can build palaces?
+
+催送歸野林。』」
+
+Urged to return to the wild forest.
+
+
+
+
+：「爾時鏡面王者，今我身是。
+
+The Buddha said to the monks, "The king with the mirrored face at that time is my current self.
+
+時獼猴者，今闡陀比丘是。
+
+The monkey at that time is now the monk Canda.
+
+我於爾時生無兩目，已曾知彼無所堪施，況復今日。」
+
+I was born without two eyes at that time, and I already knew that there was nothing he could do, let alone today."
+
+佛告諸比丘：「依止俱舍彌城住者，皆悉令集，乃至已聞者當重聞。
+
+The Buddha said to the monks, "Those living in Kosambi should all gather, even those who have already heard should listen again.
+
+若比丘作大房舍，有主為身，應將諸比丘指授處所，無難處、非妨處。
+
+If a monk constructs a large building for himself, he should show other monks the location, ensuring it's not inconvenient or obstructive.
+
+是比丘於難處、妨處，有主為身，亦不將諸比丘指授處所者，僧伽婆尸沙。」
+
+If the monk resides in a difficult or obstructive place with the building intended for himself and does not show others the location, it is a Sanghadisesa offense."
+
+
+
+比丘者，如上說。
+A bhikkhu, as stated above.
+
+
+
+
+大者，過量，是名大也。  
+The larger one, excessive, is called large.
+
+
+
+
+房者，世尊所聽。
+This is the room listened to by the World Honored One.
+
+
+
+
+作者，若自作、若教他作。
+The author, whether self-written or taught by someone else.
+
+
+
+
+有主者，若有男子、女人、在家、出家為作主也。
+For those who have a master, there might be a man or a woman, either at home or leaving home, acting as the master.
+
+
+
+
+为身者，为己不为僧也。
+Those who live for themselves are not living as monks.
+
+
+
+
+謂僧、若僧使，如上小房中說。
+It refers to the monks or envoys of the monks, as mentioned above in the small room.
+
+
+
+
+無難處、非妨處者，亦如上說。
+In places without difficulty and not obstructive, it is also as mentioned above.
+
+
+
+
+若比丘於難處、妨處，不將諸比丘指授作房處者，僧伽婆尸沙。
+If a monk in a difficult location or obstructed area does not direct other monks in building a dwelling there, it is a Sanghadisesa offense.
+
+若一比丘於難處妨處，作大房，若自作、教他作，乃至房成時，僧伽婆尸沙。
+If a monk builds a large dwelling in a difficult or obstructed area, whether by himself or by instructing others, until the dwelling is completed, it is a Sanghadisesa offense.
+
+受用者，得越比尼罪。
+Those who use it incur a transgression of the Vinaya rules.
+
+若二、若多亦復如是。
+This is also the case for two or more monks.
+
+除其過量，一切有罪無罪，皆亦如上小房中說。
+Except for excess, all cases of offenses or non-offenses are as described above for small dwellings.
+
+是故說：「若比丘作大房舍，有主為身，乃至不將諸比丘指授處者，僧伽婆尸沙。」
+Therefore it is said: "If a monk builds a large dwelling, and there is ownership involved, yet does not direct other monks, it is a Sanghadisesa offense."
+
+(七戒竟)
+(End of the Seventh Precept)
+
+
+
+佛住舍衛城，廣說如上。
+
+The Buddha resided in the city of Shravasti, speaking extensively as above.
+
+爾時有比丘，名陀驃摩羅子，眾僧拜典知九事。
+
+At that time, there was a monk named Dharmapala, who knew nine matters of monk ceremonial duties.
+
+九事者，典次付床座、典次差請會、典次分房舍、典次分衣物、典次分花香、典次分果蓏、典次知暖水人、典次分雜餅食、典次知隨意舉堪事人，是名僧拜典知九事。
+
+These nine matters are: arranging bed and seating, arranging invitations to assemblies, allocating rooms and shelters, distributing robes and items, distributing flowers and incense, distributing fruits, knowing the person in charge of hot water, distributing various cakes, and knowing who can manage tasks according to their capability. This is known as the nine matters of ceremony known by monks.
+
+付床座時，是長老右手小指出燈明，隨品次付，若阿練若。
+
+When arranging beds and seating, the elder points with the little finger of his right hand to the lamp, distributing according to order, as if in the forest.
+
+阿練若者共，乞食、乞食者共，糞掃衣、糞掃衣者共，一坐食、一坐食者共，常坐、常坐者共，露坐、露坐者共，敷草坐、敷草坐者共，經唄、經唄者共，法師、法師者共，學律、學律者共，須陀洹、須陀洹者共，斯陀含、斯陀含者共，阿那含、阿那含者共，阿羅漢、阿羅漢者共，三明、三明者共，六通、六通者共，無威儀、無威儀者共。
+
+Those practicing in the forest, those who beg for food and others who beg for food together, those with rag robes and others with rag robes together, those who eat in one sitting, those who eat in one sitting together, those who sit regularly, those who sit regularly together, those who sit outdoors, those who sit outdoors together, those who sit on grass, those who sit on grass together, those who chant scriptures and those who chant together, Dharma teachers and Dharma teachers together, those who study the Vinaya and those who study together, stream-enterers and stream-enterers together, once-returners and once-returners together, non-returners and non-returners together, arhats and arhats together, those with the three insights and those with three insights together, those with six supernatural powers and those with six supernatural powers together, those without conduct and those without conduct together.
+
+
+
+
+爾時慈地比丘及六群比丘等來索房舍。
+
+At that time, the monk Cixi and six other groups of monks came to ask for accommodation.
+
+時尊者陀驃摩羅子答言：「小住！待汝等下坐房，次當與汝房。」
+
+Venerable Tāpiaumālāra Sē responded, "Wait a moment! You all please wait until I have a room available, and then I will give you a room."
+
+到下坐次，如其次第付房與之，得不好房。
+
+When it came time, he assigned them rooms in order, but they received poor accommodations.
+
+是六群比丘等見房舍中，臥床、坐床、被褥諸物皆悉朽故，又別房食亦復麁惡，
+
+These six groups of monks saw that in their rooms, the beds, sitting mats, and all furnishings were deteriorated, and additionally the food was crude and bad.
+
+共相謂言：「長老陀驃摩羅子，如我生怨，與我弊房，飲食麁澁。
+
+They said to each other, "Venerable Tāpiaumālāra Sē is like an enemy to us, giving us terrible rooms and coarse food.
+
+若是長老久在梵行者，當令我等常受眾苦，今當以波羅夷法謗之。」
+
+If this elder has long been in holy practices, he would always subject us to suffering, now we will accuse him of a grave offense."
+
+即語言：「長老！汝犯波羅夷罪，我當舉之。」
+
+Then they said, "Elder, you have committed a grave offense, and I will expose it."
+
+答言：「我無是罪。」
+
+He replied, "I have committed no such offense."
+
+彼言：「誰復作賊，言我是賊？但汝今日犯波羅夷。」
+
+They replied, "Who else has acted like a thief, calling me a thief? But today you have committed a grave offense."
+
+至眾多人中謗，復到僧中謗尊者陀驃摩羅子犯波羅夷。
+
+They slandered him among many people and then further among the monks, accusing Venerable Tāpiaumālāra Sē of a grave offense.
+
+陀驃摩羅子往白世尊：「慈地比丘以無根波羅夷法見謗。」
+
+Tāpiaumālāra Sē went to report to the World-Honored One, "The monk Cixi has groundlessly accused me of a grave offense."
+
+佛言：「汝有是事耶？」
+
+The Buddha asked, "Is this true?"
+
+答言：「無也。世尊！」
+
+He replied, "No, World-Honored One!"
+
+佛言：「比丘！如來知汝清淨，他人謗汝，當如之何？」
+
+The Buddha said, "Monk, the Tathagata knows you are pure. How should you respond to such slander?"
+
+陀驃言：「世尊雖知我清淨無罪，唯願世尊哀愍語彼令生信心，莫令長夜得不饒益。」
+
+Tāpiaumālāra Sē said, "Even though the World-Honored One knows I am pure and innocent, I hope the World-Honored One will compassionately speak to them to inspire faith and prevent them from gaining no benefit in the long night."
+
+佛言：「喚六群比丘來。」
+
+The Buddha said, "Call the six groups of monks here."
+
+即喚來已，佛問六群比丘：「汝等實以無根波羅夷罪謗他陀驃摩羅子比丘耶？」
+
+Once they were called, the Buddha asked the six groups of monks, "Did you truly accuse Tāpiaumālāra Sē, a monk, of a groundless grave offense?"
+
+答言：「實爾。世尊！」
+
+They replied, "Yes, World-Honored One!"
+
+佛言：「何以故？」
+
+The Buddha asked, "Why?"
+
+答言：「是長老與我故壞房舍，乃至『若是長老久在梵行者我等恒得苦惱。』便以波羅夷法謗。」
+
+They replied, "Because this elder gave us deteriorated rooms, and we thought, 'If he has long been in holy practices, we will always face distress.' So we accused him of a grave offense."
+
+佛告六群比丘：「此是惡事，我常不說於梵行人，當起恭敬，慈身口意行耶？
+
+The Buddha told the six groups of monks, "This is wrong. I have never said that those in holy practices should be met with disrespect in mind, speech, and body.
+
+汝今云何於梵行無罪比丘，無根波羅夷法誹謗。
+
+How can you accuse a monk practicing pure conduct without foundation with a grave offense?
+
+此非法、非律、非是佛教，不可以是長養善法。」
+
+This is unwholesome, against the Dharma, against the discipline, and not taught by the Buddha, and cannot support the growth of wholesome qualities."
+
+
+
+：「依止舍衛城比丘皆悉令集，以十利故為諸比丘制戒，乃至已聞者當重聞。
+
+The Buddha addressed the monks, "Gather all the monks residing in Sravasti city, and establish precepts for the benefit of all monks, so that even those who have already heard may listen again.
+
+若比丘瞋恨不喜故，於清淨無罪比丘，以無根波羅夷法謗，欲令破彼比丘淨行。
+
+If a monk, out of anger and displeasure, falsely accuses an innocent and pure monk of a grave offense in order to ruin his pure conduct,
+
+彼於後時，若撿挍、若不撿挍，便作是言：『是事無根，我住瞋恨故。』
+
+later, whether he reflects or not, says, 'This matter is baseless, and I only said it out of anger,'
+
+作是語者，僧伽婆尸沙。」
+
+then such speech constitutes a Sanghadisesa offense."
+
+
+
+丘者，如上說。
+A bhikkhu, as previously mentioned.
+
+
+
+
+瞋者，九惱及非處起瞋。
+As for anger, it arises from nine disturbances and inappropriate situations.
+
+第十恨者，凡夫及學人有不喜者，乃至阿羅漢有無根者，事根不現。
+The tenth type of resentment exists when ordinary people and learners are displeased, even if Arhats have no basis for it, the root of the matter does not manifest.
+
+又不見彼事、不聞彼事、不疑彼事。
+Furthermore, there is neither sight of the matter, nor hearing of the matter, nor doubting of the matter.
+
+
+
+
+波羅夷者，四波羅夷中一一也。
+Parajika, one of the four Parajikas.
+
+
+
+謗者，無事橫說過也。
+A slanderer arbitrarily speaks irresponsibly.
+
+
+
+
+欲破彼淨行者，
+Those who want to break the purity of others,
+
+欲令彼非比丘非沙門、非釋種子，
+want to make them neither monks nor ascetics, nor seeds of Shakya,
+
+欲令作沙彌、作俗人、作園民、作外道。
+wish to turn them into novices, laypeople, villagers, or adherents of other paths.
+
+
+
+
+彼於後時，若撿挍、若不撿挍。
+Then later, some may investigate, and some may not.
+
+撿挍者，問言：「汝見何事？婬耶？盜五錢耶？故殺人耶？不實稱過人法耶？
+To investigate, they might ask: "What did you witness? Was it adultery? Theft of five coins? Murder? Lying about others?
+
+云何見？何因見？何處見？」是為撿挍。
+How did you see it? Why did you see it? Where did you see it?" This is what it means to investigate.
+
+若不如是問者，是名不撿挍也。
+If they don't ask like this, it's called not investigating.
+
+
+
+
+是事無根住瞋恨故說，
+This matter was spoken out of groundless hatred,
+
+作是語者，僧伽婆尸沙。
+Those who utter such words commit a Sangha offense.
+
+僧伽婆尸沙者，如上說。
+A Sangha offense, as mentioned above.
+
+
+
+，謗二相似者，不淨者、清淨者。
+If a monk is angry and slanders two similar ones, the impure and the pure.
+
+清淨者，言見我犯何等罪？四事中若一、若二耶？
+The pure one says, "What kind of offense do you see me committing? Is it one or two among the four matters?"
+
+十三事中若一、若二耶？
+"Is it one or two among the thirteen matters?"
+
+若不見、不聞、不疑、不決了便謗。
+If not seen, not heard, not doubted, or not decided, then slander.
+
+若屏處、若眾多人中、若眾僧中：
+Whether in a private place, among many people, or among the congregation: 
+
+「我見彼犯波羅夷、我聞彼犯波羅夷、我疑彼犯波羅夷。」
+"I saw him commit a pārājika offense, I heard him commit a pārājika offense, I suspected him of committing a pārājika offense."
+
+見不實見根本不實、聞不實聞根本不實、疑不實疑根本不實。
+Seeing is unreal, fundamentally unreal; hearing is unreal, fundamentally unreal; doubting is unreal, fundamentally unreal.
+
+本曾見妄聞妄疑妄，見不爾、聞不爾、疑不爾，
+Originally seeing falsely, hearing falsely, doubting falsely, not seeing, not hearing, not doubting so,
+
+對面四目謗，語語僧伽婆尸沙。
+Face to face, four eyes slander, speaking pācittiya.
+
+是比丘於四波羅夷中一一謗，犯僧伽婆尸沙。
+This monk, in each slander of the four pārājikas, commits a pācittiya offense.
+
+以十三僧伽婆尸沙中一一謗，犯波夜提。
+In each slander among the thirteen pācittiyas, he commits a pāyantika offense.
+
+以波夜提罪一一謗，得越比尼罪。
+In each slander of the pāyantika offense, he gains a transgression of the precepts offense.
+
+波羅提提舍尼、眾學法及威儀法謗者，犯越比尼心悔。
+In slandering the prātimokṣa, study rule, and conduct rule, one commits a transgression of the precepts with a remorseful mind.
+
+若謗比丘尼八波羅夷、十九僧伽婆尸沙，若一一謗，波夜提。
+If slandering each of the bhikṣuṇī's eight pārājikas, nineteen pācittiyas, it results in a pāyantika.
+
+三十尼薩耆、百四十一波夜提，若一一謗，犯越比尼罪。
+In each slander of the thirty niḥsargika offenses and the one hundred forty-one pāyantika offenses, it commits a transgression of the precepts.
+
+八波羅提提舍尼、眾學及威儀，一一謗，犯越比尼心悔。
+In each slander of the eight prātimokṣa, study, and conduct, one commits a transgression of the precepts with a remorseful mind.
+
+學戒尼十八事，若一一謗言當更與學戒，犯偷蘭罪。
+For the eighteen matters of the study precepts, if slandering and saying to give the study precepts again, it commits a sthulatyaya offense.
+
+沙彌、沙彌尼十戒，若一一謗言當更與出家，犯越比尼罪。
+Regarding the ten precepts of novices and novice nuns, if each one is slandered and said to give ordination again, it commits a transgression of the precepts offense.
+
+下至俗人五戒，若一一謗，犯越比尼心悔。
+Even down to the five precepts of laypeople, if each one is slandered, it commits a transgression of the precepts with a remorseful mind.
+
+是故說：「若比丘瞋恨不喜故，乃至作是語者，僧伽婆尸沙。」
+Therefore, it is said: "If a monk, out of anger and displeasure, even utters such words, it is a pācittiya offense."
+
+(八戒竟)
+(Eight precepts complete.)
+
+
+
+摩訶僧祇律卷第六  
+The Sixth Scroll of the Mahasanghika Vinaya
+
+
+
+

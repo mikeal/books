@@ -1,0 +1,2720 @@
+orry, but I need the actual lines you want to be translated. Could you please provide the text
+
+
+【經文資訊】大正新脩大藏經
+[Scripture Information] Taisho Revised Tripitaka
+
+第 22 冊
+Volume 22
+
+No. 1425
+Number 1425
+
+摩訶僧祇律
+Mahasanghika Vinaya
+
+
+
+
+版本记录：发⾏⽇期：2024-08，最后更新：2024-07-12  
+Release Notes: Release Date: 2024-08, Last Updated: 2024-07-12  
+
+
+
+
+【編輯說明】
+
+Editorial Notes
+
+本資料庫由
+
+This database is compiled by
+
+財團法人佛教電子佛典基金會（CBETA）
+
+the Corporate Body of the Buddha Educational Foundation (CBETA)
+
+依「大正新脩大藏經」所編輯
+
+according to the "Taishō Shinshū Daizōkyō."
+
+
+
+【原始資料】蕭鎮國大德提供，
+
+[Original Data] Provided by Dade Xiao Zhenguo,
+
+伽耶山基金會提供，
+
+Provided by the Gaya Mountain Foundation,
+
+北美某大德提供，
+
+Provided by a certain Dade in North America,
+
+釋本禪法師提供新式標點
+
+Provided by Master Shi Benchan with new punctuation style
+
+
+
+
+其他事項
+
+Other Information
+
+本資料庫可自由免費流通
+
+This database is freely distributable
+
+詳細內容請參閱
+
+For details, please refer to
+
+財團法人佛教電子佛典基金會資料庫版權宣告
+
+the Copyright Declaration of the Buddhist Electronic Database Foundation
+
+
+
+当你凝视深渊时
+
+When you gaze long into the abyss
+
+深渊也在凝视着你
+
+The abyss gazes also into you
+
+不斗士难道不战斗
+
+Without a fighter, there is no battle
+
+人自己成谜自己解
+
+One becomes a mystery to solve oneself
+
+山不过来我过去
+
+If the mountain won't come to me, I'll go to the mountain
+
+梦中人却醒于梦
+
+The dreamer wakes within the dream
+
+灰烬中必有余烬
+
+In the ashes, there must be embers
+
+时光倒流尤往前
+
+Time flows backward yet pushes forward
+
+
+
+
+摩訶僧祇律卷第三十
+
+The Thirtieth Volume of the Mahasanghika Vinaya
+
+東晉
+
+Eastern Jin
+
+天竺三藏佛陀跋陀羅共法顯譯
+
+Translated by Tripitaka Master Buddha Bhadra and Faxian from Tianzhu
+
+
+
+八段法頌
+
+The Eight Section Methods Praise
+
+渾渾太空為之莊重
+
+The vastness of the cosmos brings solemnity
+
+修持之途不懈弗停
+
+The path of cultivation is unremitting and unceasing
+
+於無聲中發萬鈞力
+
+In silence, immense power is unleashed
+
+於無形處見大神功
+
+In the formless, great achievements are realized
+
+
+
+復次佛住王舍城，爾時尊者畢陵伽婆蹉在聚落中住，日日渡恒水乞食，到恒水上作是言：「首陀羅住，我欲過。」水即住。
+
+Furthermore, when the Buddha was residing in Rajagriha, at that time, the venerable Pilindavatsa was living in a village. Every day he crossed the Ganges River to beg for alms, and upon reaching the river, he said, "Stop, Sudra, I want to cross." The water stopped.
+
+過已作如是言：「首陀羅汝去。」如是水流如故。
+
+After crossing, he said, "Sudra, you go." And the water flowed as usual.
+
+水神不樂，往到佛所，頭面禮足却住一面，白佛言：「世尊！尊者畢陵伽婆蹉語太苦：『住首陀羅，去首陀羅。』」
+
+The water deity was displeased and went to the Buddha, respectfully bowed with his head at the Buddha's feet, and stayed at one side, saying to the Buddha, "World-Honored One, the venerable Pilindavatsa speaks too harshly: 'Stop, Sudra, go, Sudra.'"
+
+佛言：「呼畢陵伽婆蹉來。」來已，佛言：「汝實爾不？」答言：「實爾。」
+
+The Buddha said, "Call Pilindavatsa to come." After he came, the Buddha asked, "Is this true?" He replied, "It is true."
+
+佛言：「恒神如是嫌汝，汝向懺悔。」畢陵伽婆蹉言：「我悔過，首陀羅。」
+
+The Buddha said, "The river deity is displeased with you, you should repent." Pilindavatsa said, "I repent, Sudra."
+
+恒神言：「向首陀羅，今首陀羅，為有何異而言悔過？」
+
+The river deity said, "Previously Sudra, now Sudra, what is the difference that warrants repentance?"
+
+畢陵迦婆蹉，唯除佛八大聲聞，餘一切盡言首陀羅，和上、阿闍梨、諸上座皆言首陀羅。
+
+Pilindavatsa, except for the Buddha's eight great disciples, called everyone else Sudra, including senior monks and teachers.
+
+諸比丘言：「尊者畢陵伽婆蹉，乃至和上、阿闍梨皆言首陀羅。正有是一人婆羅門出家耶？尊者大迦葉、舍利弗、目連等如是比皆是婆羅門出家，都不作是語，應作舉羯磨。」
+
+The monks said, "Venerable Pilindavatsa, even senior monks and teachers are called Sudra by him. Is there truly a Brahmin who has renounced the world in this way? Venerable Mahakashyapa, Sariputra, Maudgalyayana, and others, who are Brahmins, do not speak like this; he should be subject to disciplinary action."
+
+即集比丘僧。時畢陵伽婆蹉坐禪不來，遣使往喚。使便打戶言：「眾僧集，喚長老！」
+
+The monks gathered. At that time, Pilindavatsa was meditating and did not come, so they sent someone to call him. The messenger knocked on the door and said, "The monks are gathered, calling for the elder!"
+
+時畢陵伽婆蹉即觀見比丘僧集欲與我作舉羯磨，即以神力制使比丘著戶，令不得去。
+
+Pilindavatsa, seeing that the monks were gathered to take disciplinary action against him, used his spiritual power to keep the monk at the door from leaving.
+
+眾僧怪使久不還，更遣比丘往喚。後比丘至，捉前使比丘手去，來長老即復相著不得去，如是使使相著皆不得去。
+
+The monks were puzzled as to why the messenger had not returned for a long time, so they sent another monk. The later monk arrived, took the first monk's hand, and tried to leave, but he too was held back by the same power, and all subsequent messengers were unable to leave.
+
+諸比丘嫌言：「眾中正有此一人大神足耶？尊者大目連豈無此力耶？齊水際作福罰羯磨。」
+
+The monks expressed their concern, "Is there only one person in this assembly with great spiritual power? Doesn't Venerable Mahamaudgalyayana have such power? Let us perform the disciplinary action by the river bank."
+
+佛以神足乘空而來，知而故問：「汝作何等？」
+
+The Buddha, with his spiritual power, came through the air and knowingly asked, "What are you doing?"
+
+答言：「世尊！畢陵伽婆蹉，唯除如來八大聲聞，餘乃至和上、阿闍梨盡言：『首陀羅。』欲作舉羯磨。
+
+They replied, "World-Honored One! Pilindavatsa, except for the Tathagata's eight great disciples, calls everyone else, even senior monks and teachers, 'Sudra.' We wish to take disciplinary action."
+
+僧集不來。遣使往喚，神足復制，便使使相著不來，故欲作齊水際福罰羯磨。」
+
+He didn't come to the assembly. We sent messengers, but they were restrained by his spiritual power, so we intended to perform the action by the riverbank."
+
+佛言：「汝來。」畢陵伽婆蹉發心頃在佛前立，佛語畢陵伽婆蹉：「汝首陀羅語過，諸梵行人嫌汝。」
+
+The Buddha said, "You come." Pilindavatsa immediately came and stood before the Buddha, who said to him, "You are wrong to use the word 'Sudra.' The pure practitioners find you offensive."
+
+答言：「世尊！我當如何？我不憍慢，亦不自大輕蔑於人。然我喚和上、阿闍梨、諸長老比丘時，發聲便成首陀羅。」
+
+He replied, "World-Honored One! What should I do? I am neither arrogant nor do I look down on others. However, when I address the senior monks and teachers, the word 'Sudra' naturally comes out."
+
+佛語比丘：「是畢陵伽婆蹉非憍慢，亦非自大輕蔑餘人。從五百世來常生婆羅門家，首陀羅語習氣不盡。」
+
+The Buddha told the monks, "Pilindavatsa is neither arrogant nor prideful to belittle others. For five hundred lifetimes, he was born into Brahmin families, and the habit of saying 'Sudra' has not completely faded."
+
+佛語畢陵伽婆蹉：「汝本從無始生死已來，貪欲瞋恚愚癡尚能永拔，五百世習氣而不能除。從今日後莫作首陀羅語。」
+
+The Buddha said to Pilindavatsa, "From the beginningless cycle of birth and death, you have been able to completely eradicate desire, anger, and ignorance. Why cannot you remove this habit from five hundred lifetimes? From today onwards, do not use the word 'Sudra.'"
+
+聞世尊教，恭敬故永不復作。如是毘尼竟，是名三婆蹉。
+
+Upon hearing the Buddha's teaching, out of respect, he never used it again. Thus ends the Vinaya, known as the Story of the Three Pilindavatsas.
+
+
+
+一升油者，世尊涅槃後，長老比丘毘舍離住，爾時有一商人，自恣請法豫比丘尼。
+After the World-Honored One passed into Nirvana, an elder monk stayed in Vesāli, and at that time, a merchant invited a bhikkhuni to freely teach and listen to the Dharma.
+
+比丘尼有一依止弟子，常遣往取所須。
+The bhikkhuni had a disciple who often went to fetch what was needed.
+
+時依止弟子不稱師名，又不自稱，直言：「須油。」
+At that time, the disciple did not mention the master's name nor their own, simply saying, "Need oil."
+
+檀越即與，得已自用。
+The benefactor promptly gave it, and the disciple used it for themselves.
+
+檀越後便檢挍，油不入師。
+Later, the benefactor checked and found that the oil did not go to the master.
+
+依止弟子心生疑悔，語諸比丘尼，諸比丘尼言：「汝犯波羅夷。」
+The disciple felt doubt and regret and told the bhikkhunis, who said, "You have committed a pārājika."
+
+諸比丘尼不了，往問長老比丘。
+The bhikkhunis were not fully clear and went to ask the elder monk.
+
+長老比丘言：「雖隱覆取，檀越與故，犯偷蘭罪。」
+The elder monk said, "Though it was taken secretly, since it was given by the benefactor, it constitutes a thullaccaya offense."
+
+如是毘尼竟，是名一升油。
+Thus concludes the Vinaya story, known as "A Measure of Oil."
+
+
+
+迎食者，舍衛城爾時精舍中有檀越飯僧，
+For food seekers, at that time in the Jetavana monastery in Shravasti, there were devout supporters offering meals to monks.
+
+有一比丘自食己分，復迎一分。
+A certain Bhikkhu ate his own portion and also fetched another portion.
+
+益食人問言：「長老為誰取分？」
+The person in charge of additional food asked, "For whom are you taking an extra portion, Elder?"
+
+答言：「我取。」
+He replied, "I’m taking it for myself."
+
+「食者誰分？」復言：「我分。」
+The person asked, "Who is the receiver of the food?" The reply was, "The portion is for me."
+
+時比丘言：「汝犯波羅夷罪。」
+At that time, a monk said, "You have committed a Parajika offense."
+
+諸比丘不了，往問長老比丘。
+The other monks did not understand, so they went to ask the senior monk.
+
+長老比丘言：「有不應得而取，但有主與故，得偷蘭罪。」
+The elder monk said, "It is wrong to take what one should not receive; however, since the food was given by an owner, it counts as a Thullaccaya offense."
+
+如是毘尼竟，是名迎食。
+Thus, the Vinaya rule was completed; this is called "welcoming food."
+
+
+
+看病者，佛住舍衛城，爾時祇洹精舍有病比丘，共看病比丘諍已，時精舍中有檀越飯僧，病比丘作是念：「彼人今日何能為我取食？」
+
+The patient monk, while the Buddha stayed in Shravasti, at that time in Jetavana Monastery, there was a sick monk. After arguing with the monk taking care of him, there was a patron offering food to the monks. The sick monk thought, "How can that person get food for me today?"
+
+即便倩餘比丘取食。時看病比丘作是念：「今日誰當與彼取食？」
+
+Then he asked another monk to get food for him. The caring monk thought, "Who will get food for him today?"
+
+時二人俱取食，益食人問看病比丘：「為誰取食？」
+
+At that time both of them went to get food. The person distributing the food asked the caring monk, "For whom is this food?"
+
+答言：「某病人食。」復問倩迎食人：「為誰取食？」
+
+He replied, "For a certain sick person." The distributor then asked the monk who fetched the food, "For whom is this food?"
+
+答言：「某病人食。」諸比丘言：「汝犯波羅夷。」
+
+He answered, "For a certain sick person." The other monks said, "You have committed an offense of defeat."
+
+時諸比丘不了，往問長老比丘。
+
+The other monks did not understand, so they went to ask the senior monks.
+
+長老比丘言：「此倩取食者無罪。
+
+The senior monk said, "The one who fetched the food is not guilty.
+
+病比丘共看病比丘諍已，不語看病人更倩餘人者，越毘尼罪。
+
+If the sick monk argues with the caring monk and without informing him, asks someone else; it is a slight infraction.
+
+看病人共病比丘諍已，不問與迎食者，越毘尼罪。」
+
+If the caring monk argues with the sick monk and does not ask before giving food, it is a slight infraction."
+
+如是毘尼竟，是名看病。
+
+Thus, the disciplinary rule ends. This is called caring for the sick.
+
+
+
+
+鳥肉段者，佛住舍衛城祇洹精舍，
+
+The Buddha dwelled in Anathapindika's Park in the city of Sravasti,
+
+爾時有比丘時到著入聚落衣，持鉢入城乞食。
+
+At that time, a monk put on his robe, took his bowl, and entered the city to beg for food.
+
+時有鳥銜肉段墮比丘鉢中，
+
+Then a bird dropped a piece of meat into the monk's bowl.
+
+時比丘持還精舍煮已自食，分與諸比丘。
+
+The monk took it back to the monastery, cooked it, ate it himself, and shared it with other monks.
+
+諸比丘言：「長老！汝何處得此肉？」
+
+The other monks said, "Elder! Where did you get this meat?"
+
+即具說上事，諸比丘言：「汝犯波羅夷。」
+
+The monk explained what happened, and the other monks said, "You have committed a parajika offense."
+
+諸比丘不了，往問長老比丘，
+
+The monks were unsure and went to ask the elder monks,
+
+長老比丘言：「畜生無屬。」
+
+The elder monks said, "Animals are not owned property."
+
+如是毘尼竟，是名鳥肉段。
+
+Thus ends the Vinaya rule; this is called the piece of bird meat.
+
+
+
+
+賊肉段者，世尊涅槃後，長老比丘依王舍城住。
+The story of the thief meat happened after the Buddha's parinirvana, when the elder monk lived near Rajagriha city.
+
+時有盜賊偷牛，夜在尸陀林中殺噉有殘，語林中坐禪比丘言：「尊者須肉不？」
+There was a thief who stole a cow, killed it at night in the charnel ground and feasted on it, then asked the meditating monk in the forest, "Venerable one, would you like some meat?"
+
+答言：「須。」
+The monk replied, "Yes."
+
+即與滿鉢。
+Then he gave him a full bowl.
+
+比丘取已持還精舍自食，分與餘比丘。
+The monk took it, returned to the monastery, ate it, and shared it with other monks.
+
+餘比丘問言：「長老！何處得此肉？」
+The other monks asked, "Elder, where did you get this meat?"
+
+具說上事。
+He explained the matter fully.
+
+諸比丘言：「長老！汝賊邊取物滿五錢，波羅夷。」
+The other monks said, "Elder, taking possessions from a thief of more than five coins is a grave offense."
+
+諸比丘不了，往問長老比丘。
+The monks did not understand and went to ask the elder monk.
+
+長老比丘言：「出家人前人如法、不如法，有主施無罪。」
+The elder monk said, "In front of a monk, whether one is lawful or not, offering of one's own possession is without sin."
+
+如是毘尼竟，是名賊肉段。
+Thus the Vinaya was concluded, and this is called the story of the thief's meat.
+
+
+
+時俱睒彌提婆聚落邊有賊偷猪噉，餘殘頭脚捨棄而去。  
+Concerning pork, at that time near the settlement of Kusha Mipideva, a thief stole a pig to eat, leaving behind the leftover head and feet.
+
+時有比丘見已持還精舍，煮已自食亦分與諸比丘。  
+A monk saw it, took it back to the monastery, cooked it, ate it himself, and also shared it with other monks.
+
+諸比丘言：「汝何處得此肉？」  
+The monks asked, "Where did you get this meat?"
+
+即具說上事，比丘言：「直五錢，得波羅夷。」  
+He explained the above situation, and the monk said, "It's worth five coins, obtaining Parajika."
+
+時諸比丘不了，往問長老比丘。  
+At that time, some monks were unclear, so they went to ask the elder monk.
+
+長老比丘言：「汝何心取？」  
+The elder monk asked, "With what intention did you take it?"
+
+答言：「無主想。」  
+He replied, "With the thought that it had no owner."
+
+「無主想取無罪。」  
+"Taking it with the thought that it has no owner is not a sin."
+
+如是毘尼竟，是名猪肉。  
+Thus the Vinaya concludes, this is called pork.
+
+
+
+舍衛城祇桓精舍，時有比丘到時著入聚落衣，持鉢入城次第乞食到一家。  
+There was a monk in the Jetavana Monastery of Sravasti who, at a certain time, donned his settlement robes and went into the city with his bowl to beg for food, reaching a certain house.
+
+婦人言：「比丘來入共作如是事來。」  
+The woman said, "The monk comes in to engage in such acts with me."
+
+比丘言：「世尊制戒不得行婬。」  
+The monk replied, "The Blessed One has laid down precepts prohibiting sexual intercourse."
+
+婦人言：「若不從我者，當如是如是謗，強牽我。」  
+The woman said, "If you do not comply with me, I will accuse you of forcibly dragging me."
+
+是比丘畏故便入，入已婦人語婢守門：「我與比丘行欲。」  
+Out of fear, the monk entered, and after entering, the woman instructed her maidservant to guard the door, saying, "I engage in desire with the monk."
+
+女人入已欲心熾盛即臥，比丘蹴已而去。  
+After entering, the woman lay down, inflamed with desire, but the monk kicked her and left.
+
+守門婢問：「尊者作事竟耶？」  
+The maidservant guarding the door asked, "Has the venerable one finished the task?"
+
+答言：「已竟。」  
+He replied, "It is done."
+
+時比丘心生疑悔，往問長老比丘。  
+At that time, the monk developed doubt and remorse in his heart and went to ask the elder monk.
+
+長老比丘言：「汝以脚蹴女人，得偷蘭遮。不作言作，波夜提。」  
+The elder monk said, "By kicking the woman, you incur a Thullaccaya. Not doing, you claimed to have done, which is a Pācittiya offense."
+
+如是毘尼竟，是名蹴女人。  
+Thus the Vinaya ends, and this is called 'kicking a woman.'  
+
+
+衛城祇桓精舍，時比丘著入聚落衣，持鉢入城次行乞食至一家。
+There was a monk who, wearing his robe, entered the city of Śrāvastī near the Jeta Grove monastery, carrying his alms bowl as he went to beg for food, arriving at a certain house.
+
+見女人蹲地磨麨，衣不覆形，比丘見已即生欲心語：「姊妹！我欲食麨。」
+He saw a woman squatting on the ground grinding flour, her clothes not covering her body properly. The monk, upon seeing her, developed a desire and said, "Sister! I wish to eat the flour."
+
+女人即與麨。
+The woman immediately gave him the flour.
+
+比丘心生疑悔，往問長老比丘。
+The monk, feeling doubt and regret, went to ask the elder monks.
+
+長老比丘言：「汝以何心？」
+The elder monks asked, "With what mind did you do this?"
+
+答言：「欲心。」
+He replied, "With a desirous mind."
+
+即遣使問彼女人，女人答言：「我蹲地磨麨，比丘乞麨，我便與之。」
+They sent someone to ask the woman, who replied, "I was squatting on the ground grinding flour, and the monk begged for flour, so I gave it to him."
+
+使還答如上。
+The messenger returned with the answer as above.
+
+長老比丘言：「解義不解味，偷蘭遮。
+The elder monks said, "Understanding the meaning but not the taste is a minor offense."
+
+乃至不解義不解味，得越毘尼罪。」
+Even to the point of not understanding the meaning or the taste is a transgression against the Vinaya."
+
+如是毘尼竟，是名磨麨。
+Thus the Vinaya ends here, and this is called the story of grinding flour.
+
+
+
+犢子者，跋祇國有人去精舍不遠放犢子，
+
+There was a calf, someone from the country of Vṛji released the calf not far from the monastery,
+
+犢子來入精舍，踐食華果觝突形像。
+
+The calf came into the monastery, trampled and ate flowers and fruits, and knocked into statues.
+
+知事人語放犢人：「好看汝犢，莫令縱暴。」
+
+The person in charge told the calf owner, "Watch your calf, don't let it run wild."
+
+如是再三語，猶故不止。
+
+Even after being told this three times, he still did not stop.
+
+知事人瞋，牽犢子著房中，反閉戶入聚落乞食。
+
+The person in charge got angry and locked the calf in a room before going to the village to beg for food.
+
+在道中作是念：「房中多有夜叉，不能殺是犢耶？」
+
+On the way, he thought, "Are there not many demons in the room that could kill the calf?"
+
+即還精舍，開戶見犢已死，比丘怖畏，
+
+He returned to the monastery, opened the door, and saw the calf was dead. The monk was frightened,
+
+即持著眾僧廁中，便捨而去。
+
+He took it to the monks' toilet, then left it and went away.
+
+放犢人來問：「阿闍梨見我犢不？」
+
+The calf owner came and asked, "Master, have you seen my calf?"
+
+答言：「不見。」
+
+The monk replied, "I haven't seen it."
+
+比丘心生疑悔，問諸比丘，諸比丘不能決，往問長老。
+
+The monk felt doubt and regret and asked other monks, but they couldn't decide, so they went to ask the elder.
+
+長老言：「牽犢入房反閉戶，得越毘尼罪。
+
+The elder said, "Locking the calf in a room violates a Vinaya rule.
+
+持著僧廁中，得偷蘭遮。
+
+Taking it to the monks' toilet incurs a wrongdoing.
+
+見言不見，波夜提。」
+
+Saying you haven't seen it when you have is a false speech offense."
+
+如是毘尼竟，是名放犢。
+
+Thus concludes the Vinaya issue, and this is called 'The Released Calf.'
+
+
+
+尸耆利大邑，時有摩訶羅端正捨婦出家，其婦逐來在房外紡績。
+
+In the city of Kashi, there was a handsome monk named Mahara who had left his wife to become a monk, but his wife followed him and spun yarn outside his dwelling.
+
+摩訶羅語言：「汝去！我出家人不須汝。」
+
+Mahara said, "Go away! As a monk, I do not need you."
+
+答言：「尊者！我在此作有何妨事？為欲時時見尊者，不能相離耳。」
+
+She responded, "Venerable one! How does my being here trouble you? I only wish to see you frequently; I cannot bear to be apart from you."
+
+摩訶羅以是數數語，猶故不去，即持衣鉢棄捨而去。
+
+Mahara repeatedly told her to leave, but she still would not go, so he cast his robe and bowl aside and left.
+
+有女人見已語言：「汝本二已去。」
+
+A woman who saw this said, "You had already left twice."
+
+聞已即逐。及已，便捉衣當前而立，作是言：「阿闍梨為我故莫去，我當供給衣鉢、病瘦醫藥。」
+
+Upon hearing this, the wife chased after him, held his robe in front of him, and said, "Master, do not leave because of me. I will supply you with robes, bowls, and medicine for sickness."
+
+摩訶羅言：「我出家人，法不應爾。」
+
+Mahara said, "As a monk, such offerings are not appropriate."
+
+如是猶故不放，摩訶羅心生瞋恚，舉衣鉢著一處熟打而去。
+
+She still would not let go, and Mahara, angered, threw his robe and bowl aside and departed hastily.
+
+摩訶羅心生疑悔，具以上事問持律比丘耶舍，耶舍言：「瞋打婦人者，得波羅夷。」
+
+Feeling doubtful and regretful, Mahara reported the incident to the monk Yesha, who said, "To beat a woman in anger is a Parajika offense."
+
+諸比丘言：「此非好斷。汝欲決疑者，可往枝提山中問持律尊者樹提陀娑，必能決了。」
+
+The other monks said, "This is not a proper judgment. If you wish to resolve your doubt, go to Jeta's mountain and ask the Vinaya master, Sthavira Sthitidasa; he will surely resolve it."
+
+聞已即去，路經俱睒彌道逢一賣酪女，女見摩訶羅端正，便生欲心語：「沙門共行欲來。」
+
+Upon hearing this, Mahara went and, on the way through the Kushami path, encountered a cheese-selling woman, who, seeing Mahara's handsome appearance, lustfully suggested, "Monk, let's engage in desire."
+
+摩訶羅作是念：「我已犯波羅夷，復何在？」便共行欲。
+
+Mahara thought, "I have already committed a Parajika; what does it matter now?" and engaged in illicit conduct with her.
+
+前至持律所，具白上事。
+
+He then proceeded to the Vinaya master's place and reported the incident in full.
+
+持律言：「云何耶舍制五波羅夷法？瞋打婦人，得偷蘭遮。共賣酪女行婬，得波羅夷。」
+
+The Vinaya master said, "How did Yesha establish the five Parajika rules? To hit a woman in anger incurs a Stula offense. To have intercourse with the cheese-selling woman incurs a Parajika."
+
+如是毘尼竟，是名捨婦。
+
+Thus concludes the Vinaya; this is known as the renouncing of the wife.
+
+
+隔壁者，弗迦羅國有比丘，比丘尼精舍隔壁住。
+Next door, there lived a monk in the country of Víkala, next to the nunnery.
+
+時比丘起欲心，通夜共比丘尼隔壁語。
+At that time, the monk developed a desire and spoke throughout the night with the nun through the wall.
+
+比丘心生疑悔，往問長老比丘。
+The monk, feeling doubt and regret, went to ask the elder monk.
+
+長老比丘言：「汝有何心語？」
+The elder monk said, "What were your intentions in speaking?"
+
+答言：「欲心。」
+He replied, "Desire."
+
+「如是欲心，語語得越毘尼罪。」
+"With such desirous intent, through speaking, you have transgressed the Vinaya rules."
+
+如是毘尼竟，是名隔壁。
+Thus fulfilling the Vinaya, it is called being next door.
+
+
+
+
+布薩者，弗迦羅聚落比丘，共阿練若比丘共一布薩。
+Pусā means the monks of the Vaggala village hold Uposatha together with the forest-dwelling monks.
+
+時阿練若住處比丘名弗絺虜，有大德名稱，聚落中比丘見得利養起嫉妬心。
+At that time, the forest-dwelling monk named Vāgīsa had a great reputation, and the local monks developed envy upon seeing his gain and support.
+
+時長老弗絺虜至十四日布薩，來入聚落，語聚落中比丘：「長老！共作布薩來。」
+When Elder Vāgīsa came to the village on the fourteenth day for the Uposatha, he said to the village monks, "Elders! Come to observe Uposatha together."
+
+答言：「我十五日當布薩。」
+They replied, "We will observe Uposatha on the fifteenth day."
+
+弗絺虜言：「我知日數，今應十四日布薩。」
+Vāgīsa said, "I know the dates; today it should be on the fourteenth."
+
+答言：「我不作，十五日當布薩。」
+They replied, "We will not do it. We will observe on the fifteenth day."
+
+如是至三不從，弗絺虜便去。
+After being refused three times, Vāgīsa left.
+
+去已，聚落中比丘即布薩。
+After he left, the village monks then held Uposatha.
+
+明日弗絺虜復來：「長老共作布薩來。」
+The next day, Vāgīsa returned and said, "Elders! Come to observe Uposatha together."
+
+答言：「已布薩竟。」
+They replied, "We have already observed Uposatha."
+
+聚落比丘言：「汝叛布薩，我不復與汝共法食味食。」
+The village monks said, "You have abandoned Uposatha. We will not share any food with you."
+
+時弗絺虜，十四日便十四日來、十五日便十五日來，如是二十年中初不得布薩。
+During that time, Vāgīsa would come on the fourteenth and fifteenth days and for twenty years never once took part in Uposatha.
+
+時有善鬼神敬重弗絺虜，往至枝提山中尊者樹提陀娑所作是言：
+There was a benevolent spirit who respected Vāgīsa and went to Mount Cetīya to tell the Venerable Suppatissa:
+
+「尊者！不善不隨順。尊者！在世聚落中比丘作如是非法，常惱亂弗絺虜。」
+"Venerable! This is not good nor proper. The village monks are acting improperly and always trouble Vāgīsa."
+
+唯願尊者，自往料理。」
+Please, Venerable, personally come and resolve this."
+
+尊者樹提聞已即來，便作是念：「我若先至阿練若處，
+The Venerable Suppatissa, upon hearing this, came immediately, thinking, "If I go first to the forest dwelling,
+
+聚落中比丘凶惡，聞者不共我法食味食。」」
+the village monks, being malicious, will not share food with the one who came with me."
+
+作是念已，即到聚落中比丘所。
+With this thought, he went directly to the village monks.
+
+時善鬼神語尊者弗絺虜：「尊者樹提陀娑，今在聚落，可往問訊。」
+The benevolent spirit told Vāgīsa, "The Venerable Suppatissa is now in the village, you can go to pay respects."
+
+聞已即往共相問訊，問訊已在一面坐。
+Upon hearing this, he went to pay respects and then sat down at one side.
+
+樹提陀娑即問言：「汝是弗絺虜耶？」
+Suppatissa then asked, "Are you Vāgīsa?"
+
+答言：「爾。」
+He answered, "Yes."
+
+「慧命！汝叛布薩耶？」
+"The wise one! Have you abandoned Uposatha?"
+
+答言：「叛布薩不叛布薩，今當知。
+He answered, "Regarding abandoning or not abandoning Uposatha, know this now.
+
+我二十年已來，十四日布薩十四日來，十五日布薩十五日來，
+For the past twenty years, I have come on the fourteenth for Uposatha on the fourteenth day, and came on the fifteenth for Uposatha on the fifteenth day,
+
+如是叛布薩不？叛布薩耶？尊者自知。」
+is this abandoning Uposatha or not? The Venerable knows on their own."
+
+答言：「慧命！是順佛法。
+He answered, "Wise one! This is in accordance with the Buddha's Dharma.
+
+但聚落中比丘不隨順，
+But the village monks are not following properly,
+
+二十年中受具足不名受具足，羯磨不名羯磨。」
+In twenty years, the rituals and procedures have not been properly carried out or named."
+
+如是毘尼竟，是名布薩。
+Thus the Vinaya concludes, and this is called Uposatha.
+
+
+
+
+二漿者，爾時優闍尼國有人犯王法，截手脚已持著尸陀林中，近阿練若比丘處。
+During that time, in the kingdom of Ujjayanī, there was a person who violated the king's law, and after having their hands and feet cut off, they were taken to the cemetery near the forest-dwelling monks.
+
+宛轉來至比丘所言：「阿闍梨！我甚飢苦，乞我少食。」
+The person twisted and turned, coming to the monk and said: "Acharya! I am very hungry and suffering, please give me a little food."
+
+答言：「無食。」
+The monk replied, "There is no food."
+
+復言：「阿闍梨！憐愍我。我有二種苦痛：一、截手脚苦；二、飢苦。」
+The person said again, "Acharya! Have mercy on me. I am suffering two kinds of pain: one from having my hands and feet cut off, and two from hunger."
+
+答言：「無食，正有蘇毘羅漿，須不？」
+The monk replied, "There is no food, but there is Surabara milk, do you want it?"
+
+答言：「須。」
+The person replied, "I want it."
+
+即與漿。不得食久，飲已便死。
+The monk then gave the milk. Having not eaten for a long time, the person drank it and immediately died.
+
+比丘心生疑悔，問諸比丘，不能得了，往問長老比丘。
+The monk felt doubt and regret, asked the other monks, but couldn't resolve it, so went to ask the elder monks.
+
+長老比丘言：「汝以何心與？」
+The elder monk said, "With what intention did you give it?"
+
+答言：「饒益心。」
+The monk replied, "With an intention to benefit."
+
+「饒益心無罪。」
+"An intention to benefit is not a sin."
+
+如是毘尼竟。
+Thus, the Vinaya concludes.
+
+
+
+
+國，有人犯王法，截手脚已持著尸陀林中，近阿練若比丘住處。  
+Furthermore, in the kingdom of Uddiyana, there was a person who violated the king's law, and after having their hands and feet cut off, they were thrown into a cemetery near where a monk lived in seclusion.  
+
+時有摩訶羅出家，次守房舍，無手脚人宛轉來至其所，作是言：「阿闍梨！我甚苦痛不可堪忍，頗有少藥施我，我欲疾死。」  
+At that time, there was a monk named Maha La, who was guarding the dwelling. The person without hands and feet painfully rolled over to him and said, "Teacher! I am in great pain that is unbearable, do you have any medicine for me? I wish to die quickly."  
+
+答言：「我非旃陀羅殺人賊，云何從我索藥？」  
+He replied, "I am not a Chandala or a murderous thief, how can you ask me for medicine?"  
+
+「不爾，阿闍梨！我苦痛難忍。」  
+"No, Teacher! My pain is difficult to bear."  
+
+時摩訶羅起慈心，作是念：「曾有如是比丘飲蘇毘羅漿便死。」  
+At that time, Maha La felt compassion and thought, "There was once a monk who drank Suvira juice and died."  
+
+即語言：「汝欲飲蘇毘羅漿不？」  
+He then said, "Do you want to drink Suvira juice?"  
+
+答言：「欲飲。」即與漿飲，飲已便死。  
+The person replied, "I want to drink." So he gave them the juice to drink, and after drinking it, they died.  
+
+摩訶羅心生疑悔，往問長老比丘。  
+Maha La felt doubt and remorse in his heart, so he went to ask the elder monk.  
+
+長老比丘言：「汝以何心與？」  
+The elder monk asked, "With what intention did you give it?"  
+
+答言：「慈心遂彼意。」  
+He replied, "I intended to fulfill their wish with compassion."  
+
+長老比丘言：「汝雖有慈心，無有智慧，斷他命根，得波羅夷。」  
+The elder monk said, "Although you have compassion, you lack wisdom; you ended their life and have thus committed a grave offense."  
+
+如是毘尼竟，是名二漿。  
+Thus concludes the discipline, which is known as the "Two Juices."  
+
+
+
+甎者，舍衛城祇桓精舍，時比丘作房舍，園民授甎。
+In the Jetavana monastery in the city of Shravasti, monks were constructing a dwelling, and the garden worker handed over tiles.
+
+比丘取捉不堅故，落園民頭上破，即便死。
+A monk, not holding firmly, dropped a tile on the garden worker's head, causing it to break, resulting in his immediate death.
+
+比丘心生疑悔，往問長老比丘。
+The monk, filled with doubt and regret, went to ask the elder monk.
+
+長老比丘言：「汝以何心落甎？」
+The elder monk asked, "With what intention did you drop the tile?"
+
+答言：「捉不堅故。」
+He replied, "Because I did not hold it firmly."
+
+長老比丘言：「應堅捉。」
+The elder monk said, "You should hold it firmly."
+
+如是毘尼竟，是名甎。
+Thus the Vinaya was concluded, and it is called 'tile.'
+
+
+
+糞者，舍衛城祇桓精舍，五日一掃除糞穢。
+The refuse at Jetavana monastery in Śrāvastī City is cleaned every five days.
+
+時有年少比丘，持糞擲牆外，有病摩訶羅出家，在牆下大小行，糞來鎮上，未能得起，後糞續至，如是便死。
+Once, a young monk threw refuse over the wall. A sick monk named Mahara was sitting below the wall, and the refuse fell on him. Unable to get up as more refuse continued to pile on, he eventually died.
+
+當牆比丘以糞聚高，恐盜賊登入，即便除却，見死比丘。
+The wall monk removed the pile of refuse, fearing thieves might climb it, and discovered the dead monk.
+
+心生疑悔，往問長老比丘。
+He felt guilt and doubt and went to ask the senior monk.
+
+長老比丘言：「汝以何心除糞？」
+The senior monk asked, "With what intention did you throw the refuse?"
+
+答言：「不看。」
+He replied, "Without thinking."
+
+長老比丘言：「若不看擲糞者，得越毘尼罪。」
+The senior monk said, "If you threw the refuse without thinking, you have committed an offense against the Vinaya."
+
+如是毘尼竟，是名糞。
+Thus the case was concluded according to the Vinaya. This is known as "refuse."
+
+
+
+，佛般泥洹後，諸比丘在迦維羅衛國釋氏精舍住。
+
+After the Buddha's parinirvana, the monks resided at the Shakya monastery in the Kapilavastu country.
+
+時有比丘著入聚落衣，持鉢入城次行乞食。
+
+At that time, a monk put on his robe for entering villages, took his alms bowl, and went into the city to beg for food.
+
+時有釋種女端正，澡浴訖著新淨衣，持食施比丘，施已頭面禮足。
+
+A beautiful woman of the Shakya clan, after bathing, put on new clean clothes and offered food to the monk, then bowed her head to his feet.
+
+比丘見已欲心起，不能自制，失不淨落女頭上。
+
+The monk, upon seeing her, felt desire arise in his heart and, unable to control himself, let impurity fall on her head.
+
+女無嫌心，即持衣拭已作是言：「阿闍梨！大得善利，有如是欲心，能於世尊法中修梵行。」
+
+The woman, without any displeasure, wiped it off with her clothes and said, "Venerable sir! It is fortunate to have such desire and still be able to practice the pure life according to the Buddha's teachings."
+
+時比丘心生疑悔，往問長老比丘。
+
+The monk, feeling doubt and remorse, went to ask an elder monk.
+
+長老比丘言：「汝以何心？」
+
+The elder monk asked, "What was your intention?"
+
+答言：「我見前相心不能制。」
+
+He replied, "I couldn't control my mind upon seeing the form before me."
+
+長老比丘言：「應善觀相制伏其心。」
+
+The elder monk said, "You should carefully contemplate the forms and restrain your mind."
+
+如是毘尼竟，是名乞食。
+
+Thus ends the Vinaya teaching, known as "Begging for Food."
+
+
+般泥洹後，長老比丘在迦維羅衛尼俱律樹釋氏精舍。
+
+Uchadhara, after Buddha's parinirvana, the elder monks were at the Shakya monastery in Kapilavastu's Nigrodha park.
+
+爾時尊者欝詶，與一釋種知舊。
+
+At that time, Venerable Uchadhara was acquainted with a Shakyan friend.
+
+時釋種病，有二兒各異母：一兒是釋家女，一兒是異姓女。
+
+When the Shakyan was ill, he had two daughters from different mothers: one was a Shakya daughter, and the other was of different descent.
+
+釋種垂終時，囑尊者欝詶：「阿闍梨！我無常後，是二兒中有愛樂佛法得阿闍梨心者，示是地中藏。」
+
+As the Shakyan was near death, he entrusted Venerable Uchadhara, "Acharya! After my impermanence, among these two daughters, the one who loves and delights in the Dharma and gains the acharya's favor, show her the buried treasure."
+
+命終後，釋女兒與惡友相逐，不樂佛法、不來受經、不樂誦讀。
+
+After his passing, the Shakya daughter associated with bad company, did not delight in the Dharma, did not attend teachings, nor enjoyed reading scriptures.
+
+時異姓女兒與善友相逐，愛樂佛法，來到欝詶所受誦經戒，得長老心，即語：「汝父亡時囑我，兒中有樂法者，可示此藏。」
+
+The daughter of different descent associated with good company, loved the Dharma, came to Uchadhara to receive teachings, gained the elder's favor, and was then told, "Your father, upon his death, instructed me to show the treasure to the daughter who delights in the teachings."
+
+即示處，大得金銀珍寶，家道富樂。
+
+She was shown the place, to find great gold, silver, and precious treasures, and her household became prosperous and joyful.
+
+釋女兒聞已即白尊者阿難：「阿闍梨！此非善非隨順。
+
+The Shakya daughter, upon hearing this, complained to Venerable Ananda, "Acharya! This is neither good nor proper.
+
+尊者欝詶，持我父財與異姓母兒。
+
+Venerable Uchadhara gave my father's wealth to the daughter of a different mother.
+
+我釋家法，釋家女兒應繼父業，所有財物皆應屬我。」
+
+According to Shakya custom, the Shakya daughter should inherit, and all wealth should belong to me."
+
+阿難言：「是非法分處，我不共法食味食。」
+
+Ananda said, "This is not a matter of legal division; I do not partake of the meal that abides by improper Dharma."
+
+時羅睺羅來到欝詶所，二人同和上，即語羅睺羅言：「莫與尊者阿難同法食味食。」
+
+When Rahula came to Uchadhara, they shared the same superior. He told Rahula, "Do not share the same Dharma meal with Venerable Ananda."
+
+問言：「何故？」具說上因緣。
+
+Rahula asked, "Why?" Uchadhara explained the previous incident.
+
+「我無事，阿難不共我法食味食，羅睺羅我共汝法食味食。」
+
+"I have no issue; Ananda does not share Dharma-meal with me. Rahula, I share with you."
+
+阿難聞羅睺羅與欝詶共法食味食。
+
+Ananda heard that Rahula and Uchadhara shared a Dharma meal.
+
+時阿難亦不共羅睺羅法食味食。
+
+Then Ananda, too, did not share a Dharma meal with Rahula.
+
+時有人送食與尊者阿難。阿難語：「與世尊子羅睺羅去。」
+
+Someone brought food for Venerable Ananda. Ananda said, "Take it to Rahula, the son of the Blessed One."
+
+如是有送食與尊者羅睺羅者，羅睺羅言：「持與世尊侍者去。」
+
+Similarly, when food was brought to Venerable Rahula, he said, "Take it to the Blessed One's attendant."
+
+如是迦維羅衛國七年中不作布薩自恣。
+
+Thus, for seven years in Kapilavastu, they did not hold a Uposatha ceremony or confession.
+
+尊者優波離在支提山中住，時釋種子往至尊者優波離所，作如是言：「阿闍梨！
+
+Venerable Upali was residing in Mount Cetiya. A Shakyan disciple approached him saying, "Acharya!
+
+我不善不隨順。阿闍梨在世，迦維羅衛是世尊生地，云何七年中不作布薩自恣？
+
+I am not good and not proper. Acharya, while you are in the world, in Kapilavastu, the birthplace of the Blessed One, how can there be no Uposatha ceremony for seven years?
+
+唯願尊者往和合。」
+
+We humbly ask the Venerable to bring unity."
+
+優波離即來，教諸釋種，嚴飾大堂敷好坐具散華燒香，為飯客比丘，并請尊者阿難。
+
+Upali came, teaching the Shakyans to adorn the great hall, spread fine seating, scatter flowers, burn incense, host the visiting monks, and invite Venerable Ananda.
+
+先喚羅睺羅安一屏處，抱一小兒放坐中地，尊者阿難坐已，見地小兒，若言：「取。」者，應語：「不取。
+
+First, they placed Rahula in a screened area, holding a small child placed in the center. Venerable Ananda sat, saw the child on the ground, and if he said "Take," it was replied, "Do not take.
+
+願尊者與羅睺羅和合者我當取。」
+
+If Venerable wishes to reconcile with Rahula, only then will I take it."
+
+如是教已，尊者優波離坐已，次尊者阿難坐，諸比丘次第坐訖，時釋家女抱孩兒，手捉生酥而𡂡，放坐中地，兒便啼喚。
+
+After instructing this, Venerable Upali sat, then Venerable Ananda sat, and all other monks followed in order. Then, a Shakya daughter held a child, manipulated some fresh butter in her hand, and placed it on the ground, causing the child to cry out.
+
+阿難見已愛念心生，語言：「取此小兒。」
+
+Seeing this, Ananda's heart filled with compassion, and he said, "Pick up this child."
+
+答言：「不取。若尊者與羅睺羅和合者當取，不和合者不取。」
+
+The response was, "Do not pick. If Venerable reconciles with Rahula, then pick, but not otherwise."
+
+阿難言：「此沙門法，非汝俗人事，但抱小兒。」答言：「不爾。」
+
+Ananda said, "This is a monastic affair, not your lay concern. Just hold the child." The answer was, "No."
+
+如是至三。阿難言：「喚羅睺羅來。」
+
+This happened three times. Ananda said, "Call Rahula."
+
+來已，尊者優波離語阿難言：「如阿難有檀越如是如是囑長老：『我命終之後，長老如是與。』有何過失？
+
+When Rahula arrived, Venerable Upali said to Ananda, "Suppose Ananda had a benefactor who instructed the elder in such a manner: 'After my passing, the elder should give like this.' What is the fault in this?
+
+尊者欝詶亦復如是。
+
+And so did Venerable Uchadhara.
+
+阿難云何以是事與世尊子羅睺羅而不和合？」
+
+How can Ananda separate over such an affair with Rahula, the son of the Blessed One?"
+
+如是毘尼竟，是名欝詶，是名毘尼法。
+
+Thus ends the Vinaya story, known as Uchadhara, known as the Vinaya rule.
+
+
+障礙不障礙法者，佛住舍衛城，廣說如上。
+Obstruction and non-obstruction teachings: The Buddha resided in Shravasti city and expounded extensively as above.
+
+爾時尊者難陀、優波難陀，遊行諸國還祇桓精舍，著入聚落衣入舍衛城，至喜悅優婆夷家。
+At that time, Venerables Nanda and Upananda, traveled through various countries, returned to Jivaka Vihara, donned village-entry robes, entered Shravasti, and arrived at the house of the delighted laywoman.
+
+優婆夷見已言：「善來阿闍梨，何乃希現？」即請令坐，頭面禮足却住一面，共相問訊已，比丘言：「優婆夷！我希行，與我作何等好飲食？」
+The laywoman saw them and said, "Welcome, teachers, why are you seldom seen?" She invited them to sit, bowed to their feet, stood aside, and after mutual greetings, the monk said, "Laywoman, as I am seldom present, what good food would you prepare for me?"
+
+優婆夷答言：「從阿闍梨教，前食、後食、若餅、若肉，隨所須當辦。」
+The laywoman replied, "As per the teacher's instruction, whether it is pre-meal, post-meal, cakes, or meat, I will prepare as needed."
+
+即請言：「尊者明日受我食，願時早來。」即便受請。
+She then invited them, saying, "Venerable, may you accept my meal tomorrow and come early." They accepted the invitation.
+
+其家明日作種種飲食，敷座而待。時比丘多事因緣忘不來赴。
+The next day, her family prepared various meals, set up seats, and waited. At that time, the monks were occupied with many tasks and forgot to attend.
+
+日時已過，食可停者留，不可停者便取食之。
+The time passed, and they kept the food that could be stored and consumed what couldn't be kept anymore.
+
+如是二日三日待不來已，便取盡食。至第四日方來，優婆夷見已心不悅，作是言：「阿闍梨！云何受我請而不來？」
+For two or three days, they waited, and when they did not come, they consumed all the food. On the fourth day, when they finally came, the laywoman was displeased and said, "Teacher! How come you accepted my invitation and did not come?"
+
+諸比丘聞已，以是因緣具白世尊。
+Upon hearing this, the monks reported the matter and related circumstances to the Blessed One.
+
+佛言：「喚難陀、優波難陀來。」來已，佛言：「是喜悅優婆夷，於佛比丘僧都無愛惜，何故於中嬈亂？汝云何一向受請不開障礙因緣。」
+The Buddha said, "Call Nanda and Upananda." When they came, the Buddha said, "This is the delighted laywoman, who has no reservation towards the Buddha and monks, why disturb her mind? How can you accept invitations without opening up the context of potential obstacles?"
+
+障礙因緣法者，若有人言：「尊者明日受我請前食。」
+The rules regarding obstruction opportunities state that if someone says, "Venerable, please accept my invitation for the meal tomorrow morning."
+
+若須者應言：「爾。」彼復言：「尊者！必當來。」應言：「中間無障礙當來。」
+If needed, you should reply, "Yes." If they further say, "Venerable, you must come," you should say, "I will come if there are no obstacles in between."
+
+如是後食、一切請亦如是。
+This applies to post-meal or any other kind of invitation as well.
+
+若比丘安居竟去，時檀越言：「尊者！後更來。」
+If a monk wishes to leave after the retreat, and the patron says, "Venerable! Please come again later."
+
+若欲來者答言：「爾。」檀越復言：「尊者！其必當來。」應語：「若中間無障礙當來。」
+If you intend to come, reply, "Yes." If the patron further says, "Venerable, you must come," you should respond, "If there are no obstacles in between, I will come."
+
+若言：「阿闍梨！禮塔。」不得語言：「中間無障礙。」應語：「當禮。」
+If they say, "Teacher, pay homage to the stupa," you should not say, "If there is no obstruction," but rather, "I will pay homage."
+
+若言：「尊者為我禮塔。」應語言：「若憶當禮。」
+If asked, "Venerable, pay homage to the stupa for me," you should reply, "If I remember, I shall pay homage."
+
+若言：「尊者！禮長老比丘。」不得言：「無障礙。」應語：「當禮。」
+If they say, "Venerable, pay respects to the elder monk," you should not say, "No obstacles," but rather, "I will pay respects."
+
+若言：「尊者為我禮長老比丘。」應語：「若憶當禮。」
+If they say, "Venerable, pay respects to the elder monk for me," you should say, "If I remember, I shall pay respects."
+
+若言：「尊者受經、誦經、持戒、坐禪。」不得語：「中間無障礙當受誦經。」應語：「我為是故出家。」
+If they say, "Venerable, accept scriptures, recite scriptures, observe precepts, sit in meditation," you should not say, "If there is no obstruction, I shall accept and recite," but instead, "I renounced for this purpose."
+
+若言：「學須陀洹、斯陀含、阿那含、阿羅漢果。」不得語：「中間無障礙當學。」應語：「我為是故出家。」
+If they say, "Study the fruits of Stream-entry, Once-return, Non-return, Arahantship," you should not say, "If there is no obstruction, I shall study," but instead, "I renounced for this purpose."
+
+是中應作障礙而不作，不應作而作，俱越毘尼罪。
+In these situations, failing to create necessary obstruction or creating unnecessary ones both constitute a transgression of the Vinaya.
+
+是名障礙不障礙法。
+This is known as the law of obstruction and non-obstruction.
+
+
+
+
+比丘尼法者，佛住迦維羅衛國釋氏精舍。
+The rules for nuns were established when the Buddha resided in the Shakya monastery in Kapilavastu.
+
+爾時大愛道瞿曇彌，與五百釋女求佛出家，如線經中廣說，乃至佛告諸比丘尼：
+At that time, Mahaprajapati Gotami, along with five hundred Shakya women, sought ordination from the Buddha, as extensively explained in the Line Sutra, until the Buddha told the nuns:
+
+「從今日大愛道瞿曇彌比丘尼僧上坐，如是持。」
+"From today, Mahaprajapati Gotami is to sit at the head of the nuns' assembly, and this rule shall be upheld."
+
+爾時大愛道瞿曇彌白佛言：「世尊！為比丘尼制八敬法，我等得廣聞不？」
+At that time, Mahaprajapati Gotami addressed the Buddha: "World Honored One! You have established eight respectful rules for the nuns; can we hear them in detail?"
+
+佛言：「得八敬法者，比丘尼雖滿百臘，應向新受戒比丘起迎恭敬作禮。
+The Buddha said: "In receiving the eight respectful rules, even if a nun has completed a hundred rains retreats, she should greet and show respect to a recently ordained monk.
+
+不得言：『待我百臘然後向新受戒比丘作禮。』
+She must not say, 'I will wait until I have completed a hundred rains retreats before showing respect to a newly ordained monk.'
+
+一切比丘尼應向長老、中間、年少比丘起迎恭敬作禮。
+All nuns should rise to greet and show respect to elder, intermediate, and junior monks.
+
+若比丘尼至比丘精舍時，應頭面一一禮一切比丘足。
+If a nun arrives at the monks' monastery, she should pay respects to each monk individually by bowing at their feet.
+
+若老病不能者，隨力多少禮，餘不遍者得總禮，應言：『我比丘尼某甲，頭面禮一切僧足。』
+If due to old age or illness she is unable to do so, she should pay general respects according to her capacity, stating: 'I, Nun [name], bow at the feet of all monks.'
+
+若比丘至比丘尼精舍時，一切比丘尼應起迎禮足，亦如上說。
+When a monk arrives at the nuns' monastery, all nuns should rise to greet and bow at his feet, as previously stated.
+
+若比丘尼作是分別，是犯戒、是醫師、是摩訶羅無所知，憍慢不恭敬起迎作禮者，越敬法。」
+If a nun discriminates, saying this one is a precept violator, a physician, or someone with no Mahā knowledge, and out of pride fails to rise respectfully to greet and bow, she violates the respectful rule."
+
+(第一敬法竟)
+(End of the first respectful rule.)
+
+
+
+
+二年學者，滿十八歲女欲於如來法律中受具足者，和上尼應供給所須與，白僧料理。
+A two-year student, when an eighteen-year-old woman wants to receive full ordination according to the Tathagata's law, her mentor should provide the necessary items and inform the assembly.
+
+尼眾中能作羯磨人，應作是說：「阿梨耶僧聽！十八歲女某甲，欲於如來法律中受具足。
+Among the nuns, a capable karma master should say: "Venerable Sangha, listen! A woman named X, aged eighteen, wishes to receive full ordination according to the Tathagata's law.
+
+若僧時到，僧某甲欲從僧乞二歲學戒。
+If the time is ripe for the sangha, the woman named X wants to ask for a two-year study precept from the sangha.
+
+諸阿梨耶聽，某甲欲從僧乞二歲學戒，僧忍默然故，是事如是持。」
+Venerable ones, listen, a woman named X wishes to ask for a two-year study precept from the sangha, if the sangha consents in silence, then it is thus held."
+
+此女人入僧中，應一一頭面禮僧足，禮僧足已䠒跪合掌，教作如是言：
+This woman should enter the sangha, making salutations at each member's feet, after saluting, kneel with joined palms, and recite the following words:
+
+「阿梨耶僧憶念！我滿十八歲女某甲，欲於如來法律中受具足。
+"Venerable Sangha, remember! I am a woman named X, eighteen years old, wishing to receive full ordination according to the Tathagata's law.
+
+我今從僧乞二歲學戒，唯願阿梨耶僧憐愍故，與我二歲學戒。」如是三說。
+I now request a two-year study precept from the sangha, may the venerable sangha compassionately grant me this precept." Thus, she says three times.
+
+尼羯磨師應作是說：「阿梨耶僧聽！某甲女年滿十八，已從僧乞二歲學戒。
+The karma master among the nuns should say: "Venerable Sangha, listen! A woman named X, aged eighteen, has requested a two-year study precept from the sangha.
+
+若僧時到，僧與某甲二歲學戒。白如是。」
+If the time is ripe for the sangha, the sangha grants a two-year study precept to X. Thus, it is declared."
+
+「阿梨耶僧聽！某甲女年滿十八，已從僧乞二歲學戒。僧今與某甲二歲學戒。
+"Venerable Sangha, listen! A woman named X, aged eighteen, has requested a two-year study precept from the sangha. The sangha now grants X a two-year study precept.
+
+阿梨耶僧忍與某甲二歲學戒，和上尼某甲者默然，若不忍便說。
+If the venerable sangha consents in silence to grant X a two-year study precept, and if the mentor nun is silent, speak if you have any objections.
+
+第一羯磨竟。」第二、第三亦如是說。
+The first karma is completed." The second and third are said similarly.
+
+「僧已與某甲二歲學戒竟，僧忍默然故，是事如是持。」
+"The sangha has granted X a two-year study precept, as the sangha consents in silence, thus it is held."
+
+
+
+得二歲學戒已，應隨順行十八事。  
+After the probationer has learned the precepts for two years, she should comply with the eighteen rules.
+
+何等十八？  
+What are these eighteen?
+
+一切大比丘尼下、一切沙彌尼上；  
+All major nuns are below, and all novices are above;
+
+於式叉摩尼不淨、於大尼淨，於大尼不淨、於式叉摩尼亦不淨；  
+The probationer is impure if she is among the probationers, pure if among the major nuns; impure among major nuns, and also impure among probationers;
+
+大尼得與式叉摩尼三宿、式叉摩尼得與沙彌尼三宿；  
+A major nun may stay with a probationer for three nights, and a probationer may stay with a novice for three nights;
+
+式叉摩尼得與大尼授食，除火淨、五生種、取金銀及錢；  
+A probationer may offer food to a major nun, except for cooked foods, the five crops, and money or silver and gold;
+
+自從沙彌尼受食；  
+She may receive food from a novice;
+
+尼不得向說波羅夷乃至越毘尼罪，得語不婬不盜不殺不妄語如是等。  
+A nun should not discuss parajika offenses up to Vinaya offenses, but may talk about non-sexual misconduct, non-stealing, non-killing, and non-lying, etc.
+
+式叉摩尼至布薩自恣日入僧中，䠒跪合掌作如是言：「阿梨耶僧！我某甲清淨，僧憶念持。」  
+On the Uposatha and Pravāraṇa days, a probationer enters the assembly, kneels, joins her palms, and says: "Noble Saṅgha! I, so-and-so, am pure, the Saṅgha should recall this."
+
+如是三說而去。  
+She states this three times and then leaves.
+
+後四波羅夷犯者，更從始學；  
+If she later commits any of the four parajika offenses, she must start learning anew;
+
+十九僧伽婆尸沙已下，若一一犯，隨所犯作突吉羅悔；  
+For the nineteen saṅghādisesa offenses and below, for each violation, she should repent according to the offense;
+
+若破五戒，隨犯日數更學。  
+If she breaks the five precepts, she must learn again for the number of days she violated.
+
+何等五？非時食、停食食、捉錢金銀、飲酒、著華香。  
+What are the five? Eating at the wrong time, missing meals, handling money or gold and silver, drinking alcohol, and wearing flowers or perfume.
+
+是名十八事。  
+These are called the eighteen matters
+
+
+是式叉摩尼二歲學戒滿已，欲於如來法律中受具足者，和上尼應白僧乞畜弟子羯磨。
+A śikṣamāṇā, after completing two years of study in the precepts, who wishes to be ordained fully in the Buddha’s law, should have her preceptor nun request from the assembly to perform the motion for ordaining her as a disciple.
+
+尼羯磨師應作是說：「阿梨耶僧聽！某甲式叉摩尼二歲學戒、滿二十，欲於如來法律中受具足。
+The nun who leads the motion should say: "Honored assembly, please listen! A certain śikṣamāṇā, having observed the precepts for two years and reached twenty years of age, wishes to receive full ordination in the Buddha's law.
+
+若僧時到，僧和上尼某甲欲從僧乞畜弟子羯磨。
+When the time comes, the assembly of monks should give their consent for the preceptor nun to request the motion for ordination.
+
+阿梨耶僧聽，某甲欲從僧乞畜眾羯磨，僧忍默然故，是事如是持。」
+Honored assembly, please listen, this śikṣamāṇā intends to request the ordination motion from the monks, and if the assembly remains silent in agreement, this matter should be carried out."
+
+和上尼應䠒跪合掌作如是言：「阿梨耶僧憶念！是式叉摩尼二歲學戒、滿二十，欲受具足，我某甲今從僧乞畜弟子羯磨，唯願僧與我畜弟子羯磨。」
+The preceptor nun should kneel down, join her palms, and say: "Honored assembly, remember! This śikṣamāṇā, having completed two years of the precepts and reached the age of twenty, wishes to receive full ordination. I, a certain nun, now request the assembly to grant the motion for ordaining a disciple, I sincerely hope the assembly will grant me this ordination motion."
+
+如是至三。
+It is to be done like this three times.
+
+羯磨人應作是說：「阿梨耶僧聽！某甲式叉摩尼二歲學戒、已滿二十，欲於如來法律中受具足，尼某甲已從僧中乞畜弟子羯磨。
+The person performing the motion should state: "Honored assembly, please listen! A certain śikṣamāṇā, having studied the precepts for two years and reached twenty years of age, wishes to receive full ordination in the Buddha's law. A certain nun has already requested the motion for her ordination from the assembly.
+
+若僧時到，僧與尼某甲畜弟子羯磨。
+When the time is appropriate, the assembly should give the motion for ordination to a certain nun.
+
+白如是。」
+It is stated thus.
+
+阿梨耶僧聽！某甲式叉摩尼，二歲學戒、已滿二十，欲於如來法律中受具足，尼某甲已從僧乞畜弟子羯磨。
+Honored assembly, please listen! A certain śikṣamāṇā, having completed two years of precept study and reached twenty years of age, wishes to be fully ordained in the Buddha's law. A certain nun has requested the motion for her ordination from the assembly.
+
+僧今與尼某甲畜弟子羯磨。
+The assembly now grants the ordination motion to a certain nun.
+
+諸阿梨耶忍與尼某甲畜弟子羯磨者默然，若不忍便說。
+For those who approve of granting the ordination motion to a certain nun, please remain silent, those who do not approve, please state your objection.
+
+是第一羯磨。」
+This is the first motion.
+
+第二、第三亦如是說。
+The second and third motions should be stated in the same way.
+
+僧已忍與尼某甲畜弟子羯磨竟，僧忍默然故，是事如是持。
+Once the assembly has approved granting the ordination motion to a certain nun, and remains silent, this matter is thus carried out.
+
+是式叉摩尼，二歲學戒、已滿二十，欲於如來法律中受具足者，入僧中先頭面禮僧足。
+A śikṣamāṇā who has completed two years of precept study and reached the age of twenty, wishing to be fully ordained in the Buddha's law, should first enter the assembly and prostrate before the feet of the monks.
+
+禮僧足已先請和上尼，䠒跪合掌作如是言：「尊憶念！我某甲從尊乞求和上，尊為我作和上，與我受具足。」
+After bowing at the feet of the monks, she should first request the preceptor nun, kneeling down and joining her palms, and say: "Venerable, remember! I, a certain person, request from you to be my preceptor, please be my preceptor and grant me full ordination."
+
+如是至三，
+It is to be done like this three times.
+
+和上尼應語：「發喜心。」
+The preceptor nun should respond: "Bring forth a joyful mind."
+
+弟子言：「我頂戴持。」
+The disciple should say: "I respectfully uphold it."
+
+和上尼已先與求衣鉢、與求眾、與求二戒師、與求空靜處教師，推與眾僧。
+The preceptor nun should have already been given the requisites of robes and alms bowl, introduced her to the sangha, provided two teaching instructors, and guided her to a quiet and solitary place, requesting the assembly to give their confirmation.
+
+羯磨師應作是說：「此中誰能與某甲空靜處作教師？」
+The ceremony leader should say: "Who here can serve as a teacher to a certain person in a quiet place?"
+
+答言：「我能。」
+Someone should respond: "I can."
+
+羯磨師應作是說：「阿梨耶僧聽！某甲從某甲受具足，若僧時到，僧某甲，和上尼某甲、某甲能空靜處作教師。
+The ceremony leader should say: "Honored assembly, please listen! A certain person seeks full ordination from a certain preceptor. When the appropriate time comes, the assembly and the preceptor nun shall appoint a certain person as a teacher in a quiet place.
+
+諸阿梨耶僧聽！某甲，和上尼某甲、某甲空靜處作教師，僧忍默然故，是事如是持。」
+Honored assembly, please listen! With a certain preceptor nun, a certain person is appointed as a teacher in a quiet place. If there is no objection from the assembly, this is how the matter is carried out."
+
+教師應將欲受具足人離眾不近不遠，教有二種，若略、若廣。
+The teacher should lead the candidate for full ordination away from the assembly, not too near nor too far, and teach in two ways: briefly or extensively.
+
+云何是略？眾僧中當問：「汝有當言有，無當言無。」
+How is it brief? Within the assembly, the candidate should be asked: "If you have it, say you have it; if you don't, say you don't."
+
+云何是廣？「善女聽！今是至誠時，是實語時，於諸天、世間、天魔、諸梵、沙門、婆羅門、諸天、世人、阿修羅，若不實者，便於中欺誑，亦復於如來、應供、正遍知、聲聞尼眾中欺誑，此是大罪。
+How is it extensive? "Good woman, listen! Now is the time of sincerity, the time for truthful speech, for all the heavens, the world, celestial demons, brahmins, śramaṇas, deities, humans, and asuras; to speak truthlessness is deceit among them, and likewise, deceit towards the Tathāgata, one worthy of offerings, fully enlightened, and among the community of the śrāvaka nuns, this is a great sin.
+
+今當問汝，有者言有，無者言無。」
+Now, being asked, if you have it, say you have it; if you don’t, say you don’t."
+
+「父母夫主在不？」
+"Are your parents or your husband alive?"
+
+若言：「在。」應問：「父母夫主聽不？」
+If answered: "Yes," ask: "Have your parents or husband granted permission?"
+
+「求和上尼未？五衣鉢具不？學戒二歲滿不？作畜眾羯磨未？汝字何等？」
+"Have you sought your preceptor nun yet? Are the five robes and alms bowl complete? Have you completed two years of precept observance? Has the motion of ordination been made for you? What is your name?"
+
+答言：「字某。」
+Answer: "My name is certain."
+
+「和上尼字誰？」
+"Who is your preceptor nun?"
+
+答言：「字某。」
+Answer: "Her name is certain."
+
+「汝不殺父母不？不殺阿羅漢不？不破僧不？不惡心出佛身血不？」
+"Have you not killed your parents? Not killed an Arhat? Not caused a schism? Not maliciously caused the Buddha's body to bleed?"
+
+佛久已涅槃而故依舊文)？「不壞比丘淨戒不？非賊盜住不？非越濟人不？不自出家不？本曾受具足不？」
+(The Buddha long entered nirvana, but according to an old text) - "Have not destroyed a monk's pure precepts? Not dwelled as a thief? Not aided a border crosser? Not self-ordained? Have you previously been ordained?
+
+若言：「曾受。」應語：「去！不得受具足。」
+If she says, "I have," she should be told, "Go! You cannot be ordained."
+
+若言：「不。」者，應問：「汝非婢不？非養女不？不負人債不？非兵婦不？非陰謀王家不？汝是女不？非石女不？
+If she says, "No," then she should be asked: "Are you not a servant? Not an adopted daughter? Not indebted? Not a soldier's wife? Not a conspirator against the royal family? Are you a woman? Not an infertile woman?"
+
+非爛墮不？非二道通不？非破不？不無乳不？非一乳不？
+Not fallen apart? Not a hermaphrodite? Not damaged? Not without breasts? Not having only one breast?
+
+非常血病不？非無血不？非一月常血不？非不能女不？」
+Not having abnormal bleeding? Not without blood? Not having constant monthly bleeding? Not incapable of being a woman?"
+
+汝無如是種種諸病著身不？
+You do not have these various illnesses on your body, right?
+
+癬疥、黃爛、癩病、癰痤、痔病不禁、黃病、瘧病、謦欬、消盡、癲、狂熱病、風腫、水腫、腹腫如是種種，更有餘病著身不？」
+Scabies, psoriasis, leprosy, boils, fistulas, incontinence, jaundice, malaria, coughing, emaciation, epilepsy, fevers, swelling, edema, abdominal swelling—such various diseases—do you not have any other sicknesses on your body?"
+
+答言：「無。」
+Answer: "No."
+
+教師來入僧中白言：「某甲問已訖，自說清淨無遮法。」
+The teacher should come into the assembly and state: "A certain person has been questioned and declares purity without hindrances."
+
+羯磨師應作是說：「阿梨耶僧聽！某甲，從某甲受具足、某甲已空靜處教問訖。
+The motion master should state: "Honored assembly, please listen! A certain person, having received full ordination from a certain preceptor and been instructed in a quiet place, has been questioned.
+
+若僧時到，僧某甲，和上尼某甲，聽入僧中。
+When the time comes, the assembly and the preceptor, certain person, allow entry into the assembly.
+
+阿梨耶僧聽某甲和上尼某甲聽入僧中，僧忍默然故，是事如是持。」
+Honored assembly, please listen, with a certain preceptor nun, a certain person is allowed to enter the assembly. If the assembly remains silent, this is how it is done."
+
+此人入僧中，一一頭面禮僧足，在戒師前䠒跪合掌，授與衣鉢：「此鉢多羅應量受用乞食器，我受持。」
+This person enters the assembly, prostrates before the monks one by one, kneels in front of the preceptor, joins her palms, and receives the robe and alms bowl: "This bowl, said to measure exactly, I will use as a container for receiving alms, I hold it."
+
+如是三說。
+It is said thus three times.
+
+「此是僧伽梨、此是欝多羅僧、此是安陀會、此是覆肩衣、此是雨衣、此是我五衣，此五衣盡壽不離宿受持。」
+"This is the saṅghati robe, this is the uttarāsaṅga robe, this is the antarvāsa robe, this is the over-shoulder robe, this is the rain robe, these are my five robes, and I accept them for life, with no overnight separation."
+
+如是三說。
+It is said thus three times.
+
+羯磨師應作是說：「阿梨耶僧聽！某甲從某甲受具足，某甲已空靜處教問訖。
+The motion master should say: "Honored assembly, please listen! A certain person has received full ordination from a certain preceptor, has been instructed and questioned in a quiet place.
+
+若僧時到，僧某甲和上尼某甲，欲從僧乞受具足。
+When the appropriate time comes, with assembly and certain preceptor nun, requests from the assembly to receive full ordination.
+
+諸阿梨耶聽某甲，和上尼某甲，欲從僧乞受具足。
+Honored assembly, listen, a certain person, together with certain preceptor nun, seeks to request full ordination from the assembly.
+
+僧忍默然故，是事如是持。」
+Since the assembly remains silent, this matter is thus carried out.
+
+羯磨師應教乞：「阿梨耶僧聽，我某甲從和尚尼某甲受具足，阿闍梨某甲已空靜處教問訖，我某甲，和上尼某甲，今從僧乞受具足，唯願僧哀愍故，與我受具足。」
+The motion master should instruct the request: "Honored assembly, listen, I, a certain person, receive full ordination from certain preceptor nun, under teacher a certain person's guidance, having been instructed and questioned in a quiet place. I, a certain person, with certain preceptor nun, seek full ordination from the assembly now, and I sincerely hope the assembly will compassionately grant me full ordination."
+
+如是至三。
+It should be done like this three times.
+
+羯磨師應作是說：「阿梨耶僧聽！某甲從某甲受具足，某甲已空靜處教問訖，已從僧乞受具足。
+The motion master should say: "Honored assembly, listen! A certain person received full ordination from a certain preceptor, having been instructed and questioned in a quiet place, has already requested full ordination from the assembly.
+
+若僧時到，僧某甲，和上尼某甲，我欲於僧中問遮法。
+When the time is right, the assembly, certain person's preceptor nun, desires to ask the obstructive precepts within the assembly.
+
+阿梨耶僧聽某甲和上尼某甲，我欲於僧中問遮法，僧忍默然故，是事如是持。」
+Honored assembly, listen. With certain person, certain preceptor nun, wishes to ask the obstructive precepts in the assembly. If there's no objection from the assembly, this is how it is conducted."
+
+「善女聽！今是至誠時、是實語時，乃至如是種種更有餘病著身不？」
+"Good woman, listen! Now is the time for sincerity, the time for truthful speech. To even such various questions, do you still have any other sicknesses on your body?"
+
+答言：「無。」
+Answer: "No."
+
+羯磨師應作是說：「阿梨耶僧聽！某甲從某甲受具足，某甲已空靜處教問訖，已從僧乞受具足，父母夫主已聽已，求和上五衣鉢具，是女人二歲學戒滿，已作畜眾羯磨，自說清淨無遮法。
+The motion master should say: "Honored assembly, listen! A certain person received full ordination from a certain preceptor, and was instructed and questioned in a quiet place, and has already requested full ordination from the assembly. Parents and husband have given consent, the preceptor sought, and the five robes and alms bowl are complete. This woman has completed two years of precept study, has had the ordination motion performed, and self-declares purity without hindrance.
+
+若僧時到，僧某甲，和上尼某甲，我欲於僧中說三依法。
+When the appropriate time comes, certain person, certain preceptor nun, in the assembly, I wish to state the Three Refuges.
+
+阿梨耶僧聽某甲，和上尼某甲，我欲於僧中說三依法，僧忍默然故，是事如是持。」
+Honored assembly, listen. With certain person, certain preceptor nun, wishes to recite the Three Refuges in the assembly. If no objections arise from the assembly, this is how it is conducted."
+
+「善女聽！此是如來、應供、正遍知欲饒益故，於聲聞尼众中正說制三依。
+"Good woman, listen! This is what the Tathāgata, worthy of offerings, perfectly enlightened, would wish to greatly benefit and properly speak to teaching the Three Refuges among the community of śrāvaka nuns.
+
+若堪忍直心善女人與受具足，不堪忍者不與受具足。
+If the straight-minded virtuous woman is resilient, grant her full ordination; if not, do not grant her full ordination.
+
+何等三？
+What are these Three?
+
+糞掃衣少事易得應淨無諸過，比丘尼隨順法，依是出家受具足，得作比丘尼。
+Robes made of rags, easy to obtain without fault, in accordance with the bhikshuni lifestyle, by which you are ordained and become a bhikshuni.
+
+此中盡壽能堪忍持糞掃衣不？」
+In this life, can you bear with wearing rags for life?
+
+答言：「能。」
+Answer: "I can."
+
+「若長得欽婆羅衣、㲲衣、芻摩衣、俱舍耶衣、舍那衣、麻衣、軀牟提衣。」
+"Whether receiving the robes of khumbala, sectioned cloth, straw cloth, kuṣeya cloth, gender cloth, linen cloth, or kshumuli cloth."
+
+「依乞食，少事易得應淨無諸過，比丘尼隨順法，依是出家受具足，得作比丘尼。
+Depending on alms, easy to obtain without fault, in accordance with the bhikshuni discipline, by which you are ordained and become a bhikshuni.
+
+此中盡壽能堪忍乞食不？」
+For life, can you bear to rely on alms for survival?
+
+答言：「能。」
+Answer: "I can."
+
+「若長得半月食，八日十四日、十五日說戒食，籌食、請食。」
+"If you sometimes get half-month food, on the eighth, the fourteenth, or fifteenth, ordain meal food, portioned food, requested food."
+
+「依陳棄药，少事易得應淨無諸過，比丘尼隨順法，依是出家受具足，得作比丘尼。
+Relying on discarded medicine, easy to obtain and without faults, in accordance with the bhikshuni discipline, thus for the livelihood in this life, receiving full ordination, one is ordained as a bhikshuni.
+
+是中盡壽能堪忍服陳棄药不？」
+Can you endure wearing discarded medicine for life?
+
+答言：「能。」
+Answer: "I can."
+
+「若長得酥、油、蜜、石蜜、生酥及脂。」
+"If you long receive ghee, oil, honey, stone honey, fresh ghee, and fat."
+
+「依此三聖種當隨顺學。」
+According to these three holy practices, you should follow and study."
+
+「阿梨耶僧聽！某甲從某甲受具足，某甲已空靜處教問訖已，從僧乞受具足，父母夫主已聽，已求和上尼，五衣鉢具。
+"Honored assembly, listen! A certain person has received full ordination from a certain preceptor, has been taught and questioned in a quiet place; now seeks full ordination from the assembly. The parents and husband have given their approval, the preceptor nun has been sought, and the five robes and alms bowl are prepared.
+
+是女人二歲學戒滿，已作畜弟子羯磨，自說清淨無遮法，已堪忍三依。
+This woman has fulfilled the two years of precept study, the ordination motion has been performed, she self-declares purity without obstruction, and she is able to uphold the Three Refuges.
+
+若僧時到，僧與某甲受具足，和上尼某甲。
+When it is the appropriate time, the assembly grants full ordination to a certain person, with certain preceptor nun."
+
+「白如是。」
+"It is stated thus.
+
+「阿梨耶僧聽！某甲從某甲受具足，某甲已空靜處教問訖，已從僧乞受具足，父母夫主已聽，已求和上，五衣鉢具，是女人二歲學戒滿，已作畜弟子羯磨，自說清淨無遮法，已堪忍三依。
+"Honored assembly, please listen! A certain person has received full ordination from a certain preceptor, been directed and examined in a quiet place, has requested full ordination from the community, has received parental and spousal consent, sought the preceptor, prepared the five robes and bowl, has completed the two years' study of precepts, has performed the ordination motion, self-reported clear purity without any hindrances, and can sustain the Three Refuges.
+
+僧今與某甲受具足，和上尼某甲。
+The assembly now grants a certain person, with a certain preceptor nun, full ordination.
+
+諸阿梨耶忍與某甲受具足，和上尼某甲，忍者僧默然，若不忍便說。
+Those in favor of granting a certain person, with a certain preceptor nun, full ordination, let them remain silent; if opposed, they should speak.
+
+是第一羯磨。」
+This is the first motion.
+
+第二、第三亦如是說。
+The second and third motions are to be stated likewise.
+
+僧已與某甲受具足竟，和上尼某甲，僧忍默然故，是事如是持。
+The congregation has granted a certain person, with a certain preceptor nun, full ordination. The assembly remains silent, so the matter is thus finalized.
+
+善女聽！汝已受具足，一白三羯磨無遮法，和合僧十眾。
+Good woman, listen! You have now received full ordination through one proposal and three motions, without any legal obstruction, with the congregation of ten.
+
+汝今當敬重於佛、敬重於法、敬重於僧、敬重和上、敬重阿闍梨，汝已遭遇。
+You should now respect the Buddha, respect the Dharma, respect the Sangha, respect your preceptor, and respect the teacher you've met.
+
+人身難得、佛世難值、聞法亦難，眾僧和合意願成就難，已得具足，當隨順學，如無憂華離於塵水。
+It is difficult to obtain a human form, difficult to encounter Buddha's age, difficult to hear the Dharma, hard is to come to the harmonious assembly's fulfillment of wishes, and having been fully ordained, you should follow and learn as the spotless uḍumbara flower emerging from dust and water.
+
+汝當依倚修習泥洹善法，得具足此戒序法、八波羅夷、十九僧伽婆尸沙、三十尼薩耆波夜提、百四十一波夜提、八波羅提提舍尼、眾學法、七滅諍法隨順法。
+You ought to rely on and cultivate the good practices of Nirvāṇa, comprehend the completed series of this precept, the eight pārājika, the nineteen saṅghādisesas, the thirty-nine niḥsargika pācittiyas, the one hundred and forty one pācittiyas, the eight pāṭidesaniya, the various learning rules, and the seven methods of resolving disputes within the Sangha.
+
+我今略說教誡汝，後和上、阿闍梨當廣教汝。
+I have provided you with a brief admonition today. Your preceptor and teacher will duly instruct you more comprehensively hereafter.
+
+
+
+受具足已，即日和上尼應將到比丘僧所，和上尼應為乞，䠒跪合掌作如是言：
+
+Once full ordination is received, on that day the senior nun should bring to the bhikkhu sangha, and the senior nun should request, bowing on her knees with palms together, saying:
+
+「大德僧憶念！我已與某甲受具足，今從僧乞為某甲受具足，哀愍故與某甲受具足。」
+
+"Venerable sangha, please recall! I have already granted full ordination to (name), and now request from the sangha to grant full ordination to (name), out of compassion grant full ordination to (name)."
+
+如是三說。
+
+This is stated three times.
+
+羯磨師應問：「比丘尼眾中清淨無遮法不？」
+
+The Karmavācā master should ask: "Is there any obstruction-free clarity within the bhikkhuni sangha?"
+
+若不問者，越毘尼罪。
+
+If not asked, it is a transgression of Vinaya rules.
+
+羯磨師應作是說：「大德僧聽！某甲從某甲尼受具足已，比丘尼眾中清淨無遮法，尼某甲已從僧乞受具足。
+
+The Karmavācā master should proclaim: "Venerable sangha, please listen! (Name) has received full ordination from (Name of Nun), and there is obstruction-free clarity within the bhikkhuni sangha. Nun (Name) has already requested full ordination from the sangha.
+
+若僧時到，僧某甲，和上尼某甲，欲從僧乞受具足。
+
+When the time is appropriate for the sangha, (Name of Bhikkhu), and Nun (Name) desire to request full ordination from the sangha.
+
+諸大德聽某甲和上尼某甲，欲從僧乞受具足，僧忍默然故，是事如是持。」
+
+Venerable members listen, (Name) and Nun (Name) desire to request full ordination from the sangha, with the sangha's consent through silence, let this be done."
+
+羯磨師應教䠒跪合掌作如是言：「大德僧憶念！我某甲從和上尼某甲受具足，已比丘尼眾中清淨無遮法。
+
+The Karmavācā master should instruct, bowing on her knees with palms together, saying: "Venerable sangha, please recall! I, (Name), have received full ordination from the senior nun (Name), and within the bhikkhuni sangha there is obstruction-free clarity.
+
+我某甲，和上尼某甲，我今從僧乞受具足，唯願僧哀愍故，與我受具足。」
+
+I, (Name), along with senior nun (Name), now request full ordination from the sangha, only wishing the sangha's compassion to grant me full ordination."
+
+如是至三。
+
+This is stated up to three times.
+
+羯磨師應作是說：「大德僧聽！某甲從某甲受具足，已比丘尼眾中清淨無遮法，已從僧乞受具足。
+
+The Karmavācā master should proclaim: "Venerable sangha, please listen! (Name) has received full ordination from (Name), within the bhikkhuni sangha there is obstruction-free clarity, and has already requested full ordination from the sangha.
+
+若僧時到，僧某甲，和上尼某甲，我欲於僧中問遮法。
+
+When the time is appropriate for the sangha, (Name), and Nun (Name), I wish to question about any obstructions within the sangha.
+
+諸大德僧聽！某甲，和上尼某甲，我欲於僧中問遮法，僧忍默然故，是事如是持。」
+
+Venerable members of the sangha, listen! (Name), and Nun (Name), I wish to question about any obstructions within the sangha, with the sangha's consent through silence, let this be done."
+
+羯磨師應問：「今是至誠時、是實語時，於諸天、世間、天、魔、梵、沙門、婆羅門、諸天、世人、阿修羅。
+
+The Karmavācā master should inquire: "Now is a time of sincerity and truth, among the devas, the world, gods, demons, Brahmas, ascetics, brahmins, devas, worldly people, and asuras.
+
+若不實者，便於中欺誑，亦復於如來、應供、正遍知二部僧中欺誑，此是大罪。
+
+If one is not truthful, they deceive among them, and also deceive within the Tathāgata, the Worthy of Offerings, the Supremely Enlightened, and the two assemblies of the sangha, this is a great offense.
+
+我今僧中當問汝，有者言有，無者言無。父母夫主在不？」
+
+Now I will ask you within the sangha, if it is present say it is present, if not say it is not. Are your parents and husband present?"
+
+乃至除女人隱處，餘如上盡問。
+
+Except for a woman's private matters, inquire about all up to this point.
+
+羯磨師應作是說：「大德僧聽！某甲從某甲受具足，已比丘尼眾中問清淨無遮法，已從僧乞受具足，父母夫主已聽，已求和上，五衣鉢具，二歲學戒滿，已乞畜眾羯磨竟，自說清淨無遮法。
+
+The Karmavācā master should proclaim: "Venerable sangha, please listen! (Name) has received full ordination from (Name), has been questioned among the bhikkhuni sangha for obstruction-free clarity, has requested full ordination from the sangha, parents and husband have granted permission, obtained approval for the master, the five robes and bowl are ready, two years of precept learning are complete, has completed the formal request before the sangha, self-proclaimed obstruction-free clarity."
+
+若僧時到，僧某甲，和尚尼某甲，我欲於僧中說三依。」
+
+When the time is right for the sangha, (Name), and Nun (Name), I wish to speak about the three refuges within the sangha."
+
+「諸大德聽某甲和上尼某甲，我欲於僧中說三依，僧忍默然故，是事如是持。」
+
+"Venerable members listen, (Name) and Nun (Name), I wish to speak about the three refuges within the sangha, with the sangha's consent through silence, let this be done."
+
+「善女聽！此是如來、應供、正遍知欲饒益故，於聲聞尼眾中正說制三依。
+
+"Noble woman listen! This is the Tathāgata, the Worthy of Offerings, the Supremely Enlightened's intention for benefit, properly establishing the teaching of the three refuges among the sravaka nun community.
+
+若堪忍直心善女人與受具足，不堪忍者不與受具足。
+
+If a good woman with a patient and straightforward heart is given full ordination, one who is not patient will not receive full ordination.
+
+糞掃衣，少事易得應淨無諸過，隨順比丘尼法，依是出家受具足，得作比丘尼。
+
+Rags for robes, simple tasks easily acquired should be pure and without fault, following the bhikkhuni rules, based on this renunciation for full ordination, gaining status as a bhikkhuni.
+
+是中盡壽能堪忍持糞掃衣不？」
+
+Within this, are you able to endure with rag robes throughout life?"
+
+答言：「能。」
+
+Reply: "Yes."
+
+「若長得欽婆羅衣、㲲衣、芻摩衣、俱舍耶衣、舍那衣、麻衣、驅牟提衣。」
+
+"If ever obtaining silk robes, woolen robes, cotton robes, Kuśeya robes, Śana robes, hempen robes, or cow-dung robes."
+
+如是依乞食，依陳棄藥，如上廣說。
+
+Thus relying on alms food, relying on discarded medicine, as explained in detail above.
+
+「大德僧聽！某甲從某甲受具足，已比丘尼眾中清淨無遮法，已從僧乞受具足，父母夫主已聽，已求和上，五衣鉢具，二歲學戒滿，已作乞畜眾羯磨竟，自說清淨無遮法，已堪忍三依。
+
+"Venerable sangha, please listen! (Name) has received full ordination from (Name), within the bhikkhuni sangha there is obstruction-free clarity, has requested full ordination from the sangha, parents and husband have granted permission, obtained approval for the master, five robes and bowl are ready, two years of precept learning are complete, has completed the formal request before the sangha, self-proclaimed obstruction-free clarity, is able to endure the three refuges.
+
+若僧時到，僧與某甲受具足，和上尼某甲。白如是。」
+
+When the time is appropriate, the sangha grants full ordination to (Name), with Nun (Name). Thus it is declared."
+
+「大德僧聽！某甲從某甲受具足，已比丘尼眾中清淨無遮法，已從僧乞受具足，父母夫主已聽，已求和上，五衣鉢具，二歲學戒滿，已作乞畜眾羯磨竟，自說清淨無遮法，已堪忍三依。
+
+"Venerable sangha, please listen! (Name) has received full ordination from (Name), within the bhikkhuni sangha there is obstruction-free clarity, has requested full ordination from the sangha, parents and husband have granted permission, obtained approval for the master, the five robes and bowl are ready, two years of precept learning are complete, has completed the formal request before the sangha, self-proclaimed obstruction-free clarity, is able to endure the three refuges.
+
+僧今與某甲受具足，和上尼某甲。
+
+The sangha now grants full ordination to (Name), with Nun (Name).
+
+諸大德忍與某甲受具足，和上尼某甲，忍者默然，若不忍便說。
+
+Venerable members consent to grant full ordination to (Name), with Nun (Name), if in agreement remain silent, if not state otherwise.
+
+是第一羯磨。」
+
+This is the first act of Kamma.
+
+第二、第三亦如是說。
+
+The second and third are proclaimed likewise.
+
+「僧與某甲受具足竟，和上尼某甲，僧忍默然故，是事如是持。」
+
+"The sangha grants full ordination to (Name), with Nun (Name), with the sangha's consent through silence, let this be done."
+
+「善女聽！汝已受具足，善受具足，一白三羯磨、無遮法、和合僧、二部眾、十眾已上。
+
+"Noble woman listen! You have received full ordination, a good full ordination, one announcement, three acts of Kamma, unobstructed by rules, in harmony with the sangha, two assemblies and beyond ten members.
+
+汝今當敬重於佛、敬重於法、敬重於僧、敬重和上、敬重阿闍梨。
+
+You should now have reverence for the Buddha, reverence for the Dharma, reverence for the Sangha, reverence for the preceptor, reverence for the teacher.
+
+汝已遭遇，人身難得、佛世難值、聞法亦難、眾僧和合意願成就難。
+
+You have already encountered, it is hard to gain a human body, hard to meet the Buddha's age, hard to hear the Dharma, and hard to accomplish the harmony of the sangha's intent.
+
+頂禮釋師子及諸聲聞眾，已得具足，如無憂華離於塵水，汝當依倚修習泥洹善法得具足。」
+
+Prostrate to the Śākya Lion and the assembly of disciples, having attained completeness, like a spotless flower away from dust and water, you should cling to and cultivate good practices for nirvana to be fully equipped."
+
+
+
+
+佛住毘舍離大林重閣精舍，
+
+The Buddha was residing in the Great Forest Monastery with multiple stories in Vaishali.
+
+爾時法豫比丘尼弟子欲受具足，
+
+At that time, a disciple of the nun Dharmapraja wanted to be fully ordained.
+
+時菴婆羅離車童子，
+
+At that time, Ambaralika's charioteer, a young boy,
+
+聞法豫弟子欲受具足，
+
+heard that Dharmapraja's disciple wanted to be fully ordained,
+
+便作是念：
+
+and he thought to himself:
+
+「此女於我有如是不饒益事，
+
+"This woman has caused me such trouble,
+
+今若出精舍門者，
+
+if she leaves the monastery's gate now,
+
+我當更捉壞其梵行，
+
+I will capture her again and destroy her pure practice,
+
+令不得受具足。」
+
+so that she cannot be fully ordained."
+
+法預比丘尼聞已往到世尊所，
+
+When Dharmapraja the nun heard this, she went to the World Honored One,
+
+頭面禮足却住一面，
+
+bowed with her head and face at his feet and then stood to one side,
+
+白佛言：「世尊！
+
+and said to the Buddha: "World Honored One!
+
+我有弟子欲受具足，
+
+I have a disciple who wishes to be fully ordained,
+
+若出精舍者畏壞梵行，
+
+but if she leaves the monastery, she fears her pure practice will be ruined.
+
+彼間住，
+
+She should stay there,
+
+此間僧得與遙受具足不？」
+
+can the monks here confer full ordination upon her from a distance?"
+
+佛言：「得！
+
+The Buddha said: "Yes!
+
+先比丘尼眾與受具足已，
+
+First, allow the assembly of nuns to confer the full ordination,
+
+往比丘僧中乞使受具足。」
+
+then ask the monks' assembly to grant the full ordination."
+
+尼僧與受具足已，
+
+After the nuns' assembly granted the full ordination,
+
+法預即往白比丘僧乞使受具足。
+
+Dharmapraja went to ask the monks' assembly to confer full ordination.
+
+羯磨人應作是說：
+
+The officiant should say this:
+
+「大德僧聽！
+
+"Venerable assembly of monks, listen!
+
+法預比丘尼弟子某甲欲受具足，
+
+The nun Dharmapraja's disciple, known as so-and-so, wishes to receive full ordination,
+
+若來者畏傷梵行。
+
+but she fears her pure practice would be harmed if she comes here.
+
+若僧時到，
+
+When the assembly of monks reaches that time,
+
+僧法預比丘尼弟子某甲，
+
+the assembly of monks, Dharmapraja the nun's disciple so-and-so,
+
+欲從僧乞使受具足。
+
+wishes to ask the monks' assembly for full ordination.
+
+諸大德僧聽法預比丘尼弟子某甲欲乞使受具足，
+
+Venerable monks, please acknowledge that Dharmapraja’s disciple so-and-so wishes to be fully ordained,
+
+僧忍默然故，是事如是持。」
+
+and if you approve, please remain silent, and it shall be so."
+
+和上尼應僧中䠒跪合掌作如是言：
+
+The superior nun should kneel and join palms in front of the monks and say:
+
+「大德僧憶念！
+
+"Venerable monks, recollect!
+
+我法預比丘尼，
+
+I am Dharmapraja the nun,
+
+弟子某甲欲受具足，
+
+my disciple, known as so-and-so, wishes to receive full ordination,
+
+若來者畏傷梵行，
+
+but she fears harm to her pure practice if she comes here,
+
+已比丘尼眾中受具足無遮法。
+
+and has already received the ordination without obstruction from the assembly of nuns.
+
+我某甲為弟子某甲乞使受具足，
+
+I, so-and-so, request for my disciple so-and-so to receive full ordination,
+
+唯願大德僧哀愍故，
+
+I humbly ask that the venerable monks have compassion,
+
+與我弟子某甲使受具足。」
+
+and allow my disciple so-and-so to be ordained."
+
+如是至三。
+
+This is to be repeated three times.
+
+僧中應羯磨堪能者，
+
+Among the monks' assembly, those capable of conducting the ordination should,
+
+若二、若三不得羯磨眾。
+
+whether two or three, should not form the ordination assembly.
+
+羯磨人應作是說：
+
+The officiant should say:
+
+「大德僧聽！
+
+"Venerable assembly of monks, listen!
+
+法預比丘尼弟子某甲欲受具足，
+
+The nun Dharmapraja's disciple, known as so-and-so, wishes to receive full ordination,
+
+已比丘尼眾中受具足無遮法，
+
+and has already received the ordination without obstruction from the assembly of nuns,
+
+若來者畏傷梵行。
+
+but she fears her pure practice would be harmed if she comes here.
+
+法預比丘尼為弟子某甲，
+
+Dharmapraja the nun for her disciple so-and-so,
+
+已從僧乞使受具足。
+
+has already asked the monks' assembly for full ordination.
+
+若僧時到，
+
+When the assembly of monks reaches that time,
+
+僧今羯磨，
+
+the monks' assembly now conducts the ordination,
+
+某甲、某甲比丘為法預弟子某甲受具足。
+
+by monks so-and-so for Dharmapraja's disciple so-and-so to receive full ordination.
+
+白如是。」
+
+As stated here."
+
+「大德僧聽！
+
+"Venerable assembly of monks, listen!
+
+法預比丘尼為弟子某甲受具足，
+
+Dharmapraja the nun receives full ordination for her disciple so-and-so,
+
+已比丘尼眾中受具足無遮法，
+
+and she has already received the ordination without obstruction from the assembly of nuns,
+
+若來者畏傷梵行。
+
+but she fears her pure practice would be harmed if she comes here.
+
+法預比丘尼為弟子某甲，
+
+Dharmapraja the nun for her disciple so-and-so,
+
+已從僧乞使受具足。
+
+has already asked the monks' assembly for full ordination.
+
+僧今羯磨某甲某甲比丘使為法預比丘尼弟子某甲受具足。
+
+The monks' assembly now conducts the ordination by monks so-and-so for Dharmapraja's disciple so-and-so.
+
+諸大德忍羯磨某甲、某甲比丘使為法預比丘尼弟子某甲受具足者默然，
+
+Venerables, if you approve of the ordination by so-and-so monks for Dharmapraja's disciple so-and-so, remain silent,
+
+若不忍便說。
+
+if you do not approve, please speak.
+
+是初羯磨。」
+
+This is the first ordination.
+
+第二、第三亦如是說。
+
+The second and third are stated similarly.
+
+「僧已羯磨某甲某、甲比丘使為法預比丘尼弟子某甲受具足竟，
+
+"The monks have conducted the ordination, by so-and-so monks, for Dharmapraja's disciple so-and-so,
+
+僧忍默然故，是事如是持。」
+
+The monks' assembly has been silent, and thus it is carried out accordingly.
+
+是比丘受羯磨竟，
+
+This concludes the monks' ordination process,
+
+即應往比丘尼精舍。
+
+and they should then go to the nuns’ monastery.
+
+受具足人應向使乞，
+
+The person to be ordained should request from the messenger,
+
+䠒跪合掌作如是言：
+
+kneel and join palms and say this:
+
+「大德僧憶念！
+
+"Venerable monks, recollect!
+
+我某甲從和上尼某甲受具足，
+
+I, so-and-so, have received full ordination from the superior nun so-and-so,
+
+已比丘尼眾中受具足，
+
+and have received ordination from the nuns' assembly,
+
+清淨無遮法。
+
+with pure and unobstructed ordination.
+
+我若出此間者畏傷梵行，
+
+I fear harm to my pure practice if I leave this place,
+
+此間住。
+
+I will stay here.
+
+我某甲，和上尼某甲，
+
+I, so-and-so, superior nun so-and-so,
+
+今從僧乞受具足，
+
+now request full ordination from the monks' assembly,
+
+唯願僧哀愍故，
+
+I humbly ask that the monks have compassion,
+
+與我受具足。」
+
+and allow me to be ordained."
+
+如是至三。
+
+This is to be repeated three times.
+
+和上尼應共使到僧中，
+
+The superior nun should go with the messenger to the monks' assembly,
+
+和上尼應乞，
+
+The superior nun should request,
+
+䠒跪合掌作如是言：
+
+kneel and join palms and say this:
+
+「大德僧憶念！
+
+"Venerable monks, recollect!
+
+我法預比丘尼，
+
+I am Dharmapraja the nun,
+
+弟子某甲欲受具足，
+
+my disciple, known as so-and-so, wishes to receive full ordination,
+
+已比丘尼眾中受具足，
+
+and has received ordination from the nuns' assembly,
+
+清淨無遮法，
+
+with pure and unobstructed ordination,
+
+若來者畏傷梵行，
+
+but she fears harm to her pure practice if she comes here,
+
+彼間住。
+
+She resides there.
+
+我法預弟子某甲今從僧乞受具足，
+
+My disciple, so-and-so, now requests full ordination from the monks' assembly,
+
+唯願僧哀愍故與受具足。」
+
+I humbly ask that the monks have compassion and grant her ordination."
+
+如是三乞。
+
+This is requested three times.
+
+羯磨人應作是說：
+
+The officiant should say:
+
+「大德僧聽！
+
+"Venerable assembly of monks, listen!
+
+某甲從某甲受具足，
+
+So-and-so has received full ordination from so-and-so,
+
+已比丘尼眾中受具足，
+
+and has received ordination from the nuns' assembly,
+
+清淨無遮法，
+
+with pure and unobstructed ordination,
+
+若來者畏傷梵行，
+
+but she fears harm to her pure practice if she comes here,
+
+彼間住。
+
+She resides there.
+
+和上尼某甲已從僧乞受具足。
+
+Superior nun so-and-so has already requested full ordination from the monks' assembly.
+
+若僧時到，
+
+When the assembly of monks reaches that time,
+
+僧與某甲受具足，和上尼某甲。
+
+the monks' assembly grants full ordination to so-and-so, by superior nun so-and-so.
+
+白如是。」
+
+This is declared thus."
+
+一白三羯磨已，
+
+One declaration and three repetitions of the ordination have been completed,
+
+和上尼共使還至比丘尼精舍，
+
+the superior nun and messenger return to the nuns' monastery,
+
+作如是言：「善女聽！
+
+and say this: "Good woman, listen!
+
+汝已受具足，
+
+You have received full ordination,
+
+一白三羯磨、無遮法、十眾以上、和合二部眾。
+
+with one declaration, three repetitions, unobstructed law, in the presence of more than ten, the two-fold assembly united.
+
+受具足竟，
+
+Full ordination has been completed,
+
+汝應恭敬三寶，
+
+You should revere the Three Jewels,
+
+汝已遭遇，
+
+you have encountered,
+
+人身難得、佛世難值、聞法亦難。」
+
+the difficulty of obtaining human life, encountering a Buddha's era, and hearing the Dharma."
+
+是名二歲學戒二部眾中受具足。
+
+This is called full ordination for two years of study within the two assemblies of disciples.
+
+是名第二敬法。
+
+This is called the second respectful practice.
+
+
+
+說罪者，比丘尼不得說比丘實罪、非實罪。
+As for accusing others, a Bhikkhuni should not speak of a Bhikkhu's actual or false offenses.
+
+比丘得說尼實罪，不得說非實罪。
+A Bhikkhu may speak of a Bhikkhuni's actual offenses but not false ones.
+
+尼不得說言醫師比丘、犯戒比丘、摩訶羅比丘，若親里者得軟語諫，不得呵責。
+A Bhikkhuni should not call a Bhikkhu a doctor, a precept-breaking Bhikkhu, or a coarse Bhikkhu. If they are relatives, they may gently advise but not scold.
+
+若是年少，應語：「汝今不學，待老當學耶？」
+If they are young, one should say: "If you do not learn now, will you wait until old age to learn?"
+
+汝後當教詔弟子，汝不學者，後弟子亦當學汝作惡，是故汝應隨順學，受經、誦經。
+In the future, when you teach disciples, if you do not learn yourself, your disciples will also follow you in doing wrong; therefore, you should willingly learn and study the scriptures, and recite them.
+
+若比丘尼說比丘過，言醫師比丘、犯戒比丘、摩訶羅比丘者，越敬法。
+If a Bhikkhuni speaks of a Bhikkhu’s faults, calling him a doctor, a precept-breaking Bhikkhu, or a coarse Bhikkhu, she transgresses the reverence rule.
+
+比丘得說比丘尼實過，不得呵責言剃髮老嫗、婬蕩老嫗、摩訶梨老嫗。
+A Bhikkhu may speak of a Bhikkhuni’s actual faults, but should not scold her saying "shaven hag", "immoral hag", or "coarse old woman".
+
+若是親里作非法者，得語言：「莫作是事。」
+If a relative acts illegally, one can say: "Do not do this."
+
+不得呵罵，應軟語諫。
+One should not scold, but gently admonish.
+
+若年少者，應語：「汝今不學，待老當學耶？」
+If they are young, one should say: "If you do not learn now, will you wait until old age to learn?"
+
+汝後當教詔弟子，汝不學者，後弟子亦當學汝作惡，是故當受經、誦經。
+In the future, when you teach disciples, if you do not learn yourself, your disciples will also follow you in doing wrong; therefore, you should willingly study the scriptures and recite them.
+
+若比丘呵罵比丘尼言：「剃髮老嫗、婬蕩老嫗、摩訶梨，不善不識恩養。」者，越毘尼罪。
+If a Bhikkhu scolds a Bhikkhuni saying: "shaven hag", "immoral hag", "coarse woman", or "ungrateful", he commits a Vinaya offense.
+
+是名比丘尼不得說比丘實罪非實罪，比丘得說比丘尼實罪。
+This denotes that a Bhikkhuni should not speak of a Bhikkhu's actual or false offenses, but a Bhikkhu may speak of a Bhikkhuni's actual offenses.
+
+是名第三敬法。
+This is called the third reverence rule.
+
+
+
+
+不先受者，比丘尼不先比丘受食、房舍、床褥。
+A nun does not receive food, lodging, or bedding before a monk.
+
+若有人請比丘尼食者，應語：「先請上尊眾。」
+If someone invites a nun to eat, she should say, "Invite the monks first."
+
+若言：「我於彼無敬心，正欲請諸比丘尼。」者，應語：「我亦不受。」
+If they say, "I have no respect for them, I only wish to invite the nuns," she should say, "I will not accept either."
+
+若言：「我先已曾請僧前食、後食，已曾共人請，未曾請諸尼。」若爾者應受。
+If they say, "I have already invited the monks for a meal and have invited them with others, but never invited the nuns," then it should be accepted.
+
+下至先與僧一摶食者，比丘尼後得種種好食無罪。
+If they first give even a small amount of food to the monks, the nun may later receive various good foods without blame.
+
+若有人來言：「我欲與尼作房。」應語：「先與上尊眾作。」
+If someone comes and says, "I want to build a room for the nun," she should say, "Build for the monks first."
+
+若言：「我於彼無敬心，正欲與尼作。」應語：「我亦不受。」
+If they say, "I have no respect for them, I only wish to make for the nun," she should say, "I will not accept either."
+
+若言：「我先已曾與僧作房舍、講堂、溫室、食堂、門屋、井屋、廁屋、洗脚處屋，曾共眾人作，未曾為尼作。」若爾者應受。
+If they say, "I have already built rooms, halls, meditation rooms, dining rooms, gatehouses, well houses, toilet rooms, and washroom facilities for the monks and have built these with others, but never for the nuns," then it should be accepted.
+
+下至先與僧一蚊厨，後比丘尼受大房無罪。
+If they first give even a small cupboard to the monks, the nun may later receive a large room without blame.
+
+若有人來與比丘尼床褥者，應語：「先與上尊眾。」
+If someone comes to give a nun bedding, she should say, "Give it to the monks first."
+
+若言：「我於彼無敬心。」應語：「我亦不受。」
+If they say, "I have no respect for them," she should say, "I will not accept either."
+
+若言：「我先已曾與比丘僧床褥、枕俱、執臥具，未曾與尼。」若爾者得受。
+If they say, "I have already given beds, pillows, and sleeping equipment to the monks but never to the nuns," then it can be accepted.
+
+下至先與比丘僧一小床，比丘尼後受好床褥無罪。
+If they first give even a small bed to the monks, the nun may later receive good bedding without blame.
+
+若檀越未曾飯僧施床褥，比丘尼先受者，越敬法。
+If the donor has never given food or bedding to the monks and the nun receives first, it is against the respect rule.
+
+是名比丘尼不先受食床褥。
+This is the rule for nuns not receiving food or bedding first.
+
+第四敬法竟。
+The end of the fourth rule of respect.
+
+
+
+
+半月摩那埵者，若比丘尼越敬法，應二部眾中半月行摩那埵。
+For a fortnightly ceremony, if a bhikkhuni transgresses the respectful law, she should perform the fortnightly ceremony among the two assemblies.
+
+若犯十九僧伽婆尸沙，應二部眾中半月行摩那埵，比丘尼眾中行隨順法，應日日白二部僧，是名二部僧。
+If she breaks any of the nineteen Sanghadisesa rules, she should perform the fortnightly ceremony among both assemblies, and follow compliance procedures among the bhikkhuni assembly, announcing daily to the dual Sangha, which is known as the twofold Sangha.
+
+是名比丘尼二部眾中半月行摩那埵。
+This is called the fortnightly ceremony to be performed by a bhikkhuni among the two assemblies.
+
+第五敬法竟。
+The fifth respectful law ends here.
+
+
+
+
+求教誡者，比丘尼至布薩日，若一切尼僧、若遣使至比丘精舍禮塔已，至知識比丘所，與清淨欲，作如是言：
+
+Every half month, those seeking instruction for the Uposatha should, on the Uposatha day, send a representative to the monks' quarters after paying homage to the stupas, to receive pure intentions, saying:
+
+「一切比丘尼僧和合禮比丘僧足，問布薩請教誡。」如是三說。
+
+"All the nuns' assembly respectfully salutes the feet of the monks' assembly, seeking the Uposatha instruction." This is said three times.
+
+僧布薩時，誦戒比丘應作是說：「大德僧聽！今布薩爾所日已過，餘爾所日在，佛聲聞僧常所行事，諸大德不來，諸比丘說欲清淨，誰與比丘尼取欲？」
+
+During the monks' Uposatha, the reciting monk should say: "Great virtuous assembly, listen! The previous Uposatha day is past, but the remaining days continue as our regular practice. Who among the monks who have spoken of pure wishes will grant the nuns' assembly's request?"
+
+取尼欲人應至上座前，偏袒右肩合掌作如是言：「比丘尼僧和合禮比丘僧足，與清淨欲，問布薩請教誡。」如是三說。
+
+The one appointed to grant the nuns' wishes should kneel before the senior monk, bare the right shoulder, and with joined palms say: "The nuns' assembly respectfully salutes the monks' assembly's feet, granting pure wishes, requesting Uposatha instruction." This is said three times.
+
+誦戒人應問：「誰教誡比丘尼？」
+
+The reciting monk should then ask, "Who will instruct the nuns?"
+
+若先有教誡人，後人應問言：「尼何日來？何處教誡？」
+
+If there is already an instructor, the officer should ask, "When will the nun come? Where will the instruction take place?"
+
+先人應語：「某日來，在某處。」
+
+The current instructor should reply, "On such and such day, at such and such place."
+
+若無教誡人者，先取尼清淨欲。
+
+If there is no instructor, first acquire the nuns' pure wishes.
+
+比丘應語尼言：「姊妹！無有教誡人，當謹慎莫放逸。」
+
+The monk should say to the nun, "Sister! There is no instructor; be careful and avoid negligence."
+
+若比丘成就十二法，僧應羯磨作教誡人。何等十二？
+
+If a monk attains the twelve qualities, the assembly should appoint him as the instructor by a formal act. What are the twelve?
+
+一、持戒；二、多聞不忘；三、持律廣略；四、辯才能說；五、學戒；六、學定；
+
+1. Keeps precepts; 2. Well-learned and does not forget; 3. Upholds the Vinaya in full and in brief; 4. Has eloquence and can teach; 5. Studies precepts; 6. Studies concentration;
+
+七、學慧；八、能除惡邪；九、梵行清淨；十、不污比丘尼淨行；
+
+7. Studies wisdom; 8. Capable of removing wrong and evil; 9. Has pure conduct; 10. Does not defile the pure conduct of nuns;
+
+十一、忍辱；十二、滿二十歲若過是。名成就十二法。
+
+11. Endures insults; 12. Has completed twenty years of age or more. These are called the twelve qualities.
+
+僧應拜作教誡比丘尼人。
+
+The assembly should formally appoint him as the instructor of the nuns.
+
+羯磨者應作是說：「大德僧聽！某甲比丘十二法成就。若僧時到，僧拜某甲比丘教誡比丘尼。如是白。」
+
+The formal act should be declared thus: "Great virtuous assembly, listen! Monk So-and-so has attained the twelve qualities. If the assembly is ready, the assembly appoints Monk So-and-so to instruct the nuns. Thus, I propose."
+
+「大德僧聽！某甲比丘十二法成就，僧今拜某甲比丘教誡比丘尼。諸大德忍拜某比丘教誡比丘尼者默然，若不忍者便說。是第一羯磨。」
+
+"Great virtuous assembly, listen! Monk So-and-so has attained the twelve qualities. The assembly now appoints Monk So-and-so to instruct the nuns. If the great virtuous ones consent to appoint Monk So-and-so as the instructor of the nuns, please remain silent. If there is no consent, please speak. This is the first formal act."
+
+第二、第三亦如是說。
+
+The second and third declarations are made in the same way.
+
+「僧已拜某比丘作教誡尼人竟，僧忍默然故，是事如是持。」
+
+"The assembly has completed the appointment of Monk So-and-so as the instructor of the nuns. The assembly consents and remains silent, thus this matter is upheld."
+
+是比丘受羯磨已，應教誡比丘尼。
+
+After this formal act, the monk should instruct the nuns
+
+
+教法者，有八事。
+Teaching methods consist of eight matters.
+
+何等八？
+What are the eight?
+
+一、非時；
+First, wrong timing;
+
+二、非處；
+Second, wrong place;
+
+三、過時；
+Third, past time;
+
+四、時未至；
+Fourth, premature;
+
+五、不和合；
+Fifth, lack of harmony;
+
+六、眷屬；
+Sixth, exclusivity;
+
+七、長句說法；
+Seventh, long discourse;
+
+八、迎教誡。
+Eighth, ceremonial reception.
+
+非時者，從日沒至明相未出教誡，是名非時。
+Wrong timing refers to giving instruction from sunset until dawn, which is termed wrong timing.
+
+若比丘非時教誡比丘尼者，波逸提。
+If a monk instructs a nun at the wrong time, it results in an offense.
+
+非處者，不得深猥處、不得露現處，當在不深不露處，若講堂、若樹下。
+Wrong place means neither in a deep secluded place nor an exposed location, but somewhere moderate like in a hall or under a tree.
+
+若比丘非處教誡比丘尼，越毘尼罪，是名非處。
+If a monk instructs a nun in the wrong place, it results in a Vinaya offense, and is termed wrong place.
+
+過時者，十四日、十五日是名過時。
+Past time refers to the fourteenth and fifteenth of the month.
+
+時未至者，月一日、若二日、三日，是名時未至。
+Premature refers to the first, second, and third of the month.
+
+應從四日至十三日往教誡。
+Instruction should be given from the fourth to the thirteenth.
+
+時未至教誡比丘尼者，越毘尼罪，是名時未至。
+Instructing a nun prematurely results in a Vinaya offense and is termed premature.
+
+不和合者，比丘尼僧不和合不應教誡，和合已然後教誡。
+Lack of harmony means instruction should not be given when the nun community is not in harmony; it should be given after harmony is achieved.
+
+教誡人到已應問：「尼僧和合未？」
+When the instructor arrives, they should ask, "Is the nun community in harmony?"
+
+若言：「和合。」應遣使呼言：「比丘尼來聽教誡。」
+If the answer is "yes," a messenger should be sent to announce, "The nuns should come to receive instruction."
+
+若老病、服藥、作衣鉢事不得來者，應與欲。
+If an elder, sick, medicated, or busy with robes and bowls cannot attend, permission should be given.
+
+如是言：「我某甲與教誡欲。」如是三說。
+Say, "I, so-and-so, give permission for instruction." This should be stated thrice.
+
+若比丘尼僧不和合教誡者，越毘尼罪，是名不和合。
+If instruction is given without harmony in the nun community, it results in a Vinaya offense and is termed lack of harmony.
+
+眷屬者，不得偏教誡，應一切尼僧和合已然後教誡，是名眷屬。
+Exclusivity refers to not giving biased instruction; all nuns should be in harmony before giving instruction, which is termed exclusivity.
+
+長語說者，如尊者難陀長語教誡尼，應作是說：「諸惡莫作，諸善奉行；自淨其意，是諸佛教。
+Long discourse means giving lengthy instruction like Venerable Nanda did, stating, "Avoid all evil, cultivate good deeds; purify one’s mind, this is the teaching of the Buddhas."
+
+姊妹！此是教誡，欲聽者便聽，去者任意。」
+Sisters! This is the instruction; those who wish to listen may stay, those who wish to leave may do so."
+
+若比丘長語教誡比丘尼者，越毘尼罪，是名長語說法。
+If a monk gives a long discourse to a nun, it results in a Vinaya offense, termed long discourse.
+
+迎教誡人法者，若比丘尼城邑聚落住，聞教誡比丘某日來，若無供給人者，應倩諸年少比丘齎持華香幡蓋往迎。
+Ceremonial reception means if the nuns reside in a town or village and hear that a monk will give instruction on a certain day, they should assign young monks to carry flowers, incense, and canopies to receive him, if no sponsors are available.
+
+若無者，隨其多少，下至合掌設敬代擔衣鉢，若一由延、半由延、若一拘盧舍、半拘盧舍，下至出城邑聚落外迎。
+If none are available, with whatever they have, they should at least show respect with hands joined or by carrying robes and bowls, extending up to a league's distance or even just outside the town or village to receive him.
+
+若不迎者，越毘尼罪。
+If they do not perform the reception, it results in a Vinaya offense.
+
+來已應勸化作前食、後食、非時漿，盡心供養，及眷屬七日勿令有乏。
+Upon arrival, they should be entreated to make offerings before and after meals, non-mealtime drinks, and ensure full provision for up to seven days for them and their followers.
+
+若無者，出己衣鉢中餘持用供養。
+If unavailable, they should use their own surplus robes and bowls to support.
+
+若復無者，下至合掌恭敬。
+If further unavailable, at least show respect with joined palms.
+
+
+
+教誡尼法者，若阿毘曇、若毘尼。
+For disciplining nuns, whether using Abhidharma or Vinaya.
+
+阿毘曇者，九部修多羅。
+Abhidharma consists of nine sections of teachings.
+
+毘尼者，波羅提木叉廣略。
+Vinaya includes the detailed and concise Pratimoksha.
+
+
+
+
+來時，不得低頭而住，應觀相威儀。  
+When instructing nuns, if they come, do not bow your head and stand; you should observe their demeanor.
+
+若見油澤塗頭、莊眼、著上色衣擣令光澤、白帶繫腰，如是者應呵。  
+If you see them with oiled hair, adorned eyebrows, wearing glossy-colored clothes, or a white belt around the waist, such behavior should be admonished.
+
+若是年少者，應語：「姊妹！汝今年少不學，待老當學耶？  
+If they are young, you should say, "Sister! You are young and do not study now; are you waiting to learn when you're old?
+
+汝後當教詔弟子，汝不學者，弟子亦當學汝作惡，是故汝應隨順學受經、誦經。」  
+You will later teach your disciples; if you do not study, the disciples will also learn to follow your bad example; therefore, you should obediently study the scriptures and recite them."
+
+若有俗人者不得教，勿令前人起不善心，言：「沙門教勅婦。」  
+If laypeople are present, you must not give instruction, as it might cause them to develop a negative attitude and say, "The monk is instructing women."
+
+若爾不得教，應問餘尼：「此是誰共行弟子？誰依止弟子？」  
+If so, you should not give instruction; you should ask other nuns, "To whom does this disciple relate? On whom does the disciple depend?"
+
+問已，應語彼和上、阿闍梨教呵，令隨順行法，勿令作非威儀事。  
+After asking, you should instruct their mentor or preceptor to teach and admonish them to follow the rules and not engage in improper behavior.
+
+比丘教誡比丘尼時應如女想，比丘尼於教誡人如佛想，  
+When monks give instruction to nuns, they should do so with the thought of them as women, and nuns should regard those who instruct them as Buddhas,
+
+是名半月問布薩求教誡。第六敬法竟。  
+This is called the fortnightly confession and seeking instruction. Thus ends the sixth rule of respect
+
+
+不依比丘不得住安居者，若親里欲請比丘尼安居者，尼應語檀越：「先請上尊。」
+
+Without a monk's support, a nun cannot live during the rains retreat; if relatives want to invite a nun for the retreat, the nun should tell the donor: "Invite the monk first."
+
+若言：「我於彼無敬心，正欲請尼。」尼應語：「我亦不去。」
+
+If they say, "I have no reverence for him, I only want to invite the nun," the nun should reply, "I will not go either."
+
+若為親里欲去者，應自請比丘，到彼已應料理前食、後食、非時漿、安居衣，勿令有乏。
+
+If for the sake of relatives she wishes to go, she should personally invite the monk, and upon arrival, arrange for the morning meal, afternoon meal, untimely beverages, and dwelling robes, ensuring nothing is lacking.
+
+若親里不與者，當自出己衣鉢中餘供給。
+
+If the relatives do not provide, she should supply it from the remaining offerings in her own alms bowl.
+
+若安居中比丘若死、若罷道、若餘處去，尼不得去。
+
+If the monk during the rains retreat dies, disavows the path, or departs to another location, the nun is not allowed to leave.
+
+三由延內有僧伽藍者，應通結界，半月應往問布薩。
+
+If there is a sanctuary within the three dependencies, universal ordination boundaries should be established, and she should go every fortnight to hear the Uposatha.
+
+若道路賊難、恐怖畏奪命傷梵行，有此等諸難者，至後安居末應往自恣。
+
+If there are dangers on the road such as thieves or threats to life and celibacy, at the end of the rains retreat, she should go to confess.
+
+若故有眾難者，當語親里：「為我請比丘來。」
+
+If there are serious difficulties, she should tell her relatives: "Invite the monk for me."
+
+來已供給所須前食、後食及非時漿，勿令有乏，自恣已應還本處。
+
+Once he comes, provide him with the necessary morning, afternoon meals, and untimely beverages, ensuring nothing is lacking, after confession she should return to her original place.
+
+若比丘尼欲住安居處，無比丘不得住安居。
+
+If a nun wishes to reside in a place for the rains retreat, without a monk, she cannot reside for the retreat.
+
+若住安居者，越敬法，是名無比丘住處，比丘尼不得安居。
+
+If she resides during the retreat disregarding the rules of respect, this is named a place without a monk, where a nun cannot stay for the retreat.
+
+第七敬法竟。
+
+The seventh rule of respect is thus concluded.
+
+
+
+
+竟二部僧中受自恣者，
+
+After the nun's retreat period, they should seek release in both assemblies of monks.
+
+比丘尼至自恣日受自恣已，
+
+The nuns should receive permission for self-reproach by the day of self-reproach.
+
+明日清旦應一切往比丘僧所受自恣。
+
+On the morning of the next day, they should all go to the monks' assembly for self-reproach.
+
+尼僧中應羯磨一尼能受自恣者。
+
+In the nun's assembly, an act of ordination should be performed by a nun who can perform self-reproach.
+
+羯磨人應作是說：「尼僧聽！某甲比丘尼能為尼僧作自恣人，
+
+The proposer should say: "Listen, nuns! A certain Bhikkhuni can be the one who performs self-reproach for the nuns.
+
+若僧時到，僧羯磨某甲比丘尼為尼僧作自恣人。
+
+If the time is right, the assembly of nuns should ordain this Bhikkhuni to perform self-reproach for the nuns.
+
+諸尼僧聽某甲比丘尼為尼僧作自恣人，
+
+All the nuns listen: This certain Bhikkhuni is being ordained to perform self-reproach for the nuns.
+
+僧忍默然故，是事如是持。」
+
+The assembly's silence indicates their consent; thus, this action is upheld."
+
+比丘、尼僧二眾各和合者，應作是說：
+
+When both the assembly of monks and nuns are united, they should say:
+
+「比丘、尼僧和合，比丘僧和合自恣說，
+
+"The monks and nuns have gathered; the monks' assembly declares self-reproach.
+
+若見聞疑罪，僧當語我，哀愍故。
+
+If you see or hear any suspected transgressions, you should tell me out of compassion.
+
+若見聞疑罪，當如法除。」
+
+If any transgressions are suspected, they should be duly resolved according to the law."
+
+第二、第三亦如是說。
+
+The second and third statements should be similarly declared.
+
+若比丘僧和合、眾多比丘尼者，應作是說：
+
+If the monks' assembly is united and there are many Bhikkhunis, they should say:
+
+「眾多比丘尼、比丘僧和合自恣說，
+
+"Many Bhikkhunis and the monks' assembly declare self-reproach,
+
+若見聞疑罪，僧當語。我哀愍故，
+
+If any suspected transgressions are seen or heard, the assembly should tell. Out of compassion,
+
+若知若見，當如法除。」
+
+If known or seen, it should be resolved according to the law."
+
+第二、第三亦如是說。
+
+The second and third statements should be similarly declared.
+
+若比丘僧和合、一比丘尼者，應作是說：
+
+If the monks' assembly is united and there is one Bhikkhuni, they should say:
+
+「我比丘尼、比丘僧和合自恣說，
+
+"One Bhikkhuni, the monks' assembly declares self-reproach,
+
+若見聞疑罪，僧當語我，哀愍故，
+
+If any suspected transgressions are seen or heard, the assembly should tell me out of compassion,
+
+若知若見，當如法除。」
+
+If known or seen, it should be resolved according to the law."
+
+第二、第三亦如是說。
+
+The second and third statements should be similarly declared.
+
+若眾多比丘、比丘尼僧和合者，應作是說：
+
+If many monks and the Bhikkhunis are united, they should say:
+
+「比丘尼僧和合，諸大德自恣說，
+
+"The Bhikkhunis and monks declare self-reproach and speak to the exalted ones.
+
+若見聞疑罪，諸大德當語我，哀愍故，
+
+If any transgressions are suspected, the exalted ones should tell me out of compassion.
+
+若知若見，當如法除。」
+
+If known or seen, it should be resolved according to the law."
+
+第二、第三亦如是說。
+
+The second and third statements should be similarly declared.
+
+若眾多比丘、眾多比丘尼者，應作是說：
+
+If there are many monks and many Bhikkhunis, they should say:
+
+「眾多比丘，尼諸大德自恣說。」
+
+"Many monks and Bhikkhunis declare self-reproach to the exalted ones."
+
+乃至第二、第三亦如是說。
+
+Even up to the second and third repetitions, it should be similarly declared.
+
+一比丘乃至一比丘尼者，應作是說：
+
+If there is one monk and one Bhikkhuni, they should say:
+
+「我比丘，尼大德自恣說，
+
+"I, the monk, declare self-reproach to the great Bhikkhuni,
+
+若見聞疑罪，當語我，哀愍故，
+
+If you see or hear any suspected transgressions, you should tell me out of compassion,
+
+若知若見，當如法除。」
+
+If known or seen, it should be duly resolved according to the law."
+
+第二、第三亦如是說。
+
+The second and third statements should be similarly declared.
+
+比丘尼安居竟，應如是二眾中受自恣。
+
+After the nun's retreat period ends, they should seek self-reproach within both assemblies.
+
+若比丘尼十六日不詣比丘僧受自恣，
+
+If the Bhikkhunis do not seek self-reproach from the monks by the sixteenth day,
+
+至十七日往受自恣者，越敬法。
+
+And they go for self-reproach on the seventeenth day, they violate the rule of respect.
+
+是名比丘尼第八敬法
+
+This is called the eighth rule of respect for Bhikkhunis.
+
+
+摩訶僧祇律卷第三十
+
+The Mahasanghika Vinaya, Volume Thirty
+
+
+
+

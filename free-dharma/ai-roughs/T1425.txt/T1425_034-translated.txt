@@ -1,0 +1,3062 @@
+#----------------------------------------------------------------------
+
+
+
+【經文資訊】
+
+[Scripture Information]
+
+大正新脩大藏經 第 22 冊
+
+Taisho Revised Tripitaka, Volume 22
+
+No. 1425 摩訶僧祇律
+
+No. 1425 Mahasanghika Vinaya
+
+
+
+
+#【版本记录】发行日期：2024-08，最后更新：2024-07-12
+
+# [Version Record] Release Date: 2024-08, Last Updated: 2024-07-12
+
+
+
+
+【編輯說明】本資料庫由 財團法人佛教電子佛典基金會（CBETA）依「大正新脩大藏經」所編輯
+
+[Editorial Note] This database is edited by the Chinese Buddhist Electronic Text Association (CBETA) based on the "Taisho Shinshu Daizokyo."
+
+
+
+
+蕭鎮國大德提供，
+Provided by the Virtuous Master Xiao Zhenguo,
+
+伽耶山基金會提供，
+Provided by the Gaya Mountain Foundation,
+
+北美某大德提供，
+Provided by a certain Virtuous Master in North America,
+
+釋本禪法師提供新式標點
+Provided by Master Shi Benchan as the new punctuation style.
+
+
+
+
+其他事項
+Other matters
+
+本資料庫可自由免費流通
+This database can be freely distributed for free
+
+詳細內容請參閱
+For details, please refer to
+
+財團法人佛教電子佛典基金會資料庫版權宣告
+Copyright declaration of the Buddhist Electronic Text Foundation Foundation Database
+
+
+
+
+orry, but it seems like your message might be missing the lines you want me to translate. Could you please provide the text that needs translation
+
+
+摩訶僧祇律卷第三十四
+Mahasanghika Vinaya, Scroll Thirty-Four
+
+
+
+
+東晉天竺三藏佛陀跋陀羅共法顯譯
+Translated by Buddhist Monk Buddhabhadra and Faxian from the Eastern Jin Dynasty
+
+
+
+
+爾時法場已設
+At that time, the dharma site was already prepared.
+
+入座者
+The one who enters the seat
+
+當知如是法界
+Should know that this is the dharma realm
+
+銘記佛教入之心
+Imprint the mind of entering into Buddhism
+
+隨諸菩薩所應行
+Follow the practices that all bodhisattvas should undertake
+
+觀察諸法謗日影
+Observe the reflection and shadow of all dharmas
+
+學習心靜
+Learn to calm the mind
+
+心不散亂
+The mind does not scatter and disperse
+
+如是專一心
+Thus, devote oneself wholeheartedly
+
+不作凡夫想
+Do not have ordinary thoughts
+
+此即為斷自身心
+This is to cut off one’s own body and mind
+
+復次
+Furthermore
+
+若入座時
+When entering the seat
+
+當念無常
+Contemplate impermanence
+
+所有身心如夢幻
+All body and mind are like a dream or illusion
+
+彼一切法之性
+The nature of all those dharmas
+
+猶如虛空
+Is like empty space
+
+能令菩薩生大智
+Can enable bodhisattvas to generate great wisdom
+
+
+
+，爾時比丘僧集欲作布薩，比丘盡集。  
+Buddha resided in Sravasti, at that time monks gathered to perform the Uposatha, and all the monks assembled.
+
+時難陀為僧上座不來。  
+At that time, Nanda, the chief monk, did not come.
+
+有檀越持物來，待僧和合已欲布施，問：「僧集未？」  
+A lay supporter came with offerings, waiting for the monks to gather before making donations, asked, "Are the monks assembled?"
+
+答言：「未集。」  
+The answer was, "Not yet."
+
+復問：「誰不來？」答言：「僧上座不來。」  
+Then asked, "Who has not come?" and the answer was, "The chief monk has not come." 
+
+檀越嫌言：「我待僧集欲有所施，而上座不來。」  
+The lay supporter complained, "I waited for the monks to gather to make an offering, but the chief monk did not come."
+
+待良久便布施而去。  
+After waiting a long time, they made the offering and left.
+
+上座逼暮方來，竟不行舍羅，復不唱：「不來諸比丘說欲清淨？」  
+The chief monk arrived late in the evening, without performing the Pātimokkha recitation, nor declaring, "Absent monks express their desire for purity?"
+
+直略說四事而去。  
+He just briefly mentioned the four matters and left.
+
+年少比丘問言：「上座來未？」  
+A young monk asked, "Has the chief monk come?"
+
+答言：「上座來已還去。」  
+The answer was, "The chief monk came and already left."
+
+年少比丘嫌言：「云何上座來亦不使人知，去亦不使人知？」  
+The young monk complained, "How come the chief monk neither informed his arrival nor his departure?"
+
+諸比丘以是因緣往白世尊。  
+Because of this matter, all the monks went to report to the Buddha.
+
+佛言：「呼難陀來。」  
+The Buddha said, "Call Nanda here."
+
+來已，佛問難陀：「汝實爾不？」  
+When he came, the Buddha asked Nanda, "Is this true?"
+
+答言：「實爾。」  
+He answered, "It is true."
+
+佛言：「從今日後僧上座應如是知。」  
+The Buddha said, "From today onward, the chief monk should understand thus."
+
+云何如是知？上座法應知。  
+How should one understand thus? The duties of a chief monk should be known.
+
+今十四日、若十五日布薩。  
+Now, on the fourteenth or fifteenth day, during Uposatha.
+
+中間布薩若晝、若夜，當知處所，若溫室、講堂、若林中。  
+In the middle Uposatha, whether day or night, one should know the location, whether in a warm room, the hall, or in the forest.
+
+應廣誦五篇戒，下至四事及偈，餘者僧常聞。  
+They should widely recite the five sections of precepts, down to the four matters and verses, and the rest should be commonly heard by monks.
+
+若城邑聚落中有比丘者，上座應令人唱。  
+If there are monks in the city or village, the chief monk should have someone announce.
+
+：「今僧十四日、若十五日，若食前食後，爾許人影在某處布薩。」  
+"Today, on the fourteenth or fifteenth day, whether before or after the meal, the gathering of people will be in a certain place for Uposatha."
+
+應先使人掃地泥治、散眾花已。  
+One should first have someone sweep the ground, arrange the mud, and scatter many flowers.
+
+誰應呪願、誦戒、行舍羅？上座應知。  
+Who should make aspirations, recite precepts, perform the Pātimokkha? The chief monk should know.
+
+說戒時僧未集，有檀越來者。  
+If the monks have not yet gathered to recite the precepts and a lay supporter comes.
+
+上座應為說法共相勞問。  
+The chief monk should preach to them and inquire politely.
+
+若不能者，應請第二上座。  
+If unable, one should invite the second chief monk.
+
+若法師為說法、布薩時至者，應問：「檀越欲去住。」  
+If the Dharma teacher is preaching and the time for Uposatha arrives, one should ask, "Do you wish to leave?"
+
+若言：「去。」者，應與呪願發遣令去。  
+If they say, "Leave," they should be given a blessing and sent away.
+
+住者，應遣出已作布薩。  
+For those staying, once sent out, the Uposatha should be conducted.
+
+有者應香湯洗舍羅已行。  
+Those present should wash with fragrant water before the Pātimokkha recitation.
+
+若坐希者，應一人行一人收。  
+For sparse attendants, one should pass while another collects.
+
+不得覆頭覆肩行籌，應脫革屣偏袒右肩行籌。  
+Do not cover the head and shoulders while distributing tablets, instead remove shoes and expose the right shoulder.'
+
+受籌人亦如是。  
+Those receiving the tablets should do likewise.
+
+先行受具足人籌，然後行沙彌籌。  
+First distribute to fully ordained monks, then to novices.
+
+行已應白：「爾許受具足人，爾許沙彌，合有爾許人。」  
+After distributing, it should be stated, "So many fully ordained monks, so many novices, totaling so many people."
+
+僧上座應誦戒。若不能者，次第二上座誦。  
+The chief monk should recite the precepts. If unable, the second chief monk recites.
+
+若復不能，乃至能誦者應誦。  
+If again unable, whoever can recite should recite.
+
+誦時若逼暮、天陰、風雨、有老病人不堪久坐、住處遠、有王難、賊難，爾時得略誦。  
+If during recitation it becomes late, the sky is darkening, there is wind or rain, old or sick monks cannot sit long, if the residence is far, or there is threat from kings or thieves, then a brief recitation is permissible.
+
+若日早無上諸難者應廣誦。  
+If the day is early with none of these difficulties, a full recitation should be done.
+
+若上座自誦、若餘人誦，若和合竟夜說法、論議、問答、呪願。  
+Whether the chief monk recites or others recite, whether the whole night is spent in Dharma discourse, discussion, questions and answers, or aspirations.
+
+上座布薩法應如是。若不爾者，越威儀法。  
+The chief monk’s method for Uposatha should be like this. If not, he transgresses the Vinaya rules
+
+
+，爾時比丘僧集欲作布薩，第一上座來，第二上座不來。
+The Buddha was residing in the city of Sravasti. At that time, the monks gathered to observe Uposatha; the first elder came, but the second elder did not.
+
+時檀越持物來欲布施，問：「僧集未？」答言：「未集。」
+A lay supporter came with offerings and asked, "Have the monks gathered yet?" The answer was, "Not yet."
+
+問：「誰不來？」答言：「第二上座不來。」
+He asked, "Who has not come?" The answer was, "The second elder has not come."
+
+檀越嫌言：「我欲少有所施，第二上座不來。」
+The lay supporter said with discontent, "I wish to make a donation, but the second elder is not here."
+
+待良久不來，便布施而去。
+After waiting for a long time and seeing that he did not come, he made the offering and left.
+
+第二上座逼暮方來，上座嫌言：「世尊獨制我，第二上座便不問耶？」
+The second elder only came late in the evening, and the first elder expressed discontent, "Is it only I whom the World Honored One instructs, and not the second elder?"
+
+諸比丘以是因緣往白世尊。
+The monks went to the World Honored One to report this matter.
+
+佛言：「呼是比丘來。」
+The Buddha said, "Call that monk to come."
+
+來已，佛問比丘：「汝實爾不？」答言：「實爾。」
+When he came, the Buddha asked the monk, "Is this true?" He answered, "It is true."
+
+佛言：「從今日後布薩時，第二上座亦應如是知。」
+The Buddha said, "From today onwards, during Uposatha, the second elder should also be aware as such."
+
+云何如是知？一切如上座中廣說。但以第二上座為異耳。
+How should he be aware of this? It is all explained in detail with respect to the elder; just consider that the second elder is different.
+
+若僧上座不能者，第二上座應知。
+If the elder among the monks is unable, the second elder should be aware.
+
+若不如是者，越威儀法。
+If this is not the case, it transgresses the rules of conduct.
+
+
+
+，爾時比丘僧集欲作布薩，
+
+The Buddha was residing in the city of Shravasti, and at that time the monks gathered to perform the uposatha ceremony.
+
+上座、第二上座來，餘人彷徉不時來集。
+
+The senior monks and the second senior monks arrived, while the others wandered and did not gather on time.
+
+上座、第二上座嫌言：「世尊獨制我，不制餘人耶？」
+
+The senior monks complained, saying: "Does the Blessed One only make rules for us and not for others?"
+
+諸比丘以是因緣，往白世尊，佛言：「呼是諸比丘來。」
+
+With this cause, the monks reported to the Blessed One, who said: "Call those monks here."
+
+來已，佛問：「汝實爾不？」答言：「實爾。世尊！」
+
+After they arrived, the Buddha asked: "Is it true?" They replied: "It is true, Blessed One!"
+
+佛言：「從今日後布薩事，一切僧應如是知。
+
+The Buddha said, "From today onwards, concerning the uposatha, all monks should know this.
+
+云何如是應知？月一日、二日乃至十四日、十五日，
+
+How should they know this? The first, second up to the fourteenth, fifteenth of the month,
+
+布薩中間、布薩日處所應知。
+
+The period between uposatha days and the location should be known.
+
+若人問：『今是幾日？』不得逆問：『昨日是幾日？』
+
+If someone asks, 'What day is it today?' you should not counter-ask, 'What day was it yesterday?'
+
+要當知。若恐忘者，應作籌繩穿懸講堂前、若食厨前，
+
+You should make sure to know. If afraid to forget, use a token string hanging in front of the lecture hall or dining hall,
+
+直月知事人日過一籌。
+
+and whoever is in charge should move one token each day.
+
+布薩日廣誦五篇戒，乃至四事及偈，餘者僧常聞。
+
+On uposatha days, extensively recite the five precept sections, up to the four matters and verses, which the monks usually hear.
+
+一切如上座中廣說，但一切為異。
+
+All as explained extensively among the senior monks, but everything is different.
+
+若上座、第二上座復不能者，餘一切盡應知。
+
+If the senior and second senior monks are unable, all others should know.
+
+若不如是，越威儀法。
+
+If not so, it would violate the behavioral rules.
+
+
+
+佛住舍衛城，爾時祇洹精舍檀越設供飯比丘僧，第一上座不來，羹飯已冷。
+When the Buddha was residing in the city of Shravasti, a benefactor at the Jeta Grove was offering food to the monks, but the most senior monk did not come, and the food became cold.
+
+檀越言：「比丘僧集未？」答言：「未集。」
+The benefactor said, "Have the monks gathered?" The reply was, "They have not gathered."
+
+「誰不來？」答言：「第一上座不來。」
+"Who has not come?" The reply was, "The most senior monk has not come."
+
+檀越嫌言：「我捨家業來欲飯僧，而比丘不集。」
+The benefactor was displeased and said, "I have set aside my duties to offer food to the monks, but the monks have not gathered."
+
+上座時至方來，亦不歎食呪願，狼狽食已便去。
+The senior monk arrived late, did not recite a blessing before eating, awkwardly ate, and then left.
+
+年少問言：「上座來未？」答言：「已來食竟便去。」
+The younger monks asked, "Has the senior monk arrived?" The reply was, "He has arrived, eaten, and then left."
+
+年少嫌言：「上座來亦不令人知，去亦不令人知。」
+The younger monks were displeased and said, "The senior monk came and left without informing anyone."
+
+諸比丘以是因緣往白世尊。
+Because of this incident, the monks reported it to the Blessed One.
+
+佛言：「呼難陀來。」來已，佛問：「汝實爾不？」答言：「實爾。」
+The Buddha said, "Call Nanda here." When he came, the Buddha asked, "Is it true?" He replied, "Yes, it is true."
+
+佛言：「從今日後僧上座食應如是知。」
+The Buddha said, "From today onwards, the senior monk should conduct himself in this way during meals with the assembly."
+
+云何如是知？今日誰施食？為二部眾、為一部眾？
+"How should this be conducted? Know who is offering the food today, whether it is for both assemblies or for one assembly?"
+
+為別房、請聚落中？若精舍中應知。
+"If it is for a private room, a village gathering, or at the monastery, one should be aware of it."
+
+若有人請明日飯僧，僧上座不得即受，應知前請人姓名客舊巷陌處所，恐有人試弄比丘故，不應即受。
+"If someone invites the monks for a meal tomorrow, the senior monk should not immediately accept. He should know the name and address of the inviter beforehand to prevent any pranks on the monks and should not accept immediately."
+
+若有人識彼請人男女，得受請。
+"If someone knows the inviter personally, then the invitation can be accepted."
+
+受請已不得便隨去，至明旦應遣直月、若園民、若沙彌往看之，或遭縣官、水火、盜賊產生死亡不能得辦。
+"After accepting the invitation, do not go immediately. The next morning, send a caretaker, a gardener, or a novice to check if the meal is ready or if any mishaps like government officials, water, fire, or thieves have occurred that would prevent the meal."
+
+若有此難，僧應自辦食，若無者語令乞食。
+"If such difficulties arise, the monks should prepare their own food; otherwise, they should be informed to go for alms."
+
+使往問：「請主食辦未？」若言：「是何人？是何食？」當知彼誑。
+"Send someone to ask if the meal host has prepared the meal. If they ask, 'Who are you? What meal?' then know they are deceiving you."
+
+若僧伽藍有食應辦常食，若無應唱言：「比丘僧被誑，各自乞食。」
+"If there is food at the monastery, maintain the regular meals; if not, announce, 'The monks have been misled, each should go for alms.'"
+
+若請主言：「尊者！正爾辦。」是時上座應知時。
+"If the meal host says, 'Venerable, the meal is ready,' at that time, the senior monk should be informed."
+
+若冬時應一切集已共去，若春夏時應前後去。
+"In winter, everyone should gather and go together; in spring and summer, they can go in smaller groups."
+
+若到彼請家日早，食未辦欲餘行，應白比丘：「我欲至某甲家，若食辦者莫待我。」
+"If they reach the host's house early and the meal is not yet ready and they wish to go elsewhere, they should inform the monks, 'I wish to go to a certain person's house, if the meal is ready, do not wait for me.'"
+
+去已應早還。
+"He should leave and return early."
+
+入檀越家時，上座應知坐左右。
+"When entering the benefactor's house, the senior monk should know where to sit, either on the left or right."
+
+若檀越作吉祥會，右敷座者應坐。
+"If the benefactor is hosting an auspicious event, they should sit on the right side."
+
+若為餓鬼會，左敷座者亦應坐。
+"If it is a gathering for hungry ghosts, they should also sit on the left side."
+
+若敷長淨坐具，急者應以手按令緩，徐徐坐不得使裂。
+"If it is a long, clean seating mat, if in a hurry, press it down with your hand to make it stable and sit slowly without causing it to tear."
+
+若不急者不得頓身坐，或下有器物、眠小兒，先應一手按座。
+"If not in a hurry, do not plop down immediately in case there are objects or sleeping children underneath; press the seat with one hand first."
+
+不得持膩鉢及餅果著上，不得用拭手。
+"One should not place oily bowls or cakes and fruits on it, nor use it to wipe hands."
+
+上座當知誰看房？誰病應語與食。
+"The senior monk should know who is guarding the room and who is sick and should inform them about receiving food."
+
+若檀越惜者，應語言：「長壽！法應與，不得不與。」
+"If the benefactor is reluctant, they should say, 'Long life! What should be given according to the Dharma should not be withheld.'"
+
+若日早者應著行取，若日晚者應先取發遣令去。
+"If it is early in the day, execute the routine; if late, first take and then dismiss."
+
+僧上座應知前人為何等施？當為應時呪願。
+"The senior monk should know what offerings the benefactor has made and chant blessings accordingly."
+
+若檀越行食時，多與上座者，上座應問：「一切僧盡得爾許不？」
+"If while serving food, the benefactor gives more to the senior monk, the senior monk should ask, 'Will all the monks receive this amount?'"
+
+答言：「止上座得耳。」應語言：「一切平等與。」
+"If the reply is, 'Only the senior monk receives this,' he should say, 'Give equally to all.'"
+
+若言：「盡得者應受。」若須，少取少下者，應語：「多與。」
+"If they say, 'All will receive,' then accept. If needed, and if a smaller portion is taken, say, 'Give more.'"
+
+若乳酪、餅肉、酥如是比好食，盡應語：「平等與。」
+"If it is good food like milk, cheese, cakes, or meat, they should all be equally distributed."
+
+僧上座法不得隨下便食，應待行遍唱等供已然後得食。
+"The senior monk should not immediately eat while others serve; he should wait until the offerings are made and then start to eat."
+
+上座法當徐徐食，不得速食竟住看，令年少狼狽食不飽。
+"The senior monk should eat slowly, not quickly finish and watch, causing the younger monks to hastily eat and not be satisfied."
+
+應相望看，不得食竟便在前出去，應待行淨水，隨順呪願已然後乃出。
+"They should watch one another and not leave first after finishing the meal. They should wait for the cleansing with water and the blessing chant before departing."
+
+若為亡人施福者，不應作是吉祥歎：
+"If offering merit for the deceased, they should not make auspicious praises."
+
+
+
+賢善已無常，
+Virtue and kindness are no longer everlasting,
+
+今是吉祥日，
+Today is an auspicious day,
+
+
+
+
+种种设饶饍，  
+Various kinds of food are prepared,
+
+供养良福田。  
+To make offerings to the field of merit.  
+
+
+
+
+應作如是呪願：
+You should make the following incantation and vow:
+
+我今從時至明朝，
+From now until tomorrow morning,
+
+斷食黃白物，並一切後行菓菜等。
+I refrain from eating yellow and white foods, as well as all fruits and vegetables that ripen later.
+
+以此持首楞嚴菩提，以此持楞伽摩尼。
+With this, I uphold the Shurangama Bodhi and the Lankavatara Mani.
+
+如是呪願，應當持之。
+Make such an incantation and vow, and it should be maintained.
+
+
+
+一切眾生類，
+All beings,
+
+有命皆歸死，
+All that live must die,
+
+
+
+
+随彼善恶行，    
+Following their good or bad actions,    
+
+自受其果报。   
+they receive the corresponding consequences.
+
+
+
+
+行恶入地狱，  
+Those who do evil enter hell,  
+
+为善者生天，  
+Those who do good are born in heaven,  
+
+
+
+
+若能修行道，
+
+If one can practice the Way,
+
+漏盡得泥洹。
+
+exhausting afflictions, one can attain Nirvana.
+
+
+
+
+若生子設福者，不應作如是說：
+
+If a son is born, bringing blessings, one should not say such things:
+
+
+
+
+僮子弃塚间，
+The young boy abandoned among the graves,
+
+𠲿指七日活，
+Revived miraculously after seven days,
+
+
+
+不遭蚊虻害，   
+No harm from mosquitoes and gadflies,
+
+僮子功德力。  
+Due to the merits of the servant child.
+
+
+
+
+應該這樣祈願：
+
+You should pray like this:
+
+願我行為皆合於道，
+
+May my actions all be in accordance with the Dao,
+
+不為自利，乃為利益他眾。
+
+Not for self-benefit, but for the benefit of others.
+
+在每一件錯誤中獲得教訓，
+
+Learn lessons from every mistake,
+
+而非痛苦與懊悔。
+
+Instead of pain and regret.
+
+願我心如明鏡，
+
+May my heart be like a bright mirror,
+
+清澈透亮，照見萬物。
+
+Clear and bright, reflecting all things.
+
+
+
+
+僮子歸依佛，
+The young boy takes refuge in the Buddha,
+
+如來毘婆施，
+The Tathagata gives generously,
+
+
+
+尸棄毘葉婆，  
+Shi Qi Bi Ye Po,  
+
+拘樓拘那鋡，  
+Ju Lou Ju Na Qian,  
+
+
+
+
+迦葉及釋迦，  
+Kashyapa and Shakyamuni,  
+
+七世大聖尊，  
+Seven generations of great sages,  
+
+
+
+
+譬如人父母，
+Just like human parents,
+
+慈念於其子，
+Who are affectionate towards their children,
+
+
+
+
+舉世之樂具， 
+The joys of the whole world,
+
+皆悉欲令得。 
+I wish everyone to obtain them.
+
+
+
+
+令子受諸福，
+Let the child receive all blessings,
+
+復倍勝於彼，
+And surpass them twice over,
+
+
+
+
+室家諸眷屬，  
+Family members of the household,
+
+受樂亦無極。  
+Receive endless happiness.
+
+
+
+
+如果进入新居而举办供奉仪式时，不要这样说：
+
+When entering a new house and holding a ritual, do not say this:
+
+
+
+
+若火燒屋時，
+If fire burns the house,
+
+得出中所有，
+Get everything out from inside,
+
+
+
+必為己財寶，  
+This will be your treasure,
+
+不為火所焚。  
+not to be consumed by fire.
+
+
+
+
+應作如是呪願：
+One should make vows as follows:
+
+願此功德，回向法界。
+May this merit be dedicated to the Dharma realm.
+
+盡未來際，利益眾生。
+For the benefit of all beings, until the end of future time.
+
+
+
+屋舍覆蔭施，
+The house is shaded by trees,
+
+所欲隨意得，
+Everything you desire is obtained at will,
+
+
+
+
+吉祥賢聖眾，  
+Auspicious and virtuous assembly of sages,
+
+處中而受用。  
+Dwelling in balance and benefiting from it.
+
+
+
+
+世有黠慧人，
+There are cunning and clever people in the world,
+
+乃知於此處，
+Who understand this place,
+
+
+
+
+請持戒梵行，
+Please uphold the precepts and pure conduct,
+
+修福設飲食。
+Cultivate blessings and provide offerings of food.
+
+
+
+
+僧口咒愿故，   
+Due to the monk's chants and prayers,  
+
+宅神常欢喜，  
+the household deity is always joyful,  
+
+
+
+
+善心生守護，  
+The benevolent heart gives birth to protection,
+
+長夜於中住。  
+Abides within throughout the long night.  
+
+
+
+
+若入於聚落，  
+If you enter a settlement,  
+
+及以曠野處，  
+or an open wilderness,  
+
+
+
+
+若昼若于夜，　　天神常随护。
+
+During the day or at night, the celestial deities always provide protection.
+
+
+
+
+如果商人想要设置和福有关的事情，就不应该这样说
+
+If a merchant wants to arrange matters related to prosperity, they should not say this
+
+
+
+
+一切各方面，
+
+In every aspect,
+
+賊难无法实施，
+
+the thief finds it impossible to act,
+
+
+
+
+今正是其時，
+
+Now is the right time,
+
+出家修梵行。
+
+to leave home and cultivate pure conduct.
+
+
+
+
+「應作如是說：
+
+"It should be said like this:
+
+應當如何行事。
+
+What should be done.
+
+不應作如是說：
+
+It should not be said like this:
+
+不應當如此行事。
+
+It should not be done like this.
+
+
+
+諸方皆安隱，
+All directions are at peace,
+
+諸天吉祥應，
+The heavenly beings respond with auspiciousness,
+
+
+
+
+听闻心欢喜，  
+Hearing this, the heart rejoices.
+
+所欲皆悉得。  
+All desires are completely fulfilled.
+
+
+
+
+兩足者安隱，
+Those with two feet are at peace,
+
+四足者亦安，
+And those with four feet are also at peace,
+
+
+
+
+去时得安隐，  
+When leaving, there is peace.
+
+来时亦安隐。  
+When arriving, there is also peace.
+
+
+
+
+夜安晝亦安，
+Peaceful at night and peaceful in the day,
+
+諸天常護助，
+The heavens always protect and assist,
+
+
+
+
+诸伴皆贤善，  
+All companions are wise and kind.
+
+一切悉安隐。  
+Everything is peaceful and secure.
+
+
+
+
+康健賢善好，
+In good health and virtuous,
+
+手足皆無病，
+All limbs free of illness,
+
+
+
+
+舉體諸身分，  
+Every part of the body,  
+
+無有疾苦處。  
+has no pain or suffering.  
+
+
+
+
+若有所欲者，  
+If there is something one desires,
+
+去得心所願。  
+go and fulfill what the heart wishes.
+
+
+
+
+東方有七星，常護世間令得如願：
+In the east, there are seven stars that always protect the world and fulfill wishes:
+
+一名吉利帝，二名路呵尼，三名僧陀那，
+The first is called Jilidi, the second Luoni, the third Sengtuona,
+
+四名分婆𠲿，五名弗施，六名婆羅那，七名阿舍利，
+The fourth Fenboqie, the fifth Fushi, the sixth Boluona, the seventh Ashelai,
+
+是名七星在東方常護世間，
+These are the seven stars who always guard the world from the east,
+
+今當護汝令得安隱得利早還，一切星宿皆當護汝。
+They will now protect you, granting safety and profit for an early return, as all constellations should guard you.
+
+復次東方有八天女：
+Furthermore, in the east, there are eight celestial maidens:
+
+一名賴車摩提，二名尸沙摩提，三名名稱，
+The first is Laichemoti, the second Shishamoti, the third Mingcheng,
+
+四名耶輸陀羅，五名好覺，六名婆羅濕摩，
+The fourth Yashudaluo, the fifth Haojue, the sixth Boluoshima,
+
+七名婆羅浮陀，八名阿毘呵羅，
+The seventh Bolofotu, the eighth Abihela,
+
+是名八天女，在東方常護世間。
+These are the eight celestial maidens who always watch over the world from the east.
+
+有天王名提頭賴吒、揵闥婆王及一切諸天常護汝等，
+There is a heavenly king named Tituloizha, along with the Gandharva king and all the deities regularly safeguarding you.
+
+普令安隱得利早還。
+They universally ensure your safety and an early profitable return.
+
+東方有支提名弓杖，常出光明，
+In the east, there is a stupa named Gongzhang, which consistently emits light,
+
+諸天恭敬供養，是一切供養天當護汝，
+Revered and worshipped by the gods, these heavenly offerings always protect you,
+
+令得財利安隱早還。
+Ensuring financial gain, safety, and an early return.
+
+
+
+南方有七星，常護世間：
+
+In the south, there are seven stars that constantly protect the world:
+
+一名摩伽，
+
+The first is called Mohe,
+
+二、三同名頗求尼，
+
+The second and third share the name Progeni,
+
+四名容帝，
+
+The fourth is called Rongdi,
+
+五名質多羅，
+
+The fifth is called Zhiduoluo,
+
+六名私婆帝，
+
+The sixth is called Sibodi,
+
+七名毘舍佉，
+
+The seventh is called Bisheqie,
+
+是名七星，在南方常護世間。
+
+These are the seven stars in the south that constantly protect the world.
+
+今當護汝令安隱得利早還，
+
+Now they will protect you so that you may safely and profitably return soon,
+
+一切星宿皆當護汝。
+
+All the constellations shall protect you.
+
+南方有八天女：
+
+In the south, there are eight celestial maidens:
+
+一名賴車魔帝，
+
+The first is called Laichemodi,
+
+二名施師魔帝，
+
+The second is called Shishimodi,
+
+三名名稱，
+
+The third is called Mingcheng,
+
+四名名稱持，
+
+The fourth is called Mingchengchi,
+
+五名好覺，
+
+The fifth is called Haojue,
+
+六名好家，
+
+The sixth is called Haojia,
+
+七名好力，
+
+The seventh is called Haoli,
+
+八名非斷，
+
+The eighth is called Feiduan,
+
+常護世間。
+
+They constantly protect the world.
+
+有天王名毘留荼俱魔荼鬼神王，
+
+There is a celestial king named Pilutu Jumo Ghost Deity King,
+
+共護汝等得利早還。
+
+Together, they protect you so that you may profitably return soon.
+
+南方有支提名阿毘鉢施，
+
+In the south, there is a sanctuary called Abibashi,
+
+常放光明，
+
+It always emits radiance,
+
+諸天恭敬供養。
+
+Revered and worshiped by all the heavens.
+
+一切供養支提諸天，
+
+All who worship at the sanctuary, including the gods,
+
+常護汝等安隱得利早還。
+
+Constantly protect you for a safe and profitable return.
+
+
+
+西方有七星，常護世間：
+In the west, there are seven stars, always protecting the world:
+
+一名不滅，
+The first is called Unquenchable,
+
+二名逝吒，
+The second is named Shicha,
+
+三名牟邏，
+The third is called Mouluo,
+
+四名堅強精進，
+The fourth is named Strong and Diligent,
+
+五、六同名阿沙荼，
+The fifth and sixth share the name Ashadha,
+
+七名阿毘闍摩，
+The seventh is named Abhijñāna,
+
+是名七星。
+These are called the Seven Stars.
+
+常護世間，當護汝等得利早還，
+They always protect the world, and should watch over you to quickly return with benefits,
+
+一切星宿皆當護汝。
+All the stars and constellations should protect you.
+
+西方有八天女：
+In the west, there are eight heavenly maidens:
+
+一名阿藍浮婆，
+The first is called Alambova,
+
+二名雜髮，
+The second is named Zafa,
+
+三名阿利吒，
+The third is called Alisha,
+
+四名好光，
+The fourth is named Good Light,
+
+五名伊迦提舍，
+The fifth is called Ikadisha,
+
+六名那婆私迦，
+The sixth is named Navasika,
+
+七名既色尼，
+The seventh is called Kisani,
+
+八名沙陀羅，
+The eighth is named Shatara,
+
+是名八天女。
+These are called the Eight Heavenly Maidens.
+
+有天王名毘留博叉，常護世間，
+There is a heavenly king named Virupaksha, who always protects the world,
+
+有龍王名婆留尼，及一切諸龍當護汝等得利早還。
+There is a dragon king named Varuna, and all dragons should protect you to quickly return with benefits.
+
+西方有山名饒益，日月居中，
+In the west, there is a mountain named Beneficial, with the sun and moon residing in the middle,
+
+若有所求得心所願。
+If you have any requests, they will be fulfilled as you wish.
+
+
+
+
+北方有七星常護世間：
+In the north, there are seven stars that constantly protect the world:
+
+一名檀尼吒，
+One is named Danni Cha,
+
+二、三同名世陀帝，
+The second and third share the name She Ti Di,
+
+四名不魯具陀尼，
+The fourth is named Bulu Ju Tuo Ni,
+
+五名離婆帝，
+The fifth is named Li Po Di,
+
+六名阿濕尼，
+The sixth is named A Shi Ni,
+
+七名婆羅尼，
+The seventh is named Po Luo Ni,
+
+是名七星，
+These are called the seven stars,
+
+常護世間，
+They constantly protect the world,
+
+當護汝等得利早還，
+They should protect you to gain profit and return quickly,
+
+一切星宿皆當護汝。
+All celestial beings should protect you.
+
+北方有八天女：
+In the north, there are eight celestial maidens:
+
+一名尼羅提毘，
+One is named Niluotibi,
+
+二名修羅提毘，
+The second is named Xiuluotibi,
+
+三名俱吒毘，
+The third is named Juzhabi,
+
+四名波頭摩，
+The fourth is named Botoumo,
+
+五名呵尼，
+The fifth is named Heni,
+
+六名波利，
+The sixth is named Poli,
+
+七名遮邏尼，
+The seventh is named Zhelani,
+
+八名迦摩，
+The eighth is named Jiama,
+
+是名八天女。
+These are called the eight celestial maidens.
+
+有天王名婆留那，
+There is a celestial king named Poluona,
+
+常護世間，
+He constantly protects the world,
+
+當護汝等得利早還。
+He should protect you to gain profit and return quickly.
+
+北方有山名枳羅蘇，
+In the north, there is a mountain named Zhiluosu,
+
+鬼神常居中，
+Where ghosts and spirits often reside,
+
+一切諸鬼神當護汝等得利早還。
+All ghosts and spirits should protect you to gain profit and return quickly.
+
+二十八宿并日月三十二天女，
+The twenty-eight lunar mansions and thirty-two celestial maidens,
+
+并四大天王治世有名稱，
+And the four great heavenly kings are famous for governing the world,
+
+東方提頭羅吒王、
+The eastern Tehoulua king,
+
+西方毘留博叉王、
+The western Piluocha king,
+
+南方毘留荼王、
+The southern Piliu king,
+
+北方婆留那王。
+The northern Poluona king.
+
+八沙門、八婆羅門、
+Eight Samanas, eight Brahmans,
+
+八大國剎利、八帝釋女等，
+Eight great Kshatriyas and eight Indra maidens, etc.,
+
+當護汝等得利早還。
+They should protect you to gain profit and return quickly.
+
+
+
+如果娶了施舍的人，就不应该这么说：
+
+If you marry a giver, you should not say this:
+
+
+
+
+枯河無有水，
+The dry river has no water,
+
+國空王無護，
+The kingdom is empty, the king has no protection,
+
+
+
+
+女有兄弟十，  
+The woman has ten brothers,  
+
+亦名無覆護。  
+Still, it is said she has no protection.  
+
+
+
+
+應作是呪願：
+You should make this chant-wish:
+
+安住七菩提分法，
+Abide in the seven factors of enlightenment,
+
+通達四無礙解智，
+Gain mastery in the four unobstructed liberations of wisdom,
+
+成就五無誤道行，
+Accomplish the five faultless paths,
+
+住於十六佛行處，
+Dwell in the sixteen practices of the Buddha,
+
+圓滿十八不共法，
+Perfect the eighteen distinctive qualities of the Buddha,
+
+無量福德悉皆成。」
+And achieve all immeasurable merits.」
+
+
+
+女人信持戒，
+Women believe in observing precepts,
+
+夫主亦復然，
+And so do their husbands,
+
+
+
+
+由有信心故，  
+Because of having confidence,  
+
+能行修布施。  
+One can practice giving.  
+
+
+
+
+二人俱持戒    
+The two both uphold the precepts
+
+修習正見行    
+and practice right view behavior,
+
+
+
+
+歡喜共作福。
+Rejoice and create blessings together.
+
+諸天常隨喜，
+The heavens always follow with joy,
+
+
+
+
+此業之果報，
+The fruits of this karma,
+
+如行不齎糧。
+are like going on a journey without provisions.
+
+
+
+
+若出家人布施者，不得作是說：
+If a monk makes a donation, he must not say:
+
+
+
+
+使子孫繁熾，
+To make descendants prosperous,
+
+奴婢及錢財，
+Slaves and wealth,
+
+
+
+羊諸六畜，
+Cattle, sheep, and various livestock,
+
+一切皆滋多。
+All are flourishing abundantly.
+
+
+
+
+應作是呪願：
+One should make this mantra wish:
+
+
+
+
+持钵家家乞，  
+Begging from house to house with a bowl,  
+
+值瞋或遇喜，  
+Sometimes faced with anger, sometimes with joy,  
+
+
+
+
+將適護其意，   
+Before his mind adapts to protection,
+
+出家布施難。   
+It is difficult to renounce the world and give alms.
+
+
+
+
+僧上座應如是知，
+
+A senior monk should know thus,
+
+若不如是者越威儀法。
+
+Otherwise, they transgress the rules of conduct.
+
+
+
+
+，時檀越飯僧，難陀為上座先坐，優波難陀及餘比丘不時集，上座嫌言：「世尊獨制我，不制餘人耶？」
+
+The Buddha lived in the city of Shravasti. At that time, a donor provided a meal for the monks. Nanda, as the head monk, sat first. Upananda and other monks did not gather on time, so the head monk complained, "Does the Blessed One only discipline me and not others?"
+
+乃至佛言：「從今日後應一切齊集食。
+
+Up to the point where the Buddha said, "From today onwards, everyone should gather to eat together.
+
+上座應如上說，此中但以第二上座，及一切為異，乃至當留比坐坐處。
+
+The head monk should act as previously stated, except that the second monk and others are different. They should leave space for seating.
+
+若行食人過者，不得默然而看比坐，應語：『與是。』
+
+If someone serving food passes, they should not silently watch others sit. They should say, 'Eat now.'
+
+不得得食便先食，要待遍已然後食。
+
+Do not eat as soon as you receive the food. You must wait until everyone has been served.
+
+若時逼者，隨下隨食無罪。
+
+In urgent times, eat as you come without fault.
+
+上座應呪願，若不能者，第二上座呪願。
+
+The head monk should recite blessings. If unable, the second monk should recite them.
+
+若復不能者下過，乃至能者應呪願。
+
+If even they cannot, it passes to the next until someone is able to bless.
+
+如是一切食上座應知。
+
+Thus, the head monk should know all about meals.
+
+若不如是知者越威儀法。」
+
+If not understood in this way, it violates the rules of conduct."
+
+
+
+佛住舍衛城，  
+The Buddha was residing in the city of Sravasti,
+
+時優波難陀度人出家受具足，  
+at that time, Upananda ordained people, granting them full ordination,
+
+受具足已不教誡，  
+but after granting full ordination, he did not instruct them,
+
+如天牛、天羊威儀不具足，  
+so their conduct was like celestial cattle and sheep, lacking propriety,
+
+不知承事和上、阿闍梨、長老比丘法，  
+and they did not know how to attend to the senior monks, instructors, and elders,
+
+又不知入聚落阿練若法，入眾著衣持鉢法。  
+nor the practices of entering villages, or the rules for wearing robes and carrying bowls.
+
+諸比丘以是因緣往白世尊。  
+Because of this, the monks went to inform the Blessed One.
+
+佛言：「呼優波難陀來。」  
+The Buddha said, "Call Upananda here."
+
+來已，佛問比丘：「汝實爾不？」  
+When he came, the Buddha asked him, "Is this true?"
+
+答言：「實爾。」  
+He answered, "It is true."
+
+佛言：「從今日後和上應如是教共行弟子。  
+The Buddha said, "From today onwards, preceptors should teach the newly ordained disciples like this.
+
+云何教？受具足已應教誦二部比尼；  
+How should they teach? After full ordination, they should teach the recitation of two sections of Vinaya;
+
+若不能者教誦一部；  
+if they cannot do that, teach one section;
+
+復不能者教廣誦五篇戒；  
+if they cannot do that, teach them the extensive recitation of the five precepts;
+
+復不能者教誦四、三、二下至四事。  
+if they cannot do that, teach them the recitation down to four, three, or two matters.
+
+日三教，晨起、日中、向冥。  
+Teach them three times a day: in the morning, at noon, and towards dusk.
+
+教法者，若阿毘曇、若比尼。  
+The teachings should be either Abhidharma or Vinaya.
+
+阿毘曇者，九部經。  
+The Abhidharma teachings are the nine categories of scriptures.
+
+比尼者，波羅提木叉略廣。  
+The Vinaya teachings include the concise and extensive Pratimoksha.
+
+若不能者，應教知罪輕重、知線經義、知比尼義、  
+If they cannot do that, they should be taught to understand the gravity of transgressions, the meaning of the sutras, the meaning of the Vinaya,
+
+知陰界入義、知因緣義，教威儀、非威儀應遮，  
+the meaning of aggregates, elements, and sense-bases, the meaning of conditions, proper conduct, and what is to be restrained.
+
+受經時、共誦時、坐禪時，即名教。  
+Teachings include listening to scriptures, group recitations, and meditation time.
+
+若不受經、共誦、坐禪者，下至應教莫放逸。  
+If they do not listen to scriptures, recite together, or meditate, at least teach them not to be negligent.
+
+和上不如是教共行弟子者，越威儀法。」  
+If the preceptor does not teach the newly ordained disciples like this, they violate the rule of conduct."
+
+
+
+舍衛城，時優波難陀共行弟子，不數至和上所，優波難陀嫌言：「世尊獨制我、不制弟子。
+
+Moreover, when the Buddha was residing in Śrāvastī, at that time, Upananda and his accompanying disciples did not frequently visit their senior. Upananda complained, saying, "The World-Honored One only disciplines me and not my disciples.
+
+弟子來我當教，不來我教誰？」諸比丘以是因緣往白世尊。
+
+"When disciples come, I will teach them. If they do not come, whom shall I teach?" Because of this reason, the monks reported to the World-Honored One.
+
+佛言：「呼是比丘來。」來已，佛問比丘：「汝實爾不？」
+
+The Buddha said, "Call this monk over." When he came, the Buddha asked him, "Is it true as you say?"
+
+答言：「實爾。」佛言：「從今日後共行弟子應如是事和上。
+
+He replied, "It is true." The Buddha said, "From today onwards, the accompanying disciples should do these things for their senior.
+
+云何事？共行弟子法應晨起先右脚入和上戶，入已頭面禮足問：『安眠不？』
+
+What things? The rules for accompanying disciples are: In the morning, they should first step with their right foot into the senior's residence, then bow with head to feet and ask, 'Did you sleep well?'
+
+若受經、若問事已應出。
+
+If receiving teachings or asking questions, they should then leave.
+
+小行器唾壺著常處，先以水灑地然後掃，巨摩塗地。
+
+They should place small utensils and spittoons in their usual places, first sprinkle water on the ground and then sweep, and finally plaster the ground.
+
+洗手已授水、齒木竟，持鉢與迎粥食。
+
+After washing hands, they should offer water and tooth sticks, then carry the bowl and greet for porridge and food.
+
+粥已洗器舉著常處。若有請處者應往迎食。
+
+After consuming porridge, they should wash the bowls and place them in their usual places. If there's an invitation, they should go to receive the meal.
+
+欲入村時授入聚落衣，卷疊院中衣著常處。
+
+When intending to enter the village, they should offer the village-entering robe, roll and fold the courtyard robe and place it in the usual place.
+
+入聚落時應從師後行。
+
+Upon entering the village, they should walk behind the teacher.
+
+若欲乞食時當白和上，和上應語：『如法莫放逸。』
+
+If intending to beg for food, they should inform the senior, who should say, 'Act by the rules, do not be negligent.'
+
+若先還者應與和上敷坐床，取淨水、辦草葉待和上。
+
+If returning first, they should prepare the seat for the senior, fetch clean water, and prepare grass leaves to await the senior.
+
+和上還已應授與院中衣，取入聚落衣抖擻疊著常處。
+
+When the senior returns, they should offer the courtyard robe, retrieve the village-entering robe, shake it out, fold it, and place it in the usual place.
+
+若熱時應與水洗浴，寒時應然爐火。
+
+In hot weather, they should offer water for bathing; in cold weather, they should light the stove.
+
+己若得好食者應授與和上，和上看已應問：『汝何處得是好食？』
+
+If they acquire good food, they should offer it to the senior. The senior, upon seeing it, should ask, 'Where did you get this good food?'
+
+若言：『某甲婬女家、寡婦家、大童女家、不能男家、惡名比丘尼邊、惡名沙彌尼邊得。』
+
+If they respond, 'From such-and-such a prostitute's house, a widow's house, a young maiden's house, an impotent man's house, or from a notorious nun or novice nun.'
+
+和上應語：『此非行處，不應取彼食。』
+
+The senior should say, 'This is not a suitable place, you should not accept food from there.'
+
+若言：『為說法故得。』應語：『不得邪命取人食。』
+
+If they say, 'I got it for teaching the Dharma,' the response should be, 'Do not accept food illicitly from people.'
+
+食時應授水洗手授食，若是熱時與冷水、以扇扇之，食已收鉢取草葉洗鉢舉著常處。
+
+At meal times, they should offer water for handwashing and food, provide cool water if it is hot, and use a fan. After eating, they should clean the bowl and place it in its usual place.
+
+和上若欲入林坐禪時，應取尼師檀著肩，上持澡罐隨後。
+
+When the senior wishes to enter the forest for meditation, they should carry the niṣīdana (seat cloth) on the shoulder and follow with the bathing pot.
+
+到已若受經問義，得已應在一處修習。
+
+After reaching, if receiving teachings or asking about meanings, they should then practice in one place.
+
+若欲共他並誦時白和上，和上應問：『與誰共誦？』
+
+If wishing to chant together with someone, they should inform the senior, who should ask, 'With whom will you chant?'
+
+答言：『與某甲共誦。』和上觀前人，持律緩者應語：『莫去，此人不可與作往反。』
+
+The response should be, 'I will chant with so-and-so.' If the senior observes the person, and finds them lax in discipline, they should say, 'Do not go, this person is not suitable for interaction.'
+
+若持律好者應語：『誦。』
+
+If the person is good in discipline, they should say, 'Go ahead and chant.'
+
+還時應取尼師檀著肩上、持澡罐隨還。
+
+Upon returning, they should again carry the niṣīdana on the shoulder and the bathing pot, and return.
+
+和上欲禮塔時，應與水洗手授華。
+
+When the senior wishes to pay respects at a stupa, they should offer water for handwashing and flowers.
+
+禮塔已與敷坐床、與洗脚、與油塗足。
+
+After paying respects, they should prepare the seat, wash the feet, and offer oil for foot anointment.
+
+欲眠時應拂拭床褥安枕，應與然燈，內唾壺小行器。
+
+When the senior wishes to sleep, they should tidy the bed, arrange the pillow, light the lamp, and put in place the spittoon and small utensils.
+
+和上安隱已，然後受經問義。
+
+After ensuring the senior's comfort, they should then receive teachings or ask about meanings.
+
+分房當次得時，先問和上然後取。
+
+When allotted a room in due turn, they should first ask the senior and then take it.
+
+二人共得房者，和上應問：『汝共誰得房舍？』
+
+When two people are allocated a room, the senior should ask, 'With whom are you sharing the room?'
+
+答言：『共某甲。』應觀前人，持戒緩者應語：『莫取，生人過患。』
+
+The response should be, 'With so-and-so.' If the senior observes the person to be lax in discipline, they should say, 'Do not accept, it can cause problems.'
+
+若賢善者語：『取。』後更有上座來，出去時亦當白。
+
+If they are of good character, the senior should say, 'Accept.' If a more senior person later comes, they should also be informed when leaving.
+
+若共行弟子，於和上所應如是作，若不作者越威儀法。」
+
+If accompanying disciples should do such for their senior, if they do not, they transgress the code of conduct."
+
+若弟子眾多，下至一拂拭床，是名事。
+
+Even if the disciples are many, attending duties down to tidying the bed is called fulfilling their responsibilities.
+
+
+
+
+佛住舍衛城
+The Buddha was staying in the city of Shravasti
+
+時難陀、優波難陀受人依止不教誡
+At that time, Nanda and Upananda were relying on people without giving them guidance
+
+如天牛、天羊
+Like celestial bulls and celestial sheep
+
+一一如上和上中廣說
+As explained in detail above and in the middle
+
+但以阿闍梨為異耳
+Only differing in terms of the teacher
+
+
+
+佛住舍衛城，
+
+The Buddha was residing in Śrāvastī,
+
+爾時難陀、優波難陀受人依止，
+
+at that time, Nanda and Upananda were being relied upon by people,
+
+弟子不來，
+
+and their disciples did not come,
+
+師嫌言：「世尊獨制我、不制弟子。
+
+so the teacher complained, "The Blessed One restrains only me and not my disciples.
+
+弟子不來，我當教誰？」
+
+If the disciples do not come, whom should I teach?"
+
+如上共行弟子中廣說，
+
+In the aforementioned common conduct among disciples it is extensively explained,
+
+但此中以依止弟子為異耳。
+
+but here it is different because it involves relying on disciples.
+
+
+
+坐在高座上布萨，第二位一切正在燃烧，
+
+Sit on a high seat and offer spiritual teachings, the second is all burning,
+
+
+
+
+坐在席上吃东西的方法，　　首先要明白一切事物是自然的，
+
+The way to eat while sitting in a seat, first of all, know that all things are natural,
+
+
+
+
+和上所教示、
+The teachings of the venerable master,
+
+共行應隨順、
+Should be followed in practice,
+
+
+
+
+依止順法教、  
+Follow the teachings obediently,
+
+弟子應奉行。  
+Disciples should practice them.
+
+
+
+
+初跋渠竟。
+At the beginning, the channel finally ended.
+
+
+
+
+佛住舍衛城祇洹精舍，如來五日一行諸比丘房，見床處處側地，風飄日曝雨露其上，蟲食烏鳥糞上。
+The Buddha resided in the Jetavana Monastery in Śrāvastī and every five days he would inspect the monks' quarters; he noticed beds tilted all around the room, exposed to wind, sun, rain, and dew, with insects gnawing and bird droppings on them.
+
+佛知而故問：「比丘！此是誰床？處處側地烏鳥糞上。」
+The Buddha knowingly asked, "Monks! Whose bed is this? It's tilted here and there with bird droppings on it."
+
+乃至佛告諸比丘：「從今日床褥應如是知。云何知？
+Then the Buddha told the monks, "From today, you should understand how to manage your beds and bedding. How should you understand?"
+
+不得見床處處側地，蟲噉、日曝、雨露、風飄、烏鳥糞上而置。
+Do not let your beds be tilted all over, gnawed by insects, exposed to sun, rain, and dew, blown by wind, with bird droppings on them.
+
+若處處者應收檢著一處，側者當正，日曝、風雨飄者應著房內，
+If they are scattered, they should be collected and placed in one spot; if tilted, they should be straightened; if exposed to sun or rain, they should be placed indoors.
+
+蟲噉者當支脚，烏鳥糞上當抖擻內著房中。
+If gnawed by insects, they should be propped up; if covered in bird droppings, they should be shaken and placed inside the room.
+
+不得看房舍漏壞不治。
+Do not neglect to repair leaks and damages in the monastery.
+
+若草覆者當草補，瓦覆還用瓦補，石灰覆者還用石灰補，泥覆者還泥補。
+If covered with grass, replace it with grass; if covered with tiles, replace with tiles; if covered with lime, replace with lime; if covered with mud, replace with mud.
+
+壁破者當泥治巨摩塗地。
+If the walls are damaged, repair them with mud; smooth the floor with plaster.
+
+眾僧床褥不得趣爾受用以單故布覆上，應以兩重尼師檀覆上。
+Monks should not use beds and bedding covered only with a single layer of cloth; they should be covered with two layers of linen.
+
+若臥具，眠時應以物廁裏，不得令近身。
+When sleeping, bedding should be arranged neatly and should not be kept close to the body.
+
+褥氍毺厚者，不得屈敷破壞僧物。
+Thick bedding should not be folded or placed in a way that damages monastic property.
+
+褥枕拘執、若垢膩者應浣，破者應補已還成。
+Bedding and pillows, if dirty or greasy, should be washed; if torn, they should be mended and restored.
+
+若僧床褥臥具應如是舉持，若不爾者越威儀法。」
+Monks should maintain their beds and bedding in such a manner; failing which, it would violate the rules of discipline."
+
+
+
+佛住舍衛城祇洹精舍，爾時諸比丘春末月不修治房舍。
+Buddha was residing in Jetavana Monastery at Sravasti, and at that time, the monks were not maintaining the dwellings towards the end of spring.
+
+如來五事利益故，五日一行諸比丘房。
+For the welfare of all in five respects, the Tathagata inspected the monks' dwellings every five days.
+
+何等五？一者、我聲聞弟子中不貪著有為事不？
+What are these five? First, whether my disciples are not attached to worldly matters.
+
+二、不著世俗言論不？
+Second, whether they are not clinging to worldly discourse.
+
+三、不著眠睡不？
+Third, whether they are not attached to sleep.
+
+四、為看病比丘故。
+Fourth, for taking care of sick monks.
+
+五、有信心年少比丘見如來威儀庠序發歡喜故。
+Fifth, for inspiring faith and joy in young monks who witness the Tathagata's conduct.
+
+是名五事行房。
+These are called the five reasons for inspecting the dwellings.
+
+見房舍破壞不治，佛知而故問比丘：「是何等房破壞不治？」
+Seeing the dwellings in disrepair, the Buddha knowingly asked the monks, "Why are these dwellings not maintained?"
+
+諸比丘答言：「安居比丘自當治事。」
+The monks replied, "The monks who reside here should take care of them themselves."
+
+佛言：「從今日後安居時房舍應如是治。
+The Buddha said, "From now on, during the residence period, the dwellings should be maintained like this.
+
+云何治？若安居時欲至，不得看房舍破壞不治而言：『安居人自當治。』
+How should they be maintained? When the residence period approaches, you should not see the dwellings in disrepair and say, 'The residents should take care of them.'
+
+若草房者當草覆，乃至泥房者應泥補，壁孔應泥治。
+If it's a thatched house, it should be re-thatched; if it's mud, it should be patched with mud, and any holes in the walls should be filled with mud.
+
+當塞鼠孔、泥治地，房中受用物應聚著一處。
+Rat holes should be filled, the ground should be leveled with mud, and the objects used in the room should be gathered in one place.
+
+五法成就應拜作分房人。
+Five qualifications are required for appointing someone to allocate rooms.
+
+何等五？不隨愛、不隨瞋、不隨怖、不隨癡、得不得應知，是名五。
+What are these five? Not influenced by desire, anger, fear, and ignorance; knowing what is appropriate, these are the five.
+
+羯磨者應作是說：『大德僧聽！某甲比丘五法成就，若僧時到，僧拜某甲作分房人。
+For the ceremony, it should be said, 'Venerable monks, listen! Monk such-and-such possesses the five qualifications. When the time comes, the Sangha appoints him to allocate rooms.
+
+如是白。』白一羯磨，乃至『僧忍默然故，是事如是持。
+Thus it is declared.' A single statement of agreement, up to, 'Since the Sangha remains silent, this matter is thus upheld.'
+
+是比丘得羯磨已，應修房、溫室、食堂、講堂、浴室、井屋、廁屋、門屋、經行處、樹下，疏記多少，
+The monk who receives this appointment should maintain the rooms, the warming room, the dining hall, the lecture hall, the bathhouse, the well house, the toilet, the gatehouse, the walking area, and under trees, and record how much is available.
+
+若阿練若、住處離餘住處遠者，四月十二日、十三日應分房舍，若不受者應餘處去。
+If a forest dwelling, or if the residence is far from others, rooms should be allocated on the twelfth or thirteenth of the fourth month, and those unwilling to receive should go elsewhere.
+
+若多近住處者，十四日、十五日分房，
+If there are many nearby dwellings, rooms should be allocated on the fourteenth or fifteenth day.
+
+應僧中讀疏：『大德僧聽！某甲精舍有爾所房、爾所床褥、爾許食、爾許齋日飲食、有爾所安居衣。
+It should be made clear to the Sangha: 'Venerable monks, listen! Such-and-such monastery has such-and-such rooms, beds, bedding, food, meal times, and residence robes.'
+
+上座應語分房舍。
+The elder should speak about the allocation of rooms.
+
+共一施應分房，從上座乃至無歲比丘，不得與沙彌房。
+In case of shared offerings, allocate rooms from the elder down to the novice monks, but do not allocate novices' rooms.
+
+若和上、阿闍梨言：『但與，我當治事。』應與。
+If a teacher or mentor says, 'Just allocate to me; I will take care of it,' it should be allowed.
+
+若房長者，一人應與兩房，若言：『我不須二，得一便足。』
+If an elder receives two rooms and says, 'I don't need two, one is enough,' 
+
+應語言：『不為受用故與，為治事故與。』
+they should be told, 'The rooms are not given for personal use but for maintenance purposes.'
+
+若房少者，二人、三人共一房。
+If rooms are scarce, two or three people may share one room.
+
+如是復不受者，五人、六人共。
+If still unwilling to accept, five or six may share one.
+
+若復不受，有大堂者一切盡共入大堂。
+If still unwilling to accept, those with a hall should all gather in the hall.
+
+若復不受者，上座敷大床，下座敷小床。
+If still unwilling to accept, the senior should lay a large bed and the junior a small bed.
+
+若復不受者，上座小床，下坐草褥。
+If still unwilling to accept, the senior a small bed and the junior a grass mat.
+
+若復不受者，上座草褥，下坐應加趺坐。
+If still unwilling to accept, the senior a grass mat, and the junior should cross their legs.
+
+若復不受者，上座加趺坐，下坐應立、若出樹下。
+If still unwilling to accept, the senior should cross their legs, and the junior should stand or reside under trees.
+
+冬時分房，治事故與、受用故與。
+In winter, rooms are allocated for maintenance purposes or personal use.
+
+上座來喚起，便應去。
+When the elder arrives, the monks should leave.
+
+春時分房亦復如是。
+The allocation in spring should be the same.
+
+夏時分房，治事故與、受用故與。
+In summer, rooms are allocated for maintenance purposes or personal use.
+
+上座來喚起去，不應去。
+When the elder arrives to call them away, they should not leave.
+
+若比丘春末月應如是治房，若不如是者越威儀法。
+Monks should maintain the dwellings as described at the end of spring, and not doing so is a breach of decorum.
+
+
+
+住舍衛城祇洹精舍，爾時世尊五事利益故，五日一行諸比丘房，見房舍漏壞不治事、雨潦瀰滿、水瀆不通、門戶蟲噉、床褥䤍青。
+The Buddha resided in Jetavana Monastery in Śrāvastī. At that time, for the benefit of five matters, the World-Honored One would visit the monks' quarters every five days and saw that the rooms had leaks and were not maintained, filled with rainwater, clogged drains, infested doors, and moldy beds.
+
+佛知而故問：「比丘！是何等房？不治漏壞如是。」
+The Buddha intentionally asked, "Monks! What kind of room is this? Why is it neglected with such leaks and damages?"
+
+乃至佛言：「從今日後夏安居中應如是治房舍床褥。
+Then the Buddha said, "From today onward, during the summer retreat, you should repair the rooms and beds in this way.
+
+云何如是治？不得見房舍漏壞及以床褥而不治事。
+How should you repair them? You should not ignore the rooms with leaks and broken beds without maintenance.
+
+若草覆者應草補，乃至泥覆者泥補，通水瀆及長流。
+If covered with straw, you should patch with straw; if covered with clay, patch with clay to keep the water channels clear and flowing.
+
+若臥床褥、坐床䤍生者，應日中曬令乾。
+If the beds you sleep or sit on grow mold, you should dry them in the sun.
+
+若房內濕者，應令離壁支脚，勿使蟲食。
+If the room is damp inside, keep furniture away from the walls to prevent insects from eating them.
+
+應掃屋間炱煤蟲網，半月應以巨摩塗地。
+You should sweep away the soot and cobwebs from the corners of the rooms and apply cow dung to the floor every half month.
+
+若乾者應以水洽塗地，若濕者淳用巨摩塗。
+If it's dry, apply water before the cow dung; if it's damp, use thick cow dung.
+
+若房內濕者，不得洗手、洗足、洗鉢，不得閉戶。
+If the room is damp inside, do not wash hands, feet, or bowls inside, and do not close the doors.
+
+當時時開戶使風得入，不得以烟熏之。
+Open the doors regularly to let the wind in, and do not smoke it out.
+
+若比丘夏安居，房舍當如是治。
+If the monks are observing the summer retreat, the rooms should be repaired in this manner.
+
+若不如是，越威儀法。」
+If not done so, it violates the code of conduct."
+
+
+
+佛住舍衛城，
+
+Buddha was residing in the city of Shravasti,
+
+爾時比丘阿練若處安居竟，不囑便去，後野火來燒房舍。
+
+At that time, a monk completed his retreat in the forest and left without taking precautions, leading to a wildfire burning down the dwellings.
+
+諸比丘以是因緣往白世尊。
+
+The monks went to inform the Blessed One about this incident.
+
+佛言：「比丘安居竟，房舍應如是治。
+
+The Buddha said, "Monks, after completing the retreat, the dwellings should be maintained in this way.
+
+云何治？若比丘在阿練若處安居竟，至冬時欲移就暖處者，不得盡去。
+
+How should they be maintained? If a monk completes his retreat in the forest and wishes to move to a warmer place in winter, he should not leave entirely.
+
+當求兩人三人堪能者令住，應與飲食勿令乏短。
+
+Two or three capable people should be arranged to stay, and they should be provided with food without letting them lack anything.
+
+若言：『不能，我何故住此空野中為？』
+
+If someone says, 'I can't, why should I stay in this deserted place?'
+
+若都無住者，若有床、枕褥、拘執銅鐵器物，一切應寄聚落中精舍，
+
+If there is absolutely no one to stay, any beds, pillows, mattresses, and metal utensils should be stored in a nearby settlement's temple.
+
+臥床、坐床當離壁以物支足，勿令蟲食。
+
+The beds and seats should be kept away from the wall with supports to prevent insect damage.
+
+安居竟，不得見房舍漏壞不治事而去。
+
+After the retreat, do not leave if the dwellings are found leaking or damaged without taking measures.
+
+若草覆者應草補，乃至泥覆者泥補。
+
+If the roof is covered with grass, it should be repaired with grass; if mud, then with mud.
+
+泥治房舍作白色壁，周匝尠火當囑託放牧人：
+
+If the walls are made of mud, it should be whitened with clay, and grazing people should be instructed to watch over it for fires.
+
+『汝時時與我看視。』
+
+'You should look after it from time to time for me.'
+
+聚落中住處亦應如是治事，
+
+In settlements, residences should be maintained in the same manner.
+
+若溫室、講堂、食堂自污灑治事。
+
+If it's a greenhouse, lecture hall, or dining hall, it should be cleaned and maintained.
+
+若精舍檀越在者，應語令治、若差人治。
+
+If there are patrons at the temple, they should be asked to arrange maintenance, or people should be appointed for it.
+
+若無主復不差人者，一切僧應治。
+
+If there is no patron and none are appointed, all monks should take responsibility for the maintenance.
+
+當共分，人得一肘、二肘、三肘令周遍。
+
+They should divide the work, and each person should cover one, two, or three cubits equally.
+
+臥床、坐床緩壞者，應更織令堅。
+
+Beds and seats that are worn should be rewoven to ensure firmness.
+
+若褥枕、拘執、臥具膩，應浣令淨。
+
+If pillows, mattresses, and bedding are greasy, they should be washed clean.
+
+若破者應補。
+
+If they are torn, they should be mended.
+
+房中受用諸物，應聚著一處。
+
+All items used in the room should be gathered in a single place.
+
+若比丘安居竟，房舍床褥應如是治。
+
+When monks complete their retreat, they should maintain the dwellings and bedding in this way.
+
+若不如是治，越威儀法。
+
+If not maintained this way, it violates the rules of dignity."
+
+
+
+
+，爾時世尊五事利益故，五日一行諸比丘房，
+
+The Buddha was residing in the city of Sravasti, and at that time, for the sake of five kinds of benefits, he visited the monks' quarters every five days.
+
+見臥床、坐床處處狼藉側地，
+
+He saw that the sleeping and sitting places were in disarray, cluttered, and scattered on the ground.
+
+佛知而故問：「是何等床狼藉不舉？」
+
+The Buddha knew but nevertheless asked: "Why are these beds left unkempt?"
+
+答言：「世尊！是舊比丘所安，我是客。」
+
+They answered: "World-Honored One, these are the arrangements of old monks, and I am just a guest."
+
+佛言：「從今日後客比丘應如是知。
+
+The Buddha said: "From this day onward, guest monks should know thus.
+
+云何知？乃至不得見臥床、坐床狼藉蟲噉而置。
+
+How should they know? They should not leave sleeping and sitting places untidy and allow insects to infest them.
+
+若狼藉者應收置一處，若側者應正，
+
+If they are disheveled, they should be tidied up and put in order.
+
+以物支足勿使蟲噉。
+
+Support them properly so that insects do not eat them.
+
+客比丘來至，不得便持物著屋中，當放物一處覓舊比丘。
+
+When a guest monk arrives, they should not immediately place their things in the room but should put them in one place and find the old monk.
+
+得房舍已，若地不平者應平，
+
+Once they have the accommodations, they should level the ground if it's uneven.
+
+若有鼠孔者應塞泥治，
+
+If there are mouse holes, they should be filled with mud.
+
+若有炱煤蟲網應掃，
+
+If there are soot or cobwebs, they should be swept away.
+
+臥床、坐床若緩者應織令急。
+
+If the sleeping and sitting places are loose, they should be tightened.
+
+褥枕拘執應抖擻屋中，
+
+Cushions and pillows should be shaken out in the room,
+
+應以水灑淨掃塗地。
+
+and the floor should be cleaned by sprinkling and sweeping with water.
+
+若木衣架者，當以物拭令淨。
+
+If there is a wooden clothes hanger, it should be wiped clean with a cloth.
+
+若是竹滑者以手拭之，
+
+If it's a bamboo rack, it should be wiped by hand,
+
+應看壯堅者以鉢懸上。
+
+and strong and sturdy ones should be hung with bowls.
+
+若半夜住者，亦應如是治竟去。
+
+If staying for half a night, they should also make arrangements accordingly before leaving.
+
+客比丘若不如是治，越威儀法。」
+
+If a guest monk does not make such arrangements, it violates the rules of decorum."
+
+
+佛住舍衛城祇洹精舍，爾時如來五事利益故，五日一行諸比丘房，乃至言：
+
+The Buddha resided in the Jetavana Monastery in the city of Shravasti, and at that time, for the benefit of five things, every five days he would visit all the monks' quarters until he said:
+
+「世尊！是客比丘敷置，非我舊比丘。」
+
+"World-Honored One! This is arranged for visiting monks, not for our resident monks."
+
+佛言：「從今已後舊比丘應如是知。
+
+The Buddha said, "From now on, resident monks should know this:
+
+云何知？舊比丘不得令床敷處處棄捐，令蟲噉食而置。
+
+How should they know? Resident monks should not leave bedding scattered here and there, allowing it to be eaten by insects.
+
+若處處星散者應聚一處，若蟲噉者當以物支足。
+
+If items are scattered, they should be gathered in one place; if being eaten by insects, they should be supported with things.
+
+舊比丘法不得自住好房，床褥枕留弊壞垢膩者待客比丘來。
+
+The rule for resident monks is not to live in fine rooms, leaving worn out, dirty bedding for visiting monks.
+
+自當治當修治好者待客比丘。
+
+They should prepare and maintain good ones for visiting monks.
+
+舊比丘應如是知，若不如是，越威儀法。」
+
+Resident monks should thus know, if they do not, they violate the rules of conduct."
+
+
+
+祇桓精舍，如來五事利益故，五日一行諸比丘房，
+
+Buddha resides at the Jetavana Anathapindika monastery in Shravasti, and for five beneficial reasons, visits the monks' quarters every five days.
+
+乃至佛見已知而故問：「比丘！是誰床敷？」
+
+Ultimately, the Buddha knowingly asks, "Monk! Whose bedding is this?"
+
+答言：「世尊！是舊比丘敷，我方始住。」
+
+Answering, "World-honored One! This was laid by a former monk, I have just started living here."
+
+佛言：「從今已後床敷，一切比丘應如是知。」
+
+The Buddha said, "From now on, all monks should know about the bedding like this."
+
+云何知？一切比丘不得令床褥處處雨露日炙蟲噉，
+
+How should this be known? All monks should not allow the bedding to be exposed to rain, dew, sunlight, or be eaten by insects everywhere.
+
+若見散在地者應聚著一處。
+
+If seen scattered on the ground, they should be gathered in one place.
+
+若雨露日炙者應安覆處，若蟲噉者當支足，
+
+If exposed to rain, dew, or sunlight, they should be covered, and if eaten by insects, they should be supported.
+
+若房舍漏壞者應覆，草覆者草補，乃至泥覆者泥補，
+
+If the room or house leaks or is damaged, it should be covered; grass covered should be grass-repaired, and mud-covered should be mud-repaired.
+
+壁穿壞者當補治泥地。
+
+A broken wall should be repaired and the muddy ground treated.
+
+若床褥枕拘執垢膩破壞者，不得看置，
+
+If the bedding or pillow is stained and dirty, it should not be left unattended.
+
+應浣染補治，內毳當擘還擆，
+
+They should be washed, dyed, and repaired; inner fibers should be separated and recombined.
+
+床繩緩者當織令堅緻。
+
+If the bed rope is loose, it should be woven tightly.
+
+打揵椎治床褥時，不得徐徐來，應疾往集，
+
+When the hammer is used to treat the bedding, do not come slowly; you should gather quickly.
+
+集已應當共治。
+
+Once gathered, you should treat it together.
+
+有應作繩者、有應織者當共作。
+
+Those who need to make ropes and those who need to weave should do it together.
+
+若分者，各自持去。
+
+If separated, each should take their own.
+
+若如是打揵椎治床褥時，
+
+When treating bedding with the hammer in this way,
+
+不得言：『我是阿練若、我乞食、我大德、我是上座，不能治。』
+
+do not say, 'I am a forest dweller, I beg for food, I am a great virtue, I am a senior monk, I cannot handle this.'
+
+此中受用者自當治，一切盡集共治。
+
+Those who use it should treat it themselves; all should gather to treat it together.
+
+有繩線者、有縫者、有上色者，比丘應如是一切治。
+
+Those who have ropes, stitches, or dyes, monks should treat everything like this.
+
+若不如是，越威儀法。
+
+If not, it would violate the code of conduct.
+
+
+
+，爾時諸比丘處處大便，為世人所嫌：
+
+Buddha was residing in Śrāvastī, at that time the monks were defecating everywhere, which annoyed people:
+
+「云何沙門釋子似如牛驢？便右無常處。」
+
+"Why do the Śramaṇa disciples of Śākya behave like cattle and donkeys? They defecate anywhere."
+
+諸比丘以是因緣往白世尊。
+
+The monks reported this matter to the Blessed One.
+
+佛言：「從今已後應作廁屋，
+
+The Buddha said: "From now on, you should construct toilet facilities,
+
+廁屋不得在東在北，應在南在西開風道。
+
+Toilets should not be constructed in the east or north, but ventilation openings should be in the south and west.
+
+作法者，若作坑、若依高岸、若坑底有水出者，
+
+For construction, whether it is a pit or by a raised bank, if there is water at the pit bottom,
+
+當使淨人先起止中，然後比丘行。
+
+A clean person should position themselves first, and only then may the monks proceed.
+
+若臨岸上底有流水者應安板，
+
+If there's flowing water at the bank's bottom, a board should be placed above it,
+
+令先墮板上後墮水中。
+
+So that waste falls onto the board first and then into the water.
+
+應作兩孔三孔，孔廣一不舒手、長一肘半。
+
+There should be two or three holes, each wide enough to fit a hand comfortably and one and a half cubits in length.
+
+屋中應安隔，使兩不相見。
+
+Inside the structure, barriers should be set so that users cannot see each other.
+
+邊安廁篦，屋下應安衣架。」
+
+A stick for cleaning should be placed on the side, and a clothing rack should be installed under the roof."
+
+
+
+爾時有比丘先在廁上，後有比丘急行入廁便，欲在先比丘上行。
+At that time, there was a monk who was already using the toilet, and then another monk came in a hurry and wanted to go ahead of the first monk.
+
+彼比丘言：「長老莫污我。」
+The monk said, "Elder, do not disturb me."
+
+比丘以是因緣往白世尊。
+Due to this situation, the monk went to report to the World Honored One.
+
+佛言：「從今日後上廁法應如是知。
+The Buddha said, "From today onward, you should understand the rules of using the toilet as follows.
+
+云何如是知？
+How should you know?
+
+不得臨急已然後上廁，應當如覺欲行便往。
+Do not wait until it's urgent to go to the toilet; you should go when you feel the need.
+
+往時不得默然入，應彈指。
+When going, do not enter silently; you should snap your fingers.
+
+若內有人，亦應逆彈指。
+If there is someone inside, they should snap their fingers back.
+
+若大急者，應背蹲先人、應相容處，
+If it is extremely urgent, you should squat at the back of the previous person and find a suitable place.
+
+不得未至便高舉衣來，當隨下隨褰。
+Do not raise your clothes prematurely; lower them as you sit down.
+
+不得著僧臥具上廁，不得廁上嚼齒木、
+Do not wear the monk's robes in the toilet, and do not chew tooth sticks in the toilet,
+
+覆頭覆右肩，應當偏袒。
+Covering the head and right shoulder is not allowed; you should leave one shoulder bare.
+
+不得在中誦經、禪定、不淨觀及以睡眠，
+Do not recite sutras, meditate, practice impurity contemplation, or sleep while in the toilet,
+
+令妨餘人。
+so as not to disturb others.
+
+起時不得高舉衣起去，應隨下隨起。」
+When getting up, do not raise your clothes; lower them as you rise."
+
+
+
+能执行此请求
+
+
+佛住舍衛城
+Buddha was living in Shravasti,
+
+爾時諸比丘處處小行
+at that time, monks were walking around here and there,
+
+為世人所嫌：「云何沙門釋子如牛驢處處小行？
+which was disliked by the people who said, "Why do the Sramanas, sons of the Shakya, wander about like cows and donkeys?
+
+此壞敗人，何道之有？」
+Such behavior is disgraceful, how can it be considered the path?"
+
+乃至佛言：「從今已後應作小行處。
+Then the Buddha said, "From now on, there should be designated walking places.
+
+作法者，不得在北、在東，應在南、在西開風道。」
+The creation of these paths should not be to the north or east, but should open to the wind in the south and west."
+
+
+
+時有比丘小行，復有比丘來於上欲小便，先比丘言：「長老！莫污我。」
+
+There was a monk walking, and another monk came to urinate above. The first monk said, "Elder! Don't dirty me."
+
+諸比丘以是因緣往白世尊。
+
+The monks reported this matter to the World-Honored One.
+
+佛言：「從今已後小便法應如是知。
+
+The Buddha said, "From now on, the rules for urinating should be understood as follows.
+
+云何知？不得臨急然後去，如覺欲行當去。
+
+How to understand? Do not wait until it's urgent to go. Once you feel the urge, you should go.
+
+應先彈指，若先有人者亦逆彈指。
+
+You should snap your fingers first. If someone is already there, they should snap back.
+
+若急者應背先人，先人應容處。
+
+If it's urgent, you should back away from the person who was there first, and they should make room.
+
+不得覆頭、覆肩並嚼齒木，應偏袒右肩。
+
+Do not cover your head or shoulders, or chew on wood. You should bare your right shoulder.
+
+當上行，不得在上禪定、眠睡、誦經及不淨觀以妨後人，竟當時去。
+
+Go to an elevated place, but do not meditate, sleep, recite scriptures, or practice impure contemplation there, as it hinders those coming later. After completing, leave immediately.
+
+若無小便處者，應以甖盛，甖上當安穿底甌，別一甌中行以瀉中。
+
+If there is no place to urinate, you should use a pot with a perforated container placed on top and use another container to transport it for emptying.
+
+若無甌者，當用木杓瀉中。
+
+If there is no container, use a wooden ladle to transport it for emptying.
+
+不得大行涕唾中，年少比丘次第棄之。
+
+Do not spit in a disrespectful manner. Younger monks should dispose of it in order.
+
+棄時當著屏處，不得棄塔院上流中，瀉已當水洗覆地，若無者應人人求器。
+
+Dispose of it in a hidden place. Do not discard it upstream from the stupa yard. After emptying, wash and cover the ground with water. If there is none, everyone should seek a vessel.
+
+若是瓦者洗已覆地、若木者洗已著陰中，勿令破。
+
+If it's a tile, wash it and cover the ground. If it's wooden, wash it and place it in the shade, taking care not to break it.
+
+當施絃，夜當內著床下。
+
+Place a string on it, and at night put it under the bed.
+
+若無器者，水瀆邊小便，不得在塔上流。
+
+If there is no vessel, urinate near a water channel, not upstream from the stupa.
+
+若溫室、講堂上，欲小便時應出。
+
+If in the warm room or lecture hall, you should step outside to urinate.
+
+若急失者不得行，失小便當住一處，訖然後以水洗油塗乃至巨摩。
+
+If you have an urgent accident, do not walk around. Once finished, wash with water and anoint it with oil, even to the extent of thorough rubbing.
+
+若繞塔欲小便者應去，若急者不得並行應住一處，訖以水洗之香塗。
+
+If you wish to urinate while circling the stupa, you should leave. If urgent, do not do it while walking around. Stay in one place and wash it with water and apply perfume.
+
+若阿練若處無香者，當用油塗。
+
+In forest dwelling places without fragrance, apply oil.
+
+若欲入聚落，當先小便已而去。
+
+If you wish to enter a village, you should urinate first before going.
+
+若聚落中欲小便者，當在屏處。
+
+If you need to urinate in the village, do it in a hidden place.
+
+若急不得至屏處者，當向牆，若有伴應背向障。
+
+If urgent and unable to reach a hidden spot, face a wall. If with a companion, face away from them for privacy.
+
+若共賈客道行欲小便者，當在下風、不得上風。
+
+If you are traveling with merchants and wish to urinate, do it downwind, not upwind.
+
+若夜宿時小便者，當在下風。
+
+If urinating while staying overnight, do it downwind.
+
+起時當語人令知，勿令人呼是賊。
+
+When you get up, inform others, so they do not think you are a thief.
+
+若船行者當至小便處，若無者當小便器中已瀉棄。
+
+If traveling by boat, go to the urination place. If unavailable, urinate into a vessel and empty it.
+
+比丘病，醫言：『當服小便。』者，不得取初後應取中。
+
+If a monk is sick and the doctor says: "You should consume urine," you should not take the first or the last part but the middle.
+
+若自己許，承取即名受。
+
+If you have permission from yourself, taking it is considered acceptance.
+
+若在地及他許，當受，小便法應如是，若不如是，越威儀法。」
+
+If you are on the ground and have permission from others, you should take it. The urination rules should be as such, and if not adhered to, it is against the dignified conduct." 
+
+
+
+佛住舍衛城，爾時六群比丘嚼未斷治齒木，為世人所嫌：「云何沙門釋子如凶惡人，合枝條嚼齒木？」
+The Buddha was residing in Savatthi City, at that time a group of six monks were chewing untreated tooth sticks, which caused people to criticize: "How can the monks, disciples of the Buddha, chew tooth sticks like evil people?"
+
+諸比丘以是因緣往白世尊。
+The monks went to the Blessed One with this matter.
+
+佛言：「從今日後不聽用齒木。」
+The Buddha said: "From today onward, the use of tooth sticks is not allowed."
+
+
+
+復次佛住舍衛城，爾時世尊大會說法，時比丘口臭，在下風而住。
+Furthermore, when the Buddha resided in the city of Sravasti, at that time the World Honored One was giving a great assembly talk, and a monk who had bad breath sat downwind.
+
+佛知而故問：「是何比丘獨在一處如嫌恨人？」
+The Buddha knowingly asked, "Why does that monk sit alone like a person who is displeased?"
+
+比丘答言：「世尊制戒不聽嚼齒木，口臭恐熏諸梵行人，故在下風。」
+The monk replied, "The World Honored One has decreed a rule that does not allow chewing teeth-cleaning wood. I have bad breath and fear it may offend the holy practitioners, so I sit downwind."
+
+佛言：「聽用齒木，應量用，極長者長十六指。」
+The Buddha said, "You may use the teeth-cleaning wood, but use a suitable amount, and the longest should not exceed the length of sixteen fingers."
+
+
+
+
+復次爾時有檀越在阿練若處種樹，比丘拔取作齒木用。
+At that time, there was a supporter planting trees in the forest, and a monk took one to use as a tooth stick.
+
+主見已心生不悅，即往佛所，以是因緣而白世尊。
+The owner, upon seeing this, became displeased and went to the Buddha to report this matter.
+
+佛為隨順說法，發喜心已禮佛而退。
+The Buddha spoke the Dharma accordingly, instilling joy, and the owner paid respects and withdrew.
+
+佛言：「呼是比丘來。」
+The Buddha said, "Call that monk here."
+
+比丘來已，佛問：「汝實爾不？」
+When the monk arrived, the Buddha asked, "Is this true?"
+
+答言：「實爾。」
+The monk replied, "Yes, it is true."
+
+佛言：「汝云何取華果樹作齒木？從今已後不聽用花果樹作齒木。」
+The Buddha said, "Why did you take a fruit-bearing tree for a tooth stick? From now on, you are not allowed to use such trees for this purpose."
+
+嚼時不得在溫室、講堂、食屋，及僧前、和上阿闍梨前、塔前、像前，
+When chewing, do not do so in warm rooms, lecture halls, dining rooms, or in front of monks, preceptors, stupas, and images.
+
+不得覆頭覆肩，應偏袒右肩在屏處。
+Do not cover your head or shoulders; you should bare your right shoulder in a screened area.
+
+若僧房內者，應以器盛嚼，殘餘不得著器中，
+If in a monk's room, you should chew over a container, and the remnants should not be placed in it.
+
+不得著塔院中、僧院中常行處。
+Do not place them in areas frequently used in the stupa courtyard or the monastery.
+
+刮舌時不得如婬欲人法，刮已當洗著一處。
+When scraping your tongue, do not do it in an inappropriate manner; after scraping, wash and place it in one spot.
+
+若齒木難得者，當截所嚼處棄之，洗已殘者明日更用。
+If a tooth stick is hard to obtain, cut off the chewed part and discard it; the remaining part can be used the next day after washing.
+
+
+
+
+復次爾時有比丘嚼齒木欲盡，見世尊來，以恭敬故咽之，細木著咽喉不樂。
+
+Again, at that time there was a monk chewing a tooth stick until it was nearly gone. Seeing the World-Honored One coming, he swallowed it out of respect, and the small wood got stuck in his throat, causing discomfort.
+
+諸比丘以是因緣往白世尊。
+
+The monks reported this matter to the World-Honored One.
+
+佛言：「從今已後不聽嚼盡，極長者十六指，極短者四指已上。
+
+The Buddha said, "From now on, you are not allowed to chew it completely. The longest should be sixteen finger-widths, and the shortest at least four finger-widths.
+
+嚼時當在屏處，先淨洗手，齒木嚼已水洗棄之。
+
+When chewing, you should do it in a secluded place, first washing your hands clean, and after chewing the tooth stick, wash it with water and discard it.
+
+用時不得如婬欲人，當以除口臭穢故。
+
+When using it, do not act like a lustful person; it is used to remove bad breath and impurities.
+
+嚼時不得咽汁，若誤咽者無罪。
+
+Do not swallow the juice while chewing, but if swallowed by mistake, it is not a transgression.
+
+比丘病，若醫言：『嚼齒木咽之當差。』應受已嚼咽。
+
+If a monk is sick and the doctor says, 'Chew the tooth stick and swallow it to recover,' he should receive it and chew and swallow.
+
+若無齒木者，當用灰鹵、土塼、礓石、草木洗口已食。
+
+If there is no tooth stick, then using ash, salt, bricks, stones, grass, or wood should be used to wash the mouth before eating.
+
+若塔院僧院中見所嚼齒木，當取棄之。
+
+If you see chewed tooth sticks in the stupa courtyard or monastery, they should be picked up and discarded.
+
+若二人共見，小者應棄。
+
+If two people see it together, the junior should discard it.
+
+若下坐持戒緩者，當自取棄之。
+
+If the one sitting below is lax in keeping precepts, they should voluntarily take it and discard it.
+
+齒木法應如是，若不如是，越威儀法。」
+
+This is how the rule of the tooth stick should be. If not followed, it is a violation of proper conduct."
+
+
+
+
+床敷春末月、　　
+The bed is laid out in the late spring month,  
+
+安居坐已竟、
+settling down and sitting, it's already complete,
+
+
+
+
+客比丘并舊、
+All monks and guests are like this,
+
+一切亦復然、
+Everything is also like this,
+
+
+
+
+廁屋大小便、
+Relieve oneself in the toilet,
+
+齒木二跋渠。
+Teeth wood with two steps.
+
+
+
+
+佛住舍衛城，如來五事利益故，五日一行諸比丘房，見比丘敷衣地補，
+The Buddha resided in the city of Sravasti, and for the benefit of five matters, every five days he walked to the monks' quarters and saw the monks laying clothes on the ground as mats.
+
+佛言：「從今日應作席。
+The Buddha said, "From today onwards, you should make mats.
+
+作法應用竹𥯤長十肘、廣六肘，
+The method involves using woven bamboo that is ten cubits long and six cubits wide.
+
+欲縫衣時應在講堂上、若溫室、禪坊中，
+When you want to sew clothes, it should be done in the assembly hall, the warming room, or the meditation hall.
+
+敷席已張衣上縫，當洗脚坐上。
+After spreading the mat and placing the clothes on it, you should wash your feet before sitting on it.
+
+若不洗當背坐上，勿令脚近。
+If you do not wash, you should sit with your back turned and keep your feet away.
+
+不得在上曬穀曬衣染衣，不得使日炙雨露鳥獸污上。
+Do not sun-dry grains or clothes, or dye clothes on it, and prevent it from being soiled by sunlight, rain, dew, birds, or animals.
+
+縫衣竟當內著覆處。
+After sewing the clothes, they should be placed inside and covered.
+
+若無席者應在床上作。
+If there is no mat, the work should be done on the bed.
+
+若復無者溫室、講堂上巨摩塗地縫。
+If that is also unavailable, sew on the plastered ground in the warming room or the lecture hall.
+
+縫衣時應如是，若不如是，越威儀法。
+The sewing of clothes should be done this way, and if not done this way, it violates the rules of conduct.
+
+
+
+
+佛住舍衛城，爾時比丘坐禪還，持冷脚熨他，彼比丘心驚不安。
+The Buddha was residing in the city of Shravasti, when a monk who had finished meditating returned, massaged another monk's cold feet, and caused the monk to be startled and uneasy.
+
+諸比丘以是因緣往白世尊。
+The monks reported this matter to the Blessed One.
+
+佛言：「從今已後當作障隔。
+The Buddha said, "From now on, a partition should be made.
+
+作法者，應用𥯤竹、若旃，竪四角施簾繩繫，坐禪還時開，入中還閉。
+The method involves using woven bamboo or cloth, erecting it at four corners, and hanging a curtain rope to open it when meditation ends and close it when entering.
+
+不得晝閉應舉，夜當下。
+It should not remain closed during the day, and should be lowered at night.
+
+障隔法應如是。
+The partitioning method should be like this.
+
+若不如是，越威儀法。」
+If not done this way, it violates the code of conduct."
+
+
+
+，爾時世尊五事利益故，五日一行諸比丘房，見房舍漏壞不治。
+Buddha was staying in the city of Shravasti. At that time, for the benefit of five matters, the World-Honored One went around the monks' quarters every five days and saw houses leaking and in disrepair.
+
+佛知而故問：「是何房舍漏壞乃爾？
+The Buddha knowingly asked, "Why are these houses leaking and in such disrepair?
+
+從今日後房舍應如是知。
+From now on, the houses should be maintained like this.
+
+云何如是知？
+How should they be maintained?
+
+不聽見房舍漏壞不治，若草覆者草補，乃至泥覆者泥補。
+Do not see houses leaking and unrepaired. If covered with grass, remedy with grass, if with mud, remedy with mud.
+
+應時時掃屋間蟲網塵埃。
+Regularly sweep away insect webs and dust inside the house.
+
+地高下者應平治，塞鼠孔泥治，半月當一巨摩塗地。
+Level uneven ground, fill rat holes, and every half month, plaster the floor.
+
+若地燥者當水和塗，若濕者淳用。
+If the ground is dry, plaster with water mixture, if wet, apply directly.
+
+若是上屋地作紺青色者，當以物裹床足，不得在中然燈、經行及著革屣，不得唾地，當用唾壺。
+If the top-floor ground is dark blue, wrap bed legs and do not light lamps, walk, wear leather shoes, or spit on the floor; use a spittoon instead.
+
+若是中屋者，得洗足洗手面盪鉢。
+On the middle floor, one can wash feet, hands, face, and rinse bowls.
+
+下屋者，得然燈、經行、洗手足面、盪鉢。
+In the lower house, one may light lamps, walk, wash hands, feet, face, and rinse bowls.
+
+房舍應如是，若不如是，越威儀法。
+The houses should be thus. If not, it violates the rules of decorum."
+
+
+
+，爾時世尊五日一行諸比丘房，
+
+The Buddha was staying in the city of Shravasti, and at that time, the World-Honored One would visit the monks' quarters once every five days.
+
+見房舍講堂壁上涕唾淋落垂地，
+
+He saw that the walls of the halls and the lecture rooms were covered in spittle and mucus dripping to the floor.
+
+佛知而故問：「是何涕唾不淨乃爾？」
+
+The Buddha knew it but intentionally asked, "What is this impure spittle and mucus here?"
+
+佛言：「從今日後涕唾法應如是知。
+
+The Buddha said, "From today onwards, the rules for spitting should be understood in this way.
+
+云何如是知？壁泥已不泥盡不得唾。
+
+How should they be understood? If the walls are plastered, they should not be completely plastered over, and spitting is not allowed.
+
+若地不泥者當唾一處，以脚磨之，不得處處污。
+
+If the ground is not plastered, one should spit in one place and rub it with the foot, and it should not be soiled everywhere.
+
+若作地者應用唾壺，底當安沙若灰礓石，
+
+For those making a floor, they should use a spittoon, with sand or ashes and gravel placed at the bottom,
+
+當數棄之，勿令臭穢生蟲，清水淨洗覆乾，
+
+and it should be frequently emptied to prevent foul smells or insects, and cleaned with fresh water and dried.
+
+不得在中嚼齒木。
+
+Chewing sticks should not be left in it.
+
+若禪坊中欲唾者，應唾革屣底拭地，
+
+If one wants to spit in a meditation hall, they should spit on the sole of their shoe and wipe the ground.
+
+若地有覆者當用唾壺。
+
+If the ground is covered, a spittoon should be used.
+
+若在食上欲唾者，不得大喀著地，
+
+If one wants to spit during a meal, they should not loudly clear their throat and spit on the ground,
+
+使比坐比丘惡心，應唾兩足中間，以脚磨之。
+
+causing annoyance to the fellow monks sitting nearby, but should spit between their feet and rub it with their foot.
+
+若大多出不止者，當出外唾已還坐。
+
+If there is a large amount that cannot be controlled, they should go outside to spit and return to their seat.
+
+若和上、阿闍梨前欲唾者，當至屏處。
+
+If one wants to spit in front of a senior monk or preceptor, they should go to a secluded place.
+
+若聚落中欲唾者，應唾足邊，以脚磨之。
+
+If one wants to spit in a village, they should spit beside their feet and rub it with their foot.
+
+若是末，吐無罪。
+
+If it is powder, spitting it is not an offense.
+
+若塔院中、僧院中見涕唾者，應以足磨之。
+
+If mucus and spittle are seen in a stupa courtyard or monastery, they should be rubbed with the foot.
+
+若二人共見，小者應磨。
+
+If two people see it together, the junior one should rub it.
+
+若小者持戒緩者，當自磨。
+
+If the junior one is lax in observing discipline, they should rub it themselves.
+
+比丘唾時應如是。
+
+Monks should spit in this manner.
+
+若不如是，越威儀法。」
+
+If not done in this manner, it breaches the rules of proper conduct."
+
+
+
+佛住舍衛城，爾時比丘舉鉢著向孔中，旋風來吹墮地即破，
+
+The Buddha was staying in the city of Shravasti, and at that time, a monk picked up his bowl and placed it on the window ledge, then a gust of wind blew it to the ground, breaking it.
+
+聞食粥揵椎聲欲取鉢，正見一聚碎瓦。
+
+Upon hearing the sound of the meal gong, intending to retrieve the bowl, he saw only a pile of broken pottery pieces.
+
+諸比丘以是因緣往白世尊。
+
+Because of this incident, the monks went to report to the Blessed One.
+
+佛言：「呼是比丘來。」來已，佛問比丘：「汝實爾不？」
+
+The Buddha said, "Call this monk here." When he arrived, the Buddha asked the monk, "Is it true?"
+
+答言：「實爾。」
+
+He replied, "Yes, it is true."
+
+佛言：「從今日後鉢應如是知。云何知？
+
+The Buddha said, "From today onward, you should know the proper way to handle bowls. How should you know?
+
+不得舉著向孔中、岸邊、危處，
+
+Do not place them on window ledges, on edges, or in precarious places.
+
+不得著開戶扇處及行來處，
+
+Do not place them where doors are opened or where people walk.
+
+不得用灰洗令脫色，
+
+Do not use ash to wash and cause them to discolor.
+
+當用樹葉汁、無沙巨磨洗。
+
+You should use leaf juice without sand for washing.
+
+洗時不得在岸邊、危處、石上、塼上，
+
+When washing, do not do it on the edges, in precarious places, on stones, or on tiles.
+
+不得在多羅樹下、迦毘陀樹下、那梨樹下。
+
+Do not wash under tali trees, kapita trees, or nari trees.
+
+洗鉢應踞坐、若胡跪，離地一搩手。
+
+When washing the bowl, you should squat or kneel, keeping it one span above the ground.
+
+應先洗和上、阿闍梨鉢，然後自洗。
+
+You should first wash the bowls of the preceptor and the teacher, then wash your own.
+
+不得持自鉢中殘水瀉和上、阿闍梨鉢中，
+
+Do not pour water left in your bowl into the preceptor's or teacher's bowl.
+
+當持和上、阿闍梨鉢中殘水洗己鉢。
+
+Use the water left in the preceptor's or teacher's bowl to wash your bowl.
+
+乾時亦先收和上、阿闍梨鉢。
+
+When drying, also first collect the preceptor's and teacher's bowls.
+
+盛時應先盛和上、阿闍梨鉢。
+
+When serving food, first serve the preceptor's and teacher's bowls.
+
+盛時當踞坐，持鉢囊帶串臂著膝上盛之。
+
+When serving, squat and place the bowl bag strap over your arm and rest it on your knee.
+
+若著臥床上、若坐床上，鉢囊當用兩重三重作。
+
+If placed on a bed, whether lying or sitting, the bowl bag should be double or triple layered.
+
+欲懸鉢時，當先搖捎橛堅不？
+
+When hanging the bowl, first shake the post to see if it's firm.
+
+然後安之。若無懸處者當著床上，
+
+Then hang it. If there is no place to hang it, place it on the bed.
+
+若向中有籠蔬遮者得安，若有鉢龕者得安，
+
+If there is a basket covering it, you can put it there; if there is a bowl niche, you can put it there.
+
+勿令相𢴤。鉢龕當作緣。
+
+Do not let them touch each other. The bowl niche should act as a separation.
+
+不得闇中取鉢，不得不淨手取，
+
+Do not take the bowl in the dark, and do not take it with unclean hands.
+
+應淨洗手、若以葉捻取。
+
+Wash your hands clean, or use a leaf to grasp it.
+
+取鉢時一手捉兩、一手捉一，不得捉四。
+
+When taking the bowl, hold two with one hand and one with the other; do not hold four.
+
+授鉢時不得卒放，應問言：『捉未？』
+
+When handing over the bowl, do not release it suddenly; you should ask, "Have you got it?"
+
+若言：『捉已。』乃放。
+
+If they say, "I've got it," then release it.
+
+不得持鉢盛不淨物，
+
+Do not use the bowl to hold unclean things.
+
+亦不得用盛水剃髮、洗手足面、浴室中用及洗小便處用。
+
+Do not use it to hold water for shaving, washing hands, feet, or face, in the bathroom, or for washing urinals.
+
+護鉢如護眼，應當如是。
+
+You should care for the bowl as you would care for your eyes.
+
+若不如是，越威儀法。」
+
+If not, you violate the rules of decorum."
+
+
+
+，爾時六群比丘呰毀粥，若見薄者作是言：
+The Buddha was living in the city of Sravasti, and at that time, six groups of monks were criticizing the porridge. If they saw thin porridge, they would say:
+
+「此非粥，此是遙浮那河。」
+"This is not porridge, this is the distant River Na."
+
+若見粥強者便言：「此非粥，是飯折人齒。」
+If they saw thick porridge, they would say: "This is not porridge, it is rice that breaks people’s teeth."
+
+諸比丘以是因緣往白世尊。
+The monks reported this situation to the World Honored One.
+
+佛言：「呼是比丘來。」
+The Buddha said: "Call those monks here."
+
+來已，佛問比丘：「汝實爾不？」
+When they had come, the Buddha asked the monks: "Is it true?"
+
+答言：「實爾。」
+They replied: "Yes, it is true."
+
+佛言：「從今已後粥應如是知。」
+The Buddha said: "From now on, you should understand porridge in this way."
+
+云何知？若聞打食粥揵椎聲時，當知此是二部僧粥？
+How should you understand? If you hear the sound of a staff striking, you should know this is porridge for two groups of monks.
+
+為是一部僧？為是師徒眷屬？
+Is it for one group of monks, or is it for the teacher and his disciples?
+
+知已應去。
+Once you know, you should go.
+
+到已不得形相厚薄，隨得應取，不得越次取。
+When you arrive, do not distinguish between thick and thin; take whatever you are given, and do not skip your turn.
+
+取時不得覆頭、覆肩、著革屣，應脫革屣、偏袒右肩取。
+When taking porridge, do not cover your head, shoulders, or wear shoes; you should remove your shoes and bare your right shoulder.
+
+若行粥人去駃者，下至脫革屣根。
+If the person serving the porridge moves quickly, you should at least remove your shoes to their roots.
+
+若不及脫者，待還時取、若倩人取，若坐者次第取。
+If you do not have time to remove them, wait to take the porridge, or have someone else take it for you; if sitting, take it in sequence.
+
+若薄者不得言：『太清，如遙浮那河見月影。』
+If the porridge is thin, do not say, "Too clear, like seeing the moon's reflection in the distant River Na."
+
+若強者不得言：『此是飯折人齒。』
+If the porridge is thick, do not say, "This is rice that breaks people's teeth."
+
+隨得應取。
+Take whatever you are given.
+
+粥法應如是。
+The rules for taking porridge should be like this.
+
+若不如是，越威儀法。
+If it is not like this, it violates the rules of proper conduct.
+
+
+
+
+迦蘭陀竹園，爾時比丘在帝釋石室山邊坐禪，時有比丘在前立住，坐禪比丘心不得定。
+The Buddha stayed at Venuvana in Rajagriha; at that time, a monk was meditating by the side of the Indra's cave rock mountain, and another monk stood in front of him, causing the meditating monk's mind to be unsettled.
+
+諸比丘以是因緣往白世尊。佛言：「呼是比丘來。」
+Several monks went to report this matter to the World-Honored One. The Buddha said, "Call that monk here."
+
+來已，佛問言：「汝實爾不？」答言：「實爾。」
+Once he came, the Buddha asked, "Is this true?" He replied, "Yes, it is true."
+
+佛言：「從今日後當如是住。云何如是住？
+The Buddha said, "From today onwards, you should live in this way. How should you live in this way?"
+
+不得在坐禪比丘前立，不得在僧中當前立，
+You should not stand in front of meditating monks or stand at the forefront in the assembly.
+
+不得當徒眾坐前立，不得當和上、阿闍梨前立，及長老比丘前立，
+Do not stand in front of the audience, in front of preceptors, teachers, or senior monks.
+
+不得著革屣、叉腰、覆頭、放兩手在邊，若病者無罪。
+Do not wear leather shoes, cross your arms, cover your head, or place both hands at the side unless you are sick.
+
+不得在婬女前住，樗蒱兒前、沽酒家前、屠兒前、獄囚前、殺人前住，
+Do not stand in front of prostitutes, gamblers, wine sellers, butchers, prisoners, or murderers.
+
+不得在深邃處立住。住法應如是，若不如是，越威儀法。」
+Do not stand in deserted or dangerous places. These are the rules for conduct; if you do not follow them, it is a violation of the Vinaya.
+
+
+摩訶僧祇律卷第三十四
+The Mahāsāṃghika Vinaya, Volume 34
+
+
+
+

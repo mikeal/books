@@ -1,0 +1,2439 @@
+這是第一行。
+This is the first line.
+
+這是第二行。
+This is the second line.
+
+這是第三行。
+This is the third line.
+
+這是第四行。
+This is the fourth line.
+
+這是第五行。
+This is the fifth line.
+
+這是第六行。
+This is the sixth line.
+
+
+
+
+大正新脩大藏經 第 22 冊 No. 1425 摩訶僧祇律
+The Taisho Revised Tripitaka, Volume 22, No. 1425, Mahasanghika Vinaya
+
+
+
+
+版本記錄
+
+Version History
+
+發行日期：2024-08
+
+Release Date: 2024-08
+
+最後更新：2024-07-12
+
+Last Updated: 2024-07-12
+
+
+
+
+【編輯說明】本資料庫由 財團法人佛教電子佛典基金會（CBETA）依「大正新脩大藏經」所編輯
+
+[Editing Instructions] This database is edited by the Chinese Buddhist Electronic Text Association (CBETA) based on the "Taisho Shinshu Daizokyo".
+
+
+
+
+【原始資料】蕭鎮國大德提供
+
+[Original Data] Provided by the Venerable Xiao Zhen Guo
+
+伽耶山基金會提供
+
+Provided by the Ga Ye Mountain Foundation
+
+北美某大德提供
+
+Provided by a certain Venerable in North America
+
+釋本禪法師提供新式標點
+
+Master Shi Ben Chan provided new punctuation
+
+
+
+#其他事項
+
+#Other Matters
+
+本資料庫可自由免費流通，
+
+This database can be freely distributed free of charge,
+
+詳細內容請參閱
+
+For more details, please refer to
+
+財團法人佛教電子佛典基金會資料庫版權宣告
+
+the copyright declaration of the Buddhist Canonical Texts Foundation Database.
+
+
+
+
+大自然是一本充满故事的书。
+
+Nature is a book full of stories.
+
+每当我们走进森林，仿佛翻开了其中的一页。
+
+Every time we walk into the forest, it's as if we've turned a page in it.
+
+河流轻声吟唱，是小溪的呢喃。
+
+The rivers whisper softly, which is the murmuring of streams.
+
+高山巍峨屹立，如同时光的见证者。
+
+The towering mountains stand majestically, as if witnesses of time.
+
+天空与海洋相接，绘成一幅壮丽的画。
+
+The sky merges with the sea, painting a magnificent picture.
+
+鸟儿自由飞翔，编织着无声的诗。
+
+Birds fly freely, weaving silent poems.
+
+大自然的每个角落，都潜藏着无尽的奥秘。
+
+Every corner of nature is filled with endless mysteries.
+
+它是我们最好的老师，教会我们生存和热爱生命。
+
+It is our best teacher, teaching us survival and to love life.
+
+
+
+摩訶僧祇律卷第二東晉天竺三藏佛陀跋陀羅共法顯譯
+The second scroll of the Mahasanghika Vinaya, translated by Buddha Bhadra and Faxian from Eastern Jin India
+
+
+
+
+明四波羅夷法之二(婬戒之餘)
+
+Explanation of the Four Parajikas, Part Two (Remaining Precepts on Sexual Conduct)
+
+
+
+
+衛城，廣說如上。
+Furthermore, the Buddha stayed in the city of Śrāvastī and expounded as above.
+
+時欝闍尼國有一男子，其婦邪行與人共通，其夫瞋恨面相呵責：「後復爾者要苦相治。」
+At that time, in the country of Ujjayinī, there was a man whose wife was unfaithful and consorted with another. Her husband, with anger on his face, scolded her, saying, "If you continue doing this, you will surely be punished."
+
+其婦不止。
+The wife did not stop.
+
+夫伺其婬時，執彼男子俱送與王，白言：「大王！此婦不良與是人通，願王苦治以肅將來。」
+The husband, waiting for the moment when his wife was being promiscuous, seized the man and brought him to the king, saying, "Great king! This woman is unfaithful, consorting with this man. I hope the king will punish them to prevent future offenses."
+
+時王大怒，勅其有司令兀其手足棄於塚間。
+The king was greatly angered and ordered his officials to sever their hands and feet and abandon them in the cemetery.
+
+時治罪者，即於塚間兀其手足仰臥著地。
+The offenders were punished as ordered, with their hands and feet severed, lying face-up on the ground in the cemetery.
+
+時有比丘在塚間行，見此女人裸身在地，彼不正思惟便生欲想，語此女言：「共作是事。」
+At that time, a monk was walking in the cemetery and saw the woman lying naked on the ground. A wrongful thought arose in him, and he said to the woman, "Let's do this deed."
+
+女即答言：「此形如是猶可爾耶？」
+The woman replied, "Even in this state, would you still do it?"
+
+比丘言：「可爾。」
+The monk said, "Yes."
+
+女人即許便共行欲，行欲已而去。
+The woman agreed, and they engaged in the act, after which he left.
+
+爾時此女親里知識共相謂言：「當往塚間看此女人，為死為活？」
+At that time, friends and relatives of the woman discussed among themselves, "We should go to the cemetery to see whether this woman is dead or alive."
+
+便共俱行往詣塚間，見彼兀女仰臥在地，身上猶有新行欲處，皆共瞋言：「汝於苦痛中猶復為此，人之無恥乃至如是耶？」
+They all went together to the cemetery and saw her lying on the ground. Noticing traces of recent intercourse, they angrily said, "Even in pain, you still do this? How shameless can a person be?"
+
+彼女答言：「人來見逼，此非我咎。」
+The woman replied, "Someone forced me. It's not my fault."
+
+問言：「逼者何人？」答言：「沙門釋子。」
+They asked, "Who was it?" She replied, "A Śākya monk."
+
+眾人驚怪自相謂言：「沙門釋子是女人身壞如是猶故不捨，況復全形者！宜共防護無令近門，此等敗人何道之有。」
+The crowd was astonished and said among themselves, "A Śākya monk, even with a woman whose body is so damaged, would not abstain. How much more with someone whole? We must guard our doors and not let them near. Such dissolute people can't claim to follow any path."
+
+彼比丘尋自疑悔，具白世尊，佛言：「比丘！汝不聞我制戒不得行婬耶？」
+The monk soon felt guilty and confessed fully to the Blessed One. The Buddha said, "Monk! Haven't you heard my rule prohibiting unchastity?"
+
+比丘答言：「我知制戒，謂為全身，但此兀女形壞。」
+The monk replied, "I know the rule applies to those with whole bodies, but this woman was maimed."
+
+佛言：「兀者若左手及右脚、若右手及左脚，是名兀女，若婬者犯波羅夷。」
+The Buddha said, "Anyone missing a left hand and right foot, or a right hand and left foot, is considered maimed. Sexual intercourse with such a person constitutes a pārājika offense.
+
+
+衛城，廣說如上。
+Furthermore, when the Buddha was residing in the city of Śrāvastī, he taught extensively as previously mentioned.
+
+有一比丘於祇洹中食已，入開眼林中坐禪。
+After a monk ate in the Jetavana, he entered the grove with open eyes to meditate.
+
+時祇洹開眼林中間，有一女狂發眠地，風吹衣起形體露現。
+At that time, in the grove with open eyes within the Jetavana, there was a woman who had slept wildly on the ground; the wind blew her clothes, revealing her body.
+
+時比丘不正思惟欲心內發，便共行婬。
+The monk, with improper thoughts, developed lust in his heart and engaged in sexual acts with her.
+
+行婬已尋即疑悔，具白世尊，
+After the act, he immediately felt doubt and regret and reported everything to the Blessed One.
+
+佛告比丘：「汝不知我制戒不得行婬耶？」
+The Buddha said to the monk, "Do you not know that I established a precept prohibiting sexual activities?"
+
+比丘答言：「我知制戒，但是女狂眠。」
+The monk replied, "I know there is a precept, but she was wildly asleep."
+
+佛言：「婬狂眠女者，亦犯波羅夷。」
+The Buddha said, "Engaging in sexual acts with a woman who is wildly asleep still constitutes a Pārājika offense."
+
+
+
+
+舍離，廣說如上。  
+Furthermore, the Buddha was residing in Vesāli, and extensively explained as above.
+
+時有一居士婦父母家住久，夫家遣信呼婦令速還，婦將欲還作種種飲食自送之具。  
+At that time, there was a laywoman who stayed at her parents' house for a long time. Her husband's family sent a message urging her to return quickly. She prepared various food and other items for her departure.
+
+時風刀起吹裂女身，即便命終。  
+Suddenly, a violent wind arose and caused her body to be torn apart, leading to her immediate death.
+
+毘舍離土地下濕，死人不得久停。  
+The land of Vesāli was damp, and corpses could not be left for long.
+
+時宗親都集，即時送此死屍，往著曠野送死屍出，共相謂言：「當速疾去，莫令壞爛使人厭污。」  
+Her relatives gathered immediately, escorting the corpse to the wilderness, and said to one another, "We must hurry. Do not let it decompose and become repulsive."
+
+送出死屍值大風雨，置屍一處以草覆之，明當來燒。  
+While transporting the corpse, a mighty storm arose. They placed it in one spot and covered it with grass, intending to burn it the next day.
+
+夜則雨止天清月出。  
+That night, the rain stopped, the sky cleared, and the moon emerged.
+
+時有比丘，夜遊塚間過到是處，聞新死屍身有塗香，便謂是生人。  
+At that time, a monk wandered through the graveyard at night and came to that place. He smelled the fragrance on the newly deceased body and mistook it for a living person.
+
+是比丘不正思惟欲心即起，便婬死屍。  
+The monk, without proper mindfulness, was overcome by desire and committed an immoral act with the corpse.
+
+行欲已猶故不厭，即擔死屍到自住處通夜行欲。  
+After the act, still unsatisfied, he carried the corpse to his dwelling and continued throughout the night.
+
+晨朝閉戶入村乞食。  
+In the morning, he closed the door and went into the village to beg for food.
+
+死女親里明日持香油樵火欲燒死屍，到其本處不見死屍，復不見鳥獸所食蹤跡，遍求不得。  
+The next day, the dead woman's relatives brought incense, oil, and firewood to burn the corpse. When they arrived at the original spot, they did not find the corpse, nor any traces of animals having consumed it, despite searching extensively.
+
+開比丘草庵，見死屍在中，屍上看見新行欲處。  
+They opened the monk's grass hut and saw the corpse inside, with evidence of recent activities on the body.
+
+見已便相謂言：「異哉！沙門釋子死者尚不捨，況復生人！  
+Seeing this, they said to each other, "How strange! The monk, a disciple of the Buddha, does not even renounce the deceased, let alone the living!
+
+從今已去宜各防護，莫令沙門得入人舍，此等敗物，有何道哉？」  
+From now on, we should all be vigilant, not allowing monks into our homes. Such corrupt individuals, what path do they follow?"
+
+彼比丘尋自疑悔，具白世尊，佛言：「比丘！汝不聞佛制戒不得行婬耶？」  
+The monk, feeling doubtful and remorseful, confessed everything to the World-Honored One. The Buddha said, "Monk, have you not heard that the Buddha has established a rule prohibiting acts of impurity?"
+
+比丘答言：「我知制戒，但彼是死女。」  
+The monk replied, "I know of the rule, but she was a dead woman."
+
+佛言：「婬死女，亦犯波羅夷。有三事比丘行婬犯波羅夷。何等三？死、眠、覺。」  
+The Buddha said, "Committing impurity with a corpse is also a grievous offense (Pārājika). There are three conditions under which a monk commits this offense. What are the three? With the dead, the sleeping, and the awake.
+
+
+爾時世尊告諸比丘：「依止毘舍離比丘皆使令集，以十利故與諸比丘制戒，乃至已聞者當重聞。
+At that time, the World-Honored One told the monks: "Stay and gather at Vaisali, for the benefit of the ten precepts, and for those who have already heard, they should listen again.
+
+若比丘於和合僧中受具足戒，不還戒、戒羸不出、相行婬法，乃至共畜生，是比丘得波羅夷，不應共住。」
+If a monk receives the full precepts within a harmonious assembly, yet does not return the precepts, or if weak does not go out, or engages in sexual misconduct, and even with animals, this monk incurs Parajika and should not reside together."
+
+初波羅夷緣訖。
+The origin of the first Parajika is concluded.
+
+
+
+
+比丘者，受具足善受具足；
+A monk is one who has received full ordination in a good manner;
+
+如法非不如法；
+In accordance with the law, not contrary to it;
+
+和合非不和合；
+In harmony, not discordance;
+
+可稱歎非不可稱歎；
+Praiseworthy, not unworthy of praise;
+
+滿二十非不滿，是名比丘義。
+Twenty years or older, not younger; this defines the meaning of a monk.
+
+
+
+
+於和合僧中受戒者，
+
+For those who receive ordination among the harmonious assembly of monks,
+
+若比丘受具足時善受具足，
+
+If a bhikkhu is well-received during the full ordination,
+
+一白三羯磨無障法，
+
+There should be no obstacles to the one proclamation and three motions (of ordination),
+
+和合僧非別眾，
+
+The harmonious assembly of monks is not a separate group,
+
+滿十僧、若過十，
+
+With a quorum of ten monks, or more than ten,
+
+是為比丘於和合僧中受戒。
+
+This is considered a bhikkhu receiving ordination among the harmonious assembly.
+
+
+
+不還戒者，欲先明還戒。
+
+For someone who hasn't returned a precept, they should first understand the return of a precept.
+
+還戒者，是比丘還戒時，若愁憂不樂，心定欲捨沙門法，不樂行比丘事，不樂釋種子，言：
+
+A monk who is returning a precept, if they are worried or unhappy, has resolved in their mind to abandon the monastic way, is dissatisfied with the work of a monk and the renunciation of worldly concerns, may say:
+
+「我欲作沙彌、我欲作外道、我欲作俗人受本五欲。」
+
+"I want to become a novice monk, I want to become a non-Buddhist practitioner, I want to become a layperson to enjoy the original five desires."
+
+若向比丘、比丘尼、式叉摩尼、沙彌、沙彌尼、外道、出家、在家俗人言：
+
+If they speak to a monk, a nun, a probationer nun, a novice monk, a novice nun, a non-Buddhist practitioner, a monastic, or a householder:
+
+「我捨佛、捨法、捨僧、捨學、捨說、捨共住、捨共利、捨經論、捨比丘、捨沙門、捨釋種，我非比丘、非沙門、非釋種，我是沙彌、是外道、是俗人，如本五欲我今受之。」
+
+"I abandon the Buddha, the Dharma, the Sangha, the studies, the teachings, the communal living, the shared benefits, the scriptures and discussions, the monks, the monastic path, and the renounced family. I am not a monk, not monastic, not renunciant family, I am a novice monk, a non-Buddhist practitioner, a layperson, I now engage in the original five desires."
+
+是名還戒。
+
+This is called returning a precept.
+
+
+
+
+
+
+How does one abandon the Buddha?
+
+捨佛者，捨正覺、捨最勝、捨一切智身、捨一切見、捨無餘智見、捨羅睺羅父、捨金色身、捨圓光、捨三十二相、捨八十種好。
+
+Abandoning the Buddha means abandoning true enlightenment, the supreme, the embodiment of all wisdom, all views, the knowledge and views beyond remnants, Rahula's father, the golden body, the perfect halo, the thirty-two marks, and the eighty auspicious attributes.
+
+若捨一一佛名號，皆名捨佛，如是捨佛是名捨戒。
+
+If one forsakes any of the Buddha's names, it is considered abandoning the Buddha; thus abandoning the Buddha is called breaking precepts.
+
+若言：「捨過去、未來佛。」是不名捨戒，得偷蘭罪。
+
+If one says, "I abandon past and future Buddhas," it is not considered breaking precepts but incurs the offense of stealing.
+
+若不言：「捨過去、未來佛。」直言：「捨佛。」者，是名捨戒。
+
+If one does not say, "I abandon past and future Buddhas," but simply says, "I abandon the Buddha," it is called breaking precepts.
+
+若言：「捨辟支佛。」是名捨戒。
+
+If one says, "I abandon the Pratyekabuddha," it is called breaking precepts.
+
+過去、未來同如捨佛。
+
+This is the same for abandoning past and future Buddhas.
+
+又外道一切出家、六師弟子各言：「有佛。」
+
+All non-Buddhist ascetics and disciples of the six teachers claim, "There is a Buddha."
+
+若比丘實欲捨此佛，假言：「捨外道佛。」是不名捨戒，得偷蘭罪。
+
+If a monk truly intends to forsake this Buddha and merely pretends to reject an outsider's Buddha, it is not called breaking precepts but incurs the offense of stealing.
+
+若戲笑捨佛，得越比尼罪。
+
+If one jokingly abandons the Buddha, one incurs the offense of surpassing probation.
+
+若誤說、心狂，無罪。
+
+If spoken mistakenly or out of madness, there is no offense.
+
+
+
+
+
+What is the abandonment of the law?
+
+法者，非三世所攝，其相常住。
+
+The law is not encompassed by the three times and its attributes permanently abide.
+
+所謂無為涅槃、離眾煩惱，一切苦患永盡無餘。
+
+It is called unconditioned nirvana, free from all afflictions, all suffering is eternally gone without remainder.
+
+若言：「捨此法。」者，是名捨戒。
+
+If one says, "Abandon this law," it is called the abandonment of precepts.
+
+若言：「捨過去、未來法。」是不名捨戒，得偷蘭罪。
+
+If one says, "Abandon past or future laws," it is not called abandonment of precepts, and incurs the offense of Sthūlātyaya.
+
+若不稱過去、未來，直言：「捨法。」是名捨戒。
+
+If one does not mention past or future and directly says, "Abandon the law," it is called the abandonment of precepts.
+
+一切外道各自有法，若比丘實欲捨此正法，假言：「捨彼法。」者，是不名捨戒，得偷蘭罪。
+
+All external paths have their own laws. If a monk truly wishes to abandon this correct law and pretends by saying, "Abandon their law," it is not called abandonment of precepts, and incurs the offense of Sthūlātyaya.
+
+若戲笑捨法者，越比尼罪。
+
+If one jokingly abandons the law, it is an infraction of the Pācittiya offense.
+
+若誤說、心狂，無罪。
+
+If it is spoken mistakenly or due to insanity, there is no offense.
+
+
+
+云何捨僧？
+
+How does one abandon the Sangha?
+
+僧者，世尊弟子僧，等向政向智向、法次法向、隨順法行，謂四雙八輩，信成就、戒成就、聞成就、三昧成就、慧成就、解脫成就、解脫知見成就，應所恭敬，為無上福田。
+
+The Sangha refers to the disciples of the World-Honored One who follow the path of wisdom and righteousness, practice according to the teachings, are described as the four pairs and eight types, accomplished in faith, morality, hearing, concentration, wisdom, liberation, and knowledge of liberation, and are worthy of respect as the supreme field of merit.
+
+若比丘言：「我捨是僧。」是名捨戒。
+
+If a monk says, "I abandon this Sangha," it is called renouncing the precept.
+
+若言：「捨過去、未來僧。」是不名捨戒，得偷蘭罪。
+
+If he says, "I abandon the past or future Sangha," it is not called renouncing the precept, and he incurs a minor offense.
+
+若不稱過去、未來，直言：「捨僧。」是名捨戒。
+
+If he does not mention the past or future and directly says, "I abandon the Sangha," it is called renouncing the precept.
+
+如比丘僧、比丘尼僧亦如是。
+
+This applies to both the monk Sangha and the nun Sangha.
+
+若言：「我捨眾多比丘。」是不名捨戒，得偷蘭罪。
+
+If he says, "I abandon many monks," it is not called renouncing the precept, and he incurs a minor offense.
+
+若言：「我捨過去、未來眾多比丘。」是不名捨戒，得越比尼罪。
+
+If he says, "I abandon the past or future many monks," it is not called renouncing the precept, and he incurs a major offense.
+
+若不稱捨過去、未來眾多比丘，直言：「捨眾多比丘者。」是不名捨戒，得偷蘭罪；如眾多比丘，眾多比丘尼亦如是。
+
+If he does not mention abandoning past or future many monks and directly says, "Abandon many monks," it is not called renouncing the precept, and he incurs a minor offense; as with many monks, the same applies to many nuns.
+
+若言：「我捨一比丘。」是不名捨戒，得越比尼罪。
+
+If he says, "I abandon one monk," it is not called renouncing the precept, and he incurs a major offense.
+
+若言：「捨過去、未來一比丘。」是不名捨戒，得越比尼心悔。
+
+If he says, "Abandon the past or future one monk," it is not called renouncing the precept, and he incurs a major misdemeanor with remorse.
+
+若不稱言：「我捨過去、未來一比丘。」直言：「捨一比丘。」是不名捨戒，得越比尼罪。
+
+If he does not say, "I abandon past or future one monk," and directly says, "Abandon one monk," it is not called renouncing the precept, and he incurs a major offense.
+
+如一比丘，一比丘尼亦如是。
+
+As with one monk, the same applies to one nun.
+
+若言：「捨和上。」是名捨戒。
+
+If he says, "Abandon the preceptor," it is called renouncing the precept.
+
+差別如捨僧中說。
+
+The distinctions are explained in the context of abandoning the Sangha.
+
+若言：「捨阿闍梨。」是不名捨戒，得偷蘭罪。
+
+If he says, "Abandon the instructor," it is not called renouncing the precept, and he incurs a minor offense.
+
+若言：「捨過去、未來阿闍梨。」是不名捨戒，得越比尼罪。
+
+If he says, "Abandon the past or future instructor," it is not called renouncing the precept, and he incurs a major offense.
+
+若不稱過去、未來，直言：「捨阿闍梨。」是不名捨戒，得偷蘭罪。
+
+If he does not mention past or future and directly says, "Abandon the instructor," it is not called renouncing the precept, and he incurs a minor offense.
+
+若戲笑言捨，得越毘尼罪。
+
+If he jokingly says abandon, he incurs a major offense.
+
+若誤說、心狂，無罪。
+
+If it is said erroneously or in madness, there is no offense.
+
+如彼外道各自稱為僧，若比丘實欲捨此僧，假言：「捨外道僧。」是不名捨戒，得偷蘭罪。
+
+As the heretics claim themselves to be Sangha, if a monk truly wishes to abandon this Sangha, and falsely says, "Abandon the heretic Sangha," it is not called renouncing the precept, and he incurs a minor offense.
+
+若戲笑言捨僧，得越比尼罪。
+
+If he jokingly says to abandon the Sangha, he incurs a major offense.
+
+若誤說、心狂，無罪。
+
+If it is said erroneously or in madness, there is no offense.
+
+
+
+
+
+
+What is the abandonment of study?
+
+學有三種：有增上戒學、增上意學、增上慧學。
+
+There are three kinds of studies: the study of superior morality, the study of superior mind, and the study of superior wisdom.
+
+增上戒學者，謂波羅提木叉廣略說。
+
+The study of superior morality refers to the extensive and brief teachings of the Prātimokṣa.
+
+增上意學者，所謂九次第正受。
+
+The study of superior mind refers to the nine sequential absorptions.
+
+增上慧學者，所謂四真諦。
+
+The study of superior wisdom refers to the four noble truths.
+
+彼增上戒學、增上意學、增上慧學，盡名為學。
+
+These studies of superior morality, mind, and wisdom are all called studies.
+
+若比丘言：「捨此學。」皆名捨戒。
+
+If a monk says, "I abandon this study," it is called the abandonment of morality.
+
+如前捨佛中說。
+
+As previously mentioned in the abandonment of the Buddha.
+
+世間各自有學，如工巧、書算、技術等，皆名為學，
+
+In the world, there are various studies such as craftsmanship, writing, calculations, and skills, all of which are called studies.
+
+若比丘欲捨此學，假言：「捨彼學。」者，是不名捨戒，得偷蘭罪。
+
+If a monk wants to abandon these studies and says, "I abandon that study," it is not called the abandonment of morality and incurs a minor transgression.
+
+如外道各自有學，若比丘欲捨此學，假言：「捨外道學。」
+
+Just as there are studies in non-Buddhist teachings, if a monk wants to abandon these studies and says, "I abandon non-Buddhist studies,"
+
+是不名捨戒，得偷蘭罪。
+
+it is not called the abandonment of morality and incurs a minor transgression.
+
+若戲笑言：「捨學。」得越比尼罪。
+
+If said jokingly, "I abandon studies," it incurs a serious transgression.
+
+若誤說、心狂、捨學，無罪。
+
+If said mistakenly, while insane, or abandoning studies, there is no offense.
+
+
+
+
+
+
+What is meant by giving up narration?
+
+若十四日、若十五日、若中間布薩。
+
+Either on the fourteenth, fifteenth, or on an interim day, perform the Uposatha.
+
+十四日者，冬第三、第七布薩，春第三第、七布薩，夏第三、第七布薩。
+
+On the fourteenth day, during winter the third and seventh Uposatha, in spring the third and seventh Uposatha, and in summer the third and seventh Uposatha.
+
+一歲中此六布薩，是名十四日。
+
+These six Uposathas in one year are called the fourteenth day.
+
+餘十八布薩十五日，合二十四布薩，是名十四日、十五日布薩。
+
+The remaining eighteen Uposathas occur on the fifteenth day, making a total of twenty-four, known as the fourteenth and fifteenth day Uposathas.
+
+中間布薩者，有比丘布薩時，若僧不和合，
+
+As for the interim Uposatha, when the monks gather for Uposatha and the Sangha is not in harmony,
+
+一比丘於僧中唱：「若僧和合時，當作布薩。」
+
+A monk in the assembly declares, "When the Sangha is in harmony, the Uposatha shall be performed."
+
+若無一比丘唱者，一切僧得越比尼罪。
+
+If no monk announces this, all the monks incur the minor Vinaya offense.
+
+一比丘唱者，一切僧無罪。
+
+If one monk makes the announcement, all monks are without offense.
+
+若十五日不和合，應初日布薩。
+
+If the fifteenth day is not harmonious, the Uposatha should be on the first suitable day.
+
+初日不和合者，二日乃至應十二日布薩。
+
+If the first day is not harmonious, proceed to the second day up to the twelfth day for Uposatha.
+
+若十二日不和合，應十三日布薩。
+
+If the twelfth day is not harmonious, the Uposatha should be on the thirteenth day.
+
+若十四日應正布薩者，十三日不應作中間布薩，便就十四日布薩，亦是中間布薩，亦名正布薩。
+
+If the fourteenth day is the proper Uposatha, then the thirteenth should not have an interim Uposatha; proceed directly with the fourteenth as both an interim and formal Uposatha.
+
+若月大者，乃至十三日和合得作中間布薩，
+
+If the month has more days, the Uposatha may be harmonious and performed as an interim Uposatha by the thirteenth.
+
+若不和合，不得十四日，應就十五日布薩，亦名中間布薩，亦名正布薩。
+
+If not harmonious by the fourteenth, then perform the fifteenth as both an interim and formal Uposatha.
+
+何以故？不得頻日布薩，應當隔日布薩，是名中間布薩。
+
+Why is this so? The Uposatha should not be performed on consecutive days; it should be separated, and this is called the interim Uposatha.
+
+應十四日布薩者，不得停至十五日；
+
+If the Uposatha is due on the fourteenth, it must not be postponed to the fifteenth;
+
+應十五日布薩者，不得逆十四日。
+
+If it is due on the fifteenth, it must not be anticipated on the fourteenth.
+
+若有因緣者，得作布薩。
+
+If there are circumstances, then Uposatha may be performed.
+
+若十四日、若十五日、若中間布薩，盡名為說。
+
+Whether on the fourteenth, fifteenth, or interim Uposatha, it's all collectively called a narration.
+
+若如是言：「我捨是說。」是名捨戒，如前捨佛中說。
+
+If one says, "I give up this narration," it is called renunciation of precepts, as previously stated in the renunciation before the Buddha.
+
+彼諸外道亦各有說，
+
+Those outsiders also have their own narrations,
+
+若實欲捨此說，假言：「捨外道說。」者，是不名捨戒，得偷蘭罪。
+
+If one genuinely wants to abandon this narration and falsely claims, "I renounce the outsiders' narration," it is not considered renunciation, and a minor offense is incurred.
+
+若戲笑捨說者，得越比尼罪。
+
+If one abandons narration jokingly, a minor Vinaya offense is committed.
+
+若誤說、心狂捨說，無罪。
+
+If one mistakenly or insanely renounces narration, there is no offense
+
+
+云何捨共住？
+
+How is one to abandon living together?
+
+共住有二種：
+
+There are two types of living together:
+
+一者清淨共住，
+
+The first is pure living together,
+
+二者相似共住。
+
+The second is similar living together.
+
+清淨共住者，
+
+Pure living together,
+
+眾悉清淨、共作布薩，
+
+All members are pure and perform the Uposatha together,
+
+是名清淨共住。
+
+This is called pure living together.
+
+相似共住者，
+
+Similar living together,
+
+不清淨作清淨相，
+
+Though impure, appears as if pure,
+
+與清淨者共作布薩，
+
+Performs the Uposatha with the pure ones,
+
+是名相似共住。
+
+This is called similar living together.
+
+彼清淨共住、相似共住，
+
+These pure living together and similar living together,
+
+盡名共住。
+
+Are both called living together.
+
+若言：「我捨共住。」
+
+If one says, "I abandon living together."
+
+是名捨戒，
+
+This is called abandoning discipline.
+
+如上捨佛中廣說。
+
+As elaborated above in the context of abandoning the Buddha.
+
+彼諸外道亦有共住，
+
+The outsiders also have forms of living together,
+
+若實欲捨此共住，
+
+If one genuinely wishes to abandon this living together,
+
+假言：「捨彼共住。」
+
+But falsely claims, "I abandon that living together."
+
+是不名捨戒，
+
+This is not called abandoning discipline,
+
+得偷蘭罪。
+
+And incurs the offense of stealing the Sangha's resources.
+
+若戲笑說捨共住，
+
+If one jokingly says they abandon living together,
+
+得越比尼罪。
+
+They incur the offense of violating the Piccāyā.
+
+若誤說、心狂捨共住者，
+
+If one mistakenly says or in madness abandons living together,
+
+無罪。
+
+There is no offense.
+
+
+
+？
+
+How to abandon mutual benefit?
+
+共利者有二種：一者法利，二者衣食利。
+
+There are two types of mutual benefit: one is the benefit of the Dharma, and the other is the benefit of clothing and food.
+
+法利者，名受誦問答。
+
+The benefit of the Dharma is called receiving, reciting, and question and answer.
+
+衣食利者，同受一施。
+
+The benefit of clothing and food is to receive an offering together.
+
+彼法利、衣食利者盡名共利。
+
+Both the benefit of the Dharma and the benefit of clothing and food are collectively called mutual benefit.
+
+若比丘言：「我捨此利。」是名捨戒，餘如上捨佛中廣說。
+
+If a monk says, "I abandon this benefit," it is called abandoning the precept, and the rest is explained in detail above in abandoning the Buddha.
+
+若言：「捨法利。」是名捨戒，如上捨佛中廣說。
+
+If he says, "I abandon the benefit of the Dharma," it is called abandoning the precept, as explained in detail above in abandoning the Buddha.
+
+若但言：「我捨衣食利。」是不名捨戒，得偷蘭罪。
+
+If he only says, "I abandon the benefit of clothing and food," it is not called abandoning the precept, and he incurs a Stealing (Thullaccaya) offense.
+
+若言：「我捨過去、未來衣食利。」是不名捨戒，得越比尼罪。
+
+If he says, "I abandon the past and future benefits of clothing and food," it is not called abandoning the precept, and he incurs a Transgression (Pācittiya) offense.
+
+若不稱過去、未來，直言：「捨衣食利。」者，是不名捨戒，得偷蘭罪。
+
+If he does not specify past or future, and directly says, "I abandon the benefit of clothing and food," it is not called abandoning the precept, and he incurs a Stealing (Thullaccaya) offense.
+
+彼諸外道亦有共利，若實欲捨此共利，假言：「捨彼共利。」者，不名捨戒，得偷蘭罪。
+
+Those outside the path also have mutual benefits, and if one truly wishes to abandon this mutual benefit and falsely says, "I abandon that mutual benefit," it is not called abandoning the precept, and he incurs a Stealing (Thullaccaya) offense.
+
+若戲笑言捨共利者，得越比尼罪。
+
+If someone jokingly says he abandons mutual benefit, he incurs a Transgression (Pācittiya) offense.
+
+若誤說、心狂捨共利者，無罪。
+
+If someone mistakenly says it, or in a state of madness abandons mutual benefit, there is no offense.
+
+
+
+云何捨經論？
+
+What is meant by renouncing the scriptures?
+
+諸經論有九部，若比丘言：「我捨此經論。」者，是名捨戒。
+
+There are nine parts to the scriptures, and if a monk says, "I renounce this scripture," it is called breaking a precept.
+
+若言：「我捨過去、未來經論。」者，是不名捨戒，得偷蘭罪。
+
+If he says, "I renounce the past or future scriptures," it is not called breaking a precept, but he incurs a minor offense.
+
+若不稱過去、未來，直言：「捨經論。」者，是名捨戒。
+
+If he directly says, "I renounce the scriptures," without specifying past or future, it is called breaking a precept.
+
+若作伎中，以佛語作歌頌，若言：「我捨此歌頌中佛語。」者，是名捨戒。
+
+If someone makes songs using Buddha's words and says, "I renounce the Buddha's words in this song," it is called breaking a precept.
+
+彼諸外道亦有經論，若實欲捨此經論，假言：「捨彼經論。」者，是不名捨戒，得偷蘭罪。
+
+There are also scriptures among heretics, and if one truly wants to renounce these scriptures but falsely says, "I renounce their scriptures," it is not called breaking a precept but incurs a minor offense.
+
+若戲笑言捨經論者，不名捨戒，得越比尼罪。
+
+If someone jokingly says they renounce the scriptures, it is not called breaking a precept, but it incurs a minor offense.
+
+若誤說、心狂捨經論者，無罪。
+
+If one speaks mistakenly or renounces scriptures due to madness, there is no offense.
+
+
+
+復次若比丘言：「我捨佛、佛捨我，我離佛、佛離我，我遠佛、佛遠我，我厭佛、佛厭我，我休佛、佛休我。」
+
+Furthermore, if a monk says, "I abandon the Buddha, the Buddha abandons me; I depart from the Buddha, the Buddha departs from me; I distance myself from the Buddha, the Buddha distances from me; I am weary of the Buddha, the Buddha is weary of me; I rest from the Buddha, the Buddha rests from me."
+
+如是皆名捨戒，乃至捨諸經論亦如是，是名還戒。
+
+This is all called renunciation of precepts, and even renouncing all scriptures and treatises is likewise named returning precepts.
+
+
+
+
+不還戒者
+Those who do not return the precepts
+
+若瞋恚、若卒說、若獨說、若不了說、若因諍說、若獨想說、若說前人不解、若向眠者說、向狂者說、向苦惱者說、向嬰兒說、向非人說、向畜生說
+whether out of anger, rash words, speaking alone, speaking incoherently, out of dispute, speaking alone in thought, speaking to those who do not understand, speaking to sleepers, madmen, those in distress, infants, non-humans, or animals
+
+如是諸說還戒
+such speeches of returning to the precepts
+
+是不名捨戒
+this is not called abandoning the precepts
+
+
+
+
+戒羸者，彼作是念：「我不如捨佛法僧，乃至捨諸經論。」
+The weak-minded one thinks, "I should abandon the Buddhas, Dharma, and Sangha, and even give up the scriptures and treatises."
+
+彼復作是念：「我當作沙彌、作俗人、作外道。」
+They further think, "I should become a novice monk, a layperson, or a non-believer."
+
+彼心念口言：「未決定向他人說。」
+They think in their heart and speak, "I will not definitely tell others."
+
+是名戒羸。
+This is called having weak precepts.
+
+若說戒羸事者，語語得偷蘭罪。
+If someone speaks of the weakness in precepts, they incur a minor offense with each word.
+
+復作心念口言：「我不如捨佛。」
+They again think in their heart and say, "I should abandon the Buddha."
+
+乃至言：「我不如作本俗人。」
+Even to the point of saying, "I should become my original layperson."
+
+復作是言：「我捨佛者勝、乃至我習本俗人者勝。」
+They even say, "It is better to abandon the Buddha, even better to return to being a layperson."
+
+是名戒羸。
+This is called having weak precepts.
+
+若說戒羸事，語語得偷蘭罪，是名戒羸。
+If one speaks of the weakness in precepts, they incur a minor offense with each word, and this is called having weak precepts.
+
+
+
+
+若戒羸行婬法，婬法者，謂與女人有命三處中行婬、初中後受樂，是名行婬法。
+If one violates the rule against sexual misconduct, it refers to having intercourse with a woman in any of the three bodily areas, experiencing pleasure during the initial, middle, and end stages. This is called sexual misconduct.
+
+若比丘戒羸行婬法，得波羅夷罪，不應共住。
+If a monk breaks the rule of sexual misconduct, he incurs a pārājika offense and should not live together with the community.
+
+人女有命及死，三處行婬、初中後受樂，如是非人女有命及死，畜生女有命及死，三處行婬、三時受樂，是比丘得波羅夷罪，不應共住。
+Having intercourse with a woman who is either alive or dead, in any of the three bodily areas, experiencing pleasure during the initial, middle, and end stages, as well as with non-human females or female animals, results in a monk incurring a pārājika offense and should not live together with the community.
+
+若人男有命及死，非人男有命及死，畜生男有命及死，二處行婬、三時受樂，是比丘得波羅夷罪，不應共住。
+Intercourse with a man who is either alive or dead, non-human males, or male animals, in any of two bodily areas, experiencing pleasure during the initial, middle, and end stages, results in a monk incurring a pārājika offense and should not live together with the community.
+
+人黃門有命及死，非人黃門有命及死，畜生黃門有命及死，二處、初中後三時受樂，得波羅夷罪。
+Intercourse with eunuchs who are either alive or dead, non-human eunuchs, or animal eunuchs, in any of two bodily areas, experiencing pleasure during the initial, middle, and end stages, results in a pārājika offense.
+
+畜生者，從象馬乃至雞，是名畜生。
+Animals, ranging from elephants and horses to chickens, are considered animals.
+
+若犯此畜生者，得波羅夷罪。
+If one engages in intercourse with these animals, they incur a pārājika offense.
+
+象身大乃至雞身小，得偷蘭罪。
+If the body of the elephant is large to the body of a chicken being small, it incurs a sthulatyaya offense.
+
+若象身小乃至雞身大者，得波羅夷罪，是故說乃至共畜生，得波羅夷罪。
+If the body of an elephant is small compared to the body of a chicken being large, it incurs a pārājika offense. Therefore, it is said that even with animals, one incurs a pārājika offense.
+
+
+
+波羅夷者，謂於法智退沒墮落、無道果分，是名波羅夷。
+Pārājika refers to failing in knowledge of the Dharma and falling, lacking the path and fruit.
+
+如是未知智、等智、他心智、苦習盡道智、盡智、無生智，於彼諸智退沒墮落、無道果分，是名波羅夷。
+In this way, ignorance of direct knowledge, equality knowledge, knowledge of others' minds, knowledge of the end of suffering, insight knowledge, and knowledge of non-birth results in falling away from these knowledges without the path and fruit, which is called pārājika.
+
+又復波羅夷者，於涅槃退沒墮落、無證果分，是名波羅夷。
+Further, losing attainment of nirvana and lacking proof of fruit, is also called pārājika.
+
+又復波羅夷者，於梵行退沒墮落、無道果分，是名波羅夷。
+Again, losing celibacy and lacking the achievements of the path and fruit is called pārājika.
+
+又復波羅夷者，所可犯罪不可發露悔過，故名波羅夷。
+Also, an offense that cannot be confessed and repented is termed pārājika.
+
+若比丘以染污心，欲看女人，得越比尼心悔。
+If a monk with a defiled mind desires to look at a woman, he commits a pācittiya offense.
+
+若眼見、若聞聲，犯越比尼罪。
+Seeing with the eyes or hearing the voice, he commits a pācittiya offense.
+
+各各裸身相觸，得偷蘭罪。
+When naked bodies touch each other, it results in a thullaccaya offense.
+
+乃至入如胡麻，波羅夷。
+Penetration as small as a sesame seed leads to a pārājika offense.
+
+若彼身大，雖入不觸其邊者，得偷蘭罪。
+If the person's body is large and penetration does not reach the edges, it results in a thullaccaya offense.
+
+有眾生一道，從是處食、是處大小便，若生若死，若婬此眾生、初中後受樂者，波羅夷。
+If one engages in sexual activities with a being that eats, defecates, lives, or dies from the same place and experiences pleasure at the beginning, middle, or end, one incurs a pārājika offense.
+
+若女人身裂為二分，就一一分行婬者，得偷蘭罪。
+If a woman's body is split into two parts and a monk engages in sexual intercourse with each part, he commits a thullaccaya offense.
+
+若繫縛令合行婬者，波羅夷。
+If a monk ties together the parts for sexual intercourse, he incurs a pārājika offense.
+
+若女人段為三分，比丘於下分行婬，波羅夷；中分行婬，偷蘭罪；上分行婬，波羅夷。
+If a woman's body is divided into three parts and a monk engages in intercourse with the lower part, he incurs a pārājika offense; the middle part incurs a thullaccaya offense; the upper part incurs a pārājika offense.
+
+若女人身青瘀膖脹，於此行婬者，波羅夷；身若壞爛，偷蘭罪；身全枯乾者亦偷蘭罪。
+If a woman's body is bruised and swollen and a monk has sexual intercourse with her, it results in a pārājika offense; if her body is decayed, it results in a thullaccaya offense; if her body is completely desiccated, it is also a thullaccaya offense.
+
+若以酥油水漬潤不壞行婬者，波羅夷。
+If a monk makes the body moist and non-decayed using ghee or water and engages in intercourse, he incurs a pārājika offense.
+
+若形壞，偷蘭罪。
+If the form is decayed, it results in a thullaccaya offense.
+
+骨瑣相連膿血塗著行婬者，犯越比尼罪。
+If the bones are connected with pus and blood and a monk engages in intercourse, he commits a pācittiya offense.
+
+白骨枯乾者，越比尼心悔。
+If the white bones are dry, it results in a pācittiya offense.
+
+石木女人、畫女人，越比尼罪。
+Engaging in intercourse with a stone, wood, or painted woman results in a pācittiya offense.
+
+若比丘不說還戒、不說不還戒，若戒羸不說還戒、不說不還戒，便作俗人，隨其所犯如法治罪，若作外道亦如是。
+If a monk does not state the return of a vow, or does not announce abandoning it, and behaves as a layperson, he should be punished according to the offense in a lawful manner; the same applies if he joins another religion.
+
+若裹不覆、若覆不裹、亦覆亦裹、不覆不裹，乃至入如胡麻，波羅夷。
+If one wraps without covering, covers without wrapping, both wraps and covers, or neither wraps nor covers, and penetration occurs even as small as a sesame seed, it leads to a pārājika offense.
+
+若比丘不還戒、若戒羸不出相，便作俗人形服而犯罪者，隨其所犯得罪。
+If a monk does not return a vow or create the appearance of abandoning it and commits an offense with lay clothing and guise, he incurs punishment according to his offense.
+
+若比丘於比丘尼邊強行婬者，比丘得波羅夷；若比丘尼受樂者，亦波羅夷。
+If a monk forcibly engages in sexual intercourse with a nun, he incurs a pārājika offense; if the nun derives pleasure, she also incurs a pārājika offense.
+
+若比丘尼於比丘邊強行婬者，比丘尼波羅夷；若比丘受樂者，亦波羅夷。
+If a nun forcibly engages in intercourse with a monk, she incurs a pārājika offense; if the monk derives pleasure, he also incurs a pārājika offense.
+
+若比丘、比丘展轉共行婬，俱波羅夷。
+If a monk and a nun engage in mutual sexual intercourse, both incur a pārājika offense.
+
+若比丘、比丘尼共行婬者，俱波羅夷。
+If a monk and a nun engage in sexual intercourse, both incur a pārājika offense.
+
+比丘、沙彌展轉共行婬，比丘波羅夷、沙彌驅出。
+If a monk and a novice monk engage in mutual sexual intercourse, the monk incurs a pārājika offense, and the novice monk is expelled.
+
+比丘、俗人展轉共行婬，比丘波羅夷，俗人不犯，乃至外道亦如是。
+If a monk and a layperson engage in mutual sexual intercourse, the monk incurs a pārājika offense, the layperson remains unoffended; the same applies to those of other faiths.
+
+若比丘三種行婬，人、非人、畜生，復有三種：女、男、黃門，復有三種：上、中、下道，復有三種：若覺、若眠、若死，皆波羅夷。
+If a monk engages in three types of sexual activities—human, non-human, or animal; with three types—female, male, or hermaphrodites; through three ways—upper, middle, or lower pathways; and at any state of awareness—awake, asleep, or deceased, in all cases he incurs a pārājika offense.
+
+若比丘眠、心狂、入定，有母人強就比丘行婬，比丘若覺初、中、後受樂者，波羅夷。
+If a monk is asleep, mentally troubled, or in meditation, and a woman forcibly engages in sex with him, if he experiences pleasure at the beginning, middle, or end, he incurs a pārājika offense.
+
+是比丘若眠乃至入定，若母人強就比丘行婬，彼覺已初不受樂、中後受樂，亦波羅夷。
+If a monk is asleep or in meditation, and a woman forcibly engages in intercourse, even if he only experiences pleasure in the middle or at the end, he incurs a pārājika offense.
+
+是比丘若眠乃至入定，若母人強就比丘行婬，彼覺已初中不受樂、後受樂者，波羅夷。
+If he experiences pleasure only at the end, while asleep or in meditation when a woman forcibly engages in intercourse, he incurs a pārājika offense.
+
+是比丘若眠乃至入定，若母人就比丘行婬，若比丘覺已初、中、後不受樂，無罪。
+If the monk does not experience pleasure at any stage, he is guiltless.
+
+云何名受樂？云何名不受樂？受樂者。
+What does experiencing pleasure mean? What does not experiencing pleasure mean? Experiencing pleasure is such that...
+
+譬如飢人得種種美食，彼以食為樂；又如渴人得種種好飲，彼以飲為樂受；欲樂者亦復如是。
+Just as a hungry person gains pleasure from various fine foods and a thirsty one from various good drinks, to desire pleasure is likewise.
+
+不受樂者，譬如好淨之人以種種死屍繫其頸上；又如破癰熱鐵鑠身；不受樂者亦復如是。
+Not experiencing pleasure is like a clean person having various corpses tied around their neck, or breaking a boil with a hot iron; it is similarly unpleasant.
+
+若比丘行婬，若買得、若雇得、若恩義得、知識得、調戲得、試弄得、未更事得，如是一切得而行婬者，皆波羅夷。
+If a monk engages in sexual intercourse obtained through purchase, hiring, favor, affection, flirtation, testing, or inexperience, it results in a pārājika offense.
+
+若心狂不自覺者，無罪。
+If he is mentally disturbed and unaware, there is no offense.
+
+是故說，若比丘於和合僧中受具戒，不還戒、戒羸不出相行婬法，乃至共畜生，是比丘犯波羅夷，不應共住。
+Therefore, it is said, if a monk receives higher ordination in a complete assembly of monks, does not revoke his vow, exhibits no signs of restraint, engages in sexual conduct, even with animals, he incurs a pārājika offense and should not live with the community.
+
+
+
+世尊於毘舍離城成佛五年冬分第五半月十二日中食後，東向坐一人半影為長老耶舍迦蘭陀子制此戒。
+The Blessed One at the city of Vesali, five years after enlightenment in the winter on the twelfth day of the fifth half-month, after the midday meal, was facing east when he established this rule for Elder Yasa Kalandaka's son.
+
+已制當隨順行，是名隨順法。(婬戒竟)
+Once established, it should be followed; this is called the law of compliance. (End of the prohibition on sexual misconduct)
+
+
+
+盜戒之一
+
+The first precept against stealing
+
+
+
+
+，廣說如上。  
+When the Buddha was residing in the city of Rajagriha, he taught extensively as described above.
+
+爾時瓦師子長老達膩伽，勸化立僧房，種種莊嚴、高大妙好、雕文刻鏤、香油塗地，如紺瑠璃色，常有供辦種種飲食。  
+At that time, the elder tile-maker Dhanika encouraged the establishment of monastic quarters adorned in various ways, grand and beautifully crafted with carved ornaments, and the floors polished with fragrant oils, resembling the color of lapis lazuli, and always provided with various kinds of food offerings.
+
+時有長老比丘來問達膩伽：「長老幾歲？」答言：「爾所歲。」  
+Then an elder monk came to ask Dhanika, "Elder, how old are you?" He replied, "To such and such an age."
+
+客比丘言：「汝小，我應是中住。」  
+The visiting monk said, "You are young, and I should reside in the middle spot."
+
+達膩伽既與上座房住，復更勸化起立第二房。  
+Dhanika, having allocated the quarters to a senior monk, again encouraged the construction of a second dwelling.
+
+復有長老比丘來，如前次第與房。  
+Another elder monk arrived and was given a dwelling in the same manner as before.
+
+復更勸化起第三房，復有長老比丘來，亦復如前。  
+He then encouraged the building of a third dwelling, where another elder monk came and was also accommodated as before.
+
+是時達膩伽念言：「我種種辛苦作房而不得住，我當何處復得材木人功更造房舍？  
+At this time, Dhanika thought, "I endure various hardships to build these houses but cannot reside in them. Where can I get more materials and labor to construct another dwelling?
+
+常為風雨寒熱蚊虻所困苦，辦此房始得成已，傍人常待如猫伺鼠，成便見奪，奈何可辦。」  
+Often troubled by the wind, rain, cold, heat, mosquitoes, and flies, I manage to complete the house, only to have others lay in wait like a cat for a mouse to take it; how can this be remedied?"
+
+便作是念：「我自工巧並有身力，當於仙人山窟邊黑石上，燒作完成瓦屋。」  
+Then he resolved, "I have the skill and physical strength myself; I should make a finished tile house on the black stone beside the cave of the sages."
+
+時達膩伽作是念已，便於仙人窟邊黑石上，燒作完成瓦屋，種種刻畫、安施戶牖，唯除戶扇、戶鑰、衣架，餘者一時燒成，其色純赤如優曇鉢花。  
+Having made this resolution, Dhanika went to the black stone beside the cave of the sages and burned a finished tile house, with various carvings and fittings for doors and windows, except for door leaves, door keys, and clothing racks, all of which were completed in a single firing, and its color was a pure red like the udumbara flower.
+
+爾時世尊雨後天晴，於耆闍崛山側往來經行——如來佛眼，無事不見、無事不聞、無事不識，以是因緣欲說契經令毘尼久住——知而故問諸比丘：「仙人山窟邊黑石上，如優曇鉢色，為是何等？」  
+At that time, after the rain had stopped and the sky cleared, the World-Honored One was pacing near the Gridhrakuta Mountain. The Buddha's eyes, which see all things, do not miss anything, hear everything, and know everything—in this context, he wished to expound the sutras so that the vinaya could endure—thus he knowingly asked the monks, "What is the thing on the black stone beside the cave of the sages, which looks like the color of the udumbara flower?"
+
+諸比丘白佛言：「世尊！是達膩伽比丘先勸化作僧房，雕文刻鏤極好莊嚴，成已上坐次受，復作第二、第三亦復如是。  
+The monks addressed the Buddha, "World-Honored One! It is the tile house that the monk Dhanika first encouraged the construction of as a monastic dwelling. It was superbly adorned with carvings and wonderfully carved ornaments. Once finished, it was passed on to the senior seat, and he made a second and third one in the same way."
+
+便於仙人山窟邊黑石上，私作燒成瓦屋，其色妙好如優曇鉢花，今仙人山窟邊黑石上者是。」  
+He privately built and fired a tile house on the black stone beside the cave of the sages, with its exquisite color like the udumbara flower; it is now there beside the cave of the sages on the black stone."
+
+爾時世尊告阿難：「持我衣來。」阿難持衣授與如來。  
+Then the World-Honored One said to Ananda, "Bring me my robe." Ananda brought the robe and handed it to the Tathagata.
+
+爾時世尊著衣已，往到仙人山窟黑石上，世尊成就最上威儀，所謂行住坐臥，世尊不復用心行此威儀。  
+Having donned the robe, the World-Honored One went to the black stone beside the cave of the sages. The Buddha possessed the utmost dignified deportment, namely in walking, standing, sitting, and lying down, and he did not have to consciously maintain this deportment.
+
+所以者何？業行功德自然殊勝，非是諸天梵王所能及者，如《威儀修多羅》中廣說。  
+Why is this? Because his karma and meritorious deeds were naturally superior, not attainable by the Brahma kings and heavenly beings, as is extensively explained in the Vinaya Sutra.
+
+爾時世尊以殊勝威儀，往到達膩伽燒成瓦屋所，天神令屋戶自開。  
+At that time, possessing this superior deportment, the World-Honored One went to where Dhanika had burned the tile house, and a heavenly deity caused the house door to open on its own.
+
+其戶下小，如來平入，雖下不礙、小而不迮。  
+The door was low and small, yet the Tathagata entered smoothly, neither obstructed by its low height nor cramped by its small size.
+
+爾時世尊入達膩伽燒成屋已，便以金色手合縵掌摩捫屋壁語諸比丘：「汝等觀此達膩伽比丘善能嚴飾作此好屋，是達膩伽比丘，雖得出家猶故不能厭本所習，工巧技術猶未能捨，而復焚燒傷殺眾生。  
+Upon entering the house burned by Dhanika, the World-Honored One placed his golden-colored hands, palm joined in full bloom, on the walls, and spoke to the monks, "You observe that this monk Dhanika has skillfully adorned and built this fine house. Although Dhanika has renounced the world, he still cannot forsake his original craft; his skills and techniques he has yet to relinquish, and again he burned and harmed living beings.
+
+又此瓦屋寒則大寒、熱則大熱、能壞人眼、令人多病，有是諸患。  
+Furthermore, this tile house becomes excessively cold when it is cold, very hot when it is warm, harms people's eyes, and causes many illnesses; such are its afflictions.
+
+汝等當壞此屋，莫使當來諸比丘習此屋法。  
+You ought to destroy this house and not let future monks adopt this method of building houses.
+
+來世比丘當言：『世尊在時諸比丘各各自作屋住。』是故宜壞。」  
+Future monks would say, 'In the time of the World-Honored One, monks each built their own houses.' Therefore, it should be destroyed."
+
+時諸比丘即壞此屋。世尊壞此屋已還耆闍崛山。  
+The monks then destroyed the house as instructed. After the house was destroyed, the World-Honored One returned to Gridhrakuta Mountain
+
+
+時長老達膩伽比丘從村乞食還見屋已壞，即作是言：「誰壞此屋？」
+
+At that time, the elder Daniga Bhikkhu returned from begging for food in the village and saw that the house was already destroyed, so he said: "Who destroyed this house?"
+
+時有比丘語達膩伽：「汝今大得善利。何以故？如來降屈顧臨此屋，汝蒙此屋受用之福，世尊知時故壞此屋。」
+
+Then a monk said to Daniga: "You have now obtained great benefits. Why? The Tathagata lowered himself to visit this house, and you have received the blessings of using this house. The World Honored One knew the time, so this house was destroyed."
+
+時達膩伽聞是語已，喜悅情至，七日之中忘其飢渴。
+
+When Daniga heard these words, he was filled with joy and forgot his hunger and thirst for seven days.
+
+過七日後便作是念：「我當何處更得材木起立房舍？
+
+After seven days passed, he thought: "Where can I get timber to build a house?"
+
+瓶沙王木匠大臣耶輸陀者是我本知識，必有材木。」
+
+The minister carpenter Yasodhara of King Bimbisara is my acquaintance, surely he has timber."
+
+即便著入聚落衣持鉢，詣耶輸陀家，共相慰勞言：「無病長壽！
+
+So he put on his village clothes, took his bowl, and went to Yasodhara’s house, and they exchanged greetings: "May you be healthy and long-lived!
+
+我欲起立房舍，未有材木，汝能見施材木不？」
+
+I want to build a house but have no timber, can you give me some timber?"
+
+大臣答言：「家自無材，王材亦盡，若迎材至當相給與。」
+
+The minister replied: "My house has no timber, and the king's timber is also used up, but if new timber arrives, I will give it to you."
+
+達膩伽復言：「莫作是語！云何王家而言材盡？」
+
+Daniga replied: "Don't say that! How can it be said that the king's house has no timber?"
+
+大臣又言：「尊者！若不見信，可自往看。」
+
+The minister said again: "Venerable, if you don't believe, you can go and see for yourself."
+
+時達膩伽即便往詣作所求諸材木，見有五枚飛梯材，即便取二枚持歸作屋。
+
+Then Daniga went to the place where the timber was stored, saw there were five pieces of timber for building ladders, and took two pieces to build a house.
+
+先王舊法，五日一遊歷觀府庫，金銀寶藏宮人倚直，象馬欄廐車輿武効。
+
+According to the old rules of the former king, every five days they would tour the warehouses, view treasures of gold and silver, the positions of palace people, and inspect elephants and horses, stables, chariots, and weapons.
+
+次行木坊，見飛梯材少無二枚，即問耶輸陀：「飛梯材何以少無二枚？」
+
+Next, they went to the wood workshop and saw that there were two fewer pieces of ladder timber, so he asked Yasodhara: "Why are there two fewer pieces of ladder timber?"
+
+答言：「大王！盡在不少。」
+
+He replied: "Great king! There is no shortage."
+
+如是第二、第三案行。復問耶輸陀：「飛梯材何故少無二枚？」
+
+The same happened on the second and third inspections. He asked Yasodhara again: "Why are there two fewer pieces of ladder timber?"
+
+答言：「大王！盡在不少。」
+
+He replied: "Great king! There is no shortage."
+
+王即瞋言：「汝不燒我材耶？不持我材與敵國耶？」
+
+The king angrily said: "Did you not burn my timber? Did you not give my timber to enemy states?"
+
+即使有司攝繫耶輸陀。耶輸陀被攝已，即便思念：「近尊者達膩伽曾來索材，無乃持去？」
+
+Then he ordered Yasodhara to be arrested. After being captured, Yasodhara thought: "Didn’t the venerable Daniga recently come to ask for timber and take it away?"
+
+即便遣信白達膩伽言：「尊者！曾來索材，不持此二枚飛梯材去耶？」
+
+So he sent a message to Daniga saying: "Venerable, you came to ask for timber, did you not take these two pieces of ladder timber?"
+
+答言：「持來。」
+
+He replied: "I took them."
+
+復遣使白尊者：「我坐失此飛梯材故，被攝在獄。尊者！當作方便，自得無過令我早出。」
+
+He sent a message again to the Venerable: "I am imprisoned for the loss of these ladder timbers. Venerable, please find a way to clear this up so I can be released soon."
+
+達膩伽即報言：「汝但白王：『先達膩伽比丘從我索材，脫能持去？願勅撿挍。』」
+
+Daniga replied: "Just tell the king: 'Previously, the monk Daniga asked me for timber, could he have taken it? Please investigate and verify.'"
+
+王即遣使喚達膩伽。達膩伽便至王所，長老達膩伽為人端正，儀容詳雅天人所敬。
+
+The king then sent for Daniga. Daniga came to the king, and as an elder, he was upright and dignified, respected by both humans and gods.
+
+王見歡喜即問言：「尊者達膩伽，不取我二枚飛梯材耶？」
+
+The king, seeing him, happily asked: "Venerable Daniga, didn't you take my two pieces of ladder timber?"
+
+答言：「我取。」
+
+He replied: "I took them."
+
+王言：「尊者！云何出家人不與而取？」
+
+The king said: "Venerable, how can a monk take what is not given?"
+
+達膩伽言：「大王先與，非是不與。」
+
+Daniga said: "The king gave it first, it was not taken without permission."
+
+王問：「誰與？」
+
+The king asked: "Who gave it?"
+
+答言：「王自見與。」
+
+He replied: "The king himself gave it."
+
+王言：「尊者！我為國王，雖復多事，不憶相見。云何言與？」
+
+The king said: "Venerable, as the king, I have many affairs to attend to, and do not remember meeting. How do you say it was given?"
+
+達膩伽言：「王不憶初受位時，國中大臣集聚一切河池泉水、一切諸藥、一切種子以水漬之，白象牙上水渧灌頂拜之為王。
+
+Daniga said: "Doesn't the king remember when he first ascended to the throne, all the ministers in the country gathered all the rivers, ponds, springs, all medicines, and all kinds of seeds, soaked them in water, and poured that water over a white elephant tusk to crown you as king?
+
+王時口自發言：『我今為王，國中所有水草樹木，施與沙門婆羅門。』是故王與，非是不與。」
+
+At that time, the king himself declared: 'Now that I am king, I give all the water, grass, and trees in the country to the ascetics and Brahmins.' That is why it was given by the king and was not taken without permission."
+
+王言：「尊者！我與國中無守護者，不與有守護者。何得倚傍先言偽辭見誣？」
+
+The king said: "Venerable, I have given what is without guardianship in the country, not what is guarded. How can this rely on previous utterances as false statements?"
+
+王言：「放此耶輸陀令去。」
+
+The king said: "Release Yasodhara."
+
+國中諸婆羅門及敬信士女皆歡喜言：「善哉！尊者達膩伽，方便智慧巧答大王得免斯過，又令耶輸陀安隱得出。」
+
+The Brahmins and devoted men and women in the country all happily said: "Excellent! Venerable Daniga, with skillful wisdom, successfully answered the king, freed from this fault, and allowed Yasodhara to be safely released."
+
+時王舍城諸不信佛法者，咸有恚言：「云何是沙門達膩伽倚傍偽理，欺罔於王苟得免罪，恐自今已往我等家中所有材木亦當取去，而言王先見與，當奈之何！
+
+At that time, the non-believers in Buddhism in the city of Rajagaha were all angry and said: "How can this monk Daniga rely on false reasoning, deceive the king to escape punishment, and fear that from now on, he will also take timber from our homes, claiming that the king had previously given it, what can be done!
+
+如是敗人何道之有！」
+
+How can there be a path for such a ruinous person!"
+
+
+
+
+因緣具白世尊，佛言：「呼達膩伽比丘來。」
+
+The monks told the Blessed One about this incident, and the Buddha said: "Call the monk Dhanika."
+
+來已，佛問達膩伽：「汝實取王家飛梯材不？」
+
+When he came, the Buddha asked Dhanika: "Did you actually take the king's wood for the flying ladder?"
+
+答言：「實取。」
+
+He answered: "I did take it."
+
+佛言：「汝出家人云何他物不與而取。」
+
+The Buddha said: "As a renunciant, how could you take what is not given?"
+
+達膩伽言：「世尊！王先見與非是不與。」
+
+Dhanika said: "Blessed One! The king first saw it and it was not given by him."
+
+佛言：「云何王與？」
+
+The Buddha asked: "How did the king give it?"
+
+達膩伽言：「王初登位時，口自發言：『國中所有水草樹木，施與沙門婆羅門。』
+
+Dhanika said: "When the king first ascended the throne, he declared: 'All water, grass, and trees in the country are donated to the mendicant and Brahmin.'
+
+是故言與，非是不與。」
+
+Therefore, it is said that it is given, not not given."
+
+佛言：「癡人！王與無守護者，不與有守護者。
+
+The Buddha said: "Foolish person! The king gives what is without protection, not what is with protection.
+
+今此王材有守護者，云何言與？
+
+Now this king's wood has protection, how can you say it is given?
+
+達膩伽！汝常不聞佛種種因緣呵責不與取，種種稱讚與而後取耶？
+
+Dhanika! Have you not often heard the Buddha blame taking what is not given and praise taking only after it is given?
+
+云何汝今不與而取？
+
+How can you now take what is not given?
+
+達膩伽！此非法非律非是佛教，不可以是事增長善法。」
+
+Dhanika! This is not the Dhamma, not the discipline, not the Buddha's teaching; this act does not lead to the growth of good qualities."
+
+
+
+諸比丘白佛言：「世尊！云何是達膩伽比丘最初開不與取？」
+
+The monks addressed the Buddha, saying: "World-Honored One! How did the first instance of not giving arise with the Tanigaya monk?"
+
+佛告諸比丘：「是達膩伽不但今日犯最初不與取，過去世時已曾最初犯不與取。」
+
+The Buddha told the monks: "This Tanigaya has not only committed the first instance of not giving today, but also in past lives."
+
+諸比丘白佛言：「已曾爾耶？」
+
+The monks said to the Buddha, "Has it ever been so?"
+
+佛言：「如是。過去世時，此世界劫盡時，諸眾生生光音天上；
+
+The Buddha said, "Thus it was. In past eons, when the world was at its end, sentient beings were reborn in the light-sound heaven;
+
+世界還成，光音諸天來下世間，
+
+When the world was reconstituted, the light-sound celestial beings descended to the world,
+
+時諸天人行住虛空，以禪悅為食，
+
+At that time, these celestial beings moved and dwelled in space, feeding on the joy of meditation,
+
+快樂善住所在遊行，身光相照不以日月為明。
+
+They happily resided and roamed, their bodies illuminating each other without the need for sun or moon.
+
+爾時眾生無有晝夜日月、歲數時節。
+
+At that time, beings had no day or night, no sun or moon, no years or seasons.
+
+時水既去，地味便生，如天甘露。
+
+When the waters receded, earth flavors emerged, like heavenly nectar.
+
+時有一貪味輕躁眾生，甞此地味覺色香美味，心便貪著。
+
+At that time, a restless being, greedy for taste, tasted the earth flavors and found them delightful, and became attached.
+
+其餘眾生效而食之，亦覺其美皆共取食。
+
+Other beings followed suit and tasted them, finding them equally delicious, so they all ate together.
+
+食已其身麁重，退失神通光明悉滅，
+
+After eating, their bodies became coarse and heavy, losing their divine powers and brightness.
+
+世間便有日月昏明、歲數時節。
+
+Thus the world came to have day and night, sun and moon, years and seasons.
+
+爾時眾生非男非女，食地味久形色並異，
+
+At that time, beings were neither male nor female, but after consuming the earth flavors for a long time, their forms and colors changed.
+
+其食多者身色麁醜，其食少者身色端正。
+
+Those who ate more became rough and ugly, while those who ate less were well-formed and attractive.
+
+時端正者自言己勝，見麁醜者輕彼不如。
+
+Then those who were well-formed claimed superiority, looking down on the ugly ones as inferior.
+
+恃端正故便起憍慢，起憍慢罪故地味即滅，
+
+Relying on their good looks, they became arrogant, and due to their arrogance, the earth flavors vanished,
+
+更生地膚味如純蜜。
+
+Replaced by earth skin flavors as pure as honey.
+
+時諸眾生皆驚歎言：『如何地味忽然而滅。』
+
+At this time, all beings exclaimed, "How did the earth flavors suddenly disappear?"
+
+便復相與共食地膚，其食多者形色麁醜，
+
+They then ate together the earth skin, and those who ate more became rough and ugly,
+
+其食少者身色端正。
+
+While those who ate less had a well-formed body.
+
+其端正者憍慢轉增，如是已後地膚復滅。
+
+Those well-formed grew even more arrogant, and afterwards, the earth skin also disappeared.
+
+地膚滅已次生地脂味如石蜜，
+
+After the earth skin vanished, earth fat appeared with a taste like rock honey,
+
+其食多者醜，食少者好，亦復如前。
+
+Those who ate more were ugly, and those who ate less were attractive, as before.
+
+其端正者倍起慢心，於是地脂忽然復滅。
+
+The well-formed ones grew even more arrogant, and thus the earth fat suddenly disappeared.
+
+地脂滅已，次有自然化生粳米，
+
+Once the earth fat vanished, naturally occurring rice appeared,
+
+取已還復不覺增減，朝取暮復、暮取朝復。
+
+Which was consumed without realizing any increase or decrease, taken in the morning, and replenished by evening, taken in the evening, and replenished by morning.
+
+比丘當知，時諸眾生，見地脂滅已遂生憂惱，
+
+Monks should know, at that time, when beings saw the earth fat disappear, they became distressed,
+
+譬如丈夫憂惱所逼。
+
+Like a man engulfed in worry and distress.
+
+彼時眾生雖心憂怖，而自不知己之過罪。
+
+Although beings were worried and fearful, they did not realize their own faults and sins.
+
+爾時眾生復食彼自然粳米，
+
+Then beings consumed the naturally occurring rice,
+
+食米漸久便有男女形生，更相染著，
+
+And over time, by consuming rice, they developed male and female forms, becoming mutually attracted and attached,
+
+婬欲轉熾遂成夫婦。
+
+With increasing lust, they became couples.
+
+餘眾生見已瞋恚打擲：『云何世間非法忽生？
+
+Seeing this, other beings grew angry and lashed out: "How did this unlawful state arise in the world?
+
+是會非生天法，從今已後當修善法生天之會。』
+
+This gathering is not the way of heaven; from now on, we should cultivate good practices to join the heavenly assembly."
+
+
+
+告比丘：「時有眾生為非法者，慚愧厭污藏隱不出，或一日、二日乃至一月，於是便興屋舍而自障蔽，為非法故。
+The Buddha said to the monks: "At that time, there were beings who, due to wrongdoing, felt ashamed and hid themselves for one day, two days, up to a month, and so they built houses to conceal themselves because of this wrongdoing.
+
+彼時眾生便作是念：『我等何為竟日疲苦？不如晨旦并取粳米兼明日食。』
+Those beings thought: 'Why do we toil all day? It is better to gather rice in the morning also for tomorrow's meal.'
+
+明日有眾生來喚共取粳米，此眾生答言：『我昨并取。』彼眾生言：『此是好法。』
+The next day, some beings came to invite them to gather rice, and these beings replied: 'I gathered yesterday.' The others said: 'This is a good practice.'
+
+便相效并取，乃至十日、二十日、一月、二月。
+So they all followed this practice, gathering rice for ten days, twenty days, one month, and two months.
+
+以貪意儲畜故，粳米變生糠糩，朝取處暮則不生。
+Due to greed, they stored up rice, which turned into husks, and what was gathered in the morning would not grow by evening.
+
+爾時眾生便共聚會，聚會已便相謂言：『我等本時皆自然飛行、禪悅為食快樂安隱；
+At that time, the beings gathered and said to each other: 'In the past, we could naturally fly and took delight in meditation, living happily and peacefully.
+
+轉食地味，時彼眾生未有惡法，以惡法起故地味即滅而地膚生，
+After turning to eat the earth's flavor, and when there were not yet bad practices, this flavor disappeared and the earth's skin arose,
+
+地膚既生猶香且美。次生地脂乃至粳米猶故香美，
+and though the earth's skin had grown, it was still fragrant and beautiful. The successive growth of earth fat and rice was still fragrant and beautiful.
+
+我等今日當立制限，分其米地令有畔界。』
+Today, we should set boundaries and divide the rice fields.'
+
+即便封之，此分屬我，彼分屬汝。
+Then they marked them off, saying 'This portion is mine, and that portion is yours.'
+
+時有一眾生作是念：『若我自取己分不久當盡，寧可少取他分，令我分久在。』
+At that time, a being thought: 'If I only take from my own portion, it will soon be exhausted. It is better to take a bit from others to make mine last.'
+
+彼諸眾生見此眾生不與而取，便語之言：『汝今云何不與而取？勿復更作。』
+The other beings saw this and said to him: 'Why do you take without giving? Do not do it again.'
+
+然此眾生猶取不止，乃至再三。
+Yet this being continued to take without stopping, again and again.
+
+然彼眾生重見如此，便言：『云何眾生行不與取，乃至再三？
+When the beings saw this happening repeatedly, they said: 'How can a being take without giving again and again?
+
+從今已往若不與取者，當加刑罰。』
+From now on, those who take without giving should be punished.'
+
+彼遂不已，便即捉得痛加鞭杖。
+However, he did not stop and was apprehended and painfully beaten with a whip.
+
+彼得杖已便大喚言：『云何世間有此惡法，使是眾生以杖見打？』
+When he was beaten, he cried out loudly: 'How can there be such an evil practice in the world, causing beings to be beaten with a stick?'
+
+是時打者投杖放地，亦大喚言：『云何世間有是惡法，何種眾生不與而取？
+At that time, the one who beat him threw the stick down, also shouting: 'How can there be such an evil practice in the world, where beings take without giving and still have the audacity to speak without knowing shame?'
+
+妄有所說不知羞愧。』
+Thereby speaking falsely without knowing shame.'
+
+於是世間便有三惡法出。何等為三？一者不與取；二者妄言；三者以杖打人。
+Thus, three evil laws came into the world. What are the three? First, taking without giving; second, speaking falsely; third, beating people with a stick.
+
+是為最初三惡法出。」
+These were the first three evil laws that emerged."
+
+
+
+佛告諸比丘：「是時眾生最初不與取者，豈異人乎！
+
+The Buddha told the monks: "At that time, the first being to take without giving, is it not a different person?
+
+今瓦師子達膩伽比丘是也。
+
+Now it is the monk Tathagata Nirgrantha.
+
+是達膩伽，從過去最初時不與取，今復於我正法中亦最初不與而取。」
+
+This Nirgrantha, from the very beginning in the past, took without giving, and now again in my true Dharma, takes without giving from the start."
+
+
+
+時諸比丘復白佛言：「云何是達膩伽比丘，蒙世尊恩被袈裟，瓶沙王見已便放令去？」
+
+At that time, the monks again addressed the Buddha, saying, "How is it that the monk Dhāniga, having received the favor of wearing the robe from the World-Honored One, was released and allowed to go by King Bimbisāra?" 
+
+佛言：「如是。諸比丘！是達膩伽比丘，不但今日蒙我袈裟而得免罪，過去世時已蒙我恩著袈裟亦得度脫。
+
+The Buddha said: "Indeed. Monks, this monk Dhāniga did not only escape punishment today by being favored with my robe. In past lives, he was also saved by my robe.
+
+過去世時，大海邊有睒婆梨樹，上有金翅鳥。
+
+In a past life, by the sea, there was a Chebulic Myrobalan tree with a Garuḍa bird on it.
+
+是鳥身大，兩翅相去百五十由旬。
+
+This bird was large, with wings spanning 150 yojanas.
+
+是金翅鳥法，以龍為食。
+
+The Garuḍa bird customarily ate dragons.
+
+欲食龍時，先以兩翅摶海令水兩闢，龍身便現，即取食之。
+
+When it wanted to eat dragons, it would first strike the sea with its wings to part the water, making the dragon's body appear, and then take and eat it.
+
+諸龍常法，畏金翅鳥，常求袈裟著宮門上；
+
+The dragons, being afraid of the Garuḍa bird, would always seek a monk's robe to hang on the palace gate.
+
+鳥見袈裟生恭敬心，便不復前食彼諸龍。
+
+Upon seeing the robe, the bird would feel reverence and would not come forward to eat those dragons.
+
+爾時是鳥以翅摶海見龍欲食，龍甚驚怖，便取袈裟戴著頂上尋岸而走。
+
+At that time, the bird struck the sea with its wings, saw the dragon and wanted to eat it. The dragon was very frightened, so it took a robe, put it on its head, and ran to the shore.
+
+是時彼龍化為人像，金翅鳥化為婆羅門像，追逐此龍而並種種罵言：
+
+At that moment, the dragon transformed into a human figure, and the Garuḍa bird transformed into a Brahmin figure, chasing the dragon while shouting various insults.
+
+『汝何不早放袈裟。』
+
+'Why did you not let go of the robe earlier?'
+
+此龍畏死急捉袈裟死死不放。
+
+The dragon, fearing death, held tightly to the robe and would not let go.
+
+爾時海邊有仙人住處，花果茂盛，時龍恐怖無所依怙，便往投趣仙人住處。
+
+At that time, there was a hermit's abode by the sea with flourishing flowers and fruits. The dragon, terrified and without refuge, went toward the hermit's abode.
+
+仙人有大威德，金翅鳥不敢便入，遙向仙人而說偈言：
+
+The hermit had great power and virtue, so the Garuḍa bird dared not enter. From afar, it spoke a verse to the hermit:
+
+
+
+現在這條邪惡的龍，自己變成了人形；
+
+Now this evil dragon has turned itself into a human form.
+
+
+
+
+畏死求解脫，  
+Fearing death and seeking liberation,
+
+而來入是中。  
+Thus came into this realm.
+
+
+
+
+仙人德力故，    
+Because of the power of the immortal,  
+
+我當忍飢渴；  
+I must endure hunger and thirst.  
+
+
+
+
+宁自失身命，  
+I'd rather lose my life,  
+
+不复食此龙。  
+Than eat this dragon again.  
+
+
+
+
+爾時仙人作是念：
+At that time, the sage thought:
+
+『誰說是偈？』
+"Who spoke this verse?"
+
+便起出看。
+He rose up to see.
+
+見此龍為金翅鳥所逐，
+He saw that this dragon was chased by the golden-winged bird,
+
+即便說偈答金翅鳥言：
+Then immediately spoke a verse to reply to the golden-winged bird:
+
+
+
+當令汝長壽，
+I will grant you long life,
+
+常食天甘露；
+always consuming the sweet nectar of heaven;
+
+
+
+
+忍饥不食龙，   
+Though I endure hunger, I will not eat the dragon,  
+
+敬心於我故。   
+Out of respect and consideration for my cause.  
+
+
+
+
+時金翅鳥蒙仙人威神飢渴即除。
+At that time, the Garuda's hunger and thirst were alleviated by the sage's divine power.
+
+是時仙人復告金翅鳥：
+Then the sage told the Garuda:
+
+『汝坐犯戒受此鳥身，今復習殺當墮地獄，廣說十惡乃至邪見。
+"You have this bird body due to breaking precepts; if you continue to kill, you will fall into hell, as explained in the ten evils and wrong views.
+
+如是一一皆墮地獄、畜生、餓鬼及阿修羅。
+Each of these leads to descent into hell, the animal realm, the realm of hungry ghosts, or Asura.
+
+汝今宜當共此龍更相懺悔，後無餘怨。』
+You should now confess with this dragon and have no remaining grievances."
+
+彼即懺悔，懺悔已各還本處。
+They confessed accordingly, and after confession, each returned to their original place.
+
+
+
+
+佛告諸比丘：「爾時仙人者，豈異人乎？
+
+The Buddha said to the monks, "At that time was the hermit someone else?
+
+即我身是。
+
+It was me.
+
+金翅鳥者，瓶沙王是。
+
+The Garuda bird was King Bimbisara.
+
+龍者，達膩伽比丘是。
+
+The dragon was Bhikkhu Danniya.
+
+是達膩伽比丘，本已蒙我袈裟，得脫金翅鳥難，今復蒙我袈裟得脫王難。」
+
+This Bhikkhu Danniya had already been saved by my robe from the Garuda bird's danger, and now again is saved by my robe from the king's danger."
+
+
+
+
+時諸比丘白佛言：「云何是瓶沙王，見是達膩伽比丘著袈裟故，放令解脫。」
+
+At that time, the monks said to the Buddha, "How is it that King Bimbisara, seeing the monk Dhanika wearing a monk's robe, allows him to be liberated?"
+
+佛告諸比丘：「不但今日，本已曾爾。」
+
+The Buddha told the monks, "It is not only today; it has been so before."
+
+諸比丘白佛言：「已曾爾耶？」
+
+The monks asked the Buddha, "Was it so before?"
+
+佛言：「如是。過去世時有王，善化人物離諸怨敵，五穀豐熟民多受樂，節義恩良仁德孝慈布施持戒。」
+
+The Buddha said, "Yes, indeed. In a past life, there was a king who skillfully cultivated people so they could be free from all enmities, and the five grains were bountiful, bringing great joy to the people. He upheld the principles of integrity, kindness, benevolence, virtue, filial piety, compassion, charity, and observing precepts."
+
+時彼國有獵象師，其家貧窮又多兒子，兒子各各求索飲食。
+
+At that time, there was an elephant hunter in that country who was poor and had many children, and each child sought food and drink.
+
+時獵師婦語其夫言：『居家貧窮飢寒如是，何不勤於家業？』
+
+The hunter's wife said to her husband, "Our home is so poor and we suffer from hunger and cold, why do you not work hard in your occupation?"
+
+獵師答婦：『欲作何等？』
+
+The hunter replied to his wife, "What should I do?"
+
+婦言：『何不勤修先人之業？』
+
+The wife said, "Why don't you diligently pursue the ancestral occupation?"
+
+時彼獵師即辦糧食執持獵具到雪山邊，時有六牙白象住在山下。
+
+Then that hunter prepared food and took his hunting gear to the edge of the snowy mountain, where a six-tusked white elephant lived at the foot of the mountain.
+
+凡生象中有如是智，便自念言：『以何等故人欲殺我？欲殺我者以我牙故。』
+
+Among all elephants born with such wisdom, it thought to itself, "For what reason do people want to kill me? They want to kill me for my tusks."
+
+是時彼象其祖先死，象取其牙藏著一處。
+
+At that time, when the elephant's ancestors died, the elephant took their tusks and hid them in a certain place.
+
+其父續死，復取其牙藏著一處，出群象外仿佯遊食。
+
+When its father also died, it again took its tusk and hid it in a place, then wandered outside the herd to graze.
+
+彼時獵師次第遊獵，歷諸山林遂至象所，象遙見獵師便生念言：『是何丈夫乃至此中，將非獵者欲來見殺？』
+
+At that time, the hunter roamed through the mountains and forests to hunt and eventually arrived at the elephant's place. The elephant saw the hunter from afar and thought, "What kind of man comes here? Is it not a hunter who wants to kill me?"
+
+即便舉鼻招喚獵師，獵師明練相象之法：『若我不去，此必見害。』
+
+It immediately raised its trunk to beckon the hunter, who was skilled in observing elephant behavior and thought, "If I don't go, I will surely be harmed."
+
+便至象所，象即問言：『汝來何求？』
+
+So he went to the elephant, and the elephant asked, "What do you seek by coming here?"
+
+獵師即向說其來意，象言：『汝更不來者，當給汝所須。』
+
+The hunter told the elephant his purpose for coming, and the elephant said, "If you don't come again, I will give you what you need."
+
+獵師答言：『我有所得不欲出門，何況至此。』
+
+The hunter replied, "If I get what I want, I don't wish to leave my home, much less come here."
+
+時象即以先藏祖牙與之。
+
+At that time, the elephant gave him the ancestal tusk it had previously hidden.
+
+獵師得已歡喜還國，彼作是念：『我持此牙歸，妻子衣食未得幾時，我當屏處獨自食之。』
+
+The hunter, having acquired it, joyfully returned to his country, thinking, "Having brought back this tusk, my wife and children haven't had food or clothing for a while; I should take it and secretly enjoy it alone."
+
+若我強健便有婦兒，一旦無我、無五錢分。
+
+If I stay strong, I will have a wife and children; one day, without me, they won't have even five coins.
+
+便持象牙詣酤酒家。
+
+Then he took the elephant tusk to the liquor seller.
+
+時沽酒者遙見彼來，便作是念：『此何處來？我於今日必得少利。』
+
+When the liquor seller saw him coming from afar, he thought, "Where does he come from? Today, I will surely gain some profit."
+
+便敷床褥代擔象牙請彼令坐，乘彼飢渴與酒令醉，醉復更索便共書券，得酒甚少上券甚多。
+
+He laid out a bed and mat to exchange for the elephant tusk and invited him to sit, taking advantage of his hunger and thirst to ply him with liquor until he was drunk, at which point he asked for more, writing many pledges for more and receiving very little wine.
+
+後日醉醒復更索酒，酤酒者言：『何故更索？君似未解當共計錢，若錢有餘當更相與。』
+
+Later, when he sobered up and sought more wine, the liquor seller said, "Why do you keep asking for more? You seem unaware that we need to reckon the money; if there is any left, I will give you more."
+
+算計既竟，無一餘錢。
+
+After calculating, there wasn't a single coin left.
+
+彼即念言：『我當何處更得錢財？正當入山還殺彼象。』
+
+He then thought, "Where can I get more money? I should go into the mountains and kill that elephant."
+
+即便入山至先象所，象見獵師，問言：『何故復來？』
+
+He then entered the mountain and went to the previous elephant's place. Seeing the hunter, the elephant asked, "Why have you returned?"
+
+獵師對象說其來意，象言：『先與汝者，今為所在？』
+
+The hunter told the elephant his purpose, and the elephant asked, "That which I previously gave you, where is it now?"
+
+答言：『無智所致，放逸用盡。』
+
+The hunter replied, "Due to a lack of wisdom, I squandered it."
+
+象言：『汝能更不放逸者，當復與汝。』
+
+The elephant said, "If you can be more prudent, I will give you more."
+
+獵師答言：『我已悔前所為，何緣重爾？若能更惠，真不出門。』
+
+The hunter replied, "I regret what I did before, why would I do such a thing again? If you can give me more, I truly will not leave home."
+
+象復持父牙而用與之。
+
+The elephant again took its father's tusk and gave it to him.
+
+獵師即持象牙還國，復如前法無道用盡，即作是念：『當殺彼象，今若往者不令見我。』
+
+The hunter took the elephant tusk back to his country and, as before, wasted it without reason, then thought, "I will kill that elephant. If I go now, I will not let him see me."
+
+彼大象者於春後月天時大熱入池洗浴，浴已還出，在眾象前涼息樹下。
+
+The great elephant bathed in a pool during the very hot days in the month after spring. After bathing, it came out and rested under a cool tree in front of the other elephants.
+
+爾時獵師便以藥箭射彼大象，中其眉間血流入眼。
+
+Then the hunter shot a drugged arrow at the great elephant, hitting it between the eyebrows and causing blood to flow into its eyes.
+
+象便舉頭看箭來處，即見獵師便遙誨之：『汝弊惡人無有反復，如我今者力能相殺，但恭敬袈裟故不殺汝。』
+
+The elephant raised its head to see where the arrow came from and saw the hunter, rebuking him from afar: "You wretched, evil person, with no gratitude. I have the strength now to kill you, but I do not because of my respect for the monk's robe."
+
+即喚獵師：『汝可速來截取我牙。』
+
+It then called the hunter, "Come quickly and cut my tusks."
+
+以身障彼獵師不令餘象害之。
+
+It used its body to shield the hunter so that other elephants would not harm him.
+
+爾時林中有諸天神，即說偈言：
+
+At that time, there were deities in the forest who then spoke in verse:
+
+
+
+內不離癡服，
+Inside, he does not abandon his foolishness;
+
+外託被袈裟；
+Outside, he is wearing a monk's robe. 
+
+
+
+
+心常懷毒害，
+The heart is always harboring malice,
+
+袈裟非所應。
+The robe is not appropriate for one.
+
+
+
+三昧寂無相，
+Samadhi is tranquil and formless,
+
+永滅煩惱患；
+eternally extinguishing the affliction of troubles.
+
+
+
+
+內心常寂滅，
+
+The mind often abides in tranquility,
+
+袈裟應其服。
+
+the robe conforms to his attire.
+
+
+
+
+佛告諸比丘：「爾時大象王者，豈異人乎？
+
+The Buddha told the monks, "Was the great elephant king of that time someone different?
+
+即今瓶沙王是。
+
+He is now King Bimbisara.
+
+獵師者，今比丘達膩伽是。
+
+The hunter is now the monk Dhanika.
+
+瓶沙王曾已恭敬袈裟，故恕彼獵師。
+
+King Bimbisara once respected the monk's robe, so he forgave the hunter.
+
+今復以達膩伽被袈裟故而不與罪。
+
+Now, because Dhanika wears the monk's robe, he is again not blamed."
+
+
+
+諸比丘復白佛言：「世尊！云何是瓶沙王，見達膩伽威儀庠序不起惡心？」
+
+The monks again said to the Buddha, "World Honored One! How is it that King Bimbisara, upon seeing the dignified conduct of Danika, does not give rise to an ill mind?"
+
+佛告諸比丘：「是瓶沙王不但今日愛樂威儀不起惡心。」
+
+The Buddha told the monks, "It is not only today that King Bimbisara loves the dignified manner and doesn't harbor ill feelings."
+
+諸比丘白佛言：「世尊！已曾爾耶？」
+
+The monks said to the Buddha, "World Honored One! Has this happened before?"
+
+佛言：「如是！過去世時有王，善化人物離諸怨敵，五穀豐熟民多受樂，節義恩良仁德孝慈，布施持戒汎愛人物。
+
+The Buddha said, "Indeed! In a past life, there was a king who was kind to people, causing them to leave behind enmity and enemies. Crops were abundant and people lived joyfully, valuing festivals, righteousness, kindness, virtue, filial piety, and compassion, and spreading love by giving and keeping precepts."
+
+王有一象，名曰大身，兇惡難伏威震遠近。
+
+The king had an elephant named Great Body, which was fierce and hard to tame, and its presence intimidated both nearby and distant lands.
+
+時諸敵國莫能當者，有所討伐皆悉摧破；諸有犯王法者，皆令此象足蹈殺之，王有此象恃之無畏。
+
+At the time, no enemy country could withstand it. Wherever there was combat or rebellion, it was completely crushed; those who violated the king's law were trampled to death by this elephant, and the king relied on it without fear.
+
+彼象厩壞，象便逸走到精舍邊，見諸比丘威儀庠序。
+
+The elephant's stable collapsed, and the elephant escaped and ran to the edge of the monastery, where it saw the monks' dignified conduct.
+
+又聞誦經殺生受苦不殺獲福，象聞此言，心即調柔。
+
+Moreover, it heard the recitation of scriptures about how killing leads to suffering and non-killing leads to blessings, and upon hearing these words, its heart became gentle.
+
+時有罪人犯法應死，王勅有司令象蹈殺，時象以鼻三嗅罪人都無殺心。
+
+At that time, there was a criminal who had committed a crime deserving death. The king ordered officials to have the elephant trample him, but the elephant only sniffed the criminal with its trunk three times without any intent to kill.
+
+彼監殺者即以白王：『象見罪人直以鼻嗅絕無殺意。』
+
+The execution overseers reported to the king, "The elephant just sniffed the criminal with its trunk and has no intent to kill."
+
+王聞此言甚大愁怖，便語來者：『象審爾耶？』
+
+The king, hearing these words, was greatly worried and afraid, and said to them, "Is the elephant really like this?"
+
+答言：『實爾。』
+
+They replied, "Truly so."
+
+王召大臣共論此事。
+
+The king called his ministers to discuss this matter.
+
+大臣既集，王告之言：『吾今為王無能勝者正恃此象，今忽如是當如之何？』
+
+Once the ministers were assembled, the king said to them, "As a king, I have relied on this elephant to be invincible, but now it suddenly behaves this way, what should be done?"
+
+大臣是時即呼象子而問之言：『近象廐壞象至何處？』
+
+The ministers then called the elephant keeper and asked, "Where did the elephant go after its stable collapsed?"
+
+象子答言：『至精舍所。』
+
+The elephant keeper replied, "It went to the monastery."
+
+大臣聰明，豫知此象見諸比丘必聞經法，心意柔軟不欲殺生。
+
+The intelligent ministers anticipated that the elephant must have seen the monks and heard the scriptures, making its heart soft and unwilling to kill.
+
+便教象子近象廐邊，作博戲舍、作屠兒舍、作囚繫舍：『汝便繫象近此諸舍。』
+
+They instructed the elephant keeper to set up a gambling house, slaughterhouse, and prison near the elephant's stable: "You then tether the elephant near these places."
+
+彼象見博者張目舞手高聲大喚；見彼屠者殘殺眾生；又見獄囚考掠楚毒。
+
+The elephant saw gamblers with wide eyes and waving hands shouting loudly; saw butchers cruelly killing beings and prisoners being tortured.
+
+象見是已惡心還生，王送罪人象即蹈殺。
+
+Seeing these, its ill intentions were rekindled, so when the king sent a criminal, the elephant trampled him to death.
+
+爾時諸天即說偈言：
+
+At that time, the gods spoke a verse:
+
+
+
+
+象见善律仪，
+The elephant observes good discipline,
+
+又闻罪福声；
+and hears the sounds of vice and virtue.
+
+
+
+
+善心日夜增，  
+A kind heart increases day and night,  
+
+惡行漸得滅。  
+evil deeds gradually get eliminated.  
+
+
+
+
+習近諸惡業，  
+Engaging in various evil deeds,
+
+先心還復起；  
+The previous intentions arise again.  
+
+
+
+
+唯有明智人，
+
+Only wise people,
+
+直進而不還。
+
+Go forward without turning back.
+
+
+
+
+佛告諸比丘：「爾時大身象者，豈異人乎？
+
+The Buddha told the monks, "At that time, the great-bodied elephant, was it a different person?
+
+即瓶沙王是。
+
+It was King Bimbisara.
+
+瓶沙王宿世時曾見比丘威儀庠序愛樂歡喜，
+
+In his past lives, King Bimbisara saw monks with graceful manners and felt love and joy,
+
+今見達膩伽威儀庠序，甚大歡喜不問其罪。」
+
+now seeing the graceful manners of Dakini, he felt great joy and did not question their faults."
+
+
+
+
+時達膩伽即作是念：「我作第一房，上坐次受，驅我令出；第二、第三亦驅我出。
+
+At that time, Niga thought: "I built the first room, but the senior expelled me; the second and third rooms also expelled me.
+
+後續作燒成瓦屋，世尊復勅令壞。
+
+Later, when I built a tile house, the World Honored One ordered it to be destroyed.
+
+取王家材持用作舍，世尊復見種種呵責，
+
+I used royal materials to make a dwelling, and the World Honored One criticized me in various ways,
+
+徒自辛苦用多事為？
+
+Why bother with so many unnecessary efforts and hard work?
+
+自今已後止此苦事，依隨眾僧苦樂任意。」
+
+From now on, stop these pointless tasks and live freely with the sangha in joy and suffering."
+
+時達膩伽便習無事，晝夜精誠專修道業，
+
+Niga then devoted himself to cultivation without distractions, practicing diligently day and night.
+
+得諸禪定成就道果，起六神通自知作證。
+
+He attained various levels of meditation, accomplished the path, and realized the six supernatural powers as proof.
+
+時達膩伽深自慶慰，而說偈言：
+
+Niga felt deep comfort and expressed himself with these verses:
+
+
+
+欲得寂滅樂，
+
+If you wish to attain the joy of tranquility,
+
+當習沙門法；
+
+You should practice the ways of the ascetic.
+
+
+
+如蛇入鼠穴。
+Like a snake entering a mouse hole.
+
+
+
+
+欲得寂滅樂，
+If you wish to attain the joy of tranquility,
+
+當習沙門法；
+You should practice the teachings of the ascetic.
+
+
+
+衣食繫身命，
+Clothing and food are tied to one's life;
+
+精麁隨眾等。
+Both fine and coarse follow the masses.
+
+
+
+欲得寂滅樂，
+If you wish to attain the joy of serenity and extinction,
+
+當習沙門法；
+You should practice the teachings of the mendicants.
+
+
+
+
+一切知止足，
+Everyone knows to be content,
+
+專修涅槃道。
+and diligently practice the path to Nirvana.
+
+
+
+
+爾時佛告諸比丘：「依止王舍城諸比丘皆悉令集，乃至已聞者當重聞。
+
+At that time, the Buddha said to the monks: "All the monks residing in Rajagriha City should be gathered, so that those who have heard may hear again.
+
+若比丘不與盜取者，波羅夷，不應共住。」
+
+If a monk takes what is not given, it is a parajika offense, and he should not dwell together [with the community]. 
+
+
+
+
+舍城廣說如上。
+Furthermore, the Buddha was residing in Rajagriha, explaining extensively as above.
+
+有一比丘時至著入聚落衣持鉢，入城求糞掃衣。
+A certain monk, at the appropriate time, donned his robe and carrying his alms bowl, entered the city to seek discarded cloth.
+
+於王舍城遍求不得，便至塚間亦復不得，尋水而求亦復不得。
+He searched all over Rajagriha in vain, then went to the graveyards with no success, and even searched by the river to no avail.
+
+最後至浣衣處求，時浣衣者浣衣已竟，別在一處與人共語。
+Finally, he went to the washing place; at that time the washer had finished washing and was talking with someone in another place.
+
+時比丘往至衣所，有異男子語浣衣者言：「彼出家人欲取汝衣。」
+The monk went to the place with the clothes and a man said to the washer, "That monk wants to take your clothes."
+
+衣主問言：「何道出家？」答言：「釋種出家。」
+The owner of the clothes asked, "From which sect is he?" He replied, "He is from the Shakya sect."
+
+浣衣者言：「無苦，沙門釋子不與不取。」
+The washer said, "No problem, the Shakya monk would not take it without permission."
+
+須臾比丘便取此衣，向異男子復告浣衣者言：「沙門已取汝衣。」
+Shortly after, the monk took the clothes, and the other man told the washer, "The monk has taken your clothes."
+
+浣衣者猶故答言：「無苦，沙門釋子不與不取。」
+The washer still replied, "No problem, the Shakya monk wouldn't take it without permission."
+
+時彼比丘便挾衣而去，彼男子復告浣衣者：「沙門釋子已擔衣去。」
+Then the monk carried off the clothes, and the man told the washer, "The Shakya monk has taken the clothes away."
+
+衣主便起看之：「咄哉！實持衣去。」
+The owner of the clothes got up to see and exclaimed, "Alas! He really took the clothes away."
+
+便逐喚言：「尊者！尊者！是衣是王大臣許、長者許，各各有主，願莫擔去。」
+He chased after him, shouting, "Venerable sir! These clothes belong to the king’s ministers and elders; each has its owner, please do not take them."
+
+比丘故去猶不放衣，主便罵言：「敗行沙門，若不還我衣，當如是如是治汝。」
+The monk continued on without letting go of the clothes, and the owner scolded him, "Rogue monk, if you don't return my clothes, I will deal with you accordingly."
+
+比丘持衣往至住處，開戶以衣敷繩床上閉戶而坐。
+The monk took the clothes to his dwelling, opened the door, laid the clothes on a rope bed, closed the door, and sat down.
+
+時浣衣者持五種灰逐入祇洹，有餘比丘在祇洹門間經行，復有坐思惟者，
+The washer, carrying five kinds of ash, followed into Jeta's Grove, where other monks were pacing at the entrance or contemplating while seated.
+
+比丘便謂浣衣者言：「何以高聲大喚？」
+The monks asked the washer, "Why are you shouting loudly?"
+
+浣衣者言：「今我失衣，何以問我高聲喚為？」
+The washer replied, "I lost my clothes; why do you ask why I am shouting?"
+
+諸比丘言：「誰持汝衣去？」答言：「出家人。」
+The monks asked, "Who took your clothes?" He replied, "A monk."
+
+即問：「何道出家？」答言：「釋種子。」
+They asked, "From which sect?" He replied, "The Shakya sect."
+
+諸比丘問言：「持至何處？」浣衣者言：「入此房中。」
+The monks inquired, "Where did he take them?" The washer said, "Into this room."
+
+諸比丘便往彼房以指打戶，喚言：「長老開戶！」
+The monks went to that room, knocked on the door with their fingers, and called, "Elder, open the door!"
+
+彼比丘默然不應，有年少比丘多力強排戶入，
+The monk remained silent and did not respond, but a younger monk, who was strong, forcibly opened the door and entered.
+
+盜衣比丘即大慚愧低頭不語。
+The monk who took the clothes was deeply ashamed and lowered his head in silence.
+
+時年少比丘便於床上取衣而出，以其領數謂浣衣者言：「衣數相應不？」
+The younger monk took the clothes from the bed and brought them out, asking the washer, "Is the number of clothes correct?"
+
+答言：「相應。」時諸比丘語浣衣者言：
+He replied, "Yes, they are correct." Then the monks said to the washer,
+
+「此中出家有種種人，譬如一手五指不齊，雜姓出家何得一種？
+"Among those who renounce the world, there are various kinds of people, just like the five fingers of a hand are not the same; how could all renunciants be of one kind?
+
+汝好賢者莫廣語人，我等自當上白世尊。」
+You, good sir, should not speak widely of this; we will report it to the Blessed One ourselves."
+
+時浣衣者即作是言：「沙門釋子有王者力、婆羅門長者力，
+The washer then said, "The Shakya monks have the power of kings and the strength of Brahmin elders,
+
+我向但恐都失此衣，今既還得何所復說。」
+I was just afraid of losing the clothes entirely, but now that I have gotten them back, there's nothing more to say."
+
+
+
+
+時諸比丘以是因緣廣白世尊，佛言：「喚是比丘來。」
+
+At that time, the monks elaborated on this matter to the Bhagavan, who said, "Call this monk here."
+
+即便喚來。佛問比丘：「汝實爾不？」
+
+Thereupon, he was called in. The Buddha asked the monk, "Is it true?"
+
+答言：「實爾世尊！」
+
+He replied, "It is true, Bhagavan!"
+
+佛告比丘：「汝不聞佛制戒不得不與取耶？」
+
+The Buddha told the monk, "Have you not heard that the Buddha established a precept not to take what is not given?"
+
+「世尊！我知制戒，自謂城邑聚落，不謂空地。」
+
+"Bhagavan! I knew of the precept, but I thought it only applied to towns and villages, not to empty places."
+
+佛言：「癡人！聚落中不與、空地不與，有何等異？
+
+The Buddha said, "Foolish man! How is there a difference between taking what is not given in a village and in an empty place?
+
+此非法、非律、非是佛教，不可以是長養善法。」
+
+This is not in accordance with Dharma, nor in accordance with discipline, nor is it the Buddha's teaching; it cannot be used to nurture good practices."
+
+
+
+
+諸比丘白佛言：「世尊！云何是浣衣者不信傍人，為彼比丘所欺耶？」
+The monks said to the Buddha, "World-Honored One! Why is it that the washer does not trust others and is deceived by the monk?"
+
+佛告諸比丘：「是浣衣者，不但今世不信，過去世時亦曾不信。」
+The Buddha told the monks, "This washer not only distrusts in this life but also did in past lives."
+
+諸比丘白佛言：「世尊！已曾爾耶？」
+The monks asked the Buddha, "World-Honored One! Has this been the case before?"
+
+佛言：「如是！過去世時有二婆羅門，往南天竺學外道經論，學已還其本國。」
+The Buddha said, "Indeed! In a past life, there were two Brahmins who went to South India to learn non-Buddhist scriptures and then returned to their homeland."
+
+當其還時，道由曠野經放牧處，見二羝羊當道共鬪。
+On their way back, they passed through a wilderness with grazing fields and saw two rams fighting on the road.
+
+羊相觸法，將前而更却。
+The rams were fighting by moving forward and then retreating.
+
+時在前行者專愚直信，語後伴言：「看是羝羊四脚之獸而用議讓，知我婆羅門持戒多聞，數數為我却行開路。」
+The one walking in front was foolishly straightforward and said to the companion behind, "Look, these four-legged rams have dignity and know that I am a well-learned Brahmin; they step back to make way for me."
+
+後伴答言：「婆羅門！汝莫輕信謂羊有議，此非相重開路相避，羊鬪之法，將前而更却。」
+The companion behind replied, "Brahmin! Do not be naive and think the rams have courtesy; they are not making way, but just following their fighting method of advancing and retreating."
+
+在前行者不信其語，為羊所觸即時絕倒，傷破兩膝悶絕躃地，衣服傘蓋裂壞蕩盡。
+The one in front did not believe and was immediately knocked down by the rams, injuring his knees severely, fainting on the ground, with clothes and umbrella torn and shattered.
+
+彼時有天而說偈言：
+At that time, a deity spoke in verse:
+
+
+
+「衣服裂坏尽，
+
+Clothes torn to shreds,
+
+体伤闷躃地；
+
+Body injured and lying on the ground;
+
+
+
+
+此患癡所招，
+This affliction is induced by foolishness,
+
+斯由愚信故。
+And is due to foolish beliefs.
+
+
+
+
+佛告諸比丘：「時前行婆羅門豈異人乎？今失衣者是。
+The Buddha told the monks, "Was the Brahmin who walked in front back then a different person? He is the one who lost his clothes now.
+
+時後行婆羅門者，今告異男子是。
+The Brahmin who walked behind back then is the one informing the other man now.
+
+時羝羊者，取衣比丘是。
+The ram back then is the monk who took the clothes.
+
+失衣人先已不信為羊所困，今復不信自致失衣。
+The person who lost his clothes did not believe that he was troubled by the ram before, and now he doesn't believe he has lost his clothes by himself.
+
+本曾不信後行者語，今雖告誠亦復不信。
+He originally did not believe the words of the one who walked behind, and now, even though he is told the truth, he still does not believe."
+
+
+
+佛告諸比丘：「依止舍衛城比丘皆悉令集，乃至已聞者當重聞。
+
+The Buddha told the monks: "All monks from Shravasti should be assembled, and even those who have already heard should hear again.
+
+若比丘聚落空地，不與盜數取者，波羅夷，不應共住。」
+
+If a monk frequents deserted places and does not take things to be stolen, he commits a Parajika offense and should not live together [with the order]. 
+
+
+
+摩訶僧祇律卷第二
+Mahasanghika Vinaya, Volume Two
+
+
+
+

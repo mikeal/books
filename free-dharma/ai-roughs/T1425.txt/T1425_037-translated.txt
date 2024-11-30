@@ -1,0 +1,2891 @@
+inly! Please provide the lines you would like translated
+
+
+【經文資訊】大正新脩大藏經 第 22 冊 No. 1425 摩訶僧祇律
+[Scripture Information] Taisho Shinshu Daizokyo Volume 22 No. 1425 Mahasanghika Vinaya
+
+
+
+
+#【版本记录】发行日期：2024-08，最后更新：2024-07-12
+
+# [Version History] Release Date: 2024-08, Last Updated: 2024-07-12
+
+
+
+
+【編輯說明】本資料庫由 財團法人佛教電子佛典基金會（CBETA）依「大正新脩大藏經」所編輯
+
+[Editorial Note] This database is edited by the Buddhist Electronic Text Association (CBETA) based on the "Taishō Tripiṭaka".
+
+
+
+
+【原始資料】蕭鎮國大德提供，
+
+[Original Data] Provided by the virtuous Xiao Zhenguo,
+
+伽耶山基金會提供，
+
+Provided by the Gaya Mountain Foundation,
+
+北美某大德提供，
+
+Provided by a certain virtuous person in North America,
+
+釋本禪法師提供新式標點
+
+Master Shi Benchan provided the new punctuation.
+
+
+
+
+【其他事項】 
+
+[Other Matters]
+
+本資料庫可自由免費流通， 
+
+This database can be freely circulated for free,
+
+詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】 
+
+For details, please refer to the [Copyright Declaration of the Buddhist Electronic Text Foundation Database].
+
+
+
+eady to help. Please provide the lines that you'd like translated, and I'll begin the translation process as you specified
+
+
+摩訶僧祇律卷第三十七
+
+The Mahāsāṃghika Vinaya, Volume Thirty-Seven
+
+東晉天竺三藏佛陀跋陀羅共法顯譯
+
+Translated by the Indian Tripiṭaka Master Buddha-bhadra and Faxian during the Eastern Jin Dynasty
+
+
+
+
+明十九僧
+
+Ming dynasty, nineteen monks
+
+殘法之餘
+
+Remnants of the dharma
+
+
+
+
+佛住王舍城，爾時世尊制戒，不聽漏心男子邊取衣鉢、飲食、疾病湯藥，
+
+Buddha was living in Rajagriha. At that time, the World-Honored One set precepts, not allowing men with unwholesome thoughts to offer robes, bowls, food, or medicine for illness.
+
+時樹提比丘尼不取長者施衣。
+
+At that time, the Bhikkhuni Sthūladatta did not accept the robes offered by an elder.
+
+時偷蘭難陀比丘尼語樹提言：「何不取此男子施？男子漏心、不漏心何預人事？
+
+Then the Bhikkhuni Tarananda said to Sthūladatta, "Why not accept this man's offering? What does it matter whether a man has unwholesome thoughts or not?
+
+但使汝無漏心，取已隨因緣用。」
+
+As long as you have no unwholesome thoughts, take it and use it according to the circumstance."
+
+諸比丘尼諫是比丘尼：「莫作是語：『男子漏心不漏心何預人事？
+
+Other Bhikkhunis admonished this Bhikkhuni, "Do not say such words: 'What does it matter whether a man has unwholesome thoughts or not?
+
+但使汝無漏心，可取此施隨因緣用。』」
+
+As long as you have no unwholesome thoughts, you may accept the offering and use it as the situation demands.'"
+
+如是二諫、三諫不止。
+
+Thus, even after being admonished a second and third time, she did not stop.
+
+諸比丘尼以是事語大愛道，大愛道即以是事往白世尊。
+
+The other Bhikkhunis reported this matter to Mahaprajapati, who then reported it to the World-Honored One.
+
+佛言：「喚比丘尼來。」來已，佛問：「汝實爾不？」
+
+The Buddha said, "Summon the Bhikkhuni." After arriving, the Buddha asked, "Is this true?"
+
+答言：「實爾。」
+
+She replied, "Indeed, it is true."
+
+佛言：「此是惡事，汝云何勸彼取漏心人施？
+
+The Buddha said, "This is a bad deed. How can you encourage others to accept offerings from people with unwholesome thoughts?
+
+此非法、非律、不如佛教，不可以是長養善法。」
+
+This is not according to the Dharma, nor the Vinaya, not as taught by the Buddha, and cannot be used to nurture good practices."
+
+佛語大愛道：「依止王舍城住比丘尼皆悉令集，乃至已聞者當重聞。
+
+The Buddha told Mahaprajapati, "Gather all the Bhikkhunis residing in Rajagriha, and even those who have already heard should hear again.
+
+若比丘尼語比丘尼作是語：『可取此男子施，漏心不漏心何預汝事？
+
+If a Bhikkhuni tells another Bhikkhuni such words, 'You may accept this man's offering. Whether he has unwholesome thoughts or not, how does it concern you?
+
+但汝莫漏心，可取施已隨因緣用。』
+
+Just guard against your unwholesome thoughts, and after accepting the offering, use it according to the situation.'
+
+諸比丘尼應諫是比丘尼：『莫作是語：「應取是施。
+
+The Bhikkhunis should admonish such a Bhikkhuni, 'Do not say these words: "One ought to accept the offering.
+
+男子漏心不漏心何預人事？但使汝無漏心，可取施已隨因緣用。」』
+
+What does it matter if a man has unwholesome thoughts or not? As long as you have no unwholesome thoughts, you may accept the offering and use it according to the situation."
+
+如是應第二、第三諫。
+
+This should be admonished a second and third time.
+
+捨是事好，若不捨者，是法初罪僧伽婆尸沙。」
+
+It is good to give up such actions. If one does not, this is categorized as the initial offense of Sanghadisesa."
+
+
+
+如偷蘭難陀比丘尼。
+
+Such was spoken to the nun Stūlanandā.
+
+
+
+
+取施者，如樹提比丘尼。
+Take the almsgiver, like the nun Sutipati.
+
+
+
+
+諸比丘尼諫是比丘尼令捨是事，
+The nuns admonish this nun to abandon this matter,
+
+如不捨者，是法乃至三諫，
+If she does not abandon it, this rule allows for three admonishments,
+
+僧伽婆尸沙。
+Sanghāvaśeṣa.
+
+是故世尊說。
+Therefore, the Buddha declared.
+
+
+
+佛住王舍城，破僧相助如比丘中廣說。
+
+In Rajagriha, where the Buddha resided, the contention among monks was addressed in detail.
+
+是故世尊說：「若比丘尼欲破和合僧，故勤方便執持破僧事共諍。
+
+Thus, the World-Honored One said: "If a bhikkhuni desires to disrupt the harmonious community of monks and actively engages in actions to cause division.
+
+諸比丘尼應語是比丘尼：『阿梨耶！莫破和合僧，勤方便執持破僧事共諍，當與僧同事。
+
+The bhikkhunis should say to her: 'Arhat! Do not disrupt the harmonious community of monks or engage in actions that cause division; you should work together with the monastic community.
+
+何以故？僧和合歡喜不諍，共一學如水乳合，如法說安樂住。』
+
+Why? Because when the monastic community is harmonious and joyful without contention, they learn together like milk and water mixing, and live happily according to the Dharma.'
+
+是比丘尼，諸比丘尼諫時堅持不捨者，應第二、第三諫。
+
+If such a bhikkhuni, when advised by other bhikkhunis, persists in not abandoning her actions, she should be counseled a second and third time.
+
+捨者善，若不捨者，是法乃至三諫，僧伽婆尸沙。」
+
+If she gives up, it is good; if not, this regulation allows for up to three admonitions, as per the Sanghadisesa.
+
+諸比丘尼同意相助，若一、若二、若眾多，同語同見，欲破和合僧。
+
+If a bhikkhuni, whether one, two, or many, agree and conspire with the same words and views to disrupt the harmonious community.
+
+是比丘尼，諸比丘尼諫時，是同意比丘尼言：
+
+When other bhikkhunis advise her, these agreeing bhikkhunis say:
+
+「阿梨耶！莫說是比丘尼好惡事。何以故？是法語比丘尼、律語比丘尼。
+
+'Arhat! Do not speak of whether a bhikkhuni's matters are good or bad. Why? Because these are the Dharma words of bhikkhunis, the Vinaya words of bhikkhunis.
+
+是比丘尼所說，皆是我等心所欲。
+
+What these bhikkhunis say aligns with our desires.
+
+是比丘尼所見欲忍可事，我等亦欲忍可，是比丘尼知說非不知說。」
+
+What the bhikkhunis perceive as worth enduring, we also wish to endure; the bhikkhunis know what to say, not out of ignorance.'
+
+諸比丘尼應諫是同意比丘尼：「阿梨耶！莫作是語：『法語比丘尼、律語比丘尼。』
+
+The bhikkhunis should advise these agreeing ones: 'Arhat! Do not speak thus: 'The Dharma words of bhikkhunis, the Vinaya words of bhikkhunis.'
+
+何以故？此非法語比丘尼、律語比丘尼。
+
+Why? Because these are not the Dharma words of bhikkhunis, not the Vinaya words of bhikkhunis.
+
+阿梨耶！莫助破僧事，當樂助和合僧。
+
+Arhat! Do not assist in disrupting the monastic community but rather enjoy assisting in its harmony.
+
+何以故？僧和合歡喜不諍，共一學如水乳合，如法說安樂住。」
+
+Why? Because when the monastic community is harmonious and joyful without contention, they learn together like milk and water mixing, and live happily according to the Dharma.'
+
+是比丘尼，諸比丘尼諫時若堅持不捨者，應第二、第三諫。
+
+If such a bhikkhuni, when advised by other bhikkhunis, persists in not abandoning her actions, she should be counseled a second and third time.
+
+捨是事善，若不捨，是法乃至三諫，僧伽娑尸沙。
+
+If she gives up, it is good; if not, this regulation allows for up to three admonitions, as per the Sanghadisesa.
+
+
+
+
+佛住舍衛城，爾時偷蘭難陀比丘尼有鬪諍事，僧如法比尼與作羯磨。
+Buddha was staying in the city of Shravasti, at that time there was a dispute involving the nun Tulandana, and the monks performed a formal act according to law.
+
+羯磨竟，瞋恚以非理謗僧，而作是言：「阿梨耶僧！隨愛、隨瞋、隨怖、隨癡，僧依愛、依瞋、依怖、依癡，是故呵責。此非法斷事。」
+After the formal act, she angrily slandered the monks irrationally, saying, "Venerable monks! You follow desire, anger, fear, and ignorance. The monks rely on love, anger, fear, ignorance, hence the blame. This is not a proper resolution.”
+
+是比丘尼，諸比丘尼諫言：「阿梨耶！莫作非理謗僧，僧不隨愛、不隨瞋、不隨怖、不隨癡。僧不依愛、瞋、怖、癡非法斷事。」
+This nun, the other nuns advised her, "Venerable one! Do not irrationally slander the monks, the monks do not follow love, anger, fear, or ignorance. Monks do not rely on love, anger, fear, and ignorance for improper resolutions."
+
+如是第二、第三諫不止。
+They advised her a second and third time, but she did not stop.
+
+諸比丘尼以是因緣語大愛道，大愛道以是事往白世尊。
+The nuns brought this matter to Mahaprajapati, and Mahaprajapati reported it to the Blessed One.
+
+佛言：「汝去，應屏處三諫、多人中三諫、僧中三諫，令捨此事。」
+The Buddha said, "Go, you should give three admonitions privately, three admonitions among people, and three within the sangha, to make her relinquish this matter."
+
+
+
+
+屏處諫者，屏處應問：「汝實瞋恚非理謗僧：『僧隨愛、隨瞋、隨怖、隨癡，僧依愛、依瞋、依怖、依癡。』耶？」
+
+In a private setting, the advisor should ask: "Do you really have baseless anger and slander the monks: 'The monks act out of desire, anger, fear, and ignorance, and rely on these emotions'?"
+
+答言：「實爾。」
+
+Answer: "Indeed."
+
+屏處應諫言：「汝莫瞋恚非理謗僧，僧不隨愛、隨瞋、隨怖、隨癡，僧不依愛、瞋、怖、癡非理斷事。
+
+Privately, they should advise: "Do not slander the monks out of baseless anger; monks do not act out of desire, anger, fear, or ignorance, nor do they rely on these for unreasonable decisions.
+
+我今慈心諫汝，欲饒益故。
+
+I am advising you with a compassionate heart for your benefit.
+
+一諫已過，二諫在。
+
+One admonishment is over, the second remains.
+
+捨是事不？」
+
+Do you renounce this matter?”
+
+答言：「不捨。」
+
+Answer: "I do not renounce it."
+
+如是第二、第三諫，多人中亦如是。
+
+Similarly, the second and third admonishments should occur, even in the presence of many people.
+
+僧中應作求聽羯磨：「阿梨耶僧聽！偷蘭難陀比丘尼瞋恚非理謗僧：『隨愛、隨瞋、隨怖、隨癡。僧依愛瞋怖癡。』
+
+In the assembly of monks, a declaration should be made: "Noble monks, listen! Thulananda the bhikkhuni has been slandering the monks out of baseless anger: 'Acting out of desire, anger, fear, and ignorance.'
+
+已屏處三諫，已多人中三諫，令捨此事而不捨。
+
+She has been privately admonished three times and publicly admonished three times and has been instructed to renounce this matter but has not renounced it.
+
+若僧時到，僧今亦應三諫。」
+
+If it is time for the monks, the monks should now admonish her three times."
+
+僧中應問：「汝實瞋恚非理謗僧：『隨愛、隨瞋、隨怖、隨癡乃至非法斷事。』
+
+In the assembly of monks, it should be asked: "Did you really slander the monks with baseless anger, saying they act out of desire, anger, fear, and ignorance, even to the extent of making unjust decisions?
+
+已屏處三諫、多人中三諫而不捨耶？」
+
+After being privately admonished three times and publicly three times, do you still not renounce it?"
+
+答言：「實爾。」
+
+Answer: "Indeed."
+
+僧中應諫言：「汝莫瞋恚非理謗僧，僧不隨愛、不隨瞋、不隨怖、不隨癡，乃至非理斷事。
+
+In the assembly, they should advise: "Do not slander the monks with baseless anger; monks do not act out of desire, do not act out of anger, do not act out of fear, do not act out of ignorance, nor make unjust decisions.
+
+僧今慈心諫汝，欲饒益故，當取僧語。
+
+The monks now advise you with compassionate hearts for your benefit, you should heed the monks’ words.
+
+一諫已過，二諫在，捨是事不？」
+
+One admonishment is over, the second remains, will you renounce this matter?”
+
+答言：「不捨。」
+
+Answer: "I will not renounce it."
+
+第二、第三諫猶故不捨。
+
+Even after the second and third admonishments, she still does not renounce it.
+
+諸比丘尼以是因緣往白世尊。
+
+Due to this incident, the bhikkhunis went to inform the Blessed One.
+
+佛言：「喚是比丘尼來。」
+
+The Buddha said: "Call this bhikkhuni here."
+
+來已佛具問上事：「汝實爾不？」
+
+When she came, the Buddha thoroughly questioned the matter: "Is this true?"
+
+答言：「實爾。」
+
+Answer: "Indeed."
+
+佛語偷蘭難陀：「此是惡事，汝常不聞我無量方便呵責佷戾、稱歎軟語耶？
+
+The Buddha spoke to Thulananda: "This is a bad matter, have you never heard of my countless ways of blaming harsh words and praising gentle speech?
+
+汝云何佷戾？此非法、非律、非如佛教，不可以是長養善法。」
+
+Why are you so harsh? This is illegal, not in accordance with the law, nor the Buddha's teachings, and cannot cultivate good dharma."
+
+佛告大愛道：「依止舍衛城住比丘尼皆悉令集，乃至已聞者當重聞。
+
+The Buddha instructed Mahāprajāpatī: "Gather all the bhikkhunis residing in the city of Sāvatthi, even those who have already heard should hear again.
+
+若比丘尼瞋恚非理謗僧作是言：『僧隨愛、隨瞋、隨怖、隨癡，僧依愛瞋怖癡，是故呵責是比丘尼。』
+
+If a bhikkhuni slanders the monks with baseless anger, saying: 'The monks act out of desire, anger, fear, and ignorance, and rely on these emotions,' that bhikkhuni should be blamed.
+
+諸比丘尼應諫，作是言：『阿梨耶！莫作是語：「僧隨愛、隨瞋、隨怖、隨癡，僧依愛、瞋。怖、癡。」
+
+All bhikkhunis should advise, saying: 'Noble one! Do not speak these words: "The monks act out of desire, anger, fear, and ignorance and rely on these emotions."
+
+何以故？僧不隨愛、瞋、怖、癡。
+
+Why? Because monks do not act out of desire, anger, fear, or ignorance.
+
+汝莫瞋恚，非理謗僧。』
+
+Do not slander the monks with baseless anger.'
+
+是比丘尼，諸比丘尼諫時，堅持不捨者，應第二、第三諫，捨是事善。
+
+If this bhikkhuni does not renounce even after being admonished by the bhikkhunis, the second and third admonishments should follow, and it is good to renounce this matter.
+
+若不捨，是法乃至三諫，僧伽婆尸沙。」
+
+If she does not renounce, this law should continue up to a third admonishment, and it is an offense of expulsion for the community."
+
+
+
+比丘尼者，如偷蘭難陀比丘尼。
+A bhikkhuni is like the bhikkhuni Thullananda.
+
+
+
+
+瞋恚非理謗僧，屏處三諫不捨者，諫諫越比尼罪；多人中亦爾。
+With anger and unreasonable slander against the monks, in a private setting, if one does not heed warnings three times, they commit an offense against the precepts; the same applies in the presence of many.
+
+僧中初諫時，亦越比尼罪；諫竟，偷蘭遮。
+During the first warning among the sangha, it is also an offense against the precepts; once the warning is completed, it is a minor offense.
+
+第二初諫時，亦越比尼罪；諫竟，偷蘭遮。
+During the second warning, it is also an offense against the precepts; once the warning is completed, it is a minor offense.
+
+第三初諫時，偷蘭遮；諫竟，僧伽婆尸沙。
+During the third warning, it is a minor offense; once the warning is completed, it becomes a sanghadisesa offense.
+
+成僧伽婆尸沙已，屏處、多人中、僧中，一切越比尼罪、偷蘭遮，除八謗僧偷蘭遮，餘一切合成一僧伽婆尸沙罪治。
+Once it becomes a sanghadisesa offense, in private, in the presence of many, or among the sangha, all offenses against the precepts and minor offenses, except for the eight slanders against monks, are consolidated into one sanghadisesa offense for punishment.
+
+若中間止者，隨止處治罪。
+If one stops in the middle, the location of the cessation determines the punishment.
+
+是故世尊說。
+Therefore, the World-Honored One said.
+
+
+
+，
+
+Buddha resided in Kusinara,
+
+闡陀母比丘尼，
+
+Bhikshuni Chandamuni,
+
+諸比丘尼共法中如法如比尼教：「當學，莫犯。」
+
+The bhikkhunis in the community were instructed in the right dharma and rules: "Learn, do not transgress."
+
+自身作不可共語，如闡陀戾語中廣說。
+
+She herself engaged in improper speech, as extensively explained in Chandamuni's wrong speech.
+
+乃至若比丘尼自用戾語，
+
+If a bhikkhuni uses wrong speech by herself,
+
+諸比丘尼共法中如法、如律教，
+
+the bhikkhunis instruct according to the dharma and the rules,
+
+便自用意作是言：
+
+then intentionally say:
+
+「汝莫語我若好、若惡，我亦不語汝若好、若惡。」
+
+"You do not speak to me of good or bad, and I will not speak to you of good or bad."
+
+諸比丘尼應諫彼比丘尼言：
+
+The bhikkhunis should admonish that bhikkhuni, saying:
+
+「阿梨耶！諸比丘尼共法中如法、如律教，汝莫自用。
+
+"Reverend! In the community's dharma, we teach according to the dharma and the rules, do not use your own means.
+
+諸比丘尼教汝，汝當信受，
+
+The bhikkhunis instruct you, and you should believe and accept,
+
+汝亦應如法、如律教諸比丘尼。
+
+You should also instruct the bhikkhunis according to the dharma and rules.
+
+何以故？
+
+Why is that?
+
+如來弟子中展轉相教、展轉相諫，
+
+Among the Tathagata's disciples, they mutually teach and admonish each other,
+
+共罪中出故，善法得增長故。」
+
+to be free from sin together, and to grow in virtuous conduct."
+
+是比丘尼，諸比丘尼諫時，堅持不捨者，
+
+If that bhikkhuni, when admonished by the bhikkhunis, stubbornly holds on and does not give up,
+
+應第二、第三諫。
+
+should be admonished a second and third time.
+
+捨是事善，
+
+Giving up this matter is good,
+
+若不捨，是法乃至三諫，
+
+if not given up, this matter goes up to three admonishments,
+
+僧伽婆尸沙。
+
+Sangha Pārājika.
+
+如比丘戒中廣說，是故說。
+
+As extensively explained in the bhikkhus' rules, therefore it is said
+
+
+佛住舍衛城，爾時有二比丘尼：一名真檀，是釋家女；二名欝多羅，身習近住、口習近住、身口習近住，迭相覆過。
+The Buddha resided in Shravasti. At that time, there were two bhikkhunis: one named Zhentan, a Shakya woman; the other named Yuduo Luo, who was accustomed to intimate relations bodily, verbally, and both bodily and verbally, and they covered each other's faults.
+
+身習近者，共床眠、共床坐、同器食、迭互著衣、共出、共入。
+Those accustomed to bodily intimacies would sleep on the same bed, sit together, eat from the same dish, wear each other's clothes, go out together, and come in together.
+
+口習近者，染污心語。
+Those accustomed to verbal intimacies had conversations with impure hearts.
+
+迭相覆罪，此犯彼覆、彼犯此覆。
+They covered each other's transgressions: when one committed an offense, the other concealed it, and vice versa.
+
+身口習近者，二事俱。
+For those accustomed to both bodily and verbal intimacy, both matters occurred together.
+
+比丘尼諫言：「阿梨耶！莫身習近住、口習近住，莫身口習近住，莫迭相覆過。
+The bhikkhuni admonished them: “Arjaya! Do not indulge in physical intimacy, verbal intimacy, or both; do not cover each other's faults.
+
+何以故？不生善法。」
+Why? Because it does not give rise to good dharma."
+
+一諫、二諫、三諫不止。
+Even after the first, second, and third admonishments, they did not stop.
+
+諸比丘尼語大愛道，大愛道即以是因緣往白世尊。
+The other bhikkhunis spoke to Prajapati Gautami, and she immediately went to inform the World-Honored One of this matter.
+
+佛言：「呼是比丘尼來。」
+The Buddha said, "Call those bhikkhunis here."
+
+來已，佛問言：「汝實爾不？」
+When they came, the Buddha asked, "Is it true?"
+
+答言：「實爾。」
+They replied, "It is true."
+
+佛言：「此是惡事，汝云何身口習近住、迭相覆過，
+The Buddha said, "This is an evil thing. How can you engage in bodily and verbal intimacies and cover up each other's mistakes?
+
+此非法、非律、非如佛教，不可以是長養善法。」
+This is not according to Dharma, not according to the rules, and unlike the teachings of the Buddha; it cannot nurture the good Dharma."
+
+佛告大愛道：「依止舍衛城住比丘尼皆悉令集，乃至已聞者當重聞。
+The Buddha instructed Prajapati Gautami, "Gather all the bhikkhunis residing in Shravasti so that even those who have already heard will hear it again.
+
+若二比丘尼習近住、迭相覆過，諸比丘尼應諫是比丘尼言：
+If two bhikkhunis are engaged in intimate relations and covering up each other's transgressions, the other bhikkhunis should admonish them:
+
+『阿梨耶！莫習近住、迭相覆過，習近住不生善法。』
+‘Arjaya! Do not engage in intimate relations or cover up each other's mistakes; such behavior does not give rise to good Dharma.’
+
+是比丘尼，諸比丘尼諫時，堅持不捨，應第二、第三諫。捨是事善。
+If such bhikkhunis, even after being admonished, obstinately refuse to give it up, they should be admonished a second and third time. Abandoning this is good.
+
+若不捨，是法乃至三諫，僧伽婆尸沙。」
+If they do not give up, this rule applies up to three admonishments; it is an offense requiring formal meeting of the Sangha."
+
+
+
+，爾時世尊制戒，不聽習近住。
+When Buddha resided in Shravasti, at that time, the World-Honored One established a rule, not allowing close associations to be maintained.
+
+時真檀釋家女、欝多羅比丘尼，各自別住，偷蘭難陀比丘尼言：
+At that time, Chundan's daughter-in-law, Ven. Uttara, each dwelled separately, then Sister Thulananda said:
+
+「阿梨耶！但習近住、互相藏過、莫相遠住，不妨生善法，餘人亦有如是相近住，僧不能遮，輕易汝故共相禁制耳！」
+"Noble one! Just cultivate living closely together, conceal each other's faults, do not dwell far apart, it does not hinder the growth of good Dharma, others also live close by similarly, the Sangha cannot prohibit, for they lightly regard forbidding you together!"
+
+諸比丘尼諫是比丘尼：
+The nuns advised this nun:
+
+「阿梨耶！莫作是語：『但習近住、互相藏過、莫相遠住，不妨生長善法，乃至輕易汝故共相禁制。』」
+"Noble one! Do not speak thus: 'Just cultivate living closely, conceal each other's faults, do not dwell far apart, it does not hinder fostering good Dharma, even to the extent of lightly prohibiting you together.'"
+
+如是一諫不止，二諫、三諫不止。
+Thus advised once but she did not stop, advised twice, thrice, and still did not stop.
+
+諸比丘尼語大愛道，大愛道即以是事往白世尊。
+The nuns informed Great Ailament, and she promptly reported this matter to the World-Honored One.
+
+佛言：
+The Buddha said:
+
+「是真檀釋家女、欝多羅比丘尼相遠住，偷蘭難陀比丘尼勸令習近共住不妨生善法者，當屏處三諫、多人中三諫、僧中三諫令捨此事。」
+"If Chundan's daughter-in-law, Venerable Uttara, lives apart, and Thulananda Nun encourages living closely to not hinder the arising of wholesome Dharma, there should be three admonishments privately, three among many, and three in the community to make her abandon this matter.
+
+
+屏處諫者，應作是言：「偷蘭難陀！
+
+In private admonition, it should be said: "Stealing Nanda!
+
+汝實語真檀比丘尼、欝多羅比丘尼言：
+
+You indeed spoke to the nun Zhentan and the nun Uttara, saying:
+
+『但習近住、互相藏過、莫相遠住，
+
+'Just practice staying close, cover each other's faults, and don't stay far apart,
+
+不妨生善法，餘人亦有如是相近住者。
+
+It does not hinder the growth of good practices; others also live closely like this.
+
+僧不能遮，輕易汝故共相禁制。』耶？」
+
+The sangha cannot prohibit it, so they easily restrain each other, right?"
+
+答言：「實爾。」
+
+Reply: "Indeed."
+
+應諫言：「汝莫作是語：
+
+It should be admonished: "You should not say:
+
+『相習近住、互相藏過、莫相遠住，不妨生善法。
+
+'Practice staying close, cover each other's faults, don't stay far apart. It does not hinder the growth of good practices.
+
+餘人亦有如是相習近住者，
+
+Others also practice staying close in this way,
+
+僧不能遮，輕易汝故共相禁制。』
+
+The sangha cannot prohibit it, so they easily restrain each other.'
+
+我今慈心饒益故諫汝，
+
+I now admonish you with a benevolent heart for your benefit,
+
+一諫已過、二諫在，汝捨不？」
+
+One admonition is done, the second is pending, will you give it up?"
+
+答言：「不捨。」
+
+Reply: "I will not give it up."
+
+如是第二、第三，多人中亦如是諫。
+
+Thus, the second and third, as well as among many people, should also be admonished in this way.
+
+若不捨者，僧中應作求聽羯磨，
+
+If not given up, the sangha should perform an act of seeking permission,
+
+唱言：「阿梨耶僧聽！
+
+Saying: "Noble sangha, hear!
+
+偷蘭難陀比丘尼，
+
+Stealing Nanda nun,
+
+勸真檀釋家女、欝多羅比丘尼，
+
+Encouraged Zhentan, the Shakya girl, and Uttara nun,
+
+相習近住、互相藏過，不妨生善法。
+
+To practice staying close and covering each other's faults, without hindering the growth of good practices.
+
+已屏處三諫、多人中三諫不止。
+
+Having been privately admonished three times and publicly three times has not ceased.
+
+若僧時到，僧今亦應三諫，令捨此事。」
+
+If the time for the sangha arrives, the sangha should now also admonish three times to make her give up this matter."
+
+僧中應問偷蘭難陀：
+
+The sangha should ask Stealing Nanda:
+
+「汝實勸相習近住，
+
+"Did you indeed encourage practicing staying close,
+
+乃至僧今慈心諫汝，欲利益故。
+
+Even when the sangha now admonishes you with a benevolent heart for your benefit?
+
+一諫已過，二諫在，汝捨不？」
+
+One admonition is done, the second is pending, will you give it up?"
+
+答言：「不捨。」
+
+Reply: "I will not give it up."
+
+第二、第三諫，故不捨。
+
+The second and third admonitions, still she does not give it up.
+
+諸比丘尼以是因緣往白世尊。
+
+The nuns, for this reason, went to inform the World-Honored One.
+
+佛言：「喚是比丘尼來。」
+
+The Buddha said: "Call this nun to come."
+
+來已，佛問言：「汝實爾不？」
+
+After coming, the Buddha asked: "Is this true?"
+
+答言：「實爾。」
+
+Reply: "Indeed."
+
+佛言：「此是惡事。」
+
+The Buddha said: "This is a bad thing."
+
+乃至佛告大愛道：
+
+Then the Buddha told Mahāprajāpatī:
+
+「依止舍衛城住比丘尼皆悉令集，
+
+"Gather all the nuns residing in Śrāvastī,
+
+乃至已聞者當重聞。
+
+Even those who have heard should hear again.
+
+若比丘尼見相遠住，
+
+If a nun sees another living far apart,
+
+便勸作是言：
+
+And then encourages saying:
+
+『當習近住、迭相藏過、莫相離住，不妨生長善法。
+
+'You should practice staying close, cover each other's faults, and don't live apart; it does not hinder the growth of good practices.
+
+餘人亦有如是相習近住者，
+
+Others also practice staying close like this,
+
+僧不能遮，輕易汝故相禁制耳。』
+
+The sangha cannot prohibit it, so they easily restrain each other.'
+
+諸比丘尼應諫是比丘尼言：
+
+The nuns should admonish this nun, saying:
+
+『阿梨耶！某甲、某甲相遠住，
+
+'Noble one! So-and-so lives far apart from so-and-so,
+
+莫勸：「習近住、遞相覆過，習近住不妨生善法。」
+
+Do not encourage: "Practice staying close, cover each other's faults, staying close does not hinder the growth of good practices."
+
+莫作是語：
+
+Do not say:
+
+「餘人亦有習近住，僧不能遮，輕易汝故相禁制耳！」
+
+"Others also practice staying close, the sangha cannot prohibit it, so they easily restrain each other!"
+
+是比丘尼，諸比丘尼諫時，堅持不捨，
+
+This nun, when admonished by other nuns, persists in not giving it up,
+
+應第二、第三諫。
+
+Should be admonished a second and third time.
+
+捨者善，若不捨者，是法乃至三諫，
+
+Giving it up is good, but if not given up, as per the law up to three admonitions,
+
+僧伽婆尸沙。」
+
+It is a Sanghādisesa offense."
+
+
+
+如真檀釋家女
+
+The daughter of the Sakyas named Rujindan,
+
+欝多羅比丘尼。
+
+the nun named Uttara.
+
+
+
+勸者，如偷蘭難陀比丘尼。
+A counselor, like the nun Stulananda. 
+
+
+
+
+習近住者，身相習近、口相習近、身口相習近。
+Those who stay close to learning are close through their bodies, close through their speech, and close through both body and speech.
+
+
+
+
+覆者，身口過，此身口過彼覆藏、彼身口過此覆藏。
+Concealment pertains to bodily and verbal misconduct; this bodily and verbal misconduct is covered by others' concealment, and others' bodily and verbal misconduct is covered by this concealment.
+
+
+
+
+是比丘尼者，如偷蘭難陀比丘尼。  
+A bhikkhuni is like the bhikkhuni Stulananda.
+
+
+
+
+諸比丘尼者，僧多人、一人。
+
+As for the nuns, there are many monks or one monk.
+
+三諫者，屏處三諫、多人中三諫、僧中三諫。
+
+The three admonitions are: private admonition, admonition among many, and admonition in the assembly.
+
+屏處諫者，屏處應問：「汝實勸某甲、某甲比丘尼莫相遠離住。」
+
+For the private admonition, in private one should ask: "Did you really advise such and such nuns not to keep distant from each other?"
+
+乃至答言：「實爾。」
+
+One should answer: "Indeed."
+
+屏處應諫作是語：「莫爾！阿梨耶！某甲、某甲相遠住，作是教言相習近住。」
+
+Privately, one should admonish with these words: "Do not do this! Arya! Such and such should stay apart, not make efforts to live closely as you taught."
+
+乃至一諫不止，二諫、三諫不止；多人中亦爾。
+
+If one admonition is not enough, two or three admonitions are made; it's the same among many people.
+
+僧中三諫不止，是法乃至三諫不捨，僧伽婆尸沙。
+
+In the assembly, if three admonitions are not enough, the rule up to three admonitions is not forsaken, it becomes a Sanghadisesa offense.
+
+僧伽婆尸沙。者如上說。
+
+Sanghadisesa, as stated above.
+
+
+
+若比丘尼屏處三諫，諫諫越比尼罪。
+If a nun is admonished three times in private, each admonishment is an offense of wrong conduct.
+
+多人中三諫，諫諫越比尼罪。
+If admonished three times in a group, each admonishment is an offense of wrong conduct.
+
+僧中初諫越比尼罪，諫竟偷蘭遮。
+In the Sangha, the first admonishment is an offense of wrong conduct, and completed admonishments become a serious offense.
+
+第二初諫越比尼罪，諫竟偷蘭遮。
+The second admonishment begins with an offense of wrong conduct, and completed becomes a serious offense.
+
+第三初諫偷蘭遮，諫竟僧伽婆尸沙。
+The third admonishment starts as a serious offense and completed becomes a grave Sanghadisesa offense.
+
+成僧伽婆尸沙已，屏處、多人中、僧中，一切越比尼罪、偷蘭遮，合成一僧伽婆尸沙罪治。
+When a Sanghadisesa is established, whether in private, in a group, or in the Sangha, all minor and serious offenses combine to be treated as a single Sanghadisesa offense.
+
+若中間止，隨止處治罪。
+If stopped midway, the offense is treated according to the point of cessation.
+
+是故說。
+Thus it is explained.
+
+
+
+
+拘律樹釋氏精舍裡住著佛，當時釋種族的一位女孩和她的母親決定出家。
+
+Buddha was residing at the Nyagrodha Monastery in Kapilavastu, and during that time, a lady and her daughter of the Shakya clan decided to renounce the world. 
+
+母親在外道中出家，對女兒說：「我們母女怎麼能分開？你可以來這裡和我住在一起。」
+
+The mother became ordained outside the Buddhist order and said to her daughter, "How can we, as mother and daughter, live apart? You should come here and stay with me." 
+
+她的女兒回答說：「我不能無緣無故地來，應該等待一個適當的時機。」
+
+Her daughter replied, "I cannot come without a proper reason; I must wait for an appropriate occasion."
+
+於是女兒回去並和比丘尼們發生衝突，憤怒地說：「我現在放棄佛、法、僧，放棄講說、共同生活和共同飲食，拋棄經論，我不是比丘尼，也不是釋種。」
+
+So the daughter went back and had a quarrel with the bhikkhunis, angrily saying, "I now renounce the Buddha, the Dharma, and the Sangha, give up preaching, living, and eating together, abandon the scriptures and treatises. I am neither a bhikkhuni nor a follower of the Shakya clan." 
+
+「其他外道也有優越的教法和修行之道，我為何要做一個沙門尼釋種？」
+
+"The outsiders also have superior teachings and practices; why should I be a Shramanerika of the Shakya clan?" 
+
+諸比丘尼勸這位比丘尼說：「阿梨耶！不要放棄佛、法、僧，甚至不要放棄釋種。」
+
+The bhikkhunis advised this bhikkhuni, saying, "Dear one, do not abandon the Buddha, Dharma, and Sangha, and even do not renounce the Shakya clan." 
+
+「放棄佛是不好的，乃至放棄釋種也是不好的。」
+
+"Abandoning the Buddha is not good, and even abandoning the Shakya clan is not good." 
+
+一次勸說沒有停止，兩次勸說甚至三次勸說她仍未停止。
+
+After being advised once, she did not stop; even after being advised twice, up to three times, she still did not stop. 
+
+諸比丘尼告訴大愛道，大愛道將此事詳述給世尊。
+
+The bhikkhunis told Mahāprajāpatī, who reported the matter fully to the Blessed One. 
+
+佛告訴她：「你去先在私下勸三次，在眾人中勸三次，在僧團中勸三次，讓她放棄此事。」
+
+The Buddha said to her, "Go and first privately advise her three times, then in front of many people three times, and finally in the Sangha three times, to make her abandon this issue." 
+
+
+
+
+屏處應問言：「汝實瞋恚言：『我捨戒、我捨佛，乃至用沙門尼釋種為？當於餘勝處修梵行。』耶？」
+In private, the admonisher should ask, "Did you really speak angrily, saying: 'I abandon the precepts, I abandon the Buddha, even to the point of engaging with the Sramanerikas? Should I practice the holy life elsewhere?'"
+
+答言：「實爾。」
+One should answer, "Indeed."
+
+屏處應諫：「汝莫捨戒、捨佛、捨法、捨僧，乃至捨沙門尼釋種。捨佛者不善，乃至捨沙門尼釋種不善。我今慈心，欲利益汝故諫汝。一諫已過，二諫在，捨是事不？」
+In private, one should advise, "Do not abandon the precepts, the Buddha, the Dharma, the Sangha, nor the Sramanerikas. Abandoning the Buddha is not good, nor is abandoning the Sramanerikas. With compassion, I advise you for your benefit. After one admonition, two remain. Will you abandon this matter?"
+
+答言：「不捨。」
+Answer, "I will not abandon."
+
+第二、第三亦如是，多人中三諫亦爾。若不捨者，僧中應作求聽羯磨，問如屏處中說，猶故不止。
+The second and third are likewise, even among many people, three admonitions are given. If not abandoned, a Sangha act of seeking consent should be performed, asking as in private, yet still not stopping.
+
+諸比丘尼以是因緣往白世尊。
+The Bhikkhunis, for this reason, went to the Blessed One.
+
+佛言：「呼比丘尼來。」
+The Buddha said, "Call the Bhikkhuni."
+
+來已，佛具問上事：「汝實爾不？」
+Upon arrival, the Buddha fully questioned the matter: "Is this true of you?"
+
+答言：「實爾。」
+The response was, "Indeed."
+
+佛言：「此是惡事，乃至非法、非律、不如佛教，不可以是長養善法。」
+The Buddha said, "This is an evil matter, even unlawful, against the discipline, not according to the Buddha's teachings; it cannot nurture wholesome qualities."
+
+佛告大愛道：「依止迦維羅衛住比丘尼皆悉令集，乃至已聞者當重聞。
+The Buddha told Mahaprajapati, "Let all the Bhikkhunis residing in Kapilavastu gather, so that even those who have heard should hear again.
+
+若比丘尼瞋恚欲捨戒，作是言：『我捨佛、捨法、捨僧，捨說、捨共住、捨共食、捨經論、捨沙門尼釋種。
+If a Bhikkhuni, with anger, wishes to abandon the precepts, saying: 'I abandon the Buddha, the Dharma, the Sangha, abandonment of the teachings, shared dwelling, shared meals, the discourses, the Sramanerikas.
+
+用是沙門尼釋種為？餘更有勝處，我於彼中修梵行。』
+What use are the Sramanerikas? There are better places where I practice the holy life.'
+
+諸比丘尼應諫是比丘尼言：『阿梨耶！莫瞋恚捨戒，作是言：「我捨佛乃至捨沙門尼釋種。」捨佛者不善。』
+The Bhikkhunis should admonish this Bhikkhuni, saying: 'Revered one! Do not angrily abandon the precepts, saying: "I abandon the Buddha, even the Sramanerikas." Abandoning the Buddha is not good.'
+
+諸比丘尼如是諫時，故堅持不捨，應第二、第三諫。
+When the Bhikkhunis admonish as such, if she still persists, the second and third admonitions should be given.
+
+捨是事好，若不捨，是法乃至三諫，僧伽婆尸沙。
+Abandoning this matter is good; if not abandoned, this rule leads to three admonitions and a Sangha expulsion offense.
+
+
+
+丘尼者，如釋種女欲捨戒、捨佛乃至捨沙門尼。
+A bhikkhuni is like a woman of the Shakya clan who desires to abandon the precepts and the Buddha, even to the point of abandoning the female monastic order.
+
+
+
+
+諸比丘尼者，
+
+All the nuns,
+
+若僧多人及一人。
+
+whether many monks or just one.
+
+
+
+
+三諫者，屏處三諫、多人中三諫、僧中三諫。
+The three admonishments are: private, in a group, and among monks.
+
+捨者善，若不捨者，是法乃至三諫，僧伽婆尸沙。
+It is good to abandon; if not abandoned, this rule extends to the three admonishments, followed by Saṅghādisesa.
+
+僧伽婆尸沙者，如上說。
+Saṅghādisesa is as explained above.
+
+
+
+
+捨者善。
+
+When advised in private, it is good to abandon.
+
+若不捨者，諫諫越比尼罪。
+
+If not abandoned, it leads to a minor offense.
+
+多人中亦爾。
+
+It is the same among many people.
+
+僧中初諫，越比尼；諫竟，偷蘭遮。
+
+In the Sangha, the first admonition results in a minor offense; after the advice, it becomes a serious offense.
+
+第二初諫，亦越比尼；諫竟，偷蘭遮。
+
+The second initial admonition also results in a minor offense; after the advice, it becomes a serious offense.
+
+第三初諫，偷蘭遮；諫竟，僧伽婆尸沙。
+
+The third initial admonition results in a serious offense; after the advice, it becomes a grave Sanghadisesa offense.
+
+僧伽婆尸沙罪起已，屏處、多人中、僧中成一重罪，作僧伽婆尸沙治。
+
+Once a Sanghadisesa offense arises, it becomes a serious offense in private, among many, and in the Sangha, requiring Sanghadisesa treatment.
+
+若中間止，隨止處治。
+
+If stopped midway, it should be treated according to where it stopped.
+
+是故世尊說：「阿梨耶僧聽！
+
+Therefore, the World-Honored One said, "Listen, noble Sangha!
+
+已說十九僧伽婆尸沙法、十二是初罪、七乃至三諫。
+
+The nineteen rules of Sanghadisesa, twelve are initial offenses, seven require up to three admonitions.
+
+若比丘尼犯一一罪，半月二部眾中行摩那埵，次到阿浮呵那。
+
+If a bhikshuni commits any offense, she performs penance within the two assemblies for half a month, then appears at the settling of disputes.
+
+二十僧、二部眾中應出罪，稱可眾人意。
+
+She must be absolved in front of twenty monks within the two assemblies, satisfying everyone's intention.
+
+二十人中若少一人，此比丘尼不名出罪。
+
+If even one person is missing from the twenty, the bhikshuni cannot be considered absolved.
+
+諸比丘、比丘尼應呵責，是名時。
+
+Monks and bhikshunis should give admonitions, this is called "proper time."
+
+是中清淨不？」
+
+"Is it pure here?"
+
+第二、第三亦問：「是中清淨不？
+
+The second and third also ask, "Is it pure here?"
+
+是中清淨，默然故，是事如是持。」
+
+It is pure here, thus it is maintained.
+
+
+
+使行二無根、
+
+Make the two drift aimlessly,
+
+相言獨行宿、
+
+Each speaks of traveling alone,
+
+
+
+
+不聽犯罪女、
+Do not heed the criminal woman,
+
+渡河并自捨、
+Cross the river and relinquish oneself,
+
+
+
+
+受漏心人施、  
+Accepting offerings from a corrupted mind,
+
+勸彼令取施。  
+Urge them to give offerings.
+
+
+
+
+破僧并相助、
+Breaking up monks and aiding them,
+
+
+
+
+瞋恚而謗僧、　　
+In anger, he slanders the monk,
+
+戾語習近住、
+Wrong words spread nearby,
+
+
+
+劝住瞋还戒。  
+Persuade to stop anger and return to precepts.
+
+第二篇说竟。  
+The second piece ends.
+
+
+
+
+学而时习之，其乐无穷。
+Study and practice regularly, and the joy is endless.
+
+知之者不如好之者，好之者不如乐之者。
+Those who know it are not as good as those who love it, and those who love it are not as good as those who take joy in it.
+
+三十而立，四十不惑，五十知天命。
+At thirty, one stands firm; at forty, one has no doubts; at fifty, one knows the will of heaven.
+
+不患人之不己知，患不知人也。
+Do not worry about others not knowing you, worry about not knowing others.
+
+其身正，不令而行；其身不正，虽令不从。
+If one's conduct is righteous, orders are unnecessary; if one's conduct is not righteous, even orders will not be followed.
+
+
+
+十日離衣宿、
+Ten days without clean clothes.
+
+非時捉金銀、
+Handling gold and silver at the wrong time.
+
+
+
+
+賣買并乞衣、
+Buying and begging for clothes,
+
+聽乞得取二、
+Allowed to beg and take both,
+
+
+
+
+辦衣二居士、  
+Two lay practitioners carefully dressed,
+
+王臣次第十。  
+The sequence of kings and ministers is tenth.
+
+
+
+
+在比丘中詳細講述了初次的跋渠。
+
+Among the monks, the first Bhikshu was extensively explained.
+
+
+
+
+，
+
+The Buddha was living in the city of Śrāvastī.
+
+爾時偷蘭難陀比丘尼在聚落中住，
+
+At that time, the nun Stūlananda was residing in a village.
+
+為僧勸化索床褥，
+
+She was soliciting beddings for the monks.
+
+語婦人言：「優婆夷！汝當施僧床褥、枕、拘執。」
+
+She said to a woman, "Laywoman! You should donate beddings, pillows, and supports to the monks."
+
+時婦人信心歡喜，即與床褥、枕、拘執直，
+
+Then the woman joyfully, with faith, gave her the beddings, pillows, and supports right away.
+
+得已持作衣鉢飲食湯藥。
+
+She obtained these and used them to make robes, bowls, food, and medicine.
+
+時比丘尼次行乞食到其家，
+
+When the nun next came to her house to beg for food,
+
+諸婦人問言：「阿梨耶！我與偷蘭難陀比丘尼床褥、拘執、枕直，為作未？」
+
+the women asked her, "Āryā! I gave the nun Stūlananda the beddings, supports, and pillows. Was it made?"
+
+比丘尼言：「那得作？但自買衣鉢飲食湯藥。」
+
+The nun replied, "How could it be made? I would just purchase robes, bowls, food, and medicine myself."
+
+諸比丘尼聞已語大愛道，
+
+The other nuns heard this and reported it to Mahāprajāpatī Gautamī.
+
+大愛道即以是事往白世尊。
+
+Mahāprajāpatī Gautamī then went with this matter to inform the Blessed One.
+
+佛言：「喚偷蘭難陀比丘尼來。」
+
+The Buddha said, "Call the nun Stūlananda here."
+
+來已，佛問言：「汝實索床褥拘執而作餘用耶？」
+
+When she came, the Buddha asked, "Did you indeed solicit beddings and supports to use them for other purposes?"
+
+答言：「實爾。」
+
+She replied, "Indeed."
+
+佛言：「此是惡事，
+
+The Buddha said, "This is a bad deed,
+
+汝常不聞我無量方便毀訾多欲、稱歎少欲？
+
+Haven't you always heard me disparage greed in many ways and praise having few desires?
+
+汝云何作惡不善法？
+
+Why have you engaged in bad, unwholesome actions?
+
+此非法、非律、非如佛教，
+
+This is neither the Dharma, nor the Vinaya, nor in accordance with the Buddha's teachings.
+
+不可以是長養善法。
+
+One cannot nurture good qualities with this.
+
+從今日後不聽為床褥乞轉作餘用。」
+
+From today onward, solicitations for beddings and their conversion for other uses will not be permitted."
+
+佛告大愛道瞿曇彌：
+
+The Buddha told Mahāprajāpatī Gautamī:
+
+「依止舍衛城比丘尼皆悉令集，
+
+"Gather all the nuns residing in Śrāvastī,
+
+乃至已聞者當重聞。
+
+So that even those who have heard it before will hear it again.
+
+若比丘尼為床褥乞，
+
+If a nun solicits for beddings,
+
+而自作衣鉢、飲食、疾病湯藥者，
+
+And makes robes, bowls, food, or medicine for herself,
+
+尼薩耆波夜提。」
+
+She commits a Pācittiya offense.
+
+
+比丘尼者如上說。
+A Bhikkuni is as described above.
+
+
+
+
+床褥枕拘執，如上比丘中廣說。
+The description of beds, mattresses, and pillows is extensively discussed among the monks above.
+
+
+
+
+乞者，勸化求索。
+The beggar, encouraged and sought transformation.
+
+
+
+
+後自用作衣鉢飲食湯藥者，尼薩耆波夜提。
+Later, if used for personal garments, alms bowls, food, drink, and medicine, it leads to a parajika (exclusion).
+
+
+
+
+尼薩耆波夜提者，此物應僧中捨，波夜提悔過。
+The nascent offense of praayascitta occurs when an item should be surrendered to the Sangha and one uses praayascitta.
+
+不捨而悔，越比尼罪。
+If one does not surrender it and instead uses praayascitta, it becomes a more severe offense.
+
+波夜提者，如比丘中廣說。
+The praayascitta offense is elaborately explained in the monks' regulations.
+
+
+
+
+床褥乞，而自用作衣鉢飲食湯藥者，尼薩耆波夜提。  
+If a nun begs for beddings but uses them for clothing, bowls, food, or medicine, it is a serious offense.
+
+若為此索，不得作彼用。若為床索作褥、為褥索作枕、為枕索作拘執，越比尼罪。  
+If one requests for such purposes, it cannot be used for others. If one asks for a bed but uses it for bedding, or asks for bedding but uses it for a pillow, or asks for a pillow but uses it for bindings, it is a transgression.
+
+若勸化乞多得床褥枕直，當一一示人記識，此是床直、此是褥直、此是枕直、此是拘執直。  
+If one persuades or converts and receives many beds and bedding, one must inform people what each is intended for: this is the price of the bed, this is the price of the bedding, this is the price of the pillow, and this is the price of the bindings.
+
+若不爾者，一一越比尼罪。  
+If not, for each item, it is a transgression.
+
+得貸用治房舍及釜鑊如法貸用。  
+One can legally borrow to repair buildings and pots according to the rules.
+
+若比丘為床褥乞，而餘用者，越比尼罪。  
+If a monk begs for beddings but uses it for other purposes, it is a transgression.
+
+得如法貸用。  
+One may legally borrow according to the rules.
+
+是故說。  
+Thus, it is said.  
+
+
+
+
+佛住舍衛城，爾時偷蘭難陀比丘尼著垢膩穿穴弊衣而行乞食，
+
+Buddha was residing in Śrāvastī, and at that time, the nun Stūlānanda was wearing dirty, tattered clothing while begging for food.
+
+婦人見已語言：「阿梨耶！我施衣直知衣。」
+
+A woman saw her and said, "Aryā! I donate clothes directly for clothing."
+
+復有人言：「我施鉢直知鉢。」
+
+Another person said, "I donate bowls directly for eating bowls."
+
+得已但作飲食用盡，不作衣鉢。
+
+After receiving them, she used them for food instead, not for clothes or bowls.
+
+有比丘尼乞食，婦人問言：「偷蘭難陀我先與衣鉢直作未？」
+
+A nun went begging for food, and a woman asked, "Has Stūlānanda made what I previously donated as clothes and bowls?"
+
+報言：「但作飲食，那得作衣鉢？」
+
+The reply was, "She only made them into food, how could she make them into clothes and bowls?"
+
+比丘尼聞已語大愛道，大愛道以是因緣往白世尊。
+
+After hearing this, the nun told Mahāprajāpatī, and Mahāprajāpatī reported this matter to the World-Honored One.
+
+佛言：「喚是比丘尼來。」
+
+The Buddha said, "Call this nun to come here."
+
+來已，佛問言：「汝實爾不？」
+
+Upon her arrival, the Buddha asked, "Is this true?"
+
+答言：「實爾。世尊！」
+
+She replied, "It is true, World-Honored One!"
+
+佛言：「此是惡事，汝不聞我無量方便讚歎少欲、毀呰多欲耶？
+
+The Buddha said, "This is a bad deed. Haven't you heard of my countless means of praising contentment and condemning greed?"
+
+汝云何得衣鉢直而作餘用？從今日後不聽。」
+
+How can you use the direct gifts of clothing and bowls for other purposes? This is not permitted from today onward."
+
+佛語大愛道：「依止舍衛城住比丘尼皆悉令集，乃至已聞者當重聞。
+
+The Buddha told Mahāprajāpatī, "Gather all the nuns residing in Śrāvastī, and even those who have heard should hear again.
+
+若比丘尼，人為作是與，而作彼用者，尼薩耆波夜提。」
+
+If a nun uses what is donated for a specific purpose for another, it incurs a nissaggiya pācittiya offense."
+
+
+
+
+比丘尼者，如上說。  
+Bhikshuni, as stated above.
+
+
+
+
+是的。
+
+Yes.
+
+衣服和鉢。
+
+Clothing and bowl.
+
+是直接的。
+
+It is direct.
+
+
+
+
+作餘用者，作飲食湯藥。
+Used as a surplus, to make food and medicinal soup.
+
+
+
+
+尼薩耆波夜提，此物僧中捨，波夜提悔過。
+Nissaggiya pācittiya, to be relinquished among the Sangha, with confession for expiation.
+
+
+
+
+與衣直、鉢直、酥直、油直，衣直應知衣、鉢直應知鉢、酥直應知酥、油直應知油。
+If a nun receives cloth, bowl, ghee, or oil as offerings, she should recognize them as cloth, bowl, ghee, or oil respectively.
+
+若作異用者，尼薩耆波夜提。
+If used for other purposes, it leads to a disciplinary offense.
+
+若檀越言：「隨意用。」無罪。
+If the donor says, "Use it as you like," there is no offense.
+
+若無所適為，隨作無罪。
+If there is no intended purpose, using it freely is no offense.
+
+若比丘，人與衣直、鉢直、酥直、油直、衣直，應作衣乃至酥直知酥，若作異用者，越比尼罪。
+If a monk receives cloth, bowl, ghee, or oil, he should understand these as they are; if used for other purposes, it is a minor offense.
+
+若隨意用者無罪，無所適為者無罪。
+If used as desired, there is no offense; if without intended purpose, there is no offense.
+
+是故世尊說。
+Therefore, the World Honored One has said
+
+
+，爾時偷蘭難陀比丘尼勸化作食，語婦人言：「優婆夷！我欲與僧作食。」
+
+Buddha was residing in the city of Sravasti, and at that time, the nun Thullananda urged and guided to prepare food, saying to a woman, "Laywoman! I wish to make food for the monks."
+
+諸優婆夷信心歡喜與食直，作是言：「阿梨耶！至作食日語我，我當來行食。」
+
+The laywomen faithfully and joyfully offered food donations, saying, "Noble one! Inform me on the day of making the food, I shall come to distribute it."
+
+比丘尼得已，自作食及買衣鉢，餘殘作麁食。
+
+The nun, having received it, prepared the food herself and bought robes and bowls, with the leftovers making coarse food.
+
+至其日自來行食，見已問言：「阿梨耶！我前與食直多，何故食麁乃爾？」
+
+On the appointed day, they came to distribute food, and upon seeing it, asked, "Noble one! I previously offered much for the food, why is the food so coarse?"
+
+諸比丘尼言：「何處得好食？但自作衣鉢食噉。」
+
+The nuns said, "Where can we get good food? We only made clothes, bowls, and food ourselves for consumption."
+
+諸比丘尼聞已語大愛道，大愛道即以上事往白世尊。
+
+Upon hearing this, the nuns informed Mahāprajāpatī Gautamī, who then reported this matter to the Blessed One.
+
+佛言：「喚是比丘尼來。」來已，佛問言：「汝實爾不？」答言：「實爾。」
+
+The Buddha said, "Call that nun here." After she came, the Buddha asked, "Is this true?" She replied, "It is true."
+
+佛言：「此是惡事。」乃至佛告大愛道瞿曇彌：「依止舍衛城住比丘尼皆悉令集，乃至已聞者當重聞。
+
+The Buddha said, "This is an evil deed." Then he told Mahāprajāpatī Gautamī, "Gather all the nuns residing in the city of Sravasti, and those who have heard this should hear it again.
+
+若比丘尼為食乞，作衣鉢、飲食、湯藥受用者，尼薩耆波夜提。」
+
+If a nun begs for food, makes robes, bowls, consumes food, or uses medicine, it is a Nissaggiya Pacittiya offense.
+
+
+比丘尼者如上說。
+The bhikkhunis are described as above.
+
+
+
+
+為食者，
+
+For the one who eats,
+
+為僧作食。
+
+prepare food for the monk.
+
+
+
+
+乞者，勸化求索。
+A beggar, seeks transformation through persuasion.
+
+
+
+
+異用者，衣鉢自飲食，尼薩耆波夜提。
+The one who misuses, consumes from the alms bowl themselves, a transgression.
+
+
+
+
+尼薩耆波夜提者，如上說。
+
+"Nisaka Pajetya" is as described above.
+
+
+
+
+若比丘尼為僧索作食，而自買衣鉢飲食者，尼薩耆波夜提。
+If a Buddhist nun requests food for a monk, but purchases clothing, bowls, and food for herself, it is a minor offense.
+
+隨本所欲作應用作者，若迴前食作後食、迴後食作前食者，越比尼罪。
+If one repurposes food from earlier for later, or from later for earlier, it is a minor offense for the nun.
+
+若迴食直作床褥，若春夏冬衣分、若食分，隨先所向應用，而不稱施主本心與，越比尼罪。
+If food directly becomes bedding, or clothing for spring, summer, or winter, or food portions, used otherwise than the donor's intent, it is a minor offense for the nun.
+
+若比丘尼為僧勸化得食應盡作，若有長飲食酥油，應示檀越。
+If a nun persuades donors to obtain food for the monk, it should be fully used, and any leftover butter or oils should be shown to the generous donor.
+
+檀越若持去者當默然，若言：「我與阿梨耶。」應言：「與僧。」
+If the generous donor wishes to take it back, remain silent. If they say, "I give to you," the response should be, "Give to the monk."
+
+復言：「我以自與僧竟，此與阿梨耶。」如是取者無罪。
+If they continue, "I have given to the monk, now this is for you," accepting it incurs no offense.
+
+是故說。
+Thus it is said.
+
+
+
+
+，爾時有客比丘尼來，
+
+The Buddha was residing in Śrāvastī City, at that time a visiting nun arrived,
+
+次第應得房，先住下坐比丘尼言：「阿梨耶！待我移鉢。」
+
+She was supposed to receive a room in turn, and the nun sitting lower addressed her, saying, "Arya! Wait for me to move my bowls."
+
+乃至明日問言：「移鉢竟未？」
+
+Until the next day she asked, "Have you finished moving the bowls?"
+
+答言：「我移鉢未竟。」
+
+The reply was, "I have not finished moving the bowls."
+
+客比丘尼言：「汝欲持是鉢居瓦肆去耶？
+
+The visiting nun said, "Do you intend to take these bowls to live at the pottery house?
+
+用爾許鉢為？」
+
+What do you need so many bowls for?"
+
+諸比丘尼聞已語大愛道，大愛道往白世尊。
+
+The nuns heard and reported it to Mahāprajāpatī, and Mahāprajāpatī went to inform the Blessed One.
+
+佛言：「呼是比丘尼來。」來已，佛問言：「汝實爾不？」
+
+The Buddha said, "Call that nun here." After she arrived, the Buddha asked, "Is it true?"
+
+答言：「實爾。」佛言：「汝云何畜長鉢？
+
+She replied, "It is true." The Buddha said, "Why do you hold so many bowls?
+
+從今日後不聽畜長鉢。」
+
+From today onwards, it is not permitted to hold so many bowls."
+
+佛告大愛道瞿曇彌：「依止舍衛城比丘尼皆悉令集，
+
+The Buddha instructed Mahāprajāpatī Gautamī: "Gather all the nuns of Śrāvastī City,
+
+乃至已聞者當重聞。」
+
+Even those who have already heard should hear it again."
+
+若比丘尼畜長鉢，尼薩耆波夜提。
+
+If a nun hoards large bowls, it is a transgression of the Pārājika rule."
+
+
+
+比丘尼者，如上說。  
+A bhikkhuni is, as stated above.
+
+
+
+
+畜長鉢鉢者，名嵩婆鉢、烏婆嵩婆鉢、憂鳩吒夜鉢、婆耆夜鉢，如是鐵瓦等，是名鉢。
+The kind of pot kept is called Song Po pot, Wu Po Song Po pot, You Jiu Zha Ya pot, Po Ji Ya pot, and so on, are known as pots.
+
+有鉢名上中下、過鉢、減鉢、隨鉢，畜者，尼薩耆波夜提。
+There are pots called upper, middle, lower, surpassing pot, reducing pot, and following pot, and those who keep them are termed as Nissagi Prayajika.
+
+比丘尼得畜十六枚鉢，一受持，三作淨施、四過鉢、四減鉢、四隨鉢。
+A bhikkhuni can possess sixteen pots: one for holding, three for making pure offerings, four surpassing pots, four reducing pots, and four following pots.
+
+若過畜者，尼薩耆波夜提。
+If one exceeds the holding, it is termed as Nissagi Prayajika.
+
+
+
+尼薩耆波夜提者如上說。  
+Nisaggiya pācittiya, as mentioned above.  
+
+
+
+
+比丘尼畜長鉢有齊限，
+There is a limit to the length of bowls kept by nuns,
+
+比丘多畜淨施用無罪。
+Monks can keep many clean donated items without sin.
+
+是故世尊說。
+Therefore, the Blessed One spoke.
+
+
+
+佛住舍衛城如上廣說，乃至語言：「汝欲居衣肆店耶？」
+The Buddha stayed in Śrāvastī and elaborated as above, even saying: "Do you want to stay in the clothing shop?"
+
+諸比丘尼聞已語大愛道，大愛道即以是事往白世尊。
+Upon hearing this, the nuns spoke to Mahāprajāpatī, who then reported the matter to the Blessed One.
+
+佛言：「喚是比丘尼來。」
+The Buddha said, "Call this nun to come."
+
+來已，佛問言：「汝實爾不？」
+When she arrived, the Buddha asked, "Is it true?"
+
+答言：「實爾。」
+She replied, "It is true."
+
+佛言：「汝云何畜長衣？從今日後不聽畜長衣。」
+The Buddha said, "How can you keep a long robe? From today onwards, you are not permitted to keep a long robe."
+
+佛告大愛道瞿曇彌：「依止舍衛城住比丘尼皆悉令集，乃至已聞者當重聞。」
+The Buddha told Mahāprajāpatī Gotami, "Gather all the nuns residing in Śrāvastī, so even those who have heard it before will hear it again."
+
+若比丘尼畜長衣，尼薩耆波夜提。
+If a nun keeps a long robe, it is a Pācittiya offense.
+
+
+
+
+比丘尼者如上說。
+Bhikkhunis are as stated above.
+
+
+
+
+衣者，欽婆羅衣、㲲衣、憍奢耶衣、芻摩衣、舍那衣、麻衣、驅牟提衣。
+Clothing refers to Kimpala robes, woolen garments, Kauśeya clothes, grass skirts, Shaena dress, hemp clothing, and Kuumud robes.
+
+
+
+
+畜者，過限畜，尼薩耆波夜提。
+Owning: exceeding the limit of ownership incurs a penalty of "nissaggiya pacittiya".
+
+
+
+
+尼薩耆波夜提者，如上說。
+Nisagi Poyeti, as stated above.
+
+
+
+
+比丘尼聽畜二十衣：五衣受持、十五衣淨施已受用。
+Bhikshunis are allowed to keep twenty robes: five robes for personal use, and fifteen robes to be donated and then used.
+
+若過是畜，尼薩耆波夜提。
+If they keep more than this, it is an offense subject to confession.
+
+比丘無限齊淨施受用無罪。
+Bhikshus have no limit on the number of robes they can have, as long as they are donated and then used without sin.
+
+是故世尊說。
+Therefore, the Blessed One has declared.
+
+
+
+，
+
+The Buddha was residing in the city of Śrāvastī,
+
+爾時偷蘭難陀比丘尼僧伽梨破，
+
+At that time, the robe of the Bhikkhuni Stūlanandā was torn,
+
+不浣染補治，擲棄牆下作是言：「若欲取者便取。」
+
+She did not wash, dye, or mend it, and threw it down by the wall saying, "Anyone who wants it can take it."
+
+時樹提比丘尼著破衣，
+
+At that time, the Bhikkhuni Jyoti was wearing a torn robe,
+
+餘比丘尼言：「阿梨耶！可取持此衣浣染補治受用。」
+
+The other Bhikkhunis said, "Venerable! You can take this robe, wash, dye, mend it, and use it."
+
+即取補治浣染而著。
+
+She then took it, mended, washed, dyed it, and wore it.
+
+偷蘭難陀比丘尼言：「還我衣來。」
+
+The Bhikkhuni Stūlanandā said, "Give me back my robe."
+
+語諸比丘尼言：「異事試看，是衣物都不得放地須臾捨去，汝屋中得滿未？」
+
+She spoke to the other Bhikkhunis, saying, "Look at this strange thing, you're not supposed to leave clothing on the ground even for a moment, have you filled your house?"
+
+即奪取僧伽梨。
+
+Then she snatched the robe back.
+
+諸比丘尼語大愛道，
+
+The other Bhikkhunis spoke to Mahāprajāpati,
+
+大愛道即以是事往白世尊。
+
+Mahāprajāpati then went to the Blessed One with this matter.
+
+佛言：「呼是比丘尼來。」
+
+The Buddha said, "Call this Bhikkhuni here."
+
+來已，佛問言：「汝實爾不？」
+
+When she came, the Buddha asked, "Is this what you did?"
+
+答言：「實爾。世尊！」
+
+She replied, "Yes, Blessed One!"
+
+佛言：「此是惡事。」
+
+The Buddha said, "This is a bad matter."
+
+乃至佛告大愛道瞿曇彌：「依止舍衛城住比丘尼皆悉令集，乃至已聞者當重聞。」
+
+Then the Buddha told Mahāprajāpati Gautami, "Gather all the Bhikkhunis residing in Śrāvastī, so that those who have heard will hear it again."
+
+若比丘尼於住止處，棄故僧伽梨，唱言：『有欲取者取。』
+
+If a Bhikkhuni leaves an old robe at her place of residence, saying, 'Anyone who wants it can take it.'
+
+後還奪者，尼薩耆波夜提。
+
+But later takes it back, she commits a Pācittiya offense.
+
+
+
+如上所述，比丘尼便是。
+
+As stated above, a bhikkhuni is.
+
+
+
+
+住處者，精舍內。
+As for residence, it is within the pure abode.
+
+
+
+
+棄者，放捨在地。
+
+Abandoned, left on the ground.
+
+
+
+
+人取已後還奪者，尼薩耆波夜提。
+If a person takes and then takes back, they commit a Nissaggiya Pacittiya.
+
+
+
+
+尼薩耆波夜提者，如上說。
+Nisagi-bhayaty, as mentioned above.
+
+
+
+
+若比丘尼棄物已，有人取用不得還奪；
+If a Bhikkhuni discards an item and someone takes it, she should not reclaim it.
+
+若無人取，後須用而取者無罪。
+If no one takes it and she needs to use it later, there is no offense in taking it back.
+
+若比丘精舍內，棄衣鉢革屣及餘小小物，
+If in a Bhikkhu's residence, clothing, alms bowls, leather shoes, and other small things are discarded,
+
+人取已後還奪者，越比尼罪。
+and someone takes them, reclaiming them is a misdemeanor offense.
+
+若無人取，後還取者無罪。
+If no one takes them and they are later reclaimed, there is no offense.
+
+是故世尊說。
+Therefore, the Blessed One said.
+
+
+
+佛住舍衛城，爾時有比丘尼，有垢污僧迦梨，擿已於日中曬，風起吹去。
+The Buddha was residing in the city of Śrāvastī, and at that time there was a nun who had a soiled robe. She picked it up and spread it out in the sun, and the wind blew it away.
+
+諸比丘尼語大愛道，大愛道即以是事往白世尊。
+The other nuns spoke to Mahāprajāpatī Gautamī about it, and Mahāprajāpatī then went and reported the matter to the Blessed One.
+
+佛言：「呼是比丘尼來。」來已，佛問言：「汝實爾不？」
+The Buddha said, "Call that nun here." When she came, the Buddha asked, "Is this true?"
+
+答言：「實爾世尊！」
+She replied, "It is true, Blessed One!"
+
+佛言：「汝云何擿故僧伽梨已，不自縫、不使人縫。從今日後不聽擿衣浣。」
+The Buddha said, "Why did you pick a worn robe and not sew it yourself or have someone else sew it? From today onwards, picking and washing robes is not permitted."
+
+復次爾時有釋種女、摩羅女本是樂人，浣僧伽梨僧伽梨厚重難浣，語大愛道，大愛道往白世尊。
+Furthermore, at that time there was a woman of the Śākya and Malla clan, originally musicians, who said that washing heavy robes was difficult. They spoke to Mahāprajāpatī, who then reported this to the Blessed One.
+
+佛言：「從今日後聽至五六日。」
+The Buddha said, "From today onwards, this is allowed for five or six days."
+
+佛告大愛道瞿曇彌：「依止舍衛城住比丘尼皆悉令集，乃至已聞者當重聞。」
+The Buddha instructed Mahāprajāpatī Gautamī: "Gather all the nuns residing in Śrāvastī, so that even those who have heard about it before will hear again."
+
+若比丘尼故僧伽梨，若自擿、若使人擿，過五六日不自縫、不使人縫，除病，尼薩耆波夜提。
+If a nun has a worn robe, whether she picks it herself or has someone else do it, and does not sew it herself or have someone else sew it after five or six days, except in cases of illness, it is a nissaggiya pācittiya offense.
+
+
+
+如是如法。 
+
+Thus, it is in accord with the Dharma.
+
+若思慕男女者，應正知自失。
+
+If one misses men or women, one should rightly understand the loss of self.
+
+不得迷惑，不得癡心。
+
+One should not be deluded, one should not have a foolish heart.
+
+若觀身者，常其知訓。
+
+If one contemplates the body, always know its guidance.
+
+牢牢思惟，毋沈胸懷。
+
+Firmly reflect on it, do not be inwardly depressed.
+
+日日佛法，常常喜豫。
+
+Day by day in Buddha's Dharma, constantly rejoice.
+
+此茲勉力，知其所悟。
+
+This here is the effort, knowing what one realizes.
+
+
+
+故僧伽梨者，欲浣，若自擿、若使人擿。
+As for the old Sangha, when it is dirty, you might wash it yourself, or have someone else do it.
+
+
+
+
+五、六日者，限齊六日，不還自縫、不使人縫，尼薩耆波夜提。
+For five or six days, limited to six days, one may not patch it oneself nor have others patch it. Offense of Nissaggiya Pācittiya.
+
+
+
+
+尼薩耆波夜提者，如上說。  
+Nisagi-bayati, as mentioned above.  
+
+
+
+
+若比丘尼浣故僧伽梨，若輕而薄者不聽擿，若厚而重者聽擿，擿已當浣，
+If a nun washes an old garment, if it is light and thin, she is not allowed to beat it, but if it is thick and heavy, she is allowed to beat it, and after beating, it should be washed,
+
+浣已應舒置箔上、若席上，以石鎮四角，
+After washing, it should be spread out on a mat or a seat, with stones placed on the four corners,
+
+乾竟當喚共行弟子、依止弟子、同和上、阿闍梨、諸知識、比丘尼速疾共成。
+Once dry, she should call her co-disciples, those she relies on, the same master, teachers, knowledgeable individuals, and the nuns to help quickly handle it together.
+
+若老病無人佐者無罪。
+If she is old or sick and has no assistance, it is not an offense.
+
+是故世尊說。
+Therefore, the World-Honored One said.
+
+
+
+，爾時學戒尼語偷蘭難陀言：「阿梨耶！與我受具足。」
+The Buddha was staying in the city of Shravasti, at that time a novice nun said to Thulannanda, "Venerable! Grant me full ordination."
+
+偷蘭難陀言：「汝與我衣，當與汝受具足。」
+Thulannanda said, "Give me your robe, and I will grant you full ordination."
+
+即便與衣，後不與受具足。
+She then gave her the robe, but subsequently did not grant her full ordination.
+
+學戒尼言：「與我受具足。」如是經久。
+The novice nun said, "Grant me full ordination." This went on for a long time.
+
+諸比丘尼語大愛道，大愛道即以是事往白世尊。
+Other nuns spoke to Mahāprajāpatī, and soon it was reported to the Blessed One.
+
+佛言：「喚是比丘尼來。」來已，佛問言：「汝實爾不？」
+The Buddha said, "Call that nun here." When she came, the Buddha asked, "Is this true?"
+
+答言：「實爾。」佛言：「此是惡事。」
+She answered, "It is true." The Buddha said, "This is an evil deed."
+
+乃至佛告大愛道：「依止舍衛城住比丘尼皆悉令集，乃至已聞者當重聞。」
+Then the Buddha instructed Mahāprajāpatī, "Assemble all the nuns staying in Shravasti; even those who have heard should hear again."
+
+若比丘尼語式叉摩尼言：『汝與我衣，當與汝受具足。』
+If a nun speaks to a novice saying, 'Give me your robe, and I will grant you full ordination.'
+
+取衣已不與受具足者，尼薩耆波夜提。
+If she takes the robe but does not grant the ordination, it is a Pārājika offense.
+
+
+
+比丘尼者，如上說。
+Bhikkhuni, as mentioned above.
+
+
+
+
+式叉摩尼者，受學戒。
+A śikṣamāṇā is one who undertakes the study of the precepts.
+
+
+
+
+衣者，七種衣，如上說。
+
+Clothing, that is, the seven kinds of clothing, as previously mentioned.
+
+復有衣名僧伽梨乃至雨浴衣。
+
+Additionally, there is clothing named Saṅghāṭī up to the rain bathing robe.
+
+
+
+
+許受具足者，
+
+For one who is permitted to receive full ordination,
+
+後自不與受、不使人受，
+
+later does not accept for themselves or let others receive,
+
+尼薩耆波夜提。
+
+this entails a nissaggiya pacittiya offense.
+
+
+
+
+尼薩耆波夜提者，如上說。
+Nisagi-boya-tija, as stated above.
+
+
+
+
+若比丘尼取式叉摩尼衣，許與受具足，後應與受。
+If a nun takes a novice’s robe and allows her to be ordained, she should later ordain her.
+
+若老病無力不能受者，應語餘人：「汝取是衣，與受具足。」
+If the old or sick have no strength to ordain, one should say to another: "You take this robe and give ordination."
+
+若前人不欲受、還索衣者，當還。
+If the previous person does not wish to take it and asks for the robe back, it should be returned.
+
+若比丘許沙彌，不與受具足，越比尼罪。
+If a monk allows a novice, but does not give ordination, it is a transgression of the monks' offense.
+
+是故世尊說。
+Therefore, the Blessed One said.
+
+
+
+
+，爾時有北方商人，持貴價好欽婆羅而行賣之。
+The Buddha was staying in Vaishali, at that time a northern merchant was selling a valuable kasaya.
+
+人問：「此索幾許？」答言：「百千。」
+Someone asked, "How much does this cost?" He replied, "One hundred thousand."
+
+時國王、王子、大臣及餘大商人主皆嫌貴不買，在店上愁憂而坐。
+The king, princes, ministers, and other wealthy merchants considered it too expensive and did not buy it, so the merchant sat in his shop, worried.
+
+人問言：「汝何故而有愁色？」答言：「我賣此欽婆羅，大有價直、輸稅亦多，而今賣不可售，是以不樂。」
+Someone asked him, "Why do you look troubled?" He replied, "I am selling this kasaya, which is expensive and has a high tax, but now it is not selling, so I am unhappy."
+
+人言：「汝欲令售不？」答言：「欲令售。」即語：「汝可持詣跋陀羅沙門尼所，彼當買之。」
+Someone said, "Do you want it to sell?" He replied, "I want it to sell." He was advised, "You can take it to Bhaddara the nun, she will buy it."
+
+即持往問人言：「何者是比丘尼精舍？」人示處已，問言：「何者是跋陀羅比丘尼房？」
+He took it there and asked, "Which is the nunnery?" After being shown the place, he asked, "Which is Bhaddara's room?"
+
+人示處已，問言：「何者是跋陀羅？」跋陀羅比丘尼答言：「何故問耶？」
+After being shown the location, he asked, "Which one is Bhaddara?" Bhaddara the nun replied, "Why are you asking?"
+
+答言：「欲買是欽婆羅不？」問言：「索幾許？」答言：「百千。」
+He replied, "Do you want to buy this kasaya?" She asked, "How much is it?" He said, "One hundred thousand."
+
+亦不與高下，即語弟子言：「汝去語婆路醯肆上，取百千與之。」
+Without bargaining, she told her disciple, "Go to the market and get a hundred thousand to give him."
+
+有人問言：「汝賣欽婆羅售未？」答言：「已售。」問言：「誰取？」答言：「沙門尼跋陀羅。」
+Someone asked, "Have you sold the kasaya?" He replied, "It is sold." They asked, "Who bought it?" He answered, "The nun Bhaddara."
+
+其人即嫌言：「出家人有此愛好之欲。」
+The person disapproved saying, "A renunciate has such desires."
+
+諸比丘尼聞已語大愛道，大愛道即以是事往白世尊。
+The other nuns heard this and told Mahapajapati Gotami, who reported the matter to the Blessed One.
+
+佛言：「喚是比丘尼來。」來已，佛問：「汝實爾不？」答言：「實爾。」
+The Buddha said, "Call that nun here." When she came, He asked, "Did you do this?" She replied, "Yes, I did."
+
+佛告比丘尼：「汝不為後世人作軌則耶？從今日後不聽出四羯利沙槃買重衣。」
+The Buddha told the nun, "Will you not set an example for people of the future? From today onwards, do not spend four karsapanas on heavy clothing."
+
+佛告大愛道瞿曇彌：「依止比舍離城住比丘尼皆悉令集，乃至已聞者當重聞。」
+The Buddha told Mahapajapati Gotami, "Gather all the nuns residing in the city of Vaishali, even those who have already heard this must hear it again."
+
+若比丘尼過四羯利沙槃市重衣，尼薩耆波夜提。
+If a nun spends more than four karsapanas on heavy clothing, it is a nissaggiya pacittiya offense.
+
+
+
+比丘尼者，如上說。  
+Bhikshunis are as mentioned above.  
+
+
+
+
+四羯利沙槃者，四四十九故錢。  
+A pot of four karsha measures costs forty-nine old coins.
+
+
+
+
+重衣者，欽婆羅衣。
+Heavy robes are robes of Kimpala.
+
+
+
+
+市者，知取也。
+A market is where one knows how to take.
+
+
+
+
+若过十九故钱取者，尼萨耆波夜提。
+He who takes money beyond nineteen days incurs a downfall.
+
+
+
+
+尼薩耆波夜提者，如上說。
+Nisagi Pataimokha, as explained above.
+
+
+
+
+若比丘尼不得過十九故錢市重衣，
+
+If a bhikkhuni should not spend more than nineteen coins on purchasing heavy robes,
+
+若不乞自與，雖貴價無罪。
+
+if they are given without asking, though the value is high, there is no offense.
+
+比丘尼有限、比丘無限，雖貴價，知取受用無罪。
+
+Bhikkhunis have a limit, but bhikkhus do not; though the value is high, knowing to accept and use them is not an offense.
+
+是故世尊說。
+
+Therefore, the Blessed One said.
+
+
+
+佛住毘舍離，爾時南方有商人，持細鵝相紋㲲來，有人問言：「此衣索幾許？」  
+Buddha lived in Vaisali, at that time a merchant from the south came with fine-patterned silk. Someone asked, "How much is this cloth?"
+
+答言：「百千。」以價貴故王家不買，及諸大臣諸商人主都無買者，以不售故於店肆上愁憂而坐。  
+He replied, "A hundred thousand." Because of the high price, neither the royal family nor the ministers or merchants bought it, so he sat worried at the shop because it couldn't be sold.
+
+有人問言：「汝何故憂色？」答言：「我貴買此衣，輸稅亦多，而今賣不可售。」  
+Someone asked, "Why are you troubled?" He replied, "I bought this cloth at a high price, paying many taxes, and now it cannot be sold."
+
+問言：「汝欲令售不？」答言：「欲令售。」語言：「汝可持詣跋陀羅沙門尼所，當與汝買。」  
+Someone asked, "Do you want to sell it?" He replied, "I wish to sell it." The person said, "You can take it to Bhaddā the nun, she will buy it from you."
+
+即往問人：「何者是比丘尼住處？」知已入問：「何者是跋陀羅沙門尼房？」  
+He then went and asked people, "Where is the residence of the nuns?" After being informed, he asked, "Which is Bhaddā the nun's room?"
+
+人即示處，到已言：「和南！阿梨耶！是跋陀羅不？」答言：「是。何以問？」  
+Someone showed him the place, and upon arrival he said, "Hello! Elder! Is this Bhaddā?" She replied, "Yes. Why do you ask?"
+
+答言：「我有此鵝相紋㲲，能買不？」問言：「汝索幾許？」答言：「我索百千。」  
+He replied, "I have this fine patterned silk, can you buy it?" She asked, "How much do you ask?" He replied, "I ask for a hundred thousand."
+
+比丘尼亦不求減，即語弟子言：「汝往白婆路醯店上，取百千與。」  
+The nun didn't try to lower the price and immediately told her disciple, "Go to the shop of Varuni vinegar and take one hundred thousand."
+
+有人問言：「汝得售耶？」答言：「已售。」問言：「誰取？」答言：「跋陀羅沙門尼取。」  
+Someone asked him, "Have you sold it?" He replied, "It has been sold." He was asked, "Who took it?" He answered, "Bhaddā the nun took it."
+
+有人嫌言：「出家之人何乃愛好如是？」  
+Someone criticized saying, "Why does a renunciant love such things?"
+
+比丘尼聞已語大愛道，乃至佛語跋陀羅比丘尼：「汝不為後世人作軌則耶？」  
+The nun heard this and spoke to Maha Prajapati, until the Buddha said to Bhaddā the nun, "Will you not set an example for future generations?"
+
+從今日後不聽過兩羯利沙槃半市細輕衣。」  
+"From today onwards, no more than two and a half karisas of fine light cloth are allowed."
+
+佛告大愛道瞿曇彌：「依止舍衛城住比丘尼皆悉令集，乃至已聞者當重聞。  
+The Buddha told Mahapajapati Gotami, "Gather all the nuns living in Savatthi, until those who have heard should hear again.
+
+若比丘尼，過兩羯利沙槃半市細輕衣者，尼薩耆波夜提。」  
+If a nun exceeds the limit of two and a half karisas of fine light cloth, it will result in an offense that involves expiation and forfeiture."
+
+
+
+
+比丘尼者，如上說。
+Bhikkhuni, as stated above.
+
+
+
+
+兩羯利沙槃半者，四十六故錢。  
+Two kelisapan halves, forty-six miscellaneous coins.  
+
+
+
+
+市者，知取。  
+The skilled trader knows how to profit.
+
+
+
+
+若過者，尼薩耆波夜提。
+If it is passed, it is Nissaggiya Pācittiya.
+
+
+
+
+尼薩耆波夜提者，如上說。
+Nissaggiya Pācittiya is as stated above.
+
+
+
+
+若比丘尼市細輕衣者，應以兩羯利沙槃半知取，不得過。
+If a nun acquires a fine and light garment, it should be valued at no more than two and a half Kalamkas. 
+
+若不乞自與，設得貴價細衣，受用無罪。
+If acquired without begging or self-providing, even if the garment is expensive, using it does not incur any fault.
+
+比丘貴價市衣受用無罪。
+A monk using an expensive market-purchased garment incurs no fault.
+
+
+
+床褥乞自用、
+Bedding, ask for it to be used personally,
+
+衣鉢直異用、
+Robes and bowls, use them differently directly,
+
+
+
+
+為眾減自用、
+To reduce personal use for the sake of others,
+
+畜鉢并畜衣、
+To keep a bowl and also keep clothes,
+
+
+
+
+棄衣後還取、
+After discarding the clothes, take them back,
+
+擿衣受具足、
+Pick the clothes up and receive them completely,
+
+
+
+重衣及細輕。
+The thick clothes and the delicate and light.
+
+第二跋渠竟。
+The second trench finally.
+
+
+
+
+，
+
+The Buddha was residing in the city of Śrāvastī,
+
+爾時有載薪人駕車於店肆前過，
+
+At that time, a wood carrier was passing by in front of a shop with a cart,
+
+商人問言：「此賣索幾許？」
+
+A merchant asked, "How much are you selling this for?"
+
+答言：「一羯利沙槃。」
+
+He replied, "A kṣarakṣa."
+
+商人語言：「汝載此薪詣我家寫之，還過此，當與汝價。」
+
+The merchant said, "Bring this wood to my home and drop it, on your way back I'll pay you."
+
+賣薪人即乘車經比丘尼精舍前過時，
+
+The wood seller then drove the cart past a bhikkhuni's monastery,
+
+偷蘭難陀比丘尼問言：「長壽！汝薪有主買未？」
+
+The bhikkhuni Sukalānanda asked, "Good sir, has anyone bought your wood yet?"
+
+答言：「已有。」
+
+He replied, "Yes, someone has."
+
+「得幾？」
+
+"For how much?"
+
+答言：「一羯利沙槃。」
+
+He answered, "A kṣarakṣa."
+
+即語言：「我與汝兩羯利沙槃。」
+
+She immediately said, "I'll give you two kṣarakṣas."
+
+主貪利故即以與之。
+
+Driven by the desire for profit, he agreed to give it to her.
+
+其人下薪已還經店肆前過，
+
+After unloading the wood, he passed by the shop again,
+
+商人語言：「汝持直去。」
+
+The merchant said, "Just move along."
+
+答言：「我已賣與餘人。」
+
+He replied, "I've already sold it to someone else."
+
+問言：「賣得幾許？」
+
+The merchant asked, "For how much did you sell it?"
+
+答言：「得兩羯利沙槃。」
+
+He replied, "For two kṣarakṣas."
+
+問言：「誰取？」
+
+The merchant asked, "Who bought it?"
+
+答言：「偷蘭難陀比丘尼。」
+
+He answered, "The bhikkhuni Sukalānanda."
+
+商人嫌呵言：「此沙門尼何能饒錢如是？」
+
+The merchant then complained, "How could this monastic afford so much?"
+
+比丘尼聞已語大愛道，
+
+The bhikkhuni, upon hearing this, reported it to Mahāprajāpatī,
+
+大愛道即以此事往白世尊。
+
+Mahāprajāpatī immediately took this matter to the Blessed One.
+
+佛言：「喚是比丘尼來。」
+
+The Buddha said, "Summon this bhikkhuni here."
+
+來已，問言：「汝實知他買已而益價取耶？」
+
+When she came, he asked, "Did you indeed know someone had already bought it and took it at a higher price?"
+
+答言：「實爾。」
+
+She answered, "Indeed."
+
+佛言：「此是惡事，汝云何知他市得而抄買耶？
+
+The Buddha said, "This is a bad deed, knowing someone had already bought it, how could you seize the purchase?"
+
+此非法、非律、非如佛教，不可以是長養善法。」
+
+This is against the Dharma, against the rules, and not in accordance with the Buddha’s teachings. It cannot nurture virtuous qualities."
+
+佛告大愛道瞿曇彌：「依止舍衛城住比丘尼皆悉令集，
+
+The Buddha instructed Mahāprajāpatī Gautamī, "Summon all the bhikkhunis residing in Śrāvastī,
+
+乃至已聞者當重聞。
+
+Even those who have already heard it should hear it again."
+
+若比丘尼知他市得而抄買者，尼薩耆波夜提。」
+
+If a bhikkhuni knows the item has already been purchased and seizes it, it will result in a nissaggiya pacittiya."
+
+
+比丘尼者，如上說。
+A Bhikkhuni is, as mentioned above.
+
+
+
+
+知者，若自知、若從他聞。
+
+The wise, whether knowing from themselves or heard from others.
+
+
+
+
+市得者，如店上商人。  
+Market winners are like shop merchants.  
+
+
+
+
+若比丘尼欲市物，知他已市不得橫抄，
+
+If a nun wants to buy something and knows that someone else has already chosen it, she should not seize it.
+
+應待前人不取，得取；
+
+She should wait for them not to take it, then she may take it.
+
+亦應問前人：「汝故取不？」
+
+She should also ask the person before her, "Do you still want to take it?"
+
+若言：「故欲取。」為欲堅之，此不應取。
+
+If they say, "I still want to take it," she should not take it.
+
+若言：「不復取。」取者無罪。
+
+If they say, "I am not taking it," then taking it is without fault.
+
+若比丘尼買衣鉢還自相抄者，越比尼罪。
+
+If a nun buys clothes or bowls and then grabs them back herself, she commits an offense.
+
+若僧中，上價取者，除和上、阿闍梨無罪。
+
+If among the monks, someone takes an item at a higher price, only the preceptor or teacher is without fault.
+
+若比丘市物抄截他市者，越比尼罪，是故說。
+
+If a monk intercepts and grabs an item that someone else is buying, he commits an offense, thus it is said.
+
+
+
+
+長鉢減五綴、
+The long alms bowl lessened by five pieces,
+
+七日瞋奪衣、
+For seven days, anger seized the robe,
+
+
+
+
+賣金并乞縷、
+Sell gold and beg for threads,
+
+緻織及急施、
+Weave meticulously and perform quickly,
+
+
+
+
+抄市迴僧物。
+Copy the monk's goods from the market.
+
+第三跋渠竟。
+The third note ended after the canal.
+
+
+
+
+從比丘尼取衣及浣染
+
+Taking robes from nuns and washing and dyeing them
+
+淳黑、三分、白憍舍耶
+
+Pure black, three parts, white Kaushaya
+
+六年尼師檀，三由旬擘羊毛、雨浴衣、阿練若處
+
+Six years of monastic training, three yojanas to tear wool, rainy season robes, and secluded places
+
+此十一事應出不說
+
+These eleven things should be mentioned and not omitted
+
+更有十一事，應內旃跋渠殘從初跋渠
+
+There are eleven more things that should be included from the beginning of Vachara Scraps
+
+初跋渠中出，取比丘尼衣、捉金銀補出、浣故衣以賣買補
+
+In the first Vachara, taking nuns' robes, holding gold and silver to make up, washing old clothes to sell and buy replacements
+
+後跋渠中出，雨浴衣以賣金補出、阿練若處以抄市補處
+
+In the later Vachara, selling rainy season robes for gold to make amends, and swapping secluded places in the market for replacements
+
+一跋渠、二跋渠數不減
+
+The number of once Vachara and twice Vachara does not decrease
+
+尼薩耆者，世尊說比丘尼三十事竟
+
+Regarding Nissaggiya, the Blessed One spoke of thirty things for nuns
+
+
+
+
+日日是好日。
+
+Every day is a good day.
+
+你如實地活著，那就是奇跡。
+
+If you live truthfully, that is a miracle.
+
+生活中的小事也有其美妙之处。
+
+The small things in life have their own wonders.
+
+心灵的开放能带来意料之外的惊喜。
+
+An open heart can bring unexpected joy.
+
+破晓的阳光再次给予我们希望。
+
+The dawn's light grants us hope once more.
+
+在安静中油然而生的清晰。
+
+Clarity arises naturally in silence.
+
+万物有时，生长有期。
+
+All things have their time, growth has its season.
+
+愿日日皆平安，无忧无惧。
+
+May each day be peaceful, without worry or fear.
+
+
+
+
+妄語及種類、  
+False speech and its types,
+
+兩舌更發起、  
+The divisive speech arises further,
+
+
+
+
+脱命说句法、  
+Claim to talk one's way out of danger,
+
+自称过人法、  
+Self-proclaimed surpassing talent,
+
+
+
+
+未足說麁罪、
+Not enough to mention coarse offenses,
+
+與遮輕呵戒，
+And cover lighter rules with scorn,
+
+
+
+
+初跋渠說竟。
+After Chu Baqu finished speaking.
+
+斫種異語惱、
+The ax chopped strange words that troubled,
+
+
+
+
+露地の敷を嫌る、　外の場所へ強引に引っ張り出す、
+
+He dislikes spreading the ground, forcibly pulling it out to the outside.
+
+
+
+
+先铺尖脚床、
+First lay the bed with sharp legs,
+
+虫水浇草泥、
+Water bugs sprinkle on grassy mud,
+
+
+
+
+疑悔使不樂，  
+Doubt and regret lead to unhappiness,  
+
+第二跋渠竟。  
+this is the end of the second section.  
+
+
+
+一食及處處、  
+One meal and everywhere,
+
+與衣不捨用、  
+Together with clothes without giving up using,
+
+
+
+
+不作殘食勸、
+No urging others to consume leftovers,
+
+不受非時食、
+Do not accept food at inappropriate times,
+
+
+
+
+停食兩三鉢、  
+Stopping eating after two or three bowls,
+
+藏物別眾食，  
+Storing things separately from the public food,
+
+
+
+
+第三跋渠竟。  
+The third footpath is finally done.
+
+
+
+
+然火過三宿、  
+The fire burns for three nights,
+
+與欲後瞋恚、  
+Along with desire comes anger,
+
+
+
+
+入聚落遣還、 
+Entering the settlement they were sent back,
+
+障道見不捨、
+Blocking the road, they did not leave.
+
+
+
+
+沙彌三壞色、
+The novice monk paled,
+
+取寶恐怖他，
+Fearing to take the treasure from him,
+
+
+
+
+第四跋渠竟。
+
+The end of the fourth river channel.
+
+
+
+
+飲虫水外道、  
+Outside the path, drink insect water,
+
+婬處坐屏處、  
+Sit in the screen's embrace at the lewd place,
+
+
+
+
+觀察軍隊停留三晚，觀看旗幟和彼此較量，
+
+Watching the army stay for three nights, watching the flags and their mutual contests,
+
+
+
+
+掌刀水中戲，
+Playing with knives in the water,
+
+第五跋渠竟。
+The fifth crossing is finally complete.
+
+
+
+
+指相指賊伴、  
+Pointing at each other as accomplices,
+
+掘地四月請、  
+Requesting to dig the ground in April,
+
+
+
+
+不從學飲酒、  
+Do not learn to drink,
+
+輕他默然聽、  
+Lightly listen to him silently,
+
+
+
+
+断事不摄耳，  
+Solving problems without listening attentively,  
+
+第六跋渠竟。  
+The sixth level of obstacles is complete.  
+
+
+
+
+离同食王宫、   
+Away from eating together in the palace,
+
+针筒过八指、   
+The syringe passes over eight fingers,
+
+
+
+
+兜羅及坐具、  
+The dorras and seat coverings,
+
+覆瘡效如來、  
+Cover the sores, emulating the Tathagata,
+
+
+
+
+僧殘謗迴向，
+The monk remnants slandered the dedication,
+
+第七跋渠竟。
+The seventh draft is completed.
+
+
+
+
+在丘戒中有详细的阐述。
+
+There is a detailed explanation in the precepts.
+
+
+
+
+，
+
+The Buddha was residing in Vaishali,
+
+爾時跋陀羅伽毘比丘尼，
+
+at that time, the nun Bhadrakapi,
+
+不語依止弟子，
+
+without informing her attendant disciple,
+
+輒著僧伽梨入聚落。
+
+suddenly wore the robe and entered the village.
+
+有比丘尼呼言：「某甲乞食去來。」
+
+A nun called out, "So-and-so is going to beg for food."
+
+答言：「阿梨耶！待我取僧伽梨。」
+
+She replied, "Good lady! Wait for me to get the robe."
+
+即求衣不見。
+
+But when she went to look for the robe, it was missing.
+
+正見師衣，作是念：「師必著我衣去。」
+
+She saw her teacher's robe and thought, "The teacher must have taken my robe."
+
+即生念：「師可得著我衣，我不得著師衣。」
+
+And she further thought, "The teacher can wear my robe, but I cannot wear the teacher's robe."
+
+語言：「汝去，我不得去。」
+
+She said, "You go, I cannot go."
+
+「何故耶？」
+
+"Why is that?"
+
+答言：「我無衣。」
+
+She replied, "I have no robe."
+
+即語：「著汝師衣來。」
+
+Then she was told, "Wear your teacher's robe and come."
+
+答言：「我所尊重，不敢著，汝自去。」
+
+She replied, "I respect it too much and dare not wear it, you go yourself."
+
+一日失食。
+
+Thus she lost a day's meal.
+
+諸比丘尼語大愛道，
+
+The other nuns told Mahapajapati,
+
+大愛道即以是事往白世尊。
+
+and Mahapajapati reported this matter to the Blessed One.
+
+佛言：「喚是比丘尼來。」
+
+The Buddha said, "Call for that nun to come."
+
+來已，佛問言：「汝實爾不？」
+
+When she came, the Buddha asked, "Is it true?"
+
+答言：「實爾。世尊！」
+
+She replied, "It is true, Blessed One!"
+
+佛言：「此是惡事，汝云何不語著他衣。」
+
+The Buddha said, "This is a bad thing, how can you wear another's robe without telling?"
+
+從今已後不聽。
+
+From now on, it is not allowed.
+
+佛告大愛道：
+
+The Buddha told Mahapajapati:
+
+「依止比舍離住比丘尼皆悉令集，
+
+"All the nuns residing dependent in Vaishali should be gathered,
+
+乃至已聞者當重聞。
+
+and those who have heard should hear again.
+
+若比丘尼不語主而著他衣，波夜提。」
+
+If a nun does not inform her superior and wears another's robe, it is a transgression of Pacittiya."
+
+
+比丘尼者，如上說。
+The Bhikkhuni, as mentioned above.
+
+
+
+
+不聽不語他而著弟子僧伽梨，若欲著時應語：「我著汝衣，汝若行者可著我僧伽梨。」
+Not listening or speaking to him, if a monk wants to wear a disciple's robe, he should say: "I will wear your robe, and if you are leaving, you may wear my monk's robe."
+
+如是一切衣，若欲浣衣、染衣、縫衣，有事緣著弟子衣者，當語言：「汝住，當與汝持食來。」
+For all clothes, if you want to wash, dye, or sew clothes, and have reason to wear a disciple's clothes, you should say: "You stay, I will bring you food."
+
+若比丘著他衣，不語者，越比尼罪。
+If a monk wears another's clothes and does not speak, he commits a minor transgression.
+
+是故世尊說。
+Therefore, the Blessed One said.
+
+
+
+摩訶僧祇律卷第三十七
+Mahasanghika Vinaya, Scroll 37
+
+
+
+

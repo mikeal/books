@@ -1,0 +1,3172 @@
+我昨天看了一部很好看的电影。
+Yesterday, I watched a very good movie.
+
+这部电影的情节非常紧凑。
+The plot of the movie was very tight.
+
+演员们的表演也很精彩。
+The actors' performances were also excellent.
+
+我特别喜欢电影的音乐。
+I especially liked the music in the movie.
+
+总之，这是一部值得推荐的电影。
+In short, this is a movie worth recommending.
+
+
+
+這是一條經文的資訊。
+This is information about a scripture.
+
+大正新脩大藏經。
+The Taisho Revised Tripitaka.
+
+第 22 冊。
+Volume 22.
+
+No. 1425。
+Number 1425.
+
+摩訶僧祇律。
+The Mahasanghika Vinaya.
+
+
+
+
+【版本记录】发行日期：2024-08，最后更新：2024-07-12  
+#【Version History】Release Date: 2024-08, Last Updated: 2024-07-12  
+
+
+
+
+#【編輯說明】本資料庫由 財團法人佛教電子佛典基金會（CBETA）依「大正新脩大藏經」所編輯
+
+#【Editorial Notes】This database is compiled by the Chinese Buddhist Electronic Text Association (CBETA) based on the "Taisho Tripitaka."
+
+
+
+
+#【原始資料】蕭鎮國大德提供，伽耶山基金會提供，北美某大德提供，釋本禪法師提供新式標點
+
+# [Original Data] Provided by Master Xiao Zhenguo, provided by the Gaya Mountain Foundation, provided by a certain North American master, provided by Master Shi Benchan with new punctuation style.
+
+
+
+
+【其他事項】
+
+[Other Matters]
+
+本資料庫可自由免費流通，
+
+This database can be freely circulated without charge,
+
+詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
+
+For detailed information, please refer to the "Copyright Declaration of the Buddhist Electronic Text Foundation Database".
+
+
+
+
+风在吼，马在叫  
+The wind roars, the horses neigh  
+
+黄河在咆哮  
+The Yellow River is raging  
+
+河西山岗万丈高  
+The hills west of the river rise up to towering heights  
+
+河东出击步走刀  
+East of the river, swords move into attack  
+
+
+
+摩訶僧祇律卷第二十東晉天竺三藏佛陀跋陀羅共法顯譯
+Mahasanghika Vinaya, Volume 20, translated by Master Buddhayaśas and Faxian from Tianzhu during the Eastern Jin Dynasty.
+
+
+
+
+明單提九十二事法之九  
+The ninety-second rule of Ming's single proposal law nine  
+
+
+
+
+佛住舍衛城，廣說如上。
+Buddha stayed in Shravasti, widely teaching as above.
+
+爾時梨車摩訶男請僧施藥。
+At that time, Licchavi Maha Man invited the monks and offered medicine.
+
+時六群比丘聞摩訶男請僧施藥，當試惱之。
+The six groups of monks heard Maha Man invited monks to offer medicine and decided to test him.
+
+明日早起著入聚落衣到其家，共相問訊：「我聞檀越請僧施藥，為實爾不？」
+The next day, they put on their robes early and went to his house, asking, "I heard the donor invited monks to offer medicine, is it true?"
+
+答言：「實爾。」「尊者！有所須耶？」
+He replied, "Indeed." "Honored one! Do you have any needs?"
+
+答言：「須藥。」「須何等藥。」
+He said, "I need medicine." "What kind of medicine do you need?"
+
+答言：「須爾所酥、爾所油、爾所蜜、爾所石蜜、爾所根藥、葉藥、花藥、果藥。」
+He replied, "I need ghee, oil, honey, rock honey, root medicine, leaf medicine, flower medicine, and fruit medicine."
+
+彼言：「即日未具，須辦當與。」
+He replied, "They are not yet ready today; they will be prepared and given later."
+
+比丘言：「汝當備藥，然後請僧。
+The monk said, "You should prepare the medicine first, then invite the monks.
+
+供一比丘藥如給一大象，我今一人索藥尚不能得，況復眾多。
+Providing medicine for one monk is like feeding an elephant, I alone can't get the medicine I ask for, let alone for many."
+
+汝但求名譽，無有實心。」
+You are only seeking fame, without sincere intent."
+
+彼言：「尊者！王家庫藏尚無爾所藥，況復我家？須辦當與。」
+He replied, "Honored one! Even the royal treasury lacks your medicines, let alone my house? They will be prepared and given."
+
+比丘言：「與以不與當任汝意。」
+The monk said, "Whether you give or not is up to you."
+
+言已便出去。
+He finished speaking and left.
+
+檀越於後即辦眾藥，自往白言：「先所索藥今者已辦，便可來取。」
+The donor later prepared all the medicines himself and said, "The medicines previously requested are now ready, please come and take them."
+
+比丘聞已，並笑而言：「我前但試汝，實不須藥。」
+The monk, upon hearing this, laughed and said, "I was just testing you before, I don't actually need the medicine."
+
+彼曰：「何故相試？我家中所有，於佛比丘僧無有匱惜。」
+He said, "Why test me? Whatever my household possesses, we are not stingy towards the Buddha and the monks."
+
+比丘言：「檀越瞋耶？」
+The monk said, "Are you angry?"
+
+答言：「實瞋。」「若瞋者，我當悔過。」
+He replied, "Indeed, I am angry." "If you are angry, I should confess and repent."
+
+彼曰：「我不受悔過，自可向佛悔過。」
+He said, "I do not accept your repentance; you can confess to the Buddha."
+
+比丘即向佛悔過。
+The monk then confessed to the Buddha.
+
+佛言：「何故？」
+The Buddha said, "Why?"
+
+即以上事具白世尊。
+The monk reported the whole matter in detail to the World Honored One.
+
+佛言：「癡人！梨車摩訶男家所有愛重，於佛比丘無所匱惜。
+The Buddha said, "Foolish person! Licchavi Maha Man cherishes what he has and is not stingy towards the Buddha and the monks.
+
+何故擾亂？
+Why cause disturbance?
+
+從今日後聽四月別請應受，除更請、長請。」
+From today onwards, monks are allowed to accept seasonal invitations, except for new invitations and long invitations."
+
+佛告諸比丘：「依止舍衛城比丘皆悉令集，
+The Buddha told all the monks residing in Shravasti to gather,
+
+以十利故與諸比丘制戒，乃至已聞者當重聞。
+for the purpose of ten benefits, I established a precept for the monks, even those who have heard it before should listen again.
+
+若比丘四月，別自恣請應受。
+If a monk receives an invitation during the four-month period, he should accept only if invited personally.
+
+若過受，波夜提。除更請、長請、自恣請。」
+If he accepts beyond that, it is an offense. Except for new, long, and personal invitations."
+
+
+
+比丘者，如上說。
+Bhikkhu, as mentioned above.
+
+四月者，或夏四月、或冬四月、或春四月。
+Four months, either summer four months, or winter four months, or spring four months.
+
+
+
+
+別請者，私請。
+Others don't invite, invite in private.
+
+
+
+
+過者，過四月。
+The past is past April.
+
+
+
+
+除更請者，世尊說無罪。
+Except for those who make additional requests, the World Honored One declares innocence.
+
+
+
+
+除長請者，盡形壽請。
+
+Without a long request, I ask for a lifetime.
+
+
+
+
+波夜提者，如上說。
+Poye Ti refers to what is mentioned above.
+
+
+
+
+若檀越語比丘言：「尊者！受我夏四月請。」
+If a layperson says to a monk, "Venerable one! Accept my summer invitation for four months."
+
+比丘若受，不應過至八月十六日。
+If the monk accepts, it should not surpass the sixteenth day of the eighth month.
+
+受者，波夜提。
+To accept is a Pācittiya offense.
+
+若受冬請、春請亦如是。
+If one accepts a winter or spring invitation, it is the same.
+
+檀越請不必定，或四月、或一月、或半月，若期滿已不得更受。
+The donor's invitation need not be fixed; it could be four months, one month, or half a month. Once the period is over, it should not be accepted again.
+
+若檀越言：「尊者常此間住者，我長施食。」
+If a layperson says, "Venerable one, you who always stay here, I will constantly offer food."
+
+若比丘離一宿行者，不得復食。
+If the monk leaves even for one night, they should not eat again.
+
+若檀越言：「尊者何以故不來？」
+If the layperson asks, "Venerable one, why do you not come?"
+
+答言：「汝先言常住此者當施食，我已離宿，是故不來。」
+The answer should be, "You previously said those who always stay here should be given food. I already left for a night, so I did not come."
+
+檀越言：「離不離，從今日但來。」
+If the layperson says, "Regardless of leaving, just come from today onwards."
+
+如是受者，無罪。
+Accepting in this way is not an offence.
+
+檀越言：「尊者受我請食，盡此倉穀。」
+If a layperson says, "Venerable one, accept my invitation to eat until this storehouse of grain is exhausted."
+
+比丘受之，應數數問典倉者。
+The monk accepting it should frequently ask the storekeeper.
+
+若言：「噉盡。」不得復食。
+If they say, "It's finished," they should not eat again.
+
+若檀越言：「尊者何以不來？」
+If the layperson asks, "Venerable one, why do you not come?"
+
+答言：「我先受請盡此倉穀，穀今已盡，是故不來。」
+The reply should be, "I initially accepted until this storehouse of grain was exhausted; now it's finished, so I did not come."
+
+若言：「尊者！我非謂一倉，更有餘倉，從今日但來。」
+If they say, "Venerable one, I didn't mean one storehouse, there are more, come from today onwards."
+
+如是受者無罪。
+Accepting in this manner is not an offence.
+
+請食酥苷蔗亦復如是。
+Invitations to eat ghee and cane sugar are treated similarly.
+
+若檀越言：「尊者！受我請食，盡此牛乳。」
+If a layperson says, "Venerable one, accept my invitation to eat up to this cow’s milk."
+
+比丘受之，應數數問𤚲乳者，若言：「𤚲休。」不得復受。
+The monastic accepts it, and should frequently ask the milk handler; if they say, "Stopped milking," it should not be accepted again.
+
+若言：「何以不來？」
+If they say, "Why do you not come?"
+
+答言：「我先受請盡此牛乳，乳今已盡，是故不來。」
+The response would be, "I initially accepted until this cow's milk was exhausted; now it's finished, so I did not come."
+
+若言：「我非一牛，更有餘牛，從今日但來。」
+If they say, "I don't mean one cow, there are more cows, come from today onwards."
+
+如是受者無罪。
+Accepting in this way is without fault.
+
+若檀越言：「尊者受我請食，齊女夫住此。」
+If the layperson says, "Venerable one, accept my invitation to eat while my daughter's husband stays here."
+
+比丘應受。
+The monk should accept.
+
+若女夫去者不得復受。
+If the son-in-law leaves, it should not be accepted again.
+
+若言：「何故不來？」
+If asked, "Why do you not come?"
+
+答言：「我先受請，齊女夫住；女夫今去，是故不來。」
+The reply should be, "I accepted previously because the daughter's husband resides here; now he's gone, thus I did not come."
+
+若言：「更受我請。」
+If they say, "Accept my invitation again."
+
+如是受者無罪。
+To accept in this way is without fault.
+
+若言：「尊者受我前食。」
+If they say, "Venerable one, accept my previous meal."
+
+不得索後食。
+Do not request later meals.
+
+若請後食，不得索前食；
+If requesting later meals, do not ask for earlier meals;
+
+若請與非時漿，不得索藥及餘物；
+If offering untimely drinks, do not ask for medicine or other items;
+
+若請與塗足油，不得索非時漿；
+If offering foot oil, do not ask for untimely drinks;
+
+若請與藥者，應從索藥，
+If offering medicine, it should be asked for from the beginning.
+
+若言：「尊者盡壽受我請衣食、臥具、醫藥。」
+If someone says, "Venerable one, for the rest of your life accept my offering of clothes, food, sleeping equipment, and medicine."
+
+爾時得隨意索無罪。
+At that time, there is no fault in requesting according to preference.
+
+是故說。
+Therefore, it is said.
+
+
+
+佛住拘睒彌國，廣說如上。
+
+The Buddha stayed in Kosambi, teaching extensively as stated above.
+
+爾時諸比丘語闡陀言：「長老當學！莫犯五眾罪。」
+
+At that time, the bhikkhus said to Chanda, "Elder, you should learn! Do not commit the five groups of offenses."
+
+答言：「我今不隨汝語，我若見餘長老寂根多聞持法深解，我當從諮問。彼若有所說，我當受行。」
+
+He replied, "I do not follow your words now. If I see another elder who is tranquil and well-learned in the doctrines, I will inquire from him. If he explains something, I will practice accordingly."
+
+諸比丘以是因緣，往白世尊，佛言：「呼此闡陀比丘來。」
+
+Because of this, the bhikkhus went to inform the Blessed One, and the Buddha said, "Call this bhikkhu Chanda here."
+
+來已，佛具問上事：「汝實爾不？」
+
+When he came, the Buddha inquired about the matter, "Is it true?"
+
+答言：「實爾。」
+
+He replied, "Indeed, it is."
+
+佛語闡陀：「此是惡事。汝常不聞我無量方便，稱歎隨順、毀呰違逆，汝云何𢤱悷自用？
+
+The Buddha said to Chanda, "This is a wrong action. Have you not often heard my innumerable methods, praising conformity and reproaching transgression, how can you be obstinate and self-willed?
+
+此非法、非律、非如佛教，不可以是長養善法。」
+
+This is not the Dharma, not the Discipline, not the teaching of the Buddha; it cannot be used to cultivate virtuous practices."
+
+佛告諸比丘：「依止拘睒彌國住者皆悉令集，以十利故為諸比丘制戒，乃至已聞者當重聞。
+
+The Buddha told the bhikkhus, "All those residing in Kosambi should gather. For ten benefits, I establish a rule for the bhikkhus; even those who have heard it before should hear it again.
+
+若諸比丘教語：『當學，莫犯五眾罪。』
+
+If a bhikkhu instructs, 'You should learn, do not commit the five groups of offenses.'
+
+若作是言：『我今不隨汝語，若見餘長老寂根多聞持法深解，我當諮問。彼有所說我當受行。』
+
+If he says, 'I do not follow your words now. If I see another elder who is tranquil and well-learned in the doctrines, I will inquire from him. If he explains something, I will practice accordingly.'
+
+作是語者，波夜提。
+
+Anyone who speaks like this is subject to a Pācittiya offense.
+
+比丘欲得法利者應學，亦應問餘比丘。
+
+A bhikkhu who desires benefits from the Dharma should learn and also consult other bhikkhus."
+
+
+
+比丘者，如上說。  
+Bhikshus, as mentioned above.  
+
+
+
+
+五眾罪者，波羅夷、僧伽婆尸沙、波夜提、波羅提提舍尼、越毘尼罪。
+The five kinds of offenses are: Parajika, Sanghadisesa, Patidesaniya, Parajika Again, Aniyatasañca.
+
+
+
+
+莫犯者，教令學十二事。  
+The instruction for those who should not offend includes learning twelve matters.  
+
+十二事者，所謂戒序、四波羅夷、十三僧伽婆尸沙  
+The twelve matters are known as the sequence of precepts, four Parajikas, and thirteen Sanghadisesas.  
+
+、二不定  
+Two undetermined offenses  
+
+、三十尼薩耆波夜提   
+Thirty Nissaggiya Pacittiyas  
+
+、九十二波夜提  
+Ninety-two Pacittiyas  
+
+、四波羅提提舍尼  
+Four Patimokkha rules that should be confessed  
+
+、眾學法  
+The learning rules  
+
+、七滅諍法。  
+The seven methods of resolving disputes.  
+
+
+
+「隨順法當學莫犯。」
+
+"Follow the law, do not violate it."
+
+作是語時，答言：「我不隨汝語，若見餘長老寂根多聞持法深解，當從諮問。」
+
+When you say this, answer, "I do not follow your words; if I see another elder who is calm, knowledgeable, and deeply understands the law, I will inquire and learn from them."
+
+彼有所說我當受行。」
+
+I will follow what they say."
+
+作是語者，波夜提。
+
+Saying this, it is a Pācittiya offense.
+
+若言：「長老！五眾罪中波羅夷、僧伽婆尸沙、波夜提、波羅提提舍尼、越毘尼罪，當學莫犯。」
+
+If one says, "Elder! Among the five categories of offenses – Pārājika, Saṅghādisesa, Pācittiya, Prātimokṣa, and Viññatti, one should learn not to violate them."
+
+作是語時，答言：「不隨汝語，若見餘長老寂根多聞持法深解，當從諮問。」
+
+When you say this, answer, "I do not follow your words; if I see another elder who is calm, knowledgeable, and deeply understands the law, I will inquire and learn from them."
+
+彼有所說我當受行。」
+
+I will follow what they say."
+
+作是語者。波夜提。
+
+Saying this, it is a Pācittiya offense.
+
+如是四眾罪、三眾罪、二眾罪、一眾罪。
+
+Similarly, there are offenses of four categories, three categories, two categories, and one category.
+
+「四波羅夷應當學，莫犯。」作是語時。
+
+"When you say, 'One should learn not to violate the four Pārājikas.'"
+
+答言：「我不隨汝語。若見餘長老寂根多聞持法深解，當從諮問。」
+
+Answer, "I do not follow your words; if I see another elder who is calm, knowledgeable, and deeply understands the law, I will inquire and learn from them."
+
+彼有所說我當受行。」
+
+I will follow what they say."
+
+作是語者，波夜提。
+
+Saying this, it is a Pācittiya offense.
+
+若作是語，長老六作捨法，所謂作折伏羯磨、不語羯磨、驅出羯磨、發喜羯磨、舉羯磨、別住羯磨。
+
+If you say these words, there are six methods of renunciation for elders, namely: resolution of reprimand, resolution of silence, resolution of expulsion, resolution of joy, resolution of declaration, and resolution of separate dwelling.
+
+「當學莫犯。」作是語時。
+
+"When it is said, 'One should learn not to violate them.'"
+
+答言：「我不隨汝語，若見餘長老寂根多聞持法深解，當從諮問。
+
+Answer, "I do not follow your words; if I see another elder who is calm, knowledgeable, and deeply understands the law, I will inquire and learn from them."
+
+彼有所說我當受行。」
+
+I will follow what they say."
+
+作是語者，波夜提。
+
+Saying this, it is a Pācittiya offense.
+
+若作是語：「長老此六捨法已作折伏羯磨，隨順行法折伏柔軟，如是應捨，乃至別住羯磨亦復如是，當學莫犯。」作是語時。
+
+If you say these words: "Elders, having performed the six methods of renunciation beginning with reprimand resolution, proceed with flexible adherence to the laws; thus should renunciation be learned, even for separate dwelling resolution, one should not violate them."
+
+答言：「我不隨汝語，若見餘長老寂根多聞持法深解，當從諮問。」
+
+Answer, "I do not follow your words; if I see another elder who is calm, knowledgeable, and deeply understands the law, I will inquire and learn from them."
+
+彼有所說我當受行。」作是語者，波夜提。
+
+I will follow what they say." Saying this, it is a Pācittiya offense.
+
+若言：「長老！當學賢善持戒受誦經法，當得須陀洹、斯陀含、阿那含、阿羅漢果。」
+
+If one says, "Elder! One should learn to uphold the precepts and recite the scriptures well, thereby obtaining the fruits of Stream-enterer, Once-returner, Non-returner, or Arhatship."
+
+作是教時，不得答言：「有常，當學。」
+
+When this instruction is given, one should not reply, "It is common, I should learn."
+
+應答言：「我為是故出家。」
+
+One should respond, "I have left home for this reason."
+
+是故說。
+
+Thus it is said.
+
+
+
+
+佛住拘睒彌國，廣說如上。
+The Buddha was residing in the country of Kusha, extensively teaching as above.
+
+爾時拘睒彌界有惡龍，名菴婆羅，能使亢旱不雨、苗稼不收，人民飢饉，如是種種災患。
+At that time, there was an evil dragon named Ambara in the region of Kusha, which caused droughts, poor harvests, and famine among the people, leading to various disasters.
+
+時尊者善來比丘往降惡龍，如《善來比丘經》中廣說。
+Then, the venerable monk Shanlai went to subdue the evil dragon, as extensively described in the "Sutra of Monk Shanlai."
+
+降伏惡龍已，乃至國土豐樂人民感德，知恩報恩。
+After subduing the dragon, the land became prosperous, and the people were grateful, knowing and repaying kindness.
+
+有五百大家為善來故，各立常施幢幡，施設床座請僧供養，別請善來比丘，其所造家則設種種美食。
+Five hundred prominent families, for the sake of Shanlai, set up permanent donation banners, arranged seats, invited monks for offerings, and specially invited Monk Shanlai, preparing various delicacies at their homes.
+
+時有一家施食之後，因渴施酒，色味似水得而飲之，還向精舍。
+At that time, after providing food, one family offered wine due to thirst; it looked and tasted like water, and was drunk, then he returned to the monastery.
+
+爾時世尊大會說法，酒勢發盛，昏悶躃地，當世尊前舒脚而臥。
+At that time, the World Honored One was giving a lecture to a large gathering; intoxicated, Shanlai fell unconscious to the ground, lying with his legs stretched out before the Buddha.
+
+佛知而故問：「是何比丘在如來前舒脚而臥？」
+The Buddha knew but asked, "Which monk lies here before the Tathagata with his legs stretched out?"
+
+比丘答言：「善來比丘飲酒過多是故醉臥。」
+The monks replied, "Monk Shanlai drank too much wine and is therefore lying here intoxicated."
+
+佛問諸比丘：「此善來比丘先曾晝寢不？」
+The Buddha asked the monks, "Has Monk Shanlai ever napped during the day before?"
+
+「不也。世尊！」
+"No, World Honored One!"
+
+復問比丘：「善來未醉之時，頗曾佛前舒脚臥不？」
+Then Buddha asked, "When Shanlai was not drunk, has he ever laid with his legs stretched out before the Buddha?"
+
+「不也。世尊！」
+"No, World Honored One!"
+
+復問比丘：「多飲酒已，欲使不醉可得爾不？」
+Buddha further asked, "After drinking a lot of wine, is it possible for him not to get drunk?"
+
+「不也。世尊！」
+"No, World Honored One!"
+
+復問諸比丘：「設使善來比丘不飲酒時，聞說微妙不死之法，當欲失是善利，不聽受不？」
+Buddha asked again, "If Monk Shanlai hadn't drunk, upon hearing the profound teachings of immortality, would he miss such good fortune and not listen?"
+
+「不也。世尊！」
+"No, World Honored One!"
+
+佛語諸比丘：「是善來比丘本能降伏惡龍，今者能降蝦蟆不？」
+The Buddha said to the monks, "Monk Shanlai once could subdue an evil dragon; can he even subdue a frog now?"
+
+答言：「不能。」
+They replied, "No, he cannot."
+
+佛言：「設使菴婆羅龍聞者，生其不樂。從今日後不聽飲酒。」
+The Buddha said, "If the dragon Ambara heard this, it would be displeasured. From today onward, drinking alcohol is not permitted."
+
+
+
+復次佛住舍衛城，廣說如上。
+Again, the Buddha dwelled in the city of Shravasti and expounded as above.
+
+爾時尊者那夷翅飲石蜜酒過多，來還精舍。
+At that time, the venerable Nayi had drunk too much stone honey wine and returned to the monastery.
+
+爾時世尊大會說法，酒勢發盛昏悶躃地，在世尊前舒脚而臥。
+At that moment, the World-Honored One was teaching in a great assembly, and Nayi, overwhelmed by the effects of the alcohol, fell to the ground and lay with his legs outstretched in front of the World-Honored One.
+
+佛知而故問：「是何比丘在如來前舒脚而臥？」
+The Buddha knowingly asked, "Which monk is lying with his legs outstretched in front of the Tathagata?"
+
+答言：「世尊！是那夷翅比丘飲石蜜酒過多，是故醉臥。」
+He replied, "World-Honored One! It is the monk Nayi, who drank too much stone honey wine and thus is drunkenly lying down."
+
+佛問諸比丘：「那夷翅比丘先曾晝寢不？」
+The Buddha asked the monks, "Did the monk Nayi previously sleep during the day?"
+
+「不也。世尊！」
+"No, World-Honored One!"
+
+復問比丘：「那夷翅未醉之前頗曾舒脚佛前臥不？」
+He further asked the monks, "Did Nayi ever lie with his legs outstretched in front of the Buddha before he was intoxicated?"
+
+「不也。世尊！」
+"No, World-Honored One!"
+
+復問比丘：「若多飲酒已欲使不醉，可得爾不？」
+He asked again, "Is it possible to drink a lot of alcohol and not become intoxicated?"
+
+「不也。世尊！」
+"No, World-Honored One!"
+
+復問比丘：「那夷翅不飲酒時，聞說如是微妙不死之法，當欲失是善利，不聽受不？」
+He asked once more, "When Nayi is not drinking, would he wish to neglect such a profound immortal Dharma and not listen to it?"
+
+「不也。世尊！」
+"No, World-Honored One!"
+
+佛言：「從今日後不聽飲石蜜酒。」
+The Buddha said, "From this day forth, stone honey wine shall not be consumed."
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，以十利故為諸比丘制戒，乃至已聞者當重聞。
+The Buddha told his monks, "Gather all residing in Shravasti, for the sake of ten benefits, I will establish a precept for monks, and even those who have heard should hear it again.
+
+若比丘飲石蜜酒，波夜提。」
+If a monk drinks stone honey wine, it is a pacittiya offense."
+
+
+
+比丘者，如上說。  
+A bhikkhu is as stated above.
+
+
+
+
+酒者，十種：和、甜、成、動、酢、漬、黃、屑、澱、清。
+There are ten types of alcohol: Mild, Sweet, Mature, Moving, Sour, Soaked, Yellow, Sediment, Lees, and Clear.
+
+和者，飯屑、麴屑，水和著器中，如是不得草滴髮滴入口，況復器飲，波夜提，是名和。
+Mild alcohol is made by mixing rice grains and yeast, blended with water. It should not come in contact with grass, hair, or be drunk. This is called "Mild."
+
+甜者。和釀已訖始變生甜，乃至飲者，波夜提，是名甜。
+Sweet alcohol is created when fermentation leads to a sweet transformation and should not be drunk. This is called "Sweet."
+
+成者，氣味成就，乃至飲者，波夜提，是名成。
+Mature alcohol is when it has developed a stable aroma and flavor, and should not be drunk. This is called "Mature."
+
+動者，酒勢已壞乃至飲者，波夜提，是名動。
+Moving alcohol is when its potency is compromised, and should not be drunk. This is called "Moving."
+
+酢者，酒味壞變成酢，乃至飲者，波夜提，是名酢。
+Sour alcohol is when the taste has turned sour, and should not be drunk. This is called "Sour."
+
+漬者，淨浣白㲲漬著酒中，數數出曬，曬已復漬，遠行曠野時漬㲲絞取，乃至飲者，波夜提，是名漬。
+Soaked alcohol involves soaking white cloth in alcohol, sun-drying it repeatedly, and wringing it out during long travels. It should not be drunk. This is called "Soaked."
+
+黃者，澄黃未清乃至飲者，波夜提，是名黃。
+Yellow alcohol is when it is yellow and not clear, and should not be drunk. This is called "Yellow."
+
+澱者，酒下濁澱乃至飲者，波夜提，是名澱。
+Sediment alcohol is when the alcohol has dregs at the bottom, and should not be drunk. This is called "Sediment."
+
+清者，上澄清如油色，如是不得草滴髮滴入口，況復器飲，波夜提，是名清。
+Clear alcohol is when the top is clear like oil. It should not come in contact with grass, hair, or be drunk. This is called "Clear."
+
+
+
+
+石蜜酒者，十種：和、甜、成、動、酢、漬、黃、屑、澱、清。
+There are ten types of mead: harmonized, sweet, matured, stirred, sour, marinated, yellow, dregs, sediment, clear.
+
+和者，石蜜、𮓒水和著器中，
+As for "harmonized," it is a mixture of stone honey and water kept in a container,
+
+如是不得草滴髮滴入口，
+In that way, it must not be poured with grass or hair into the mouth,
+
+況復器飲，波夜提。
+Especially not drunk directly from the container. This is known as pattiya (a Buddhist term for a rule).
+
+餘九事如上說。
+The other nine types are as explained above.
+
+
+
+
+波夜提者，如上說。  
+Prajñā, as stated above.
+
+
+
+
+䵃麥人醪、米飯醪、麥飯醪、木麥醪、麨醪。
+
+Barley wine, rice wine, wheat wine, wood barley wine, coarse grain wine.
+
+䵃麥人醪者，䵃麥人𮓒水於器中釀，如是不得草滴髮滴入口，況復器飲，波夜提。
+
+Barley wine is made by soaking barley in water in a container, ensuring that no grass or hair fall into it, especially when drinking from the vessel, one commits an offense.
+
+米飯醪者，米飯𮓒水於器中釀，乃至飲者，波夜提。
+
+Rice wine is made by soaking rice in water in a container, and those who drink it commit an offense.
+
+麥飯醪者，麥飯𮓒水於器中釀，乃至飲者，波夜提。
+
+Wheat wine is made by soaking wheat in water in a container, and those who drink it commit an offense.
+
+木麥醪者，木麥飯𮓒水於器中釀，乃至飲者，波夜提。
+
+Wood barley wine is made by soaking wood barley rice in water in a container, and those who drink it commit an offense.
+
+麨醪者，麨𮓒水於器中釀，如是不得草滴髮滴入口，況復器飲，波夜提。
+
+Coarse grain wine is made by soaking coarse grain in water in a container, ensuring that no grass or hair fall into it, especially when drinking from the vessel, one commits an offense.
+
+食後飲水，無罪。
+
+There is no offense in drinking water after eating.
+
+
+
+
+尼罪。  
+Eating fermented grain is a transgression against the monastic code.  
+
+飯麴和飲者，波夜提。  
+Mixing fermented grain with drinks is a grave offense.  
+
+食石蜜飲水，無罪。  
+There is no offense in eating rock honey and drinking water.  
+
+食𮓒，越毘尼罪。  
+Eating sugarcane is a transgression against the monastic code.  
+
+三種合飲者，波夜提。  
+Mixing the three types of drinks is a grave offense.  
+
+飲穀酒、石蜜酒，波夜提。  
+Drinking grain wine and rock honey wine is a grave offense.  
+
+飲葡萄酒，越毘尼罪。  
+Drinking grape wine is a transgression against the monastic code.  
+
+飲修樓、飲難提、噉糟，皆越毘尼罪。  
+Drinking distilled spirits and fermented beverages, and eating dregs are all transgressions against the monastic code.  
+
+食墟邏果、迦比哆果、比邏婆果、拘陀羅果，此諸果食者令人醉食者，越毘尼罪。  
+Eating fruits like jackfruit, betel nut, bel fruit, and kimbul fruit that cause intoxication in the eater is a transgression against the monastic code.  
+
+除十四種漿，菴婆羅漿乃至耶婆果漿，得澄清，一切聽飲；若變酒色、酒味、酒香，一切不聽飲。  
+Except for the fourteen types of clear juices, from mango juice to jujube juice, all are allowed to be consumed; if they change in color, taste, or smell to resemble alcohol, none are permitted to be consumed.  
+
+酢漿令人醉者亦不聽飲，除苷蔗苦酒、葡萄苦酒，及酢漿。  
+Sour juice that causes intoxication is also not permitted to be consumed, except for sugarcane bitter wine, grape bitter wine, and sour juice.  
+
+是故說。  
+Thus it is said.  
+
+
+
+佛住拘睒彌國，廣說如上。
+
+The Buddha was staying in the Kusha country, explaining as above.
+
+爾時僧和合欲作羯磨，時尊者闡陀不來，遣使往喚，語闡陀比丘：「僧和合欲作羯磨，長老來。」
+
+At that time, the monks gathered to perform a Sangha act, but Venerable Chanda did not come, so someone was sent to call him, saying to Bhikkhu Chanda, "The Sangha is gathering to perform a Sangha act, elder please come."
+
+而不肯來。
+
+But he was unwilling to come.
+
+諸比丘言：「闡陀佷戾，若喚來必不來。若語莫來脫有來理！」
+
+The other monks said, "Chanda is obstinate; if we call him, he won't come. Perhaps if we tell him not to come, he will."
+
+即遣使語：「長老莫來。」
+
+Thus, they sent someone to say, "Elder, do not come."
+
+彼言：「住！住！汝等盡往，語我莫來。」
+
+He said, "Stop! Stop! All of you go and tell me not to come."
+
+即便來入僧中，比丘語令坐而不肯坐。
+
+Then he came and entered the Sangha assembly, but when the monks told him to sit, he refused.
+
+諸比丘復語：「長老莫坐。」
+
+The monks said again, "Elder, do not sit."
+
+即言：「汝等盡坐，語我莫坐。」
+
+Then he said, "All of you sit, and tell me not to sit."
+
+便坐。
+
+Then he sat.
+
+比丘復語：「長老汝可論是事。」
+
+The monks then said, "Elder, you may discuss this matter."
+
+答言：「我不語。」
+
+He replied, "I will not speak."
+
+比丘復語：「長老莫語。」
+
+The monks said again, "Elder, do not speak."
+
+即言：「汝等盡語，語我莫語。」
+
+Then he said, "All of you speak, and tell me not to speak."
+
+便語不止，妨廢餘人。
+
+Then he spoke incessantly, hindering and interrupting others.
+
+諸比丘復語：「長老可小出。」
+
+The monks again said, "Elder, you may go out for a moment."
+
+而不肯出。
+
+But he refused to go out.
+
+比丘復語：「長老莫出。」
+
+The monks said again, "Elder, do not go out."
+
+即便出去。
+
+Then he went out.
+
+故僧不和合，各各起去不得作羯磨。
+
+As a result, the Sangha was not in harmony, everyone got up and left, unable to perform the Sangha act.
+
+諸比丘以是因緣往白世尊。
+
+The monks reported this matter to the Blessed One.
+
+佛言：「喚闡陀比丘來。」
+
+The Buddha said, "Call Bhikkhu Chanda here."
+
+來已，佛具問上事：「汝實爾不？」
+
+When he came, the Buddha fully questioned him about the matter, "Is it true as told?"
+
+答言：「實爾。」
+
+He replied, "It is true."
+
+佛言：「此是惡事。闡陀！汝常不聞我無量方便，歎說隨順軟語、毀呰佷戾，汝云何佷戾自用？」
+
+The Buddha said, "This is wrong. Chanda, have you never heard me extol countless skillful means of gentle speech, and denounce obstinacy? Why are you so obstinate and self-willed?"
+
+此非法、非律、非如佛教，不可以此長養善法。」
+
+This is not in accordance with the Dharma, nor the Vinaya, nor the Buddha's teaching. You cannot nurture good qualities with this.
+
+佛告諸比丘：「依止拘睒彌住者皆悉令集，以十利故與諸比丘制戒，乃至已聞者當重聞。」
+
+The Buddha told the monks, "Gather all those living in the Kusha country; for the sake of ten benefits, I will establish rules for the monks, and those who have heard them should hear them again."
+
+若比丘輕他，波夜提。
+
+If a monk belittles others, it leads to a Pācittiya offense.
+
+
+
+比丘者，如上說。
+A bhikkhu is as stated above.
+
+
+
+
+輕他者，有八事：
+The one who is frivolous has eight behaviors:
+
+語來而不來、
+Saying they will come but not coming,
+
+莫來而來、
+Not saying they will come but coming,
+
+坐而不坐、
+Sitting but not sitting,
+
+莫坐而坐、
+Not sitting but sitting,
+
+語而不語、
+Speaking but not speaking,
+
+莫語而語、
+Not speaking but speaking,
+
+去而不去、
+Leaving but not leaving,
+
+莫去而去，
+Not leaving but leaving,
+
+波夜提。
+An offense is committed.
+
+
+
+波夜提者，如上說。
+Boya Tizhe, as mentioned above.
+
+
+
+
+若比丘僧集欲作折伏羯磨、不語、擯出、發喜、舉、別住羯磨，一切盡應來。
+If monks gather to perform the kammavācā for humility, silence, expulsion, joy, accusation, or separate dwelling, all should attend.
+
+若輕他不來者，波夜提。
+If one belittling others does not come, it's a transgression.
+
+若比丘作衣鉢事，若病因緣不得來者，與欲無罪。
+If a monk is busy with robe and bowl matters or cannot come due to illness, there is no fault if he declares his desire.
+
+若語莫來，輕他來者，波夜提。
+If told not to come, but comes underestimating the instruction, it's a transgression.
+
+若僧中有事欲須見僧，白僧聽來，無罪。
+If there is a matter requiring facing the assembly, informing the monks and coming is blameless.
+
+若言：「長老坐。」輕他不坐者，波夜提。
+If told "Elder, sit," but ignores and doesn't sit, it's a transgression.
+
+若坐處有瘡癰，白僧聽者，不坐無罪。
+If there's a sore at the sitting place, informing and not sitting is blameless.
+
+若語莫坐，輕他坐者，波夜提。
+If told not to sit, but sits underestimating the instruction, it's a transgression.
+
+若老病羸弱久立悶極，白僧聽者，坐無罪。
+If old, sick, or weak and informs the assembly, sitting due to prolonged standing is blameless.
+
+若語令語，輕他不語者，波夜提。
+If told to speak but remains silent underestimating the instruction, it's a transgression.
+
+若才劣言輕人不敬用，設語羯磨不成就、僧不和合，白僧聽者，不語無罪。
+If one lacks talent and disrespects others' views, even if speaking the kammavācā fails, informing and remaining silent is blameless.
+
+若語莫語，輕他語者，波夜提。
+If told not to speak, but speaks underestimating the instruction, it's a transgression.
+
+若作是念：「設不語者羯磨不成就、僧不和合，事須我語。」白僧聽者，語無罪。
+If one thinks, "If I don't speak, the kammavācā won't succeed, the order won't be in harmony, I must speak," informing and speaking is blameless.
+
+若語令去，輕他不去者，波夜提。
+If told to leave but stays underestimating the instruction, it's a transgression.
+
+若作是念：「若我去者，此中羯磨不成就，事不斷。」當白僧，聽者，不去無罪。
+If one thinks, "If I leave, the kammavācā won't succeed, the matter won't resolve," informing the monks and staying is blameless.
+
+若語莫去，輕他去者，波夜提。
+If told not to leave, but leaves underestimating the instruction, it's a transgression.
+
+若作是念：「若我不去者羯磨不成就，事不斷。」當白僧，聽者，去無罪。
+If one thinks, "If I don't leave, the kammavācā won't succeed, the matter won't resolve," informing the monks and leaving is blameless.
+
+若僧中語：「來不來、莫來而來、坐而不坐、莫坐而坐、語而不語、莫語而語、去而不去、莫去而去。」一一得波夜提罪。
+If in the assembly it is said: "Come and not come, not to come and come, sit and not sit, not to sit and sit, speak and not speak, not to speak and speak, leave and not leave, not to leave and leave," each is a transgression.
+
+若眾多人中、師徒中，語來而不來，乃至去而不去，一一得越毘尼罪。
+Among many people, or in teacher-disciple settings, if told to come and not come, up to leave and not leave, each is a minor transgression.
+
+若和上、阿闍梨語來而不來，乃至去而不去，一一得越毘尼罪。
+If a preceptor or teacher says to come and not come, up to leave and not leave, each is a minor transgression.
+
+是故說。
+Therefore it is said.
+
+
+
+，廣說如上。
+
+The Buddha resided in Śrāvastī, explaining as above.
+
+爾時諸比丘諍訟，同住不和。
+
+At that time, the monks were quarreling and living in disharmony.
+
+時六群比丘屏處盜聽，聞此語已向彼人說、聞彼語已向此人說，
+
+Then, a group of six monks secretly listened, heard these words, and told the others.
+
+於是此彼更生諍訟，同止不和，
+
+This caused further quarreling among them, still dwelling in disharmony.
+
+云是法非法、是律非律，
+
+They debated over what was lawful, what was not, what was disciplinary, and what was not.
+
+乃至是應羯磨、是不應羯磨。
+
+Even considering what was worthy of communal action and what was not.
+
+諸比丘以是因緣往白世尊，
+
+The monks reported these matters to the Blessed One.
+
+佛言：「喚是六群比丘來。」
+
+The Buddha said, “Call those six groups of monks here.”
+
+來已佛具問上事：「汝實爾不？」
+
+When they came, the Buddha asked them about the matter, “Is this true?”
+
+答言：「實爾。」
+
+They answered, “It is true.”
+
+佛語六群比丘：「此是惡事，
+
+The Buddha told the six groups of monks, “This is a bad deed,
+
+非法、非律、非如佛教，
+
+Unlawful, undisciplined, and not according to the Buddha’s teachings.
+
+不可以此長養善法。」
+
+It cannot nurture good law.”
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，
+
+The Buddha told the monks, “Gather all residing in Śrāvastī.
+
+以十利故為諸比丘制戒，乃至已聞者當重聞。
+
+For ten benefits' sake, I legislate rules for the monks, even for those who have heard should hear again.
+
+若比丘，諸比丘諍訟時默然立，
+
+If a monk stands silently while others are quarreling,
+
+聽彼有說者，我當憶持，作是因緣不異者，波夜提。」
+
+Hearing someone speak, thinking, I will bear this in mind, then such a cause is not different; he incurs an offence of expiation."
+
+
+
+比丘者，如上說。
+The bhikkhu, as mentioned above.
+
+
+
+
+諍訟者，是法非法、是毘尼非毘尼，乃至是應羯磨、是不應羯磨。
+The disputants argue about whether it is lawful or unlawful, whether it is according to the Vinaya or not, and whether it should be subject to a formal act or not.
+
+
+
+
+立聽者，若隔壁
+
+Eavesdropping, whether behind a wall,
+
+若隔籬
+
+behind a fence,
+
+若戶邊
+
+near a door,
+
+若隔幔
+
+behind a curtain,
+
+若隔石
+
+behind a stone,
+
+若隔草立聽，
+
+or behind grass, listening,
+
+彼有說者我當憶持，
+
+if there is speaking, I should remember it,
+
+作是因緣不異者，
+
+making such conditions unchanged,
+
+波夜提。
+
+it is a transgression.
+
+
+
+波夜提者，如上說。
+Prajñapti, as mentioned above.
+
+
+
+
+若二比丘在堂裏私語，若比丘欲入者，應彈指動脚作聲，若前人默然者應還出；
+If two monks are whispering in the hall, a monk who wants to enter should snap their fingers or make a sound with their foot. If the previous monks remain silent, he should leave.
+
+若前人故語不止者，入無罪。
+If the previous monks deliberately keep talking, then entering is not a fault.
+
+若一比丘先在堂內坐，二比丘私語從外入來，
+If one monk is already sitting in the hall and another two monks come in whispering,
+
+堂內比丘不得默然，應彈指動脚作聲，若默然者堂內比丘應出。
+the monk inside should not remain silent; he should snap his fingers or make a sound with his foot. If he remains silent, the monk inside should leave.
+
+若比丘共餘比丘鬪諍結恨，作是罵詈：「我要當殺此惡人。」然後捨去。
+If a monk quarrels and harbors resentment towards another monk, and curses saying, "I should kill this evil person," then leaves.
+
+比丘聞已得語彼人：「長老！好自警備，我聞有惡聲。」
+If a monk hears this, he should inform the person saying, "Elder! Be careful, I heard bad words."
+
+有諸客比丘來，若在講堂、溫室、禪坊中，若摩摩帝、若知事人往看客比丘，
+When guest monks come, if they are in the lecture hall, warm room, or meditation area, and if someone in charge or Maudgalyayana goes to see the guest monks,
+
+聞客比丘作是言：「長老！我等當盜某庫藏、某塔物、某僧淨厨、某比丘衣鉢。」
+hears the guest monks say, "Elder! We shall steal from such and such treasury, stupa, monks' pantry, or a monk's alms bowl."
+
+聞是語已默然應還，還已應眾僧中唱言：「諸大德！某庫藏、某塔物、某僧淨厨、某比丘衣鉢當警備，我聞惡聲。」
+Having heard such words, he should quietly leave, and after returning, announce to the assembly, "Venerable ones! That specific treasury, stupa items, monk's pantry, or a monk's bowl should be guarded. I heard malicious words."
+
+應使前人知。
+The previous person should be informed.
+
+若比丘多有弟子，日暮竊來按行諸房，知如法不？
+If a monk with many disciples comes quietly in the evening to inspect various rooms, is this known to be lawful?
+
+若聞說世俗談話，若說王、說賊，如是種種言說，不得便入呵責。
+If he hears mundane conversations, about kings or bandits, such discussions should not be immediately reproached.
+
+待自來已，然後誨責曰：「汝等信心出家，食人信施，應坐禪、誦經。
+Wait for the right moment, then admonish: "You left home with faith, relying on the faith-given offerings; you should practice meditation and recite the sutras.
+
+云何論說世俗非法之事？此非出家隨順善法。」
+How can you discuss worldly unlawful matters? This is not in accord with the good practice of a monk."
+
+若聞論經說義、問難答對，不得便入讚歎。
+If he hears discussions about sutras, explaining meanings, questions and answers, he should not immediately enter with praise.
+
+待自來已，然後讚美：「汝等能共論經說義講佛法事，
+Wait for the right moment, then praise: "You are able to discuss sutras, explain meanings, and talk about the Dharma.
+
+如世尊說，比丘集時當行二法：一者賢聖默然，二者講論法義。」
+As the World-Honored One said, when monks gather, they should follow two practices: one is the noble silence, the other is to discuss the meanings of the Dharma."
+
+若比丘入聚落行語而去，後比丘來不得默然，
+If a monk enters a village to speak and then leaves, and another monk comes later, he should not remain silent.
+
+應謦欬動脚作聲，若前人故語者，隨進無罪。
+He should clear his throat or make a sound with his foot. If the previous person deliberately talks, entering is not a fault.
+
+若比丘前去，後比丘行語而來，前比丘不得默然，應謦欬動脚作聲。
+If the previous monk leaves and the later monk comes to talk, the previous monk should not remain silent and should clear his throat or make a sound with his foot.
+
+若比丘繞塔時、食後欲入林中坐禪時，亦復如是。是故說。
+If a monk is circumambulating a stupa or wishes to enter the forest for meditation after a meal, it should be the same. Thus it is said.
+
+
+
+，廣說如上。
+The Buddha was residing in Śrāvastī, and preached extensively as mentioned above.
+
+爾時比丘僧集欲與優波難陀共行弟子、依止弟子作舉羯磨。
+At that time, the assembly of monks gathered to perform a formal act (saṅghakamma) with Upananda as a fellow disciple and being dependent on the community.
+
+時優波難陀聞與弟子作舉羯磨即便起去。
+When Upananda heard about performing the formal act with the disciples, he immediately got up and left.
+
+後比丘見坐處空，檢校：「誰來？誰不來？是誰坐處？」
+Later, the monks noticed an empty seat and enquired, "Who has come? Who has not come? Whose seat is this?"
+
+比丘言：「是優波難陀坐處。」
+The monks said, "This is Upananda's seat."
+
+如是僧不和合，各各起去，不得作羯磨。
+Thus, the assembly was not harmonious, everyone got up and left, and they couldn't perform the formal act.
+
+諸比丘以是因緣往白世尊，佛言：「喚優波難陀來。」
+Because of this matter, the monks approached the Blessed One, and the Buddha said, "Call Upananda here."
+
+來已，佛具問上事：「汝實爾不？」
+After he came, the Buddha asked about the matter in detail, "Is this true?"
+
+答言：「實爾。」
+He replied, "Indeed."
+
+佛語優波難陀：「此是惡事，汝云何僧欲斷事，默然起去不白比丘？
+The Buddha said to Upananda, "This is a wrong act; how can you, when the assembly wished to resolve a matter, silently get up and leave without informing the monks?
+
+此非法、非律、非如佛教，不可以是長養善法。」
+This is neither the law nor the discipline, nor as I have taught; it cannot nurture good qualities."
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，
+The Buddha instructed the monks, "Gather all who are residing in Śrāvastī,
+
+以十利故與諸比丘制戒，乃至已聞者當重聞。
+for the sake of ten benefits, lay down rules for the monks, and those who have heard before shall hear again.
+
+若比丘僧欲斷事，默然起去不白比丘，波夜提。」
+If a monk wishes to leave when the assembly is resolving a matter without informing the monks, it is a pācittiya offense.
+
+
+
+比丘者，如上說。  
+Bhikkhu, as stated above.
+
+
+
+
+僧欲斷事者，有二種：
+If a monk wishes to resolve issues, there are two methods:
+
+一者說法毘尼，
+The first is through the explanation of the Dharma and Vinaya,
+
+二者作折伏羯磨乃至別住羯磨。
+the second is through the practice of disciplinary measures up to and including temporary separation.
+
+
+
+
+默然起去者  
+Those who rise and leave silently  
+
+起離座去。  
+Stand up and leave their seats.  
+
+
+
+
+不白者，若白非時入聚落，不名為白；
+If one does not apologize, entering a village at an inappropriate time as a layperson is not regarded as an apology;
+
+白往尼精舍教誡，不名為白；
+An apology is not considered when going to a nun's quarters to admonish;
+
+白離食處，不名為白。
+Leaving a food area is not considered an apology.
+
+若僧集說法毘尼者，應白言：「離說法座去。」
+If the assembly of monks is delivering a discourse on the Vinaya, one should apologize by saying, "Leave the teaching seat."
+
+答言：「爾。」
+The reply should be, "Yes."
+
+若僧集作折伏羯磨，乃至別住羯磨者，應白并與欲。
+If the assembly of monks is practicing the kammavacā for discipline, or even for individual residence, one should apologize and express a wish.
+
+比丘現前僧中不白去者，波夜提。
+If a monk in front of the assembly does not apologize and leaves, it is considered a Pācittiya offense.
+
+
+
+波夜提者，如上說。
+The phrase "Bo Ye Ti Zhe" is as stated above.
+
+
+
+
+折伏乃至別住羯磨，比丘欲去者，應白并與欲，不白與欲者，波夜提。
+If a monk wishes to leave during a gathering for penance or separation ceremony, he should announce and obtain permission. Not doing so results in a transgression.
+
+白而不與欲，越毘尼罪。
+If he announces but does not obtain permission, it is a violation of the disciplinary code.
+
+不白不與欲，一波夜提、一越毘尼。
+Failing to announce and not obtaining permission leads to a double transgression.
+
+白并與欲，無罪。
+If he announces and obtains permission, there is no offense.
+
+若欲大小便，須臾還，不廢僧事，無罪。
+If he needs to relieve himself and returns shortly without delaying the assembly, there is no offense.
+
+若作是念：「設晚來。」者，應白并與欲。
+If he intends to return later, he should announce and obtain permission.
+
+若說法、說毘尼者，應白去，不白去者，越毘尼罪。
+If he is giving a sermon or teaching disciplinary rules, he should announce his departure. Not doing so results in a violation.
+
+若比丘聽眾多比丘誦經，應白去，不白去者，越毘尼罪。
+If a monk listens to many monks reciting scriptures, he should announce his departure. Not doing so results in a violation.
+
+若誦經者止誦作餘語，去者無罪。
+If the recitation stops for other discussions, leaving incurs no offense.
+
+若比丘聽他比丘受經，應白去，不白去者，越毘尼罪。
+If a monk listens to another monk's scripture recitation, he should announce his departure. Not doing so results in a violation.
+
+若比丘聽他讀經，應白去，不白去者，越毘尼罪。
+If a monk listens to another's scripture reading, he should announce his departure. Not doing so results in a violation.
+
+是故說。
+Thus it is said
+
+
+佛住舍衛城，廣說如上。
+The Buddha resided in Śrāvastī and widely explained as above.
+
+爾時諸比丘阿練若處住，非時入聚落，為世人所嫌：
+At that time, some monks were living in the forest, entering the village at improper times, and were criticized by the people.
+
+「云何沙門釋子阿練若處住，非時入聚落？何所欲求？」
+"How can the Shramana sons of the Shakya live in the forest and enter the village at improper times? What do they seek?"
+
+諸比丘以是因緣往白世尊，
+The monks, due to this matter, went to report it to the World-Honored One.
+
+佛言：「喚是比丘來。」
+The Buddha said, "Call those monks to come here."
+
+來已，佛具問上事：「汝實爾不？」
+Upon their arrival, the Buddha inquired about the matter in detail, "Is it true as reported?"
+
+答言：「實爾。」
+They answered, "Yes, it is true."
+
+佛語比丘：「汝云何阿練若處住，非時入聚落？」
+The Buddha said to the monks, "Why do you, who are living in the forest, enter the village at improper times?"
+
+正應為世人所譏。
+"It is indeed right to be scorned by the world."
+
+從今日後不聽阿練若處住，不白比丘非時入聚落。
+"From this day onwards, those living in the forest are not permitted to enter the village at improper times without reporting to other monks."
+
+
+
+衛城，廣說如上。
+Again, the Buddha resided in the city of Shravasti and explained the above teachings in detail.
+
+爾時有二比丘阿練若處住。
+At that time, there were two monks living in a forest retreat.
+
+時一比丘塗房為蛇所螫，語伴言：「長老！我為蛇所螫。」
+One monk was bitten by a snake while plastering a room and said to his companion, "Elder! I have been bitten by a snake."
+
+答言：「待我取僧伽梨，當往喚耆域醫。」
+He replied, "Wait while I fetch my robe, then I will go call for Jivaka, the physician."
+
+師取衣中間即便失音，彼取衣已白言：「長老！我非時入聚落。」
+As he was getting his robe, the monk suddenly lost his voice. After he got his robe, he said, "Elder! I cannot go to the village at an improper time."
+
+時比丘不能言，如是至三白言：「長老！我非時入聚落。」猶故不言。
+The monk couldn't speak, and repeated three times, "Elder! I cannot enter the village at an improper time," yet still received no response.
+
+彼作是念：「世尊制戒不聽阿練若處不白比丘非時入聚落，是比丘而不報，我當任其行業，知復如何。」
+He thought, "The Blessed One has set a precept forbidding monks to enter a village at an improper time without informing other monks, and since this monk did not report, I must follow my practice as it is."
+
+即便命終。
+And then he passed away.
+
+諸比丘以是因緣往白世尊。
+The monks reported this incident to the Blessed One.
+
+佛言：「喚是比丘來。」來已，佛具問上事：「汝實爾不？」
+The Buddha said, "Call this monk here." When he came, the Buddha asked him about the incident, "Is this true?"
+
+答言：「實爾。」
+He answered, "Yes, it is true."
+
+佛語諸比丘：「彼若慈心稱四大龍王名者，應不至死。」
+The Buddha told the monks, "If he had invoked the names of the four great Dragon Kings with a compassionate heart, he would not have died."
+
+何等四？持國龍王、伊羅國龍王、善子龍王、黑白龍王。
+Which four? The Dragon King of the East, the Dragon King of the South, the Dragon King of the West, and the Dragon King of the North.
+
+我有慈。無足眾生我有慈，兩足眾生我有慈，四足眾生我有慈，多足眾生我有慈。
+I have compassion. I have compassion for no-footed beings, two-footed beings, four-footed beings, and many-footed beings.
+
+無足眾生莫害我，兩足眾生莫害我，四足眾生莫害我，多足眾生莫害我。
+May no-footed beings not harm me, may two-footed beings not harm me, may four-footed beings not harm me, may many-footed beings not harm me.
+
+一切眾生應得無漏一切賢聖，善心相視，莫興惡意。
+All beings should attain the flawless state, all the holy wise ones, look upon me with a kind heart, and not raise any malicious intent.
+
+設使比丘稱是四大龍王名者，應不致死。
+If the monk had invoked the names of these four great Dragon Kings, he would not have died.
+
+從今日後聽除急時。
+From today onward, permission is granted to handle emergencies.
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，以十利故與諸比丘制戒，乃至已聞者當重聞。」
+The Buddha said to the monks, "Call together all those residing in Shravasti. I will prescribe a rule for the benefit of the monks, and even those who have heard it before should hear it again."
+
+若比丘阿練若處住非時入聚落，不白比丘，除餘時，波夜提。
+If a monk residing in a forest enters a village at an improper time without informing another monk, except in emergencies, he commits a minor offense
+
+
+比丘者，如上說。
+A Bhikkhu is as stated above.
+
+
+
+
+阿练若处住者，若离城邑聚落五百弓，弓长五肘，于其中间无人住，是名阿练若处。
+One who resides in the Aranyaka place, if it is five hundred bows' length away from towns and settlements, with a bow being five cubits long, and if there is no one living in between, it is called an Aranyaka place.
+
+
+
+
+非时者，后食已竟，时虽早，犹是非时。
+A time that is not at the right time, after the meal is finished, even if it is early, is still not the right time.
+
+
+
+
+聚落者，垣牆障乃至亂居聚落。
+Settlements, walls, and barriers are even chaotic residential settlements.
+
+
+
+
+白者，若言：「白離食家。」不名為白。
+Speaking of a white person, if one says, "He left the household," it is not called "white."
+
+若言：「白往尼精舍教誡。」不名為白。
+If one says, "He went to the nunnery to give teachings," it is not called "white."
+
+若言：「白離說法處。」不名為白。
+If one says, "He left the place of preaching," it is not called "white."
+
+應白言：「長老！我非時入聚落。」
+One should say, "Venerable Elder! I have entered a village at an inappropriate time."
+
+前人言：「可爾。」
+The person ahead says, "That's fine."
+
+
+
+
+比丘者，界內現前，
+A monk is present within the realm,
+
+非徒眾現前。
+Not only the assembly is present.
+
+
+
+
+除餘時者，若比丘種種疾病、為蛇所螫，為喚醫故，世尊說無罪。
+Except in other instances, if a monk suffers from various illnesses or is bitten by a snake, calling a doctor is considered blameless by the World-Honored One.
+
+
+
+
+若二比丘在阿練若處住，若欲俱行，展轉相白。
+If two monks live in a secluded place and wish to travel together, they should inform each other in turn.
+
+若一人先行，後人復欲行者，應白餘比丘。
+If one person travels first and the other wishes to travel later, they should inform the remaining monks.
+
+若無餘比丘者，應作是念：「若道中、若門、若聚落、若尼精舍，見比丘當白。」
+If there are no other monks, it should be considered: "If you see a monk on the road, at a gate, in a village, or at a nunnery, you should inform them."
+
+白已然後非時入聚落。
+After informing, only then enter the village at the appropriate time.
+
+若比丘道路行，從聚落中過，聚落中路邊有塔、若天祠，當順道直過。
+If a monk is walking on the road and passes through a village, where there is a stupa or shrine, they should proceed straight along the path.
+
+若下道左旋、右旋去者，波夜提。
+If they deviate onto a side path turning left or right, it is an offense.
+
+若火起、若種種惡獸來逐人者，隨意去無罪。
+If a fire starts or various wild beasts chase people, they can escape as they wish without fault.
+
+若比丘遠行道路，日暮欲入聚落宿，不得荷負囊襆而入。
+If a monk is traveling far and at nightfall wishes to stay in a village, they should not enter carrying bags or bundles.
+
+若村外有水應林中止息，先令二比丘淨洗浴，著僧伽梨施紐展轉相白，遣入聚落，求宿止處。
+If there is water outside the village, they should rest in the forest, first having two monks wash and bathe, put on their robes properly, inform each other in turn, and then enter the village to seek lodging.
+
+若得宿處，應從檀越索隨所安，還出聚落，語諸比丘：「已得宿處。」
+If they find lodging, they should ask the layperson for suitable arrangements, then leave the village and tell the other monks: "A lodging has been found."
+
+爾時諸比丘應淨洗手足，欲飲非時漿者，即於此飲之。
+At that time, the monks should clean their hands and feet, and if they wish to drink any late-time drink, they should drink it there.
+
+若入聚落，勿令人譏沙門夜食，衣囊襆器，分張持去。
+If entering a village, care should be taken not to cause criticism of monks for eating at night; carry clothing, bags, and containers discreetly.
+
+著僧伽梨安紐，捉杖持革屣展轉相白，然後當入。
+Wear the robe properly, hold a staff and shoes, inform each other in turn, and then enter.
+
+已到宿處，復欲出取薪草水者，若從本道出者無罪。
+Once at the lodging, if wishing to go out to collect firewood, grass, or water, if they exit by the main path, it is not an offense.
+
+若更從餘道行，應白，不白去者，波夜提。
+If they travel by another path, they should inform, and failing to inform is an offense.
+
+若欲求塗足油，非時漿、勸化明日食者，白已當去。
+If seeking foot oil, late-time drink, or encouraging the next day's meal, they should inform before going.
+
+不白去者，波夜提。
+Failing to inform is an offense.
+
+若聚落中有僧伽藍，道上有屋連接覆，去者無罪。
+If there is a temple in the village, and on the road, there are connected and covered buildings, going there is not an offense.
+
+餘道去者應白，不白去者，波夜提。
+Traveling by other routes requires informing, and failing to inform is an offense.
+
+是故說。
+Therefore, it is said.
+
+
+
+
+不滿共賊伴，
+Dissatisfied with the company of traitors,
+
+掘地四月請，
+Excavate the ground in April,
+
+
+
+
+未學并飲酒　　
+Before learning, drinking together
+
+輕他默然聽　　
+Listen to him silently and lightly
+
+
+
+
+默起非時入。
+Silently he rises at an unseasonable time.
+
+第八跋渠竟。
+The eighth postscript is finished.
+
+
+
+
+，廣說如上。  
+Buddha was residing in the city of Shravasti, expounding as mentioned above.
+
+爾時尊者優波難陀晨起，著入聚落衣到檀越家，語優婆夷言：「凡夫人若死命盡多墮惡道，汝當聽我說法。」  
+At that time, the venerable Upananda awoke in the morning, dressed in village attire, went to a patron’s house, and said to the laywoman, "Ordinary people, when they die, often fall into evil paths. You should listen to my teachings."
+
+時優婆夷料理家業，眾事怱務無暇聽法，便嫌比丘言：「置令凡夫人，若死墮惡道，阿闍梨但自憂己，莫憂他人。」  
+The laywoman was busy managing household affairs and had no time to listen to the teachings, so she said displeasedly to the monk, "Let ordinary people, when they die, fall into evil paths; Master, just worry about yourself and not others."
+
+後食竟，令弟子蕩鉢，復入其家如前語曰：「優婆夷！凡夫人若死墮惡道，汝當聽我說法。」  
+After the meal, she had her disciples wash the bowl, then entered the house again and spoke as before: "Laywoman! Ordinary people, when they die, fall into evil paths; you should listen to my teachings."
+
+時優婆夷飲食夫主兒子竟，後自食，不容得聽，復嫌比丘言：「置令凡夫人若死墮惡道，阿闍梨但自憂己，莫憂他人。」  
+At that time, the laywoman fed her husband and children, then ate herself, and couldn't listen. Again she said displeasedly to the monk, "Let ordinary people, when they die, fall into evil paths; Master, just worry about yourself and not others."
+
+諸比丘聞已，以是因緣往白世尊。  
+The monks, having heard this, reported the matter to the World-Honored One.
+
+佛言：「呼優波難陀來。」  
+The Buddha said, "Call Upananda here."
+
+來已，佛具問上事：「汝實爾不？」答言：「實爾。」  
+When he came, the Buddha fully asked about the above matter: "Is it true?" He answered, "It is true."
+
+佛問比丘：「汝食後去作何等事？」  
+The Buddha asked the monk, "What do you do after the meal?"
+
+答言：「多事。世尊！我欲作醫療治眾病。」  
+He replied, "Many things, World-Honored One! I want to practice medicine and treat various illnesses."
+
+佛言：「汝云何同食處，食前食後不白比丘行至餘家？從今日後不聽同食處，食前食後不白比丘行至餘家。」  
+The Buddha said, "How could you eat in the same place and before and after the meal not inform the monks when going to another house? From today onwards, it is not allowed to eat in the same place and go to another house before and after the meal without informing the monks."
+
+
+
+復次佛住舍衛城，廣說如上。
+Furthermore, the Buddha resided in the city of Śrāvastī, and spoke extensively as above.
+
+爾時佛告阿難：「汝語諸比丘：『安居已訖，諸檀越施安居衣。』」
+At that time, the Buddha said to Ānanda, "Tell the monks, 'The retreat has ended, and the patrons have offered retreat robes.'"
+
+阿難即語諸比丘，諸比丘言：「世尊制戒，不聽同食處，食前食後不白比丘行至餘家。」
+Ānanda immediately informed the monks, and the monks said, "The Blessed One established a rule that forbids eating in the same place, and going to other households without informing the monks before and after meals."
+
+我等與諸梵行人同食共住，敬難故不敢數白。」
+We eat and live together with the Brahman practitioners, and out of respect it is difficult to frequently inform."
+
+阿難以是因緣往白世尊。
+Ānanda, due to this matter, went to report to the Blessed One.
+
+佛言：「從今日後聽衣。」
+The Buddha said, "From today onwards, robes are allowed."
+
+時佛告諸比丘：「依止舍衛城住者皆悉令集，以十利故與諸比丘制戒，乃至已聞者當重聞。」
+At that time, the Buddha told the monks, "Gather all residing in Śrāvastī, and for ten reasons establish rules with the monks, and those who have heard should hear again."
+
+若比丘同食處，食前食後不白比丘行至餘家，除餘時，波夜提。
+If a monk eats in the same place and does not inform the monks before and after meals when going to other households, except at other times, it is a Pācittiya offense.
+
+餘時者，衣時是名餘時。
+Other times refer to the period when robes are concerned, known as 'other times.'
+
+
+
+比丘者，如上說。
+A monk, as previously mentioned.
+
+
+
+
+同食者，或米四升、作飯或麨八升、或麥飯斗二升、魚肉若半鉢若一鉢，是名同食。
+For those sharing a meal, four sheng of rice can be cooked, eight sheng of flour, or two dou and two sheng of wheat meal; fish or meat, whether half a bowl or a whole bowl, this is called sharing a meal.
+
+
+
+
+食前者，未食。
+Those who eat first have not yet eaten.
+
+
+
+
+食後者，
+
+After eating,
+
+食已，
+
+Finished eating,
+
+日雖早故名食後。
+
+Though the day is still early, it is called after eating.
+
+
+
+
+行至刹帝利家。
+On arriving at the Kshatriya's house.
+
+行至婆罗门家。
+On arriving at the Brahmin's house.
+
+行至吠舍家。
+On arriving at the Vaishya's house.
+
+行至首陀罗家。
+On arriving at the Shudra's house.
+
+
+
+
+白者，若白非時入聚落、若白往比丘尼精舍、若白離說法處，不名為白。
+
+The declaration is, if done at an improper time when entering a settlement, going to a nunnery, or departing from a place of teaching, it is not considered a valid declaration.
+
+應白言：「長老憶念！我某甲離同食行至餘家。」
+
+He should declare: "Reverend, please remember! I, so and so, have departed from communal activities and gone to another house."
+
+答言：「爾。」
+
+To which he should reply: "Yes."  
+
+
+
+
+除餘時者，世尊說無罪。
+Outside of these times, the World-Honored One proclaimed there is no sin.
+
+餘時者，衣時。
+The remaining times refer to the period of clothing.
+
+衣時者，無迦絺那衣一月、有迦絺那衣五月。
+The period of clothing refers to one month without the Ājīna robe, and five months with the Ājīna robe.
+
+衣時中間捨五罪：
+During the period of clothing, one is free from the five sins:
+
+別眾食、處處食、離同食不白、畜長衣、離衣宿無罪。
+Eating separately from the community, eating wherever one pleases, not announcing when eating apart, keeping long robes, and sleeping away from one's clothing are without sin.
+
+
+
+波夜提者，如上說。
+Poya is as mentioned above.
+
+
+
+
+食欲餘行者，應白去，不白去者，波夜提。
+If a monk wants to leave the common meal to do something else, he should declare his departure; if he does not declare, it's a minor offense.
+
+若於他處食五正食、五雜正食，二波夜提。
+If he partakes in five types of staple foods or five types of mixed staple foods elsewhere, it's a double minor offense.
+
+不白離同食處處食，若作施食法、若衣時者，二俱無罪。
+If he does not declare leaving the common meal to eat anywhere and it is during almsgiving or clothing time, there is no offense in both cases.
+
+若比丘住處無食，若有人請食，即彼處名為同食。
+If there is no food at the monk's dwelling and someone invites him to eat, it is considered a common meal at that place.
+
+若於彼處欲餘行者，應白去，不白去者，如上說。
+If he wants to do something else there, he should declare his departure; if not, as stated above.
+
+若比丘受聚落中請，即彼處名同食。
+If a monk accepts an invitation in the village, it is considered a common meal there.
+
+日早欲餘行，經過應白去；不白去者，如上說。
+If he wants to do something else early in the day, he should declare his departure when passing by; if not, as stated above.
+
+若聚落中請僧食，有比丘過到其家，檀越言：「尊者！我今日飯僧尊者，亦受我請。」
+If a monk is invited to a communal meal in the village and encounters a donor, who says, "Venerable! I'm inviting monks today, please also accept my invitation."
+
+比丘受者，即名同食。日時尚早，比丘復欲餘行，應當白去；不白去者，波夜提。
+If the monk accepts, it is considered a common meal. If it's still early and he wants to do something else again, he should declare his departure; if not, it's a minor offense.
+
+餘如上說。
+Others as stated above.
+
+若檀越請僧食，比丘乞食過到其家，檀越言：「我今請僧食，尊者亦受我請。」
+If a donor invites monks and a monk, while begging for food, comes to his house, and the donor says, "I'm inviting monks today, please also accept my invitation."
+
+若比丘受者，亦名同食。
+If the monk accepts, it's also considered a common meal.
+
+比丘尋自思惟：「檀越信施心重，我不能消，不如行乞趣得支命。」
+The monk then thinks, "The donor is relying heavily on this gift, I can't consume it, it's better to beg and live on alms."
+
+欲捨去者，應白去；不白去者，波夜提。
+If he wishes to leave, he should declare his departure; if not, it's a minor offense.
+
+餘如上說。
+Others as stated above.
+
+若二比丘各有食處，俱向聚落道中，議言：「我等今日先一家食，然後次第共餘家食後食。」
+If two monks each have a place to eat and on the way to the village they agree to eat first at one house, then eat at another in turn.
+
+一比丘應白去；不白去者，波夜提。
+One monk should declare his departure; if not, it's a minor offense.
+
+若至先食家得五正食、五雜正食，二波夜提。
+If, at the first house, he gets five types of staple foods or five types of mixed staple foods, it's a double minor offense.
+
+離同食處處食，若作施食法、若衣時，二俱無罪。
+Eating separately from the common meal at various places, during almsgiving or clothing times, neither has an offense.
+
+第二人亦如是。
+The second person is the same.
+
+若比丘乞食，家家得一升、二升，乃至一斛，取無罪。
+If a monk begs for food and receives one to two liters, up to a bushel from each house, it's without offense.
+
+若一家或得四升米飯、或麨八升、或麥飯一升二升、若魚肉半鉢一鉢，更不得餘處求。
+If from one house he gets four liters of cooked rice, eight liters of flour, one or two liters of wheat flour, or half to a full bowl of fish or meat, he should not seek more elsewhere.
+
+是中何者犯？何者不犯？
+Which actions here constitute offenses and which do not?
+
+一切粥，除魚肉粥。
+All kinds of porridge, except fish and meat porridge.
+
+粥者取新出釜，畫不成字。
+Porridge is taken fresh from the pot and cannot form letters.
+
+一切餅、一切麨、一切果，非別眾食、非處處食、非滿足食。
+All cakes, flour, and fruits are not communal food, not food from various places, not satiating meals.
+
+是故說。
+Therefore, it is said
+
+
+，廣說如上。
+The Buddha stayed in the city of Śrāvastī and expounded as above.
+
+是中應說末利夫人因緣，如《中阿含》中說，乃至長老比丘次第入宮教誡。
+Herein, the connection with Queen Māllikā should be mentioned, as stated in the Madhyama Āgama, where senior bhikkhus took turns entering the palace to teach.
+
+爾時尊者優陀夷次入教誡。
+At that time, the Venerable Udāyin next entered to teach.
+
+時末利夫人著細塗施衣，金銀珠璣莊校衣上在宮內坐。
+Queen Māllikā was wearing a fine painted garment, adorned with gold, silver, and pearl ornaments, sitting inside the palace.
+
+時優陀夷入宮，夫人見已，敬心卒起，金銀珠璣重塗施衣滑墜地。
+As Udāyin entered the palace, the queen saw him and respectfully stood up, but her heavily adorned garment slipped and fell to the ground.
+
+夫人慚愧，即便蹲住，諸侍人以身障之。
+The queen, ashamed, squatted down immediately, her attendants covering her with their bodies.
+
+時優陀夷見已却行而出，還到精舍，語諸比丘言：「長老！波斯匿王覆藏寶器，我今已見。」
+Udāyin, having seen this, retreated and left, returning to the monastery and said to the bhikkhus, "Elders! King Prasenajit hides his treasures, and now I have seen them."
+
+諸比丘問言：「汝見何等？」
+The other bhikkhus asked, "What did you see?"
+
+答言：「見末利夫人。」
+He replied, "I saw Queen Māllikā."
+
+諸比丘言：「長老！汝出家人若入聚落當作阿練若意，莫戀著色，見如不見、聞如不聞。」
+The other bhikkhus said, "Elder! As a renounced one entering a village, you should have the mind of a forest dweller, not attached to appearances; see as if not seeing, hear as if not hearing."
+
+答言：「我實見，可言不見耶？」
+He responded, "I truly saw, can I say I did not see?"
+
+諸比丘以是因緣往白世尊，佛言：「從今日後不聽比丘入王宮。」
+The bhikkhus reported this incident to the Blessed One, who said, "From today onwards, bhikkhus are not allowed to enter the royal palace."
+
+諸比丘不入宮故，諸夫人語末利夫人：「坐汝使諸比丘不復來入，我等不得聞法禮僧。」
+Because the bhikkhus did not enter the palace, the royal ladies said to Queen Māllikā, "Because of you, the bhikkhus no longer enter, and we cannot hear the teachings or pay homage to the Sangha."
+
+末利夫人言：「何故怨我？汝自求王。」
+Queen Māllikā responded, "Why blame me? Ask the king yourselves."
+
+諸夫人即白王言：「大王！諸比丘何故不復入宮教誡？」
+The royal ladies approached the king, saying, "Great King! Why do the bhikkhus no longer enter the palace to teach?"
+
+時波斯匿王聞此語已，往詣佛所，稽首禮足，却坐一面，白佛言：「世尊！諸比丘何故不復入宮教誡？」
+King Prasenajit, hearing this, went to the Buddha, bowed, and sat to one side, saying, "World-Honored One! Why do the bhikkhus no longer enter the palace to teach?"
+
+佛言：「大王！是中有過，如來見已不聽復入。」
+The Buddha said, "Great King! There is a fault in this, and thus the Tathāgata has disallowed entry."
+
+波斯匿王白佛言：「是中有何過患？可得聞不？」
+King Prasenajit asked, "What faults are there in this? May I hear them?"
+
+佛告大王：「有十事過患，比丘不得入王宮。十事者，如中《阿含綖經》中說，比丘不得入王宮。」
+The Buddha told the Great King, "There are ten faults; thus, bhikkhus are not allowed to enter the royal palace. These ten are stated in the Madhyama Āgama."
+
+王白佛言：「世尊！佛見過患，制比丘不得入王宮。我本未生信時，自身右手猶尚不信，況復比丘佛已制戒。但當隨順。」
+The king said to the Buddha, "World-Honored One! Since the Buddha sees the fault and has forbidden the bhikkhus from entering, I, who once did not believe even in my own right hand, now naturally accept the precept given by the Buddha. We shall comply."
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，以十利故為諸比丘制戒，乃至已聞者當重聞。」
+The Buddha instructed the bhikkhus, "Gather all those residing in Śrāvastī; for the sake of ten benefits, these precepts are established for the bhikkhus, and even those who have heard should hear again."
+
+若比丘入剎利灌頂王宮，王夫人寶未藏，入過門限者，波夜提。
+If a bhikkhu enters the royal palace where the Kshatriya king and queen's treasures are not hidden, and crosses the threshold, it is a pācittiya offense
+
+
+丘者，如上說。
+A bhikkhu is as stated above.
+
+
+
+
+王者，剎利種、婆羅門種、優伽羅王種、捨伽耶王種、婆那王種如是等比，
+A king, whether from the Kshatriya caste, Brahmin caste, Yugala king lineage, Shakya king lineage, or Banua king lineage,
+
+或是王非剎利，入者無罪。
+might be a king and not be Kshatriya, entering is not a sin.
+
+是王、是剎利、非灌頂，入無罪。
+Being a king, being Kshatriya, and not being anointed, entering is not a sin.
+
+是王、是剎利、是灌頂、無國土，入無罪。
+Being a king, being Kshatriya, being anointed, and having no territory, entering is not a sin.
+
+是王、是剎利、是灌頂、有國土，不得入。
+Being a king, being Kshatriya, being anointed, and having territory, one should not enter.
+
+
+
+入宮者，入內宮。
+Those who enter the palace, enter the inner palace.
+
+
+
+
+王夫人未藏寶者，
+Lady Wang had not yet hidden the treasure,
+
+王夫人未出寶。
+Lady Wang had not yet taken out the treasure.
+
+未藏者，
+There were those who had not hidden it,
+
+王寶未出。
+The king's treasure had not been taken out.
+
+至過門限者，
+Those who crossed the threshold,
+
+波夜提。
+appeared late at night.
+
+
+
+波夜提者，如上說。
+
+Poyatis, as mentioned above.
+
+
+
+
+若王新作宮殿，信心歡喜，語比丘言：「尊者為我故願先受用。」
+If the king builds a new palace, with faith and joy, he tells the monk: "I wish that you, venerable one, use it first for my sake."
+
+比丘應語：「世尊制戒不得入宮。」
+The monk should reply: "The World Honored One has established a rule forbidding entry into the palace."
+
+王復言：「尊者頗有方便得開通不？」
+The king then asks: "Venerable one, is there any way to gain permission?"
+
+應答言：「王夫人寶盡出，然後得入。」
+The reply is: "Once the queen's treasures have been taken out, entry is allowed."
+
+若已出者應入。
+If they have been taken out, one should enter.
+
+比丘入已，王夫人寶物從後次第入，比丘不得捨出，爾時坐無罪。
+If a monk enters and then the queen's treasures gradually re-enter behind him, the monk should not leave; at that time, there is no fault in sitting.
+
+若比丘中間為大小行出，不得復入，入者，波夜提。
+If a monk goes out for any reason and wishes to re-enter, doing so results in a misdemeanor.
+
+若王常遊觀池林，於中作王行宮，王夫人寶物盡出，在中有七重門，若入一門、二、三，乃至六門無罪。
+If the king regularly visits the pools and forest, and within them builds a lodge for himself, and the queen's treasures have been fully removed, he may pass through up to six of the seven gates without fault.
+
+第七門一脚入，越毘尼罪。
+Placing one foot through the seventh gate transgresses the rules.
+
+兩脚過門限者，波夜提。
+Stepping fully through the gate results in a misdemeanor.
+
+若王遊觀已，夫人寶物盡出，行宮已空、眾人入者，比丘入無罪。
+If the king has finished his visit, and the queen's treasures have been fully removed, after the place has emptied and people have entered, a monk may enter without fault.
+
+若王信心愛敬手牽，比丘入無罪。
+If, with faith and respect, the king takes a monk by the hand, he may enter without fault.
+
+是故說。
+Thus it is spoken.
+
+
+
+佛住舍衛城，廣說如上。
+The Buddha was staying in the city of Śrāvastī, widely preaching as above.
+
+舍衛城內有作象牙師字法與，時有比丘到其家語：「檀越為我作針筒。」
+In the city of Śrāvastī, there was an ivory craftsman named Fayu, and at that time a monk came to his house and said: "Lay supporter, make a needle-case for me."
+
+即便為作，不大不小、光色滑澤，持來還房。
+He made one that was neither too big nor too small, smooth and luminous, and brought it back to the monastery.
+
+諸比丘見已問言：「長老！何處得是，不大不小、光色滑澤？」
+The monks saw it and asked: "Elder! Where did you get this, neither too big nor too small, smooth and luminous?"
+
+答言：「象牙師字法與，為我作之。」
+He replied: "The ivory craftsman named Fayu made it for me."
+
+諸比丘聞已各各往索，牙師念曰：「諸比丘皆當須用。」
+Upon hearing this, the monks each went to ask for one, and the craftsman thought: "All the monks must need it."
+
+又念：「眾僧是良福田，我當請僧布施針筒。」
+He further thought: "The monastic community is a good field of merit, I should offer the needle-cases to them as gifts."
+
+即詣祇洹頭面禮僧足已，白言：「我法與請僧欲施針筒。」
+So he went to Jetavana, bowed at the feet of the monks, and said: "I, Fayu, wish to offer needle-cases to the monks."
+
+諸比丘聞已，各各往取、或取一去、或取二三，乃至取十，象牙遂盡。
+The monks, upon hearing this, each went to take one, some took one, some two or three, up to ten, until the ivory was exhausted.
+
+檀越言：「牙已盡，今唯有骨，須者當作。」
+The lay supporter said: "The ivory is used up, now there is only bone, if you need it, I can make it."
+
+答言：「皆須。」
+They replied: "We all need it."
+
+骨盡復白：「骨亦盡，今唯有角，須者當作。」
+When the bone was exhausted, he reported: "The bone is also used up, now there is only horn, if you need it, I can make it."
+
+答言：「皆須。」
+They replied: "We all need it."
+
+索者眾多無以供命。
+With so many people requesting, he was unable to supply them.
+
+爾時尊者舍利弗，時至著入聚落衣持鉢，入舍衛城乞食，次至其家。
+At that time, the Venerable Śāriputra, wearing his robes and carrying his alms bowl, entered the city of Śrāvastī for alms, and next came to his house.
+
+時法與婦信心歡喜，持食出施，先識舍利弗，即頭面禮足在前而立。
+At that time, Fayu's wife, in faith and joy, offered food, recognizing Śāriputra, then bowed her head at his feet and stood before him.
+
+舍利弗問言：「姊妹！家內何似，事業增不？」
+Śāriputra asked: "Sister! How is it in your household, has your work increased?"
+
+答言：「家內粗可，但事業不增。」
+She replied: "The household is okay, but business has not increased."
+
+問言：「何故？」
+He asked: "Why?"
+
+答言：「尊者！我家夫主請諸比丘施與針筒。諸比丘或取一去、或取二三，乃至取十。牙盡取骨，骨盡取角，索者眾多無以供命。」
+She replied: "Venerable sir! My husband offered needle-cases to the monks. The monks took one, or two or three, up to ten. Once the ivory ran out, they took bone, once the bone ran out, they took horn, and there were so many asking that we cannot supply them."
+
+尊者！我家仰是生活、衣食兒子、供官賦調。
+"Venerable sir! Our household relies on this for livelihood, clothing, food for children, paying taxes and other duties."
+
+尊者是我敬重，作是言耳！以是故夫主在言不在、覺而言眠。
+"Venerable Sir, you are respected by me, I speak these words only! Therefore, my husband is anxious, worried in day and night."
+
+爾時尊者舍利弗為是女人隨順說法發歡喜已，來還精舍。
+At that time, the Venerable Śāriputra preached to the woman in a suitable way to bring her joy and then returned to the monastery.
+
+以是因緣具白世尊，佛言：「呼諸比丘來。」
+With this cause, he informed the Blessed One, who said: "Call the monks to come."
+
+來已，佛具問上事：「汝實爾不？」
+After they arrived, the Buddha fully questioned the matter: "Is it true?"
+
+答言：「實爾。」
+They replied: "It is true."
+
+佛言：「從今日後不聽象牙、骨、角作針筒。」
+The Buddha said: "From today onwards, making needle-cases from ivory, bone, or horn is not allowed."
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，以十利故為諸比丘制戒，乃至已聞者當重聞。」
+The Buddha told the monks: "All residing followers in the city of Śrāvastī must gather, for the sake of the ten benefits, and for the monks to keep precepts, even those who have heard must hear again."
+
+若比丘牙、骨、角作針筒，破已，波夜提。
+If a monk makes a needle-case from ivory, bone, or horn, it will be a pācittiya offense.
+
+
+
+比丘者，如上說。  
+Bhikkhus, as mentioned above.
+
+
+
+
+牙者，象牙、魚牙、摩伽羅牙、猪牙，如是諸餘牙等。
+Teeth include items like elephant tusks, fish teeth, makara teeth, and boar tusks, as well as other types of teeth.
+
+
+
+
+骨者，象骨、馬骨、牛骨、駝骨、龍骨，如是諸餘骨等。
+Bones refer to elephant bones, horse bones, ox bones, camel bones, dragon bones, and other such bones.
+
+
+
+
+角者，牛角、水牛角、犀角、鹿角、羊角，如是諸角等。
+The antlers refer to ox horns, buffalo horns, rhinoceros horns, deer antlers, and goat horns, among others.
+
+
+
+
+作者，若自作、若使人作，破已，波夜提悔過；不破悔過者，越毘尼罪。
+If an author, whether creating the act themselves or causing others to do so, commits a violation and repents, it is a minor transgression to be confessed; without confession, it becomes a breach of the Vinaya.
+
+
+
+
+波夜提者，如上說。  
+Poyathera, as mentioned above.
+
+
+
+
+爾時世尊制戒不聽牙、骨、角作針筒。  
+At that time, the World-Honored One set a rule prohibiting the use of teeth, bones, or horns to make needle cases.
+
+時諸比丘便持金銀、瑠璃、頗梨、玉寶作之，  
+Then the monks began making them from gold, silver, lapis lazuli, crystal, or jade.
+
+佛言：「不聽金銀寶等作針筒，  
+The Buddha said, "You are not allowed to use gold, silver, jewels, etc., to make needle cases.
+
+應用銅鐵、白鑞、鉛錫、鍮石，  
+You should use copper, iron, white tin, lead, pewter,
+
+白銅、竹木、欽婆羅㲲、旃鳥翮，  
+white brass, bamboo, wood, wool, or feathers of the Dhyana bird,
+
+乃至鉢囊帶。」  
+or even cloth or straps from your alms bowls."
+
+是故說。  
+Thus it was said.
+
+
+
+
+佛住舍衛城，廣說如上。
+The Buddha resided in Śrāvastī and expounded extensively as above.
+
+爾時齋日、月八日、十四日、十五日，城內人民出城禮拜世尊。
+On the fasting days, the 8th, 14th, and 15th of the month, the people of the city came out to worship the Bhagavān.
+
+時波斯匿王子亦來禮拜，次第至難陀、優波難陀所，頭面禮足已白言：「我欲觀看，願示我處。」
+At that time, Prince Pāsenadi also came to pay respects, and proceeding in order to Nanda and Upananda, he prostrated himself and said, "I wish to look around; please show me the place."
+
+答言：「甚善。」即將至閣上，語言：「童子！看是柱梁榱棟、櫨枓枅衡、彫文刻鏤、種種彩畫。」
+They replied, "Very well," and led him to the pavilion, saying, "Young man! Look at these pillars, beams, roof rafters, rafters, pendants, carvings, and various colored paintings."
+
+次至難陀住處，見青色地敷高大床，施置重蹬敷拘執褥，兩頭施枕，見已，即問尊者：「是誰床褥？」
+Next, they arrived at Nanda's dwelling, where they saw a large, high bed with blue spreads, double cushions, and two pillows. He then asked the venerable one, "Whose bed is this?"
+
+答言：「我許。」王子言：「此大嚴麗，非比丘所宜。」
+The answer was, "It's mine." The prince said, "This is very ornate and not fitting for a monk."
+
+即復問言：「若非我所宜，誰應畜者？」
+Then he further asked, "If it is not fitting for me, who should it belong to?"
+
+答言：「若王、王子所應服飾。」
+The reply was, "For a king or a prince to possess."
+
+比丘言：「我非王子耶？若世尊不出家者，應作轉輪聖王，君四天下，汝等一切是我人民。」
+The monk said, "Am I not a prince? If the Bhagavān had not renounced the world, he would be a universal monarch, ruling over the four continents, and you all would be my subjects."
+
+然世尊不樂是處，出家成佛作法輪王，我是法輪王子。
+Yet the Bhagavān was not pleased with such a state and renounced the world to become a Buddha, a Dharma King; I am the Dharma King's son.
+
+設復服飾，過此猶尚是宜，況此麁物！
+Even if adorned further, it would still be fitting, let alone this simple item!
+
+王子聞已，慚愧無言。
+Hearing this, the prince was ashamed and speechless.
+
+諸比丘以是因緣，往白世尊，佛言：「呼難陀、優波難陀來。」
+Due to this incident, the monks went to report to the Bhagavān, and the Buddha said, "Call Nanda and Upananda here."
+
+來已，佛具問上事：「汝實爾不？」
+When they arrived, the Buddha fully inquired about the matter, "Is this true?"
+
+答言：「實爾。」
+They replied, "It is true."
+
+佛言：「汝等云何嚴飾床褥，為世人所譏？從今日後不聽過量作床。」
+The Buddha said, "How can you decorate your bed and bedding to be the object of people's ridicule? From today, it will not be permitted to make beds beyond measure."
+
+
+
+衛城，廣說如上。
+
+Additionally, the Buddha was residing in the city of Śrāvastī, elaborating as above.
+
+世尊制戒不聽過量作床，諸比丘如量截已，即以斷頭還榰床脚。
+
+The Blessed One established a rule prohibiting the making of oversized beds; monks who had previously cut the bed legs to size, would then use the pieces as supports.
+
+爾時齋日、月八日、十四日、十五日，城內人民出禮拜世尊。
+
+At that time, on the fasting days of the 8th, 14th, and 15th of the month, the townspeople would come out to pay respects to the Blessed One.
+
+波斯匿王子亦來禮拜，次至難陀、優波難陀所，語曰：「尊者！示我觀看處。」
+
+Prince Pasenadi also came to pay respects, proceeding to the places of Nanda and Upananda, saying, "Venerable, show me around."
+
+乃至到難陀房中，見已即問：「何故截此床脚？」
+
+Until he arrived at Nanda's room, upon seeing it, he asked, "Why are the bed legs cut?"
+
+答言：「齊截已上，世尊所聽。」
+
+He replied, "The Blessed One allows them to be cut to this level."
+
+王子言：「若世尊聽齊截已上，而今還以榰床，與本何異？」
+
+The prince said, "If the Blessed One allows cutting to this level, what difference does it make when you use them as bed supports again?"
+
+諸比丘以是因緣往白世尊，佛言：「從今日後床脚應量，不聽復榰。」
+
+The monks brought this matter to the Blessed One, who said, "From now on, the bed legs shall be measured, and the use of supports is not permitted."
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，以十利故為諸比丘制戒，乃至已聞者當重聞。」
+
+The Buddha told the monks, "All those residing in Śrāvastī should be gathered, for the sake of ten benefits, I establish a rule for the monks, so that those who have heard should hear again."
+
+若比丘作床脚，應量作，高修伽陀八指，除入梐。
+
+If a monk makes bed legs, they should be made to measure, eight fingers high according to the Sugata's rule, excluding the fitting.
+
+若過量作截已，波夜提。
+
+If they are made oversized and then cut, it is an offense.
+
+
+
+比丘者，如上說。
+Bhikkhu, as mentioned above.
+
+
+
+
+臥床、坐床各十四種，如上說，是中過量者犯。
+There are fourteen types of lying in bed and sitting in bed, as mentioned above, committed by those who exceed the limits.
+
+
+
+
+作者，若自作、若使人作。
+
+The author, whether self-composed or employing others to write.
+
+
+
+
+修伽陀者，如來、應供、正遍知。
+The cultivators of verses are Tathagatas, worthy of offerings, and perfect in true knowledge.
+
+
+
+
+八指者，佛八指。  
+The eight-fingered one, Buddha has eight fingers.  
+
+
+
+
+過者，過量。
+Overdone is surplus.
+
+
+
+
+入梐者，齊孔已下。
+Those who enter the barrier are below the level of Qi Kong.
+
+截已，波夜提悔過；不截悔者，越毘尼罪。
+The border has been cut, and Po Ye repents his mistakes; those who do not cut and repent will violate the Vinaya precepts.
+
+
+
+
+波夜提者，如上說。
+Prajñapāramitā: as previously mentioned.
+
+
+
+
+若自作，終日坐上，一波夜提。
+If one makes it oneself, sitting on it all day results in a breach.
+
+若起已還坐，隨坐，一一波夜提。
+If one stands up and then sits again, for each sitting, there's a breach.
+
+他床而坐上者，越毘尼罪。
+Sitting on another's bed results in a Vinaya offense.
+
+榰脚床亦應量，當使堅牢，若客比丘來，次第付床褥，
+The support for the bed should be measured and made firm, and when a guest monk arrives, the bedding should be arranged accordingly.
+
+得過量床，應語知事者言：「借我鋸來！」
+If the bed exceeds the appropriate size, one should say to the caretaker, "Lend me a saw!"
+
+問：「作何等？」
+Asked, "What are you doing?"
+
+答言：「此床過量，欲截令如法。」
+Reply: "This bed exceeds the limits; I wish to cut it to make it compliant."
+
+若知事者言：「莫截！檀越見者或能不喜。」
+If the caretaker says, "Do not cut it; the donor might not be pleased seeing it."
+
+若不久住者，鑿地埋脚齊量止。
+If not staying long, level the ground and bury the legs to the correct height.
+
+若久住者，應齊埋處木筒盛脚，勿使爛壞。
+If staying long, bury a wooden tube where it is even so the legs do not rot.
+
+若比丘入聚落，至檀越家坐，若床脚高者不得懸脚坐。
+If a monk enters a settlement and sits at a donor's house, they shouldn't sit with feet dangling if the bed is high.
+
+若是知舊，應索承足机；若非知舊，應索塼木承足而坐，
+If it's with acquaintances, one should ask for a footrest; if not acquainted, request bricks or wood to support the feet while sitting.
+
+若福德舍中床高坐者無罪。
+There is no offense for sitting high in a virtuous dwelling.
+
+是故說。
+Thus it is said.
+
+
+
+
+，廣說如上。
+The Buddha stayed in the city of Śrāvastī and spoke extensively as above.
+
+爾時齋日、月八日、十四日、十五日，城內人民出禮覲世尊。
+At that time, on the fasting days of the eighth, fourteenth, and fifteenth days of the month, the people of the city came out to pay their respects to the World-Honored One.
+
+波斯匿王子亦出禮拜，次至難陀、優波難陀所，語言：「比丘！示我觀看處。」
+Prince Prasenajit also came out to pay respects, and then went to see Nanda and Ananda, saying, "Bhikkhus! Show me a place to view."
+
+答言：「甚善！」即將至閣上，示言：「王子！看是柱梁榱棟、櫨欂枅衡、彫文刻鏤、種種彩畫。」
+They replied, "Very well!" and immediately took him to the pavilion, saying, "Prince! Look at these pillars, beams, rafters, projecting beams, carvings, engravings, and various paintings."
+
+次至己房，見青色地敷好坐床，敷兜羅紵褥，兩頭安枕，以白㲲覆上。
+Next, he went to his room, saw a neatly spread blue mat, a well-made bed, covered with fine cotton padding, pillows at both ends, and white silk draped over it.
+
+見已即問：「是誰所有？」答言：「我許。」
+Upon seeing it, he asked, "Whose is this?" The reply was, "I permit it."
+
+王子言：「此大嚴麗，非尊者所宜。」
+The prince said, "This is very grand and not appropriate for a venerable one."
+
+答言：「若非我所宜，誰復應畜？」
+The reply was, "If it is not suitable for me, then who should keep it?"
+
+王子答言：「王、王子、大臣所應服飾。」
+The prince answered, "For kings, princes, and ministers, such furnishings are suitable."
+
+復言：「我非王子耶？世尊若不出家，應作轉輪聖王，王四天下，汝等一切是我人民。」
+Further, he said, "Am I not a prince? If the World-Honored One had not renounced, he should have become a universal monarch, ruling over the four parts of the world, and you all would have been my people."
+
+然世尊不樂是處，出家成佛作法輪王，我是法輪王子，服飾設復過此，猶尚是宜，況此麁物。
+However, the World-Honored One was not pleased with this, renounced and became a Buddha, a Wheel-Turning King. I am a prince of this Wheel-Turning Dharma King. Even if my furnishings exceeded this, it would still be appropriate, let alone these crude items.
+
+王子聞已，慚愧無言。
+The prince, upon hearing this, felt ashamed and said nothing.
+
+諸比丘以是因緣往白世尊，佛言：「呼難陀、優波難陀來。」
+The bhikkhus, due to this matter, went to report to the World-Honored One, who said, "Call Nanda and Ananda here."
+
+來已佛具問上事：「汝實爾不？」答言：「實爾。」
+When they came, the Buddha asked them about the matter, "Is it true?" They replied, "It is true."
+
+佛言：「汝云何以兜羅綿紵褥，為世人所譏？」
+The Buddha said, "How could you use fine cotton padding, which is criticized by worldly people?"
+
+從今日後不聽兜羅綿紵褥。
+From today onward, fine cotton padding is not allowed.
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，以十利故為諸比丘制戒，乃至已聞者當重聞。」
+The Buddha told the bhikkhus, "All who reside depending on the city of Śrāvastī should be assembled. For ten benefits, I establish this precept for the bhikkhus. Even those who have heard it before should hear it again."
+
+若比丘，兜羅綿紵褥，若坐、若臥，挽出已，波夜提。
+If a bhikkhu uses fine cotton padding, whether sitting or lying down, he should remove it, and it will be a pācittiya offense.
+
+
+比丘者，如上說。
+Bhikkhu: as stated above.
+
+
+
+
+兜羅者，阿伽兜羅、婆迦兜羅、鳩吒闍兜羅、角兜羅、草兜羅、迦尸兜羅、華兜羅，諸餘兜羅等，是名兜羅。
+Dura refers to materials such as Agadura, Bhagadura, Kutajadura, Kakadura, Castra, Kashi cloth, and flower cloth, among others.
+
+是中兜羅紵褥挽出已，波夜提悔過。
+Among these, when pulling out a Dura mat, there should be an acknowledgment of the lapse.
+
+挽出時抖擻令盡，若不盡者，以水沾手摩治令淨，然後，波夜提。
+When pulling it out, it should be thoroughly shaken. If not completely clean, wet the hand with water and rub it until clean; then, acknowledge the lapse.
+
+
+
+波夜提者，如上說。
+
+Boya Tia refers to what has been mentioned above.
+
+
+
+
+若自作終日坐，一波夜提。
+
+If one sits for a whole day by oneself, there is a minor infraction.
+
+起已還坐，隨坐，一一波夜提。
+
+Standing up and sitting down again repeatedly, each time is a minor infraction.
+
+他許坐者，越毘尼罪。
+
+If another permits sitting, it violates monastic rules.
+
+若紵枕枕頭榰足，越毘尼罪。
+
+If using a pillow to rest the head or feet, it violates monastic rules.
+
+若病枕頭榰足，無罪。
+
+If sick, resting the head or feet is not an offense.
+
+若以兜羅紵皮枕，得二越毘尼罪，皮及兜羅。
+
+Using a silk pillow or leather covers results in two counts of infraction, for leather and silk.
+
+若比丘入聚落，兜羅風吹著比丘衣，合衣坐者，越毘尼罪。
+
+If a monk enters a village and the silk is blown onto the monk's robe, sitting with it on results in an infraction.
+
+應拂去而坐。
+
+It should be brushed off before sitting.
+
+若車載兜羅、若擔若負，風吹著比丘衣，合衣坐者，越毘尼罪，應拂去而坐。
+
+If silk is carried on a cart, or carried, blown onto the monk's robe and one sits with it, it is an infraction and should be brushed off before sitting.
+
+若敷草兜羅，比丘不得坐；
+
+If grass or silk is spread, a monk should not sit;
+
+若比丘角兜羅田中行，著衣不得坐，應拂去；
+
+If a monk walks through a silk field, he should not sit without brushing it off;
+
+若草兜羅、華兜羅田中行，著衣不得坐，應拂去。
+
+Walking through a grass or flower silk field, should not sit without brushing off.
+
+若敷草華兜羅坐上，越毘尼罪。
+
+If grass or flower silk is spread on a seat, sitting is an infraction.
+
+歛草華兜羅坐，越毘尼罪。
+
+Gathering grass or flower silk to sit on is an infraction.
+
+作田中，亦越毘尼罪。
+
+Doing so in a field also constitutes an infraction.
+
+若為律師法師敷師子座，散華著上，不得坐，拂去而坐無罪。
+
+If arranging a seat for a preceptor with flowers spread on it, one should not sit; brushing off and sitting incurs no offense.
+
+是故說。
+
+Therefore, it is said.
+
+
+
+
+，廣說如上。
+
+The Buddha resided in the city of Shravasti and elaborated as above.
+
+有五事饒益故，如來、應供、正遍知五日一行諸比丘房，見諸比丘床褥臥具，垢膩不淨處處沾污，如曼陀羅著日中曝曬。
+
+For the benefit of five things, the Tathagata, worthy of offerings, fully enlightened, every five days visited the monks' quarters and saw that their bedding and sleeping gear were soiled and unclean everywhere, like a mandala left in the sun to dry.
+
+佛問諸比丘：「是誰床褥臥具垢穢不淨？」
+
+The Buddha asked the monks, "Whose bedding and sleeping gear are dirty and unclean?"
+
+答言：「是諸比丘臥具不以物覆，是故污耳。」
+
+They answered, "It is because the monks do not cover their sleeping gear with anything, and that is why it is dirty."
+
+佛言：「從今日後聽作尼師壇。」
+
+The Buddha said, "From today onwards, you are permitted to make covers.
+
+
+復次佛聽作尼師壇已，諸比丘合縷作。
+Furthermore, the Buddha instructed to make a meditation mat, and the monks wove the thread.
+
+五事饒益故，如來、應供、正遍知五日一行諸房舍，見合縷㲲垢膩不淨處處沾污，如曼陀羅著日中曝曬。
+For five significant benefits, the Tathāgata, worthy of offerings, the fully enlightened one, would pass through dwelling places every five days and see the dirty and impure woven mats stained everywhere, like mandalas drying in the sun.
+
+佛知而故問：「是誰合縷作尼師壇垢膩不淨？」
+The Buddha, knowing this, asked, "Who wove these meditation mats that are dirty and impure?"
+
+答言：「世尊聽作尼師壇，諸比丘合縷作。」
+They answered, "The World-Honored One allowed the making of meditation mats, and the monks wove them."
+
+佛告諸比丘：「汝等云何合縷作尼師壇？從今日後當應量作，長二修伽陀搩手、廣一搩手半。」
+The Buddha said to the monks, "How did you weave the meditation mats? From today onwards, you should measure them properly, making them two arm lengths long and one and a half arm lengths wide."
+
+
+
+
+衛城，廣說如上。
+Furthermore, the Buddha stayed in the city of Shravasti, elaborating as above.
+
+爾時眾多比丘在講堂上論議，作是言：「長老！世尊制尼師壇大小，若敷坐處，兩膝則無。若敷兩膝，坐處復無。」
+At that time, many monks were discussing in the hall, saying: "Elder! The World-Honored One prescribed the size of the monk's mat; if it is laid out for sitting, there is no space for the knees. If it is laid out for the knees, there is no sitting space."
+
+諸比丘以是因緣往白世尊，佛問比丘：「僧中上座是誰？」
+The monks reported this matter to the World-Honored One, and the Buddha asked the monks, "Who is the senior in the assembly?"
+
+答言：「舍利弗。」
+They replied, "Shariputra."
+
+佛語舍利弗：「眾多梵行人作是論，汝云何默然而聽？今當罰汝在日中立。」
+The Buddha said to Shariputra, "The many practitioners are discussing thus, how can you listen silently? You shall be punished by standing in the midday sun."
+
+舍利弗受罰，即立日中。
+Shariputra accepted the punishment and stood in the midday sun.
+
+時諸比丘各前悔過，白言：「世尊！尊者舍利弗身體軟弱，願恕其愆，勿令不樂。」
+Then the monks each came forward to repent, saying, "World-Honored One! The venerable Shariputra's body is frail, please forgive his fault and do not let him be unwell."
+
+佛語諸比丘：「非為不樂，彼身風冷病，得日乃適然。」
+The Buddha said to the monks, "He is not unwell. His body has a cold ailment, and standing in the sun is suitable."
+
+日月星宿在虛空中尚可迴轉，舍利弗以受如來罰心不可迴轉。
+The sun, moon, and stars can still rotate in space, but Shariputra's mind, upon receiving the Tathagata's punishment, cannot be turned.
+
+諸比丘白佛言：「世尊！云何尊者舍利弗心不可迴轉？」
+The monks asked the Buddha, "World-Honored One! Why is the venerable Shariputra's mind unchangeable?"
+
+佛言：「不但今日心不可迴轉，過去世時以曾如是，如《蛇本生經》中廣說。」
+The Buddha replied, "It is not just today that his mind is unchangeable; it was also so in past lives, as elaborated in the 'Jataka of the Snake.'"
+
+爾時蛇者即舍利弗是，彼時心堅不可迴轉。
+At that time, the snake was Shariputra, whose mind was then firm and unchangeable
+
+
+衛城，廣說如上。
+Furthermore, Buddha stayed in the city of Shravasti and spoke extensively as above.
+
+五事饒益故，如來、應供、正遍知五日一行諸比丘房，見僧褥臥具中央鮮好，兩邊垢污。
+For the benefit of five things, the Tathagata, the Worthy of Offerings, the Fully Enlightened One, visited the monks' quarters every five days and saw that the central part of the bedding was clean while the edges were dirty.
+
+佛知而故問：「比丘是何等臥具？中央鮮好兩邊垢污。」
+Knowing, Buddha asked, "What kind of bedding is this, monks? The center is clean and the edges are dirty."
+
+答言：「世尊制尼師壇小，不得盡覆故，齊覆處淨、不覆處污。」
+They answered, "Because the World-Honored One made the mat small, it cannot fully cover; hence, the covered part is clean, and the uncovered part is dirty."
+
+佛言：「從今日後聽兩重作，不得輒爾厭課，持小故㲲覆，當兩重作。」
+Buddha said, "From today onwards, you are allowed to make them double-layered, do not be lazy with teachings, and use the small mat to cover; you should make them double-layered."
+
+若用欽婆羅一重作，劫具二重作。
+If you use a single layer of Kimbala, it can be made double-layered with a set of implements.
+
+
+
+衛城，廣說如上。
+Again the Buddha stayed in the city of Śrāvastī, extensively explaining as before.
+
+爾時尊者阿那律持尼師壇著肩上，禮世尊足，佛知而故問：「汝肩上是何等？」
+At that time, the venerable Aniruddha carried a small mat on his shoulder, bowed at the feet of the World-Honored One, and the Buddha knowingly asked, "What is that on your shoulder?"
+
+答言：「小尼師壇。世尊！是尼師壇太小，唯願更益。」
+He replied, "A small mat. World-Honored One! This mat is too small, I only wish for it to be enlarged."
+
+佛言：「更益幾許乃足？」 
+The Buddha said, "How much more do you want to add?"
+
+答言：「一搩手。」 
+He replied, "One handspan."
+
+佛言：「聽益一搩手。」
+The Buddha said, "You are permitted to add one handspan."
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，以十利故與諸比丘制戒，乃至已聞者當重聞。」
+The Buddha told the monks, "Gather all who reside in Śrāvastī, for the sake of ten benefits I establish a rule for the monks, and even those who have heard it should hear it again."
+
+若比丘作尼師壇，應量作，長二修伽陀搩手、廣一搩手半，更益一搩手。
+If a monk makes a mat, it should be measured accordingly: two full arm spans in length, one and a half in width, with an additional handspan.
+
+若過作，截已，波夜提。
+If made larger than this, it should be cut down, resulting in a minor offense
+
+
+比丘者，如上說。
+A bhikkhu is as described above.
+
+
+
+
+作者，若自作、若使人作。  
+An author, whether they create by themselves or have others create on their behalf.  
+
+
+
+
+尼師壇者，世尊所聽。
+The nishidana is allowed by the Blessed One.
+
+
+
+
+應量者，長二修伽陀搩手、廣一搩手半。
+According to the measurement, the length is two shukatu hand spans and the width is one and a half hand spans.
+
+長者，縱。
+Length refers to the vertical measurement.
+
+廣者，橫。
+Width refers to the horizontal measurement.
+
+
+
+
+修伽陀者，如來、應供、正遍知。  
+The one who practices the teachings is the Tathagata, worthy of offerings, the perfectly enlightened one.
+
+
+
+
+搩手者，如來搩手長二尺四寸。
+The person holding hands has a hand length of two feet four inches.
+
+
+
+
+益一搩手者，二重、三重，對頭却刺。
+An additional grappler is met with a double or triple counter, striking the opponent back.
+
+若過量者，截已，波夜提悔過；
+If one exceeds the measure, end it, and confess penitence in the evening.
+
+不截而悔，越毘尼罪。
+Failing to end and confess bears a transgression against the Vinaya.
+
+
+
+波夜提者，如上說。
+Bōyètí zhě, rú shàng shuō.
+
+
+
+
+長應量、廣過量，若自作、若使人作，作成，波夜提。
+Made excessively long or wide, whether made by oneself or by someone else, constituted an offense.
+
+受用，越毘尼罪。
+Using it violates the Vinaya rules.
+
+廣應量、長過量；中央應量、邊過量；邊應量、中央過量，若自作、若使人作，作成，波夜提。
+Where width exceeds length, or center exceeds the edge, whether made by oneself or by someone else, constituted an offense.
+
+受用，越毘尼罪。
+Using it violates the Vinaya rules.
+
+㲲量、縮量、水灑量，欲令乾已長大，若作成，波夜提。
+If shrinking or sprinkling with water to extend, once completed, constitutes an offense.
+
+受用，越毘尼罪。
+Using it violates the Vinaya rules.
+
+作時當應量作，不得過量。
+When making, it must be of the appropriate measure, not exceeding.
+
+尼師壇是隨坐衣，不得作三衣、不得淨施，及取薪草盛巨磨，唯得敷坐。
+The Nisidana is a sitting robe, not to be made into the three robes, not for pure offerings, nor for carrying large amounts of firewood or grass, only for sitting.
+
+若道路行，得長㲲著衣囊上、肩上擔。
+When traveling, one may drape long lengths over the shoulder or bag.
+
+是故說。
+Thus it was said.
+
+
+
+
+佛住舍衛城，廣說如上。
+The Buddha stayed in Shravasti City, and extensively explained as above.
+
+世尊五事饒益故，五日一行諸比丘房，見膿血瘡痂著衣在日中曬。
+For the benefit of five things, the World-Honored One every five days would visit the monks' rooms and see clothes with pus and blood scabs drying in the sun.
+
+佛知而故問：「是何等衣不淨若此？」
+The Buddha, knowing this, deliberately asked, "What kind of clothes are so unclean?"
+
+答言：「世尊！諸比丘病疥瘡是故污衣。」
+They replied, "World-Honored One! The monks have scabies sores, hence the clothes are dirty."
+
+佛言：「從今日後聽作覆瘡衣。」
+The Buddha said, "From today onwards, it is permitted to make clothes to cover sores."
+
+
+
+
+衛城，廣說如上。  
+Again, the Buddha stayed in Śrāvastī and spoke extensively as above.
+
+爾時世尊聽作覆瘡衣已，諸比丘不截縷合縷作，  
+At that time, the World-Honored One allowed the making of patched clothes, and the monks did not cut the threads but combined them to make.
+
+世尊以五事饒益故，五日一行諸比丘房，見合縷作覆瘡衣膿血垢污日中曬。  
+The World-Honored One, benefiting from five things, would visit the monks' rooms every five days and saw the patched clothes made with combined threads, stained with pus and blood, being dried in the sun.
+
+佛知而故問：「是何等衣合縷作不淨若此？」  
+The Buddha, knowing, deliberately asked: "What kind of clothes are these, made with combined threads and so impure?"
+
+答言：「世尊聽作覆瘡衣，諸比丘合縷作膿血垢污。」  
+They replied: "The World-Honored One allowed the making of patched clothes, and the monks made them with combined threads, stained with pus and blood."
+
+佛語諸比丘：「汝云何合縷作覆瘡衣？從今日後應量作覆瘡衣。」  
+The Buddha said to the monks: "How do you make patched clothes with combined threads? From today onwards, you should measure to make patched clothes."
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，以十利故與諸比丘制戒，乃至已聞者當重聞。  
+The Buddha told the monks: "All who reside in Śrāvastī should gather, and for ten benefits, a rule is established for the monks, and those who have heard it should hear it again.
+
+若比丘作覆瘡衣，應量作，長四修伽陀搩手、廣兩搩手半。  
+If a monk makes patched clothes, they should measure them, four arm lengths long and two and a half arm lengths wide.
+
+若過作，截已，波夜提。」  
+If they make them exceeding those measurements, they must cut them, or else it is an offense."
+
+
+
+比丘者，如上說。
+Bhikkhu, as mentioned above.
+
+
+
+
+覆瘡衣者，世尊所聽。
+For those who wear patched robes, the World Honored One permits it.
+
+應量、長廣、修伽陀、搩手者，如上說。
+As for those who are suitable in measure, long and wide, mended by hand, it is as mentioned above.
+
+若過量者，截已，波夜提悔過；
+If it exceeds the measure, cut it, confess and express regret.
+
+不截而悔，越毘尼罪。
+If you do not cut it but express regret, it violates the Vinaya.
+
+
+
+波夜提者，如上說。
+
+Prajnapti is as stated above.
+
+
+
+
+過量，廣應量、長過量，中央應量、邊過量，邊應量、中央過量，若自作、若使人作，作成，波夜提。
+
+Long enough, too wide, wide enough, too long, center enough, edge too much, edge enough, center too much, do it yourself, or make someone else do it, complete, offenses against the rules.
+
+受用者，越毘尼罪。屈量、縮量、水灑量，欲令乾已長大，作成，波夜提。
+
+Those who use it commit a Vinaya offense. Bending, shrinking, sprinkling water to make it dry and larger, is complete, offenses against the rules.
+
+受用，越毘尼罪。當作應量是覆瘡衣，隨身衣，不得作三衣、不得淨施、不得取薪草盛巨磨。
+
+Using it breaks the Vinaya rules. The appropriate size is the wound-covering robe or personal robe, and it should not be made into a triple robe, offered for merit, or used to hold firewood, straw, or large stone grinders.
+
+欲入聚落時，當先著，然後著僧伽梨施紐，出聚落已脫僧伽梨，抖擻襞㲲舉著常處。
+
+Before entering a village, it should be worn first, then followed by putting on the Sanghati robe fastened with a pin, and after leaving the village, remove the Sanghati robe, shake and fold it neatly, and place it in its usual spot.
+
+覆瘡衣，勿令燥脫剝瘡血出，當合著入水。
+
+The wound-covering robe should not cause the wound to dry and bleed; it should be worn while soaking in water.
+
+不得入僧常所浴處，當在屏處，浸漬令液，然後脫之浣濯令淨。
+
+One should not enter the monks' usual bathing area. Instead, soak in a secluded place, then remove it to wash and clean it thoroughly.
+
+浴已得持拭身，後日用時亦復如是，乃至瘡差。
+
+After bathing, use it to wipe the body, and in future use, do the same until the wound heals.
+
+差已，得作三衣及淨施餘用。是故說。
+
+Once healed, it can be made into a triple robe and used for pure offerings. Therefore it is said.
+
+
+
+，廣說如上。
+
+The Buddha resided in the city of Shravasti, expounding as above.
+
+如三十事中《毘舍佉鹿母》廣說。
+
+As in the detailed explanation in the thirty matters of "Visakha, the Deer Mother".
+
+乃至十二由延內，布施比丘雨浴衣。
+
+Up to within twelve yojanas, monks were given rain robes.
+
+復次佛住舍衛城，廣說如上。
+
+Furthermore, the Buddha resided in the city of Shravasti, expounding as above.
+
+爾時世尊聽比丘作雨浴衣，時諸比丘不截縷合縷作。
+
+At that time, the World-Honored One permitted monks to make rain robes, and the monks neither cut nor rolled up the threads when making them.
+
+世尊以五事利故，五日一行諸比丘房，見合縷㲲垢污不淨日中曬。
+
+For the benefit of five things, the World-Honored One went to the monks' chambers once every five days and saw the unclean, impure cloths dried in the sun.
+
+佛知而故問：「是何等衣合縷作不淨如此？」
+
+The Buddha, knowing it, asked, "What kind of robe is made by rolling threads, becoming so unclean?"
+
+答言：「世尊！如來聽作雨浴衣，諸比丘合縷作垢污不淨。」
+
+They replied, "World-Honored One! The Tathagata allowed rain robes to be made, and the monks rolled up threads, making them dirty and impure."
+
+佛語諸比丘：「汝等云何合縷作雨浴衣？從今日後應量作，長六修伽陀搩手、廣二搩手半。」
+
+The Buddha said to the monks, "Why do you roll threads to make rain robes? From today onwards, measure the length to be six spans, the width two and a half spans."
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，以十利故為諸比丘制戒，乃至已聞者當重聞。」
+
+The Buddha told the monks, "Gather all those residing in Shravasti; for the benefit of ten reasons, I shall establish a rule for the monks, even those who have heard must hear again."
+
+若比丘作雨浴衣，應量作，長六修伽陀搩手、廣二搩手半。
+
+If a monk makes a rain robe, it should be measured: six spans long, two and a half spans wide.
+
+若過量，截已，波夜提。
+
+If it exceeds the measure, cut off the excess, this is a pācittiya offense.
+
+
+
+比丘者，如上說。
+Bhikkhus, as stated above.
+
+
+
+
+雨浴衣者，世尊所聽。
+Rain-soaked robes are listened to by the World-Honored One.
+
+
+
+
+應量者，長六修伽陀搩手、廣二搩手半。
+For someone who is measuring, the length should be six fists of a kosakara and the width two and a half fists.
+
+長廣、修伽陀、搩手者，如上說。
+The length, width, kosakara, and fist are as mentioned above.
+
+若過量者，截已，波夜提悔過；不截悔者，越毘尼罪。
+If it exceeds the measurement, after cutting it, one must confess and atone with the offense of pārājika; if not cut, there is a vinaya violation.
+
+
+
+波夜提者，如上說。
+
+Poya refers to what is mentioned above.
+
+
+
+
+長應量、廣過量，廣應量、長過量
+
+Longer than the appropriate length, wider than the limit, wider than the appropriate width, longer than the limit
+
+中應量、邊過量，邊應量、中過量
+
+Middle portion at appropriate size, edges exceed the limit, edges at appropriate size, middle portion exceeds the limit
+
+若自作、若使人作，作成，波夜提
+
+Whether made by oneself or having others make it, upon completion, there is a fault leading to confession
+
+受用，越毘尼罪
+
+Using it results in a transgression of the Vinaya
+
+屈量、縮量、水灑量，欲令乾已長大
+
+Bent measure, shrunk measure, water-sprinkled measure, wishing to allow it to dry and enlarge
+
+若自作、若使人作，作成，波夜提
+
+Whether made by oneself or having others make it, upon completion, there is a fault leading to confession
+
+受用，越毘尼罪
+
+Using it results in a transgression of the Vinaya
+
+
+
+
+就，僧應拜作分雨浴衣。
+
+When a monk achieves the five qualities, the assembly should honor him with a shared rain robe.
+
+何等五？
+
+What are these five?
+
+不隨愛、不隨瞋、不隨怖、不隨癡、知得不得。
+
+Not following desire, not following anger, not following fear, not following ignorance, knowing what is obtained or not.
+
+羯磨者應作是說：「大德僧聽！
+
+The official should say: "Venerable Sangha, please listen!
+
+某甲比丘五法成就，若僧時到僧拜某甲比丘分雨浴衣，白如是。」
+
+A certain monk has achieved the five qualities, and when the time comes, the assembly should honor this monk with a shared rain robe, as announced."
+
+「大德僧聽！某甲比丘五法成就，僧今拜某甲比丘分雨浴衣。
+
+"Venerable Sangha, a certain monk has achieved the five qualities, the assembly now honors this monk with a shared rain robe.
+
+諸大德忍某甲比丘分雨浴衣，忍者僧默然，若不忍者便說。」
+
+Venerable ones, consent to this monk receiving the shared rain robe, if you agree remain silent, if not, speak up."
+
+「僧已忍拜某甲比丘分雨浴衣竟，僧忍默然故，是事如是持。」
+
+"The assembly has consented to the monk receiving the shared rain robe, the silent agreement indicates approval, thus this matter is upheld."
+
+作羯磨已，應眾僧中唱言：「諸大德，是中分物參差不同，相降四指八指，理不得計。」
+
+After the official act is completed, it should be proclaimed to the assembly: "Venerable ones, the sizes of the shared items are not uniform, with differences of four or eight fingers length, which should not be accounted for."
+
+若不唱者，得越毘尼罪。
+
+If this is not proclaimed, one incurs a transgression against the Vinaya.
+
+從四月一日得雨浴衣，從上座次第付得已，不聽裸浴。
+
+From April 1st, one may receive the rain robe in order of seniority but is not allowed to bathe naked.
+
+又不得著雨浴衣，應著餘故衣。
+
+Also, one must not wear the rain robe and should wear other old robes.
+
+若在屏處、若深水裸浴，無罪。
+
+If in a secluded place or deep water, bathing naked incurs no fault.
+
+不得著雨浴衣作、眾僧治堂舍作，及白灰作、泥作、覆屋作、通水溝抒井作，當著餘故衣。
+
+One must not wear the rain robe for construction work, temple repairs, lime, or mud work, roof repairs, or cleaning water channels and wells, other old robes should be used.
+
+是雨浴衣不得作三衣、不得淨施，不得餘用、持取薪草及盛巨磨，不得著入池水汪水中浴。
+
+This rain robe cannot be used as the three robes; it cannot be donated purely, nor used elsewhere, nor should it be worn while collecting wood and grass or carrying large grindstones, nor worn while entering ponds or deep water baths.
+
+大雨時得著，小小雨不得著。
+
+It may be worn in heavy rain but not in light rain.
+
+若大雨卒止垢膩未淨，得著入池水、汪水中浴。
+
+If heavy rain suddenly stops and dirt is not yet clean, one may wear it to bathe in pools or deep water.
+
+若比丘病服藥吐下、刺頭出血，及露地食時，得持作幔障。
+
+If a monk is sick after taking medicine, vomits or bleeds from the head, and during outdoor meals, it may be used as a canopy or shield.
+
+此雨浴衣四月半受用，至八月十五日，應僧中唱言：「諸大德！今日僧捨雨浴衣。」
+
+This rain robe can be used from mid-April until August 15th, after which it should be proclaimed in the assembly: "Venerable ones! Today, the robe is relinquished."
+
+如是三唱。
+
+Announce this three times.
+
+捨已得受持作三衣、若淨施、得作餘用。
+
+After relinquishment, it can then be used as the three robes, be given as a pure offering, or used for other purposes.
+
+是故說。
+
+Thus it is said
+
+
+佛住王舍城，廣說如上。
+The Buddha resided in Rājagṛha and spoke extensively as mentioned before.
+
+爾時諸比丘著留縷衣，諸外道亦著留縷衣。
+At that time, the monks wore clothes with threads hanging, and the non-Buddhists also wore such clothes.
+
+時優婆塞欲禮比丘，誤禮外道，聞呪願異知非比丘，即便慚愧。
+A lay follower wanted to bow to a monk but mistakenly bowed to a non-Buddhist, and upon hearing the difference in chants, realized the mistake and felt ashamed.
+
+時外道弟子欲禮外道，誤禮比丘，如是參錯。
+A non-Buddhist's disciple wanted to bow to a non-Buddhist but mistakenly bowed to a monk; thus, confusion occurred.
+
+諸比丘以是因緣往白世尊，佛言：「從今已後，比丘衣應截縷作淨、染作淨。」
+The monks reported this issue to the Blessed One, and the Buddha said, "From now on, monks' robes should be cut into pieces, made clean, and dyed."
+
+外道欲與比丘作異故，留朱羅赤石染衣，捉三奇杖持軍持。
+The non-Buddhists, wanting to differentiate themselves from the monks, kept clothes dyed with red Madder and carried three-pronged staffs.
+
+復次佛住舍衛城，曠野比丘得拘舍耶衣，欲染煮染汁，如上三種染衣色中說。
+Again, while the Buddha resided in Śrāvastī, a forest monk obtained a robe and wanted to boil dye juice, as mentioned in the above three types of dyeing colors.
+
+
+
+
+衛城毘舍離，比丘得欽婆羅，亦如上說。
+Furthermore, when the Buddha resided in the city of Śrāvastī, the monks received robes as described above.
+
+復次佛住舍衛城時，尊者孫陀羅難陀，是佛姨母子，有三十相。
+Furthermore, when the Buddha resided in the city of Śrāvastī, the Venerable Sundarananda, who was the son of the Buddha's maternal aunt, embodied thirty characteristics.
+
+食後從舍衛城出，阿難隨後，亦如上三色衣中說。
+After eating, he would leave the city of Śrāvastī, followed by Ananda, as mentioned above regarding the three-colored robes.
+
+復次佛住舍衛城，爾時尊者阿羅軍荼，效佛衣量作衣，著入舍衛城。
+Moreover, while the Buddha was residing in the city of Śrāvastī, the Venerable Arjuna endeavored to create robes in the style of the Buddha's robes, and then entered the city of Śrāvastī.
+
+是比丘身短，衣長曳地而行，為世人所譏：「沙門釋子曳衣而行。」
+This monk was short in stature, yet his robe dragged on the ground as he walked, causing people to ridicule him, saying: "The ascetic disciple of the Shakya drags his robe as he walks."
+
+又人呵言：「汝不知耶？瞿曇沙門衣非己父母作，敗復更得，是故如是。」
+Moreover, people rebuked him, saying: "Do you not know that the robes of the ascetic Gautama are not made by his parents, and when worn out, they can be replaced? Thus it is."
+
+諸比丘以是因緣往白世尊，佛言：「呼阿羅軍荼來。」
+The monks, hearing these circumstances, approached the World-Honored One. The Buddha said, "Call Arjuna to come."
+
+來已佛具問上事：「汝實爾不？」答言：「實爾。」
+After Arjuna arrived, the Buddha inquired about the matter, "Is it true?" Arjuna replied, "Indeed, it is."
+
+佛言：「從今日後，當隨自身量作衣。」
+The Buddha said, "From this day forth, you shall make robes according to the measure of your own body."
+
+佛告諸比丘：「依止舍衛城住者皆悉令集，以十利故與諸比丘制戒，乃至已聞者當重聞。」
+The Buddha instructed the monks, "All residing in the city of Śrāvastī, gather together. For the sake of ten benefits, I shall establish a rule for the monks, so that those who have heard it may hear again."
+
+若比丘效如來衣量作衣，若過量，截已，波夜提。
+If a monk makes a robe according to the measure of the Tathagata's robes and it exceeds the proper measure, it must be cut, and this is a pācittika (an offense requiring confession).
+
+如來衣量長九修伽陀搩手、廣六搩手，是名如來衣量。
+The measure of the Tathagata's robe is nine spans in length and six spans in width, and this is called the measure of the Tathagata's robe
+
+
+比丘者，如上說。
+A bhikshu, as explained above.
+
+
+
+
+如來衣量者，長九修伽陀搩手、廣六修伽陀搩手。
+The measurement of the Tathagata's robe is nine cubits in length and six cubits in width.
+
+長者，縱。
+Length refers to the vertical.
+
+廣者，橫。
+Width refers to the horizontal.
+
+
+
+
+修伽陀者，如來、應供、正遍知。
+He who recites a verse, is one who has reached final awakening, worthy of offerings, and completely enlightened.
+
+
+
+
+搩手者，如來搩手長二尺四寸。
+Regarding the folding of the hands, the Tathagata's folded hands are two feet four inches long.
+
+若過者。
+If it exceeds this length.
+
+截已，波夜提悔過；不截悔者，越毘尼罪。
+Then it must be cut and confession made to the Pratimoksha; if not cut and confessed, it is a breach of the Vinaya.
+
+
+
+
+波夜提者，如上說。
+The one who spreads the waves, as mentioned above.
+
+
+
+
+長應量、廣過量，若自作、若使人作，作成，波夜提。
+Longer than the appropriate length and wider than the appropriate width, if you make it yourself or have someone else make it, it is a defeated offense.
+
+受用，越毘尼罪。
+Using it incurs a Vinaya violation.
+
+廣應量、長過量，中應量、邊過量，邊應量、中過量，若屈量、縮量、水灑量，欲令乾已長大，若自作、若使人作，作成已，波夜提。
+Wider than the appropriate width and longer than the appropriate length, middle-size exceeding and edge-size exceeding, edge-size meeting middle-size, folded size, shrunk size, water sprinkled size intending for it to dry and expand, whether made by oneself or others, once made, it is a defeated offense.
+
+受用，越毘尼罪。
+Using it incurs a Vinaya violation.
+
+作時當減量，不得過量。
+When making, it should be reduced, not exceeding the proper measure.
+
+當隨自身量。
+It should follow one's own measurement.
+
+
+
+
+僧伽梨有三種：上、中、下。
+There are three types of Sanghati: upper, middle, and lower.
+
+上者，長五肘、廣三肘。
+The upper type is five cubits long and three cubits wide.
+
+中者，長五肘一不舒手、廣三肘一不舒手。
+The middle type is five cubits long without stretching the hand, and three cubits wide without stretching the hand.
+
+下者，長四肘半、廣三肘一不舒手。
+The lower type is four and a half cubits long and three cubits wide without stretching the hand.
+
+著衣時，緣相降二指作。
+When wearing the robe, the edge should be lowered by two fingers.
+
+欝多羅僧有三種：上、中、下。
+The Uttarasanga also has three types: upper, middle, and lower.
+
+上者長五肘，廣三肘。
+The upper type is five cubits long and three cubits wide.
+
+中者，長五肘一不舒手、廣三肘一不舒手。
+The middle type is five cubits long without stretching the hand, and three cubits wide without stretching the hand.
+
+下者，長四肘半、廣三肘一不舒手。
+The lower type is four and a half cubits long and three cubits wide without stretching the hand.
+
+作安陀會亦有三種：上、中、下。
+The Antara Vasaka also has three types: upper, middle, and lower.
+
+上者，長五肘、廣三肘。
+The upper type is five cubits long and three cubits wide.
+
+中者，長五肘一不舒手、廣三肘一不舒手。
+The middle type is five cubits long without stretching the hand, and three cubits wide without stretching the hand.
+
+下者，長四肘半、廣三肘一不舒手。
+The lower type is four and a half cubits long and three cubits wide without stretching the hand.
+
+下至覆三曼陀羅作泥洹僧。
+The lower type reaches to cover the Samandala, forming the Nirvana Sangha.
+
+是故說。
+Therefore it is said.
+
+
+
+摩訶僧祇律卷第二十
+The Mahāsāṃghika Vinaya, Scroll 20
+
+
+
+
